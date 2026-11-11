@@ -1,0 +1,1408 @@
+[
+  {
+    "id": "0023_00001",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「えっと……これは、こっちの方が良い……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Um... Do you think this one is better?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呃……这个放这边比较好……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呃……這個放這邊比較好……？」"
+    }
+  },
+  {
+    "id": "0023_00002",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「少しずつ配合を変えて、\nいろいろ試してみるのが一番だと思うけど……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I've been experimenting with a few different combinations, and I think this one is the best...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「看来还是一点点改变配比，\n多做尝试才好吧……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「看來還是一點點改變配比，\n多做嘗試才好吧……」"
+    }
+  },
+  {
+    "id": "0023_00003",
+    "ja": {
+      "name": null,
+      "text": "ファルナが冒険者風の服装で、\n忙しそうにキッチンを動き回っていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna is bustling around the kitchen, dressed up in an adventuring outfit."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜身穿冒险者的服装，\n正在厨房里忙来忙去。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜身穿冒險者的服裝，\n正在廚房裡忙來忙去。"
+    }
+  },
+  {
+    "id": "0023_00004",
+    "ja": {
+      "name": null,
+      "text": "森に住んでいると、\nいつでも生鮮食品を口にできるわけではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Living in the woods means we don't always have access to fresh produce."
+    },
+    "cn": {
+      "name": null,
+      "text": "居住在森林里，\n无法保证随时可以吃到新鲜的食物。"
+    },
+    "tw": {
+      "name": null,
+      "text": "居住在森林裡，\n無法保證隨時可以吃到新鮮的食物。"
+    }
+  },
+  {
+    "id": "0023_00005",
+    "ja": {
+      "name": null,
+      "text": "野草は摘んでくればすぐに手に入るが、\n肉に関しては確実に獲れるわけではないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Herbs and plants are available whenever you pick them, but it's not always possible to get fresh meat."
+    },
+    "cn": {
+      "name": null,
+      "text": "野菜确实随时可以采到，\n但动物的肉就没那么稳妥了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "野菜確實隨時可以採到，\n但動物的肉就沒那麼穩妥了。"
+    }
+  },
+  {
+    "id": "0023_00006",
+    "ja": {
+      "name": null,
+      "text": "そのため、\n塩漬けにしたり燻製にして、\n保存が効くようにする必要が出てくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Which is why it's oftentimes necessary to preserve meat by either salting or smoking it."
+    },
+    "cn": {
+      "name": null,
+      "text": "因此，必须用腌制或熏制的方法，\n延长其保存时间。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因此，必須用醃製或燻製的方法，\n延長其保存時間。"
+    }
+  },
+  {
+    "id": "0023_00007",
+    "ja": {
+      "name": null,
+      "text": "ファルナがしているのは、その作業の一環のようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna seems to be in the middle of doing just that."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜现在做的，就是其中一道工序。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜現在做的，就是其中一道工序。"
+    }
+  },
+  {
+    "id": "0023_00008",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナ、俺にも何か手伝わせてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Is there anything I can do to help, Farna?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜，让我也帮点忙吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜，讓我也幫點忙吧。」"
+    }
+  },
+  {
+    "id": "0023_00009",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ありがとうございます。\nですけど、ご主人様は大人しくしていてください」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I appreciate the offer, but what would really help me is for you to sit there and stay out of the way.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「多谢主人，\n但是，您还是老老实实地休息吧。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「多謝主人，\n但是，您還是老老實實地休息吧。」"
+    }
+  },
+  {
+    "id": "0023_00010",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ここは私一人でも問題ありませんから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I can handle this much by myself.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「这里有我一个人就足够了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「這裡有我一個人就足夠了。」"
+    }
+  },
+  {
+    "id": "0023_00011",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……そうか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"If you're sure...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……是吗。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……是嗎。」"
+    }
+  },
+  {
+    "id": "0023_00012",
+    "ja": {
+      "name": null,
+      "text": "断られてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I was shot down."
+    },
+    "cn": {
+      "name": null,
+      "text": "被她拒绝了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "被她拒絕了。"
+    }
+  },
+  {
+    "id": "0023_00013",
+    "ja": {
+      "name": null,
+      "text": "確かに、今の俺では足手まといになる可能性も高い。"
+    },
+    "en": {
+      "name": null,
+      "text": "To be fair, I'm more of a liability than anything in my present state."
+    },
+    "cn": {
+      "name": null,
+      "text": "确实，目前的我大概只会帮倒忙。"
+    },
+    "tw": {
+      "name": null,
+      "text": "確實，目前的我大概只會幫倒忙。"
+    }
+  },
+  {
+    "id": "0023_00014",
+    "ja": {
+      "name": null,
+      "text": "しかし、ファルナはいつもの調子にはほど遠い様子だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, she's acting very different from her usual self."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，法尔娜的状态似乎与平时相差甚远。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，法爾娜的狀態似乎與平時相差甚遠。"
+    }
+  },
+  {
+    "id": "0023_00015",
+    "ja": {
+      "name": null,
+      "text": "最近は気もそぞろなことも多く、\n少し心配だったりするのだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "She's been a little distracted lately, and I'm starting to get worried."
+    },
+    "cn": {
+      "name": null,
+      "text": "最近总是一副沉不住气的样子，\n让我不禁有点担心……"
+    },
+    "tw": {
+      "name": null,
+      "text": "最近總是一副沉不住氣的樣子，\n讓我不禁有點擔心……"
+    }
+  },
+  {
+    "id": "0023_00016",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あ……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Oh...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「啊……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「啊……」"
+    }
+  },
+  {
+    "id": "0023_00017",
+    "ja": {
+      "name": null,
+      "text": "手を滑らせて、\n塩を大量に床へとバラ撒いてしまうファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She loses her grip and salt falls all over the floor, covering it in small white crystals."
+    },
+    "cn": {
+      "name": null,
+      "text": "只见她手一滑，\n令大量的盐撒在了地上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只見她手一滑，\n令大量的鹽撒在了地上。"
+    }
+  },
+  {
+    "id": "0023_00018",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「た、大変ですっ。\n塩が──ひゃぁっっ！？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Oh, no! Shoot! The salt is—ack?!\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「不、不得了了，\n盐──呀啊！？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「不、不得了了，\n鹽──呀啊！？」"
+    }
+  },
+  {
+    "id": "0023_00019",
+    "ja": {
+      "name": null,
+      "text": "慌てて屈もうとして、\n今度はテーブルに置いてあったナイフや食器を\n落っことしてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Flustered, she starts to bend over and manages to knock all the cutlery off the kitchen table."
+    },
+    "cn": {
+      "name": null,
+      "text": "她连忙想要蹲下，\n结果却碰掉了放在桌上的刀与餐具。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她連忙想要蹲下，\n結果卻碰掉了放在桌上的刀與餐具。"
+    }
+  },
+  {
+    "id": "0023_00020",
+    "ja": {
+      "name": null,
+      "text": "普段ならば絶対にしないようなミスだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's unusual for her to make such careless mistakes."
+    },
+    "cn": {
+      "name": null,
+      "text": "若是平时的法尔娜，绝不会出现这种失误。"
+    },
+    "tw": {
+      "name": null,
+      "text": "若是平時的法爾娜，絕不會出現這種失誤。"
+    }
+  },
+  {
+    "id": "0023_00021",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……やっぱり手伝う。\nさすがに一人じゃ片づけるのも大変だろ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"It looks like you really need some help. Cleaning up three people's worth of mess is a lot for one person.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……还是让我帮你吧。\n靠你一个人，打扫起来也要花一番工夫吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……還是讓我幫妳吧。\n靠妳一個人，打掃起來也要花一番工夫吧？」"
+    }
+  },
+  {
+    "id": "0023_00022",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「うっ……申し訳ありません、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Ugh... I'm so very sorry, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呜……十分抱歉，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「嗚……十分抱歉，主人。」"
+    }
+  },
+  {
+    "id": "0023_00023",
+    "ja": {
+      "name": null,
+      "text": "時間をかければ一人でも問題はない。"
+    },
+    "en": {
+      "name": null,
+      "text": "One person could easily clean everything up, but it'd take a while."
+    },
+    "cn": {
+      "name": null,
+      "text": "只要花些时间，一个人其实也没问题。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只要花些時間，一個人其實也沒問題。"
+    }
+  },
+  {
+    "id": "0023_00024",
+    "ja": {
+      "name": null,
+      "text": "しかし保存食を作っている最中なため、\nあまり片付けに時間を取られたくはないだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "But since she's in the middle of preserving meat, she doesn't really have the luxury of time."
+    },
+    "cn": {
+      "name": null,
+      "text": "但因为正在对食物进行防腐加工，\n所以应该没办法在打扫上耗费太多时间。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但因為正在對食物進行防腐加工，\n所以應該沒辦法在打掃上耗費太多時間。"
+    }
+  },
+  {
+    "id": "0023_00025",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナがこんなミスをするなんて珍しいな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You don't usually make mistakes like this.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜竟然会犯这种错误，真是稀罕啊。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜竟然會犯這種錯誤，真是稀罕啊。」"
+    }
+  },
+  {
+    "id": "0023_00026",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「本当に申し訳ありません……。\n少し、ボーッとしていたようで」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I feel horrible about it... I guess I was spacing out and wasn't paying attention.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「真的非常抱歉……\n我好像有点心不在焉。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「真的非常抱歉……\n我好像有點心不在焉。」"
+    }
+  },
+  {
+    "id": "0023_00027",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ボーッと、か」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Spacing out...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「心不在焉……吗。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「心不在焉……嗎。」"
+    }
+  },
+  {
+    "id": "0023_00028",
+    "ja": {
+      "name": null,
+      "text": "先日街へ行ったときからこの調子だ。\nとなれば、あのときの鎧姿の男が原因なのだろうが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "She's been acting off ever since we went into town the other day. I wonder if it has something to do with that man in armor?"
+    },
+    "cn": {
+      "name": null,
+      "text": "自从几天前去了城里，她就一直是这幅样子。\n既然如此，应该是因为那个身穿盔甲的男人吧……"
+    },
+    "tw": {
+      "name": null,
+      "text": "自從幾天前去了城裡，她就一直是這幅樣子。\n既然如此，應該是因為那個身穿盔甲的男人吧……"
+    }
+  },
+  {
+    "id": "0023_00029",
+    "ja": {
+      "name": null,
+      "text": "アリーもファルナも、\n俺にそのことを話したくなさそうなんだよな。"
+    },
+    "en": {
+      "name": null,
+      "text": "Neither Allie nor Farna seem to want to talk to me about what happened."
+    },
+    "cn": {
+      "name": null,
+      "text": "对这件事，\n艾丽和法尔娜似乎都不太愿意谈及。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對這件事，\n艾麗和法爾娜似乎都不太願意談及。"
+    }
+  },
+  {
+    "id": "0023_00030",
+    "ja": {
+      "name": null,
+      "text": "無理矢理に聞き出すことはしておらず、\nなんだかモヤモヤした気分になってくる……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And since I don't want to force either of them to tell me, I'm left wondering what exactly is going on."
+    },
+    "cn": {
+      "name": null,
+      "text": "而我也没打算硬是问清楚，\n所以愈发有种闷在心里的感觉……"
+    },
+    "tw": {
+      "name": null,
+      "text": "而我也沒打算硬是問清楚，\n所以愈發有種悶在心裡的感覺……"
+    }
+  },
+  {
+    "id": "0023_00031",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「痛っ……！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Ow!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呃……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「呃……！？」"
+    }
+  },
+  {
+    "id": "0023_00032",
+    "ja": {
+      "name": null,
+      "text": "そんなことを考えながら落ちた物を拾っていると、\n不意に指に鋭い痛みが走り抜けた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Lost in thought as I bend down to pick something up from the floor, I feel something sharp stab my finger."
+    },
+    "cn": {
+      "name": null,
+      "text": "我一边寻思着这件事，一边收拾地上的东西，\n结果手指上突然传来了一阵锐利的痛楚。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我一邊尋思著這件事，一邊收拾地上的東西，\n結果手指上突然傳來了一陣銳利的痛楚。"
+    }
+  },
+  {
+    "id": "0023_00033",
+    "ja": {
+      "name": null,
+      "text": "慌てて手を引っ込めると、\n指から血が滴っているのが目に飛び込んでくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I hurriedly pull my hand back to see blood dripping from my fingertip."
+    },
+    "cn": {
+      "name": null,
+      "text": "我连忙缩回了手，\n只见手指上已经涌出了鲜血。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我連忙縮回了手，\n只見手指上已經湧出了鮮血。"
+    }
+  },
+  {
+    "id": "0023_00034",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「だ、大丈夫ですか！？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Are you okay?!\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「您、您没事吧！？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「您、您沒事吧！？」"
+    }
+  },
+  {
+    "id": "0023_00035",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ、大丈夫。\nナイフで指を切っただけだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Y-Yeah, I'm fine. I accidentally stabbed myself with one of the knives.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯，没什么，\n被刀划了一下手指而已。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯，沒什麼，\n被刀劃了一下手指而已。」"
+    }
+  },
+  {
+    "id": "0023_00036",
+    "ja": {
+      "name": null,
+      "text": "ファルナに気を取られて、\n俺までボーッとしてしまっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'd been so preoccupied with Farna's well-being that I spaced out myself."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为心思都在法尔娜身上，\n所以连我自己都有些心不在焉了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為心思都在法爾娜身上，\n所以連我自己都有些心不在焉了。"
+    }
+  },
+  {
+    "id": "0023_00037",
+    "ja": {
+      "name": null,
+      "text": "他人のことを言えないような失敗をしてしまい、\n決まりが悪くなってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I feel embarrassed, having made the same mistake I just warned Farna about."
+    },
+    "cn": {
+      "name": null,
+      "text": "犯下这种与她半斤八两的错误，\n令我不免有些难堪。"
+    },
+    "tw": {
+      "name": null,
+      "text": "犯下這種與她半斤八兩的錯誤，\n令我不免有些難堪。"
+    }
+  },
+  {
+    "id": "0023_00038",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様、指を見せてください！」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Show me your finger, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，让我看看手指！」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，讓我看看手指！」"
+    }
+  },
+  {
+    "id": "0023_00039",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はむっ……ん、ちゅっ……んぅぅ……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Ahm... Mm! *kiss*... Mmm...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「啊呜……嗯、啾……呃呜呜……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「啊嗚……嗯、啾……呃嗚嗚……」"
+    }
+  },
+  {
+    "id": "0023_00040",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0023_00041",
+    "ja": {
+      "name": null,
+      "text": "俺の手を取り、ファルナはためらいなく指を咥えていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Taking my hand in hers, she suddenly sucks my finger into her mouth."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜抓起我的手，毫不犹豫地含住了受伤的手指。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜抓起我的手，毫不猶豫地含住了受傷的手指。"
+    }
+  },
+  {
+    "id": "0023_00042",
+    "ja": {
+      "name": null,
+      "text": "しかも慌てていたせいか、\n腕がファルナの豊満な胸の膨らみに挟み込まれている。"
+    },
+    "en": {
+      "name": null,
+      "text": "And, due to her haste, I find my arm trapped between her voluptuous breasts."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且或许是由于慌张，\n还顺便把我的手臂夹在了她丰满的双乳之间。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且或許是由於慌張，\n還順便把我的手臂夾在了她豐滿的雙乳之間。"
+    }
+  },
+  {
+    "id": "0023_00043",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファ、ファルナ……？\n大丈夫だから、少し落ち着け」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"F-Farna? I promise I'm fine, so please don't worry about me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法、法尔娜……？\n我没事的，你冷静一点。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法、法爾娜……？\n我沒事的，妳冷靜一點。」"
+    }
+  },
+  {
+    "id": "0023_00044",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ちゅっ、れる……んっ、んぅ……ぷはっ。\nですが……ちゃんと消毒しませんと」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"*kiss*... *lick*... Mm! Mm... Fwah! But, Master... I have to clean the wound.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「啾、哧溜……呃、呃唔……噗哈。\n但是……要仔细消毒才行。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「啾、哧溜……呃、呃唔……噗哈。\n但是……要仔細消毒才行。」"
+    }
+  },
+  {
+    "id": "0023_00045",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それにご主人様が怪我をしたのは、\n私の責任ですから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Besides, it's all my fault that you hurt yourself in the first place.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「而且，主人之所以受伤，\n都是我的责任……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「而且，主人之所以受傷，\n都是我的責任……」"
+    }
+  },
+  {
+    "id": "0023_00046",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あのな……。\n怪我をしたのは俺自身の責任だ。\nファルナのせいじゃないだろ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I mean... it's honestly more mine. It had nothing to do with you, Farna.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「我说啊……\n我会受伤都是自己不小心，\n怎么能怪法尔娜呢。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「才怪啦……\n我會受傷都是自己不小心，\n怎麼能怪法爾娜呢。」"
+    }
+  },
+  {
+    "id": "0023_00047",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「先日街に行ってから、少しおかしいぞ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"But also, you've been acting weird ever since the day we went into town.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「自从前几天从城里回来，你就不太对劲哦？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「自從前幾天從城裡回來，妳就不太對勁哦？」"
+    }
+  },
+  {
+    "id": "0023_00048",
+    "ja": {
+      "name": null,
+      "text": "ファルナの頬を撫でるようにして、\n俯き気味な顔にそっと触れる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I stroke her cheek, gently caressing her face which is turned sadly down toward the ground."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，我伸出手，\n轻轻抚摸着法尔娜略微低垂的面庞。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，我伸出手，\n輕輕撫摸著法爾娜略微低垂的面龐。"
+    }
+  },
+  {
+    "id": "0023_00049",
+    "ja": {
+      "name": null,
+      "text": "自責の念に囚われているんだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Is she adrift in feelings of remorse and guilt?"
+    },
+    "cn": {
+      "name": null,
+      "text": "她是深陷在自责当中了吗？"
+    },
+    "tw": {
+      "name": null,
+      "text": "她是深陷在自責當中了嗎？"
+    }
+  },
+  {
+    "id": "0023_00050",
+    "ja": {
+      "name": null,
+      "text": "それとも他の理由からだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Or is it something else?"
+    },
+    "cn": {
+      "name": null,
+      "text": "还是说，有除此之外的理由？"
+    },
+    "tw": {
+      "name": null,
+      "text": "還是說，有除此之外的理由？"
+    }
+  },
+  {
+    "id": "0023_00051",
+    "ja": {
+      "name": null,
+      "text": "事情はわからないが、\nファルナの内心に何かがあったのは事実だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I don't know what exactly is going on, but it's clear that something is bothering her."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然不清楚其中的隐情，\n但法尔娜的心中，毫无疑问发生了某种变化。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然不清楚其中的隱情，\n但法爾娜的心中，毫無疑問發生了某種變化。"
+    }
+  },
+  {
+    "id": "0023_00052",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「何があったのか説明しろとは言わないが、\n無理はするなよ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You don't have to tell me if you don't want to, but please take care of yourself, okay?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「虽然我不会逼你道出事情的原委，\n但你也不要勉强自己哦？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「雖然我不會逼妳說出事情的原委，\n但妳也不要勉強自己哦？」"
+    }
+  },
+  {
+    "id": "0023_00053",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「辛ければ辛いって言っても良いし、\n休みたければ休みだってやるから」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"If you're in pain, then say so. If you need a break, then take one.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「要是觉得难受，就尽管直说，\n想休息的话，就随便休息也无妨。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「要是覺得難受，就儘管直說，\n想休息的話，就隨便休息也無妨。」"
+    }
+  },
+  {
+    "id": "0023_00054",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Master...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人……」"
+    }
+  },
+  {
+    "id": "0023_00055",
+    "ja": {
+      "name": null,
+      "text": "顔を上向かせ、ファルナは俺を真っ直ぐに見つめてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She lifts her face up, her eyes staring straight into mine."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜抬起头，直勾勾地凝视着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜抬起頭，直勾勾地凝視著我。"
+    }
+  },
+  {
+    "id": "0023_00056",
+    "ja": {
+      "name": null,
+      "text": "触れている手をそっと押さえ、\n頬ずりするように顔を擦りつけてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She gently squeezes my hand before nuzzling her cheek against my palm."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后轻轻按住我的手，\n颇为怜惜地在自己脸上摩挲着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後輕輕按住我的手，\n頗為憐惜地在自己臉上摩挲著。"
+    }
+  },
+  {
+    "id": "0023_00057",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うっ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚……」"
+    }
+  },
+  {
+    "id": "0023_00058",
+    "ja": {
+      "name": null,
+      "text": "どことなく嬉しそうな微笑みを間近に見て、\nドキリと心臓が高鳴った。"
+    },
+    "en": {
+      "name": null,
+      "text": "Seeing her smile of joy this close up makes my heart skip a beat."
+    },
+    "cn": {
+      "name": null,
+      "text": "近距离面对着她那欢喜的微笑，\n令我不禁有些怦然心动。"
+    },
+    "tw": {
+      "name": null,
+      "text": "近距離面對著她那歡喜的微笑，\n令我不禁有些怦然心動。"
+    }
+  },
+  {
+    "id": "0023_00059",
+    "ja": {
+      "name": null,
+      "text": "そういえば……俺はすっかりとファルナに対して隔意を\n感じなくなっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "In that moment, I realize the distance that had once kept us apart was gone."
+    },
+    "cn": {
+      "name": null,
+      "text": "这么说来……对于法尔娜，\n我似乎已经彻底卸下了心防。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這麼說來……對於法爾娜，\n我似乎已經徹底卸下了心防。"
+    }
+  },
+  {
+    "id": "0023_00060",
+    "ja": {
+      "name": null,
+      "text": "人間不信はどこへ行ってしまったのか、\nこうして触れていても嫌な感じはまったくない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Sharing this kind of connection doesn't fill me with dread, and I wonder when my distrust in humanity vanished."
+    },
+    "cn": {
+      "name": null,
+      "text": "之前还觉得自己已经不再信任他人，\n可现在，对这样的肌肤相亲却丝毫不会产生反感。"
+    },
+    "tw": {
+      "name": null,
+      "text": "之前還覺得自己已經不再信任他人，\n可現在，對這樣的肌膚相親卻絲毫不會產生反感。"
+    }
+  },
+  {
+    "id": "0023_00061",
+    "ja": {
+      "name": null,
+      "text": "ファルナに世話をして貰いながら生活をするのが、\n当然のことのように感じられていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Sharing my life with Farna and having her here with me seems as natural as breathing air."
+    },
+    "cn": {
+      "name": null,
+      "text": "在法尔娜的照料之下生活，\n已经变得有如理所当然一般。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在法爾娜的照料之下生活，\n已經變得有如理所當然一般。"
+    }
+  },
+  {
+    "id": "0023_00062",
+    "ja": {
+      "name": null,
+      "text": "マズいな……ファルナを手放したくないって気持ちが、\nいつの間にか大きくなっているぞ……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Crap... I realize that I don't want to let her go—a feeling that's only grown stronger over time."
+    },
+    "cn": {
+      "name": null,
+      "text": "这可不妙啊……不知不觉当中，\n对法尔娜的难以割舍之情，正在逐渐膨胀……"
+    },
+    "tw": {
+      "name": null,
+      "text": "這可不妙啊……不知不覺當中，\n對法爾娜的難以割捨之情，正在逐漸膨脹……"
+    }
+  },
+  {
+    "id": "0023_00063",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「んっ……ご主人様、夜はまだですよ……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Mm... It's not even close to nighttime yet, Master...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呃……主人，现在离夜晚还早哦……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呃……主人，現在離夜晚還早哦……？」"
+    }
+  },
+  {
+    "id": "0023_00064",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？\nうぁっ、ファルナ、何を……っ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?! Ack! Farna! What are you...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？\n法、法尔娜，你干嘛……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？\n法、法爾娜，妳幹嘛……！」"
+    }
+  },
+  {
+    "id": "0023_00065",
+    "ja": {
+      "name": null,
+      "text": "ファルナと見つめ合っていると、\n不意に股間を撫でられてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "As she looks me in the eye, she suddenly begins rubbing my crotch."
+    },
+    "cn": {
+      "name": null,
+      "text": "我们相互凝视了一阵子，\n法尔娜突然开始抚摸我的胯下。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我們相互凝視了一陣子，\n法爾娜突然開始撫摸我的胯下。"
+    }
+  },
+  {
+    "id": "0023_00066",
+    "ja": {
+      "name": null,
+      "text": "指を舐められたからなのか、\n股間が反応してピクリと動き始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "My cock begins twitching and throbbing in response, probably due to her licking my finger earlier."
+    },
+    "cn": {
+      "name": null,
+      "text": "或许是因为手指正被她舔舐，\n令下半身也紧随着蠢动了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "或許是因為手指正被她舔舐，\n令下半身也緊隨著蠢動了起來。"
+    }
+  },
+  {
+    "id": "0023_00067",
+    "ja": {
+      "name": null,
+      "text": "しかも、ファルナは顔を赤らめながら、\n胸を俺へと強く押しつけてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "With her cheeks bright red, she presses her breasts harder against my body."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且，法尔娜还一边羞红着脸，\n一边进一步将胸部向我压了过来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且，法爾娜還一邊羞紅著臉，\n一邊進一步將胸部向我壓了過來。"
+    }
+  },
+  {
+    "id": "0023_00068",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様。このまま……してしまいますか……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Why don't we have sex right now, Master?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，是否要这样……继续下去呢……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，是否要這樣……繼續下去呢……？」"
+    }
+  },
+  {
+    "id": "0023_00069",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はしたないことを言っているのはわかってますが、\n私も、その……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I know what I'm saying is dirty and wrong, but I... it's just...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「虽然说出这种话，确实有些不知羞耻，\n但其实，我也……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「雖然說出這種話，確實有些不知羞恥，\n但其實，我也……」"
+    }
+  },
+  {
+    "id": "0023_00070",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！」"
+    }
+  },
+  {
+    "id": "0023_00071",
+    "ja": {
+      "name": null,
+      "text": "ファルナが、\n先程まで舐めていた俺の手を自分の股間へと導いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna guides my hand, the same one she'd licked earlier, toward her own crotch."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，法尔娜将刚刚舔的那只手挪向了自己的私处。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，法爾娜將剛剛舔的那隻手挪向了自己的私處。"
+    }
+  },
+  {
+    "id": "0023_00072",
+    "ja": {
+      "name": null,
+      "text": "そこはすでに湿り気を帯びており、\nその事実に俺は生唾を飲み込んでしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I gulp nervously as I realize her pussy is already soaking wet."
+    },
+    "cn": {
+      "name": null,
+      "text": "那里已经泛起了阵阵湿气。\n这样的事实，令我不禁吞下了一口唾沫。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那裡已經泛起了陣陣濕氣。\n這樣的事實，令我不禁吞下了一口唾沫。"
+    }
+  },
+  {
+    "id": "0023_00073",
+    "ja": {
+      "name": null,
+      "text": "このように誘われることに、俺にも戸惑いはある。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm at a loss in the face of such a blatant proposition."
+    },
+    "cn": {
+      "name": null,
+      "text": "对于如此主动的诱惑，我确实有些不知所措。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對於如此主動的誘惑，我確實有些不知所措。"
+    }
+  },
+  {
+    "id": "0023_00074",
+    "ja": {
+      "name": null,
+      "text": "だが、込み上げて来た興奮が、\n俺に断るという選択肢を選ばせてくれない。"
+    },
+    "en": {
+      "name": null,
+      "text": "But the arousal that's been building steadily inside me makes it impossible for me to say no."
+    },
+    "cn": {
+      "name": null,
+      "text": "但汹涌而至的兴奋之情，\n实在令我无法在这种情况下选择拒绝。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但洶湧而至的興奮之情，\n實在令我無法在這種情況下選擇拒絕。"
+    }
+  }
+]

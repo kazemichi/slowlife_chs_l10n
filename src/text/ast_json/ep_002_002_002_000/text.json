@@ -1,0 +1,287 @@
+[
+  {
+    "id": "0015_00001",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はぁ……大工仕事というのも難しいのだな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"*sigh*... This woodworking stuff is hard...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈啊……木匠活还真是困难啊……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈啊……木工還真是困難啊……」"
+    }
+  },
+  {
+    "id": "0015_00002",
+    "ja": {
+      "name": null,
+      "text": "身繕いを終え、\nバラバラになった椅子の残がいを片づけながらアリーは\n肩を落とした。"
+    },
+    "en": {
+      "name": null,
+      "text": "After getting dressed, Allie begins sadly collecting all the pieces of her broken chair, shoulders slumped."
+    },
+    "cn": {
+      "name": null,
+      "text": "整理好仪容之后，\n艾丽一边收拾椅子的残骸，一边垂着肩膀。"
+    },
+    "tw": {
+      "name": null,
+      "text": "整理好儀容之後，\n艾麗一邊收拾椅子的殘骸，一邊垂著肩膀。"
+    }
+  },
+  {
+    "id": "0015_00003",
+    "ja": {
+      "name": null,
+      "text": "先程までの性欲解消についてはともあれ、\n壊れた椅子のことだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The chair that had directly led to enthusiastic sexual escapades."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然顺便为我纾解起了性欲，\n但椅子才是正事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然順便為我紓解起了性慾，\n但椅子才是正事。"
+    }
+  },
+  {
+    "id": "0015_00004",
+    "ja": {
+      "name": null,
+      "text": "怪我こそなかったが、\n座った途端に壊れてしまったため、\n作ったアリーが落ち込むのも無理はない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though I hadn't gotten hurt, the chair broke underneath me as soon as I sat down, so it's no wonder she's depressed."
+    },
+    "cn": {
+      "name": null,
+      "text": "尽管我没有受伤，\n但刚一坐下就立刻坏掉，\n身为制作者，艾丽难免感到失望。"
+    },
+    "tw": {
+      "name": null,
+      "text": "儘管我沒有受傷，\n但剛一坐下就立刻壞掉，\n身為製作者，艾麗難免感到失望。"
+    }
+  },
+  {
+    "id": "0015_00005",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「でも、アリーの気持ちは嬉しかったぞ？\n俺のためにしてくれたんだから」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Regardless of how it turned out, I still appreciate the thought, Allie. Because I know you made it for me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「但是，艾丽的心意令我很高兴哦？\n毕竟是为了我，才特意做的嘛。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「但是，艾麗的心意令我很高興哦？\n畢竟是為了我，才特意做的嘛。」"
+    }
+  },
+  {
+    "id": "0015_00006",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Sir...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人……」"
+    }
+  },
+  {
+    "id": "0015_00007",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「次の機会があれば、\nもっと頑丈なのをお願いしたいけどな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"But maybe next time, you can try and make a sturdier version.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不过若是再有机会，\n还是请你做一把更结实的吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不過若是再有機會，\n還是請做一把更結實的吧。」"
+    }
+  },
+  {
+    "id": "0015_00008",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そのときは俺も協力するから、一緒に作ろう」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"We can make it together, okay?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「到时候我也会帮忙的，两个人一起做吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「到時候我也會幫忙的，兩個人一起做吧。」"
+    }
+  },
+  {
+    "id": "0015_00009",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……っ、そ、そうだな！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...! O-Okay!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……！是、是啊！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……！是、是啊！」"
+    }
+  },
+  {
+    "id": "0015_00010",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人と一緒なら、\n城に献上されるような物も作れそうな\n気がしてきたぞ！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"With your help, I know we could make a throne fit for a king!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「若是跟主人一起，\n感觉甚至做得出足以进贡给王城的好作品！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「若是跟主人一起，\n感覺甚至做得出足以進貢給王城的好作品！」"
+    }
+  },
+  {
+    "id": "0015_00011",
+    "ja": {
+      "name": null,
+      "text": "さすがにそれは無理だと思うが……\nそれでも元気が戻って来たようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Well, that's going a little overboard... but I'm glad she's back to her usual cheerful self."
+    },
+    "cn": {
+      "name": null,
+      "text": "再怎么说也不可能吧……\n不过，看来她又恢复了精神。"
+    },
+    "tw": {
+      "name": null,
+      "text": "再怎麼說也不可能吧……\n不過，看來她又恢復了精神。"
+    }
+  },
+  {
+    "id": "0015_00012",
+    "ja": {
+      "name": null,
+      "text": "肩を落とした動きから一転して、\n元気に残がいを拾い集める。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having done a complete 180 from her forlorn state, she continues happily picking up the pieces."
+    },
+    "cn": {
+      "name": null,
+      "text": "她收起了垂头丧气的态度，\n提起精神开始收拾残骸。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她收起了垂頭喪氣的態度，\n提起精神開始收拾殘骸。"
+    }
+  },
+  {
+    "id": "0015_00013",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ふふっ、\n次はもう少し簡単な物にチャレンジするのは\nどうだろう？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hehe, maybe I should try something a little easier for my next project.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呵呵，\n下次就先挑战更简单的东西如何？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呵呵，\n下次就先挑戰更簡單的東西如何？」"
+    }
+  },
+  {
+    "id": "0015_00014",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「物作りのためにあれこれ考えるのも、\n案外楽しいのだな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Thinking up woodworking projects is more fun than I thought it would be.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「为了做手艺活而不断开动脑筋，\n没想到还挺开心的。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「為了做手藝活而不斷開動腦筋，\n沒想到還挺開心的。」"
+    }
+  },
+  {
+    "id": "0015_00015",
+    "ja": {
+      "name": null,
+      "text": "そんな感じで、\n俺はアリーと一緒に一日を過ごすのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "We spend the rest of the day together, just like that."
+    },
+    "cn": {
+      "name": null,
+      "text": "就这样，\n我和艾丽共度了这一天。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就這樣，\n我和艾麗共度了這一天。"
+    }
+  }
+]

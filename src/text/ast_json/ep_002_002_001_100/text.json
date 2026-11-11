@@ -1,0 +1,2985 @@
+[
+  {
+    "id": "0014_00001",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「いつつ……主人、大丈夫か？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Ow-ow-ow... Are you okay, Sir?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「好痛……主人，你没事吧？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「好痛……主人，你沒事吧？」"
+    }
+  },
+  {
+    "id": "0014_00002",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「すまない。まさか、\nこんな簡単に壊れるとは思わなかったんだ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'm so sorry... I really didn't think it would break apart that easily...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「真对不起，没想到会如此轻易地坏掉……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「真對不起，沒想到會如此輕易地壞掉……」"
+    }
+  },
+  {
+    "id": "0014_00003",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「い、いや、それは構わない。\n俺が逃げ遅れただけだしな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"D-Don't worry. I didn't realize what was happening until it was too late.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不、不，那倒没什么关系，\n只是我躲得太晚了而已。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不、不，那倒沒什麼關係，\n只是我躲得太晚了而已。」"
+    }
+  },
+  {
+    "id": "0014_00004",
+    "ja": {
+      "name": null,
+      "text": "椅子のことは、ただの不幸だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The chair's demise is nothing more than an accident."
+    },
+    "cn": {
+      "name": null,
+      "text": "椅子的事，只是运气不好罢了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "椅子的事，只是運氣不好罷了。"
+    }
+  },
+  {
+    "id": "0014_00005",
+    "ja": {
+      "name": null,
+      "text": "俺もここまで簡単に壊れるとは思わなかったし、\nヤバいと思ったときにはすでに遅かった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I honestly didn't think it would break that easily, either, I didn't figure out what was going on in time."
+    },
+    "cn": {
+      "name": null,
+      "text": "我也没料到会如此轻易地毁掉，\n发觉不妙时已经来不及了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我也沒料到會如此輕易地毀掉，\n發覺不妙時已經來不及了。"
+    }
+  },
+  {
+    "id": "0014_00006",
+    "ja": {
+      "name": null,
+      "text": "体が万全なら逃げられたと思うが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I could have jumped away if I was in better shape..."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果身体无恙，应该能躲得掉吧……"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果身體無恙，應該能躲得掉吧……"
+    }
+  },
+  {
+    "id": "0014_00007",
+    "ja": {
+      "name": null,
+      "text": "あぁ、それはそれとして、だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But it is what it is, as they say."
+    },
+    "cn": {
+      "name": null,
+      "text": "不过，这个就暂且不提了吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不過，這個就暫且不提了吧。"
+    }
+  },
+  {
+    "id": "0014_00008",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0014_00009",
+    "ja": {
+      "name": null,
+      "text": "俺を助けようと腕を掴んでいたからか、\nアリーが俺の下半身に覆い被さるようにして\n密着していた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie is now lying on top of my lower body, having reached down at the worst possible moment to try and pull me up."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为想要把我拉住，\n所以现在艾丽正覆盖着我的下半身，\n与我紧贴在一起。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為想要把我拉住，\n所以現在艾麗正覆蓋著我的下半身，\n與我緊貼在一起。"
+    }
+  },
+  {
+    "id": "0014_00010",
+    "ja": {
+      "name": null,
+      "text": "ぽよんっと弾むような柔らかい乳房が、\n俺の股間に強く押しつけられる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can feel her incredibly soft yet firm breasts pressed against my crotch."
+    },
+    "cn": {
+      "name": null,
+      "text": "富有弹力的柔软乳房，\n也正紧紧地压着我的胯下。"
+    },
+    "tw": {
+      "name": null,
+      "text": "富有彈力的柔軟乳房，\n也正緊緊地壓著我的胯下。"
+    }
+  },
+  {
+    "id": "0014_00011",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「くっ……ま、まずい……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm... Oh, crap...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「啧……糟、糟了……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嘖……糟、糟了……！」"
+    }
+  },
+  {
+    "id": "0014_00012",
+    "ja": {
+      "name": null,
+      "text": "思った以上に、アリーと密着してしまっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm suddenly much closer to Allie than I was expecting."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来，我和艾丽已经贴近得有点过头了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來，我和艾麗已經貼近得有點過頭了。"
+    }
+  },
+  {
+    "id": "0014_00013",
+    "ja": {
+      "name": null,
+      "text": "ほのかに香ってくるアリーの良い香りと、\n嫌でも俺を刺激してくる乳房の感触。"
+    },
+    "en": {
+      "name": null,
+      "text": "The scent of her body, just a hint on the breeze, and the feeling of her breasts pressed against me..."
+    },
+    "cn": {
+      "name": null,
+      "text": "从艾丽身上飘出了淡淡的香气，\n还有乳房的感触，也正为我带来避无可避的刺激。"
+    },
+    "tw": {
+      "name": null,
+      "text": "從艾麗身上飄出了淡淡的香氣，\n還有乳房的感觸，也正為我帶來避無可避的刺激。"
+    }
+  },
+  {
+    "id": "0014_00014",
+    "ja": {
+      "name": null,
+      "text": "それを意識してしまった途端、\n俺は自分の股間に血が流れ込んでいくのを\n自覚してしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The moment I notice, blood immediately rushes into my crotch and straight to my cock."
+    },
+    "cn": {
+      "name": null,
+      "text": "意识到这些的瞬间，\n明显可以感觉到血液正涌向自己的下半身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "意識到這些的瞬間，\n明顯可以感覺到血液正湧向自己的下半身。"
+    }
+  },
+  {
+    "id": "0014_00015",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「あ、あの、主人？　その……おっぱいに、\n固いのが当たっているのだが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"U-Um, Sir? I-I can feel something hard pressing against my breasts...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「那、那个，主人？呃……\n好像有个硬硬的东西，正顶着我的胸部……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「那、那個，主人？呃……\n好像有個硬硬的東西，正頂著我的胸部……」"
+    }
+  },
+  {
+    "id": "0014_00016",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ズボンも、辛そうな感じで膨れているし……\nしたくなった、のか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"There seems to be a fairly painful bulge in your pants... Are you in the mood?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「裤子也膨胀得像是很难受的样子……\n莫非是……想要了……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「褲子也膨脹得像是很難受的樣子……\n莫非是……想要了……？」"
+    }
+  },
+  {
+    "id": "0014_00017",
+    "ja": {
+      "name": null,
+      "text": "上目遣いで見つめてくるアリーは、\nほんのりと頬を恥ずかしげに染めていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She looks up at me shyly, a faint blush spreading across her cheeks."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽抬起目光凝视着我，\n脸颊正因羞涩而渐渐泛红。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗抬起目光凝視著我，\n臉頰正因羞澀而漸漸泛紅。"
+    }
+  },
+  {
+    "id": "0014_00018",
+    "ja": {
+      "name": null,
+      "text": "それでも、すでに破瓜も済ませて\nそれなりの経験を積んでいるからだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having lost her virginity already, I would say she's fairly experienced by now."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使如此……\n或许是因为已经破处，并积累了一定经验吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使如此……\n或許是因為已經破處，並積累了一定經驗吧。"
+    }
+  },
+  {
+    "id": "0014_00019",
+    "ja": {
+      "name": null,
+      "text": "取り乱すことはなく、\nうかがうようにして上目遣いで俺を見つめてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Instead of looking distraught, she seems to be watching me expectantly."
+    },
+    "cn": {
+      "name": null,
+      "text": "她并没有为此慌乱，\n而是用娇柔的眼神打探着我的意愿。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她並沒有為此慌亂，\n而是用嬌柔的眼神打探著我的意願。"
+    }
+  },
+  {
+    "id": "0014_00020",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「えっと……す、すまない。つい……な」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Um... S-Sorry about that. It just happened...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呃……抱、抱歉，一不小心……就……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「呃……抱、抱歉，一不小心……就……」"
+    }
+  },
+  {
+    "id": "0014_00021",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そう、か。しかたない人だな、主人は」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Oh, okay... So you don't want to do it, then?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是……吗。真是拿你没办法啊，主人。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是……嗎。真是拿你沒辦法啊，主人。」"
+    }
+  },
+  {
+    "id": "0014_00022",
+    "ja": {
+      "name": null,
+      "text": "思わず謝る俺を見て、アリーは頬を緩めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She looks slightly disappointed at my apology."
+    },
+    "cn": {
+      "name": null,
+      "text": "见我不由自主地道了歉，艾丽稍稍露出了笑容。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見我不由自主地道了歉，艾麗稍稍露出了笑容。"
+    }
+  },
+  {
+    "id": "0014_00023",
+    "ja": {
+      "name": null,
+      "text": "まだ恥ずかしそうにしつつも、\nむぎゅっと乳房をさらに押しつけるように\n体を寄せてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still acting bashful, she leans forward, rubbing her large breasts harder against my body."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然仍留有几分羞涩，\n但她反而越凑越近，用乳房压迫着我的身体。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然仍留有幾分羞澀，\n但她反而越湊越近，用乳房壓迫著我的身體。"
+    }
+  },
+  {
+    "id": "0014_00024",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ア、アリー？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"A-Allie...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「艾、艾丽？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「艾、艾麗？」"
+    }
+  },
+  {
+    "id": "0014_00025",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「だが……主人、\nそんなに申し訳なく思う必要はないのだぞ？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"There's no need for you to be sorry about anything, Sir.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「但是……主人，\n你没有必要为此感到抱歉哦？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「但是……主人，\n你沒有必要為此感到抱歉哦？」"
+    }
+  },
+  {
+    "id": "0014_00026",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わたしともファルナとも、\nすでに何度もこういうことをしているのだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I mean, you've already had sex with both me and Farna countless times, right?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「我和法尔娜，\n对此都有过很多次经验了。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「我和法爾娜，\n對此都有過很多次經驗了。」"
+    }
+  },
+  {
+    "id": "0014_00027",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「驚きはしたが……\nその、わ、わたしは別に、嫌でもないしな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I was surprised at first, but... um... I'm not opposed to it.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「虽然有点受惊……\n但是，我、我其实也并不觉得反感啦。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「雖然有點受驚……\n但是，我、我其實也並不覺得反感啦。」"
+    }
+  },
+  {
+    "id": "0014_00028",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うっ……く……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Huh... Mm...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「唔……呃……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「唔……呃……！」"
+    }
+  },
+  {
+    "id": "0014_00029",
+    "ja": {
+      "name": null,
+      "text": "アリーが、軽く勃起したペニスを\nズボン越しに撫でてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie begins lightly rubbing my hard cock through my pants."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽伸出手，\n隔着裤子开始轻轻抚摸勃起的阴茎。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗伸出手，\n隔著褲子開始輕輕撫摸勃起的陰莖。"
+    }
+  },
+  {
+    "id": "0014_00030",
+    "ja": {
+      "name": null,
+      "text": "その感触でますます股間はいきり立ち、\nペニスはピクピクとズボンの中で震えていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "The sensation only causes my cock to grow harder, jerking and throbbing in my pants."
+    },
+    "cn": {
+      "name": null,
+      "text": "在这样的刺激下，下半身开始加倍耸立，\n在裤子里一抖一抖地抽搐个不停。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在這樣的刺激下，下半身開始加倍聳立，\n在褲子裡一抖一抖地抽搐個不停。"
+    }
+  },
+  {
+    "id": "0014_00031",
+    "ja": {
+      "name": null,
+      "text": "窮屈なズボンの中では、さすがに苦しい状態だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's pretty painful, considering how tight my pants are."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为空间太小，所以实在是难受得很。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為空間太小，所以實在是難受得很。"
+    }
+  },
+  {
+    "id": "0014_00032",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリー、それはマズい……っ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Allie, you're only making it worse...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「艾丽，这么下去不妙……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「艾麗，這麼下去不妙……！」"
+    }
+  },
+  {
+    "id": "0014_00033",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「うむ。奴隷としては、\n主人に粗相をした責任を取らなければいけない\nと思って……だな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"As your slave, I have to take responsibility for being so careless and causing you to get hurt... Right?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯，我想自己身为奴隶，\n既然对主人做出了冒犯之举，\n就必须负起相应的责任……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯，我想自己身為奴隸，\n既然對主人做出了冒犯之舉，\n就必須負起相應的責任……」"
+    }
+  },
+  {
+    "id": "0014_00034",
+    "ja": {
+      "name": null,
+      "text": "奴隷として……か？"
+    },
+    "en": {
+      "name": null,
+      "text": "As my slave...?"
+    },
+    "cn": {
+      "name": null,
+      "text": "身为奴隶……么？"
+    },
+    "tw": {
+      "name": null,
+      "text": "身為奴隸……嗎？"
+    }
+  },
+  {
+    "id": "0014_00035",
+    "ja": {
+      "name": null,
+      "text": "いや、違う。アリーの目が、\nどこか期待するように輝いている。"
+    },
+    "en": {
+      "name": null,
+      "text": "No, that's not what's going on here. I can see her eyes subtly sparkling with excitement."
+    },
+    "cn": {
+      "name": null,
+      "text": "不，艾丽的眼中，\n似乎隐隐闪烁着些许期待。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不，艾麗的眼中，\n似乎隱隱閃爍著些許期待。"
+    }
+  },
+  {
+    "id": "0014_00036",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……そんなことを言って、\n自分がしたいだけじゃないのか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You say that, but I think you're the one who's really in the mood. Am I right?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……嘴上这么说，\n其实只是自己想要而已吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……嘴上這麼說，\n其實只是自己想要而已吧？」"
+    }
+  },
+  {
+    "id": "0014_00037",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、そんなことはないぞ？　とにかく、\n主人も大きいままだと落ち着かないだろう？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"O-Of course not! At any rate, there's no way you're going to be able to relax unless I calm you down.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「没、没这回事哦？总之，\n膨胀到这个程度，如果放任不管，\n主人肯定也不好受吧？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「沒、沒這回事哦？總之，\n膨脹到這個程度，如果放任不管，\n主人肯定也不好受吧？」"
+    }
+  },
+  {
+    "id": "0014_00038",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「全部、わたしに任せてくれっ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Just leave everything to me!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「所以，就全都交给我吧！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「所以，就全都交給我吧！」"
+    }
+  },
+  {
+    "id": "0014_00039",
+    "ja": {
+      "name": null,
+      "text": "俺のツッコミに誤魔化すように目を泳がせるアリー。"
+    },
+    "en": {
+      "name": null,
+      "text": "She averts her gaze, leaving me no chance to interject."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽对我的指摘避而不谈，并躲开了视线。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗對我的指摘避而不談，並躲開了視線。"
+    }
+  },
+  {
+    "id": "0014_00040",
+    "ja": {
+      "name": null,
+      "text": "そして、それ以上は言わすまいとするかのように、\nズボンの中からペニスを取り出し始めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Then, in an effort to cut off any further objections, she reaches into my pants and pulls my cock out."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，像是要阻止我继续发言一般，\n开始将阴茎从裤子里往外掏。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，像是要阻止我繼續發言一般，\n開始將陰莖從褲子裡往外掏。"
+    }
+  },
+  {
+    "id": "0014_00041",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……っ、す、すごく、\nカチンコチンになっているのだな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...! W-Wow, it's really hard.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……！\n好、好厉害，已经硬邦邦的了。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……！\n好、好厲害，已經硬邦邦的了。」"
+    }
+  },
+  {
+    "id": "0014_00042",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それに熱くて……触れているだけで、\n火傷してしまいそう、だ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"And so hot... I feel like I might get burned just by touching it...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「而且还这么热……光是摸一下，\n似乎都会烫伤……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「而且還這麼熱……光是摸一下，\n似乎都會燙傷……」"
+    }
+  },
+  {
+    "id": "0014_00043",
+    "ja": {
+      "name": null,
+      "text": "目の前に飛び出したペニスを見て、\nアリーが息を飲んだのがわかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "She gasps in admiration at the sight of my cock springing forth in all its glory."
+    },
+    "cn": {
+      "name": null,
+      "text": "看到跃出内裤的阴茎，\n艾丽不禁倒吸了一口气。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看到躍出內褲的陰莖，\n艾麗不禁倒吸了一口氣。"
+    }
+  },
+  {
+    "id": "0014_00044",
+    "ja": {
+      "name": null,
+      "text": "恥ずかしげに頬を赤らめ、\n今度は自分の服をはだけて乳房を露わにする。"
+    },
+    "en": {
+      "name": null,
+      "text": "She blushes a deep red before she pulls down her top, exposing her breasts."
+    },
+    "cn": {
+      "name": null,
+      "text": "她一边羞得满脸通红，\n一边从衣服里掏出了自己的双乳。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她一邊羞得滿臉通紅，\n一邊從衣服裡掏出了自己的雙乳。"
+    }
+  },
+  {
+    "id": "0014_00045",
+    "ja": {
+      "name": null,
+      "text": "かと思いきや、\nいきなりペニスを胸の谷間に挟み込んできた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Then, before I can do anything, she shoves my cock into the valley between them."
+    },
+    "cn": {
+      "name": null,
+      "text": "我还来不及反应，\n她就突然将阴茎夹在了胸前的深谷当中。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我還來不及反應，\n她就突然將陰莖夾在了胸前的深谷當中。"
+    }
+  },
+  {
+    "id": "0014_00046",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うっ……くぅぅっ、ア、アリー！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Aah... Mmm! A-Allie?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜……咕呜呜，艾、艾丽！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚……咕嗚嗚，艾、艾麗！？」"
+    }
+  },
+  {
+    "id": "0014_00047",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃっ……んぅっ、動かないでくれ、主人」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Eep... Mmm! Don't squirm around, sir.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「咿呀……呃呜，你不要乱动，主人。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「咿呀……呃嗚，你不要亂動，主人。」"
+    }
+  },
+  {
+    "id": "0014_00048",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「椅子が壊れて落ちたことで、\n腰を痛めたのではないか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'm sure your hips must hurt after your fall from the chair...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「椅子散架，摔在地上时，\n有没有伤到腰啊……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「椅子散架，摔在地上時，\n有沒有傷到腰啊……？」"
+    }
+  },
+  {
+    "id": "0014_00049",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それは……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Well...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「这……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「這……」"
+    }
+  },
+  {
+    "id": "0014_00050",
+    "ja": {
+      "name": null,
+      "text": "言われてみれば、じんわりと腰が痛むような気がする。"
+    },
+    "en": {
+      "name": null,
+      "text": "To be honest, the pain in my back is gradually getting worse."
+    },
+    "cn": {
+      "name": null,
+      "text": "这么说来，腰部确实微微有点疼。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這麼說來，腰部確實微微有點疼。"
+    }
+  },
+  {
+    "id": "0014_00051",
+    "ja": {
+      "name": null,
+      "text": "同時に、まだ怪我が治りきっていないこともあり、\n四肢も同じように痛み始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "At the same time, since my injuries are still not fully healed yet, the usual aches and pains are beginning to cry out louder than usual."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且，因为尚未完全康复，\n就连四肢也一起疼了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且，因為尚未完全康復，\n就連四肢也一起疼了起來。"
+    }
+  },
+  {
+    "id": "0014_00052",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んっ……はぁ……。\nならば、主人は無理をしないでくれ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm... Haah... So you really need to just relax and stop moving around so much...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃……哈啊……\n那么，主人就请不要勉强了……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃……哈啊……\n那麼，主人就請不要勉強了……」"
+    }
+  },
+  {
+    "id": "0014_00053",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、それに、\n主人はわたしのおっぱいが好きなのだろう……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"B-Besides, I know how much you love my breasts... right?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「而、而且，\n主人不是很喜欢我的胸吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「而、而且，\n主人不是很喜歡我的胸嗎……？」"
+    }
+  },
+  {
+    "id": "0014_00054",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そんなことはないと思うが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"That's not necessarily true...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「我倒是没觉得啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「我倒是沒覺得啊……」"
+    }
+  },
+  {
+    "id": "0014_00055",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「だが、オチ○チンが\nこんなに気持ち良さそうにピクピクしてるぞ……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"The way your cock's throbbing, I think it is...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「但是，你的肉棒一抖一抖的，\n看上去似乎很舒服哦……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「但是，你的肉棒一抖一抖的，\n看上去似乎很舒服哦……？」"
+    }
+  },
+  {
+    "id": "0014_00056",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うっ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Ugh...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚……」"
+    }
+  },
+  {
+    "id": "0014_00057",
+    "ja": {
+      "name": null,
+      "text": "とても大きなアリーの乳房に、\nペニスが完全に埋まってしまっている。"
+    },
+    "en": {
+      "name": null,
+      "text": "The entire length of my cock is buried in between Allie's giant breasts."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽用硕大的乳房，\n将阴茎完全压在了下面。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗用碩大的乳房，\n將陰莖完全壓在了下面。"
+    }
+  },
+  {
+    "id": "0014_00058",
+    "ja": {
+      "name": null,
+      "text": "左右から圧迫され、\n柔らかな膨らみで包み込むように撫で回される。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's cushioned between two pillowy soft cushions, enveloping it in pleasurable pressure."
+    },
+    "cn": {
+      "name": null,
+      "text": "柔软的隆起物从左右双方，\n带来了无微不至的包容感。"
+    },
+    "tw": {
+      "name": null,
+      "text": "柔軟的隆起物從左右雙方，\n帶來了無微不至的包容感。"
+    }
+  },
+  {
+    "id": "0014_00059",
+    "ja": {
+      "name": null,
+      "text": "その感触は、すぐに堪らなくなりそうなくらい\n気持ち良かった。"
+    },
+    "en": {
+      "name": null,
+      "text": "It feels so good, in fact, that it's almost unbearable."
+    },
+    "cn": {
+      "name": null,
+      "text": "这样的快感，令人差一点就要当场爆发。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這樣的快感，令人差一點就要當場爆發。"
+    }
+  },
+  {
+    "id": "0014_00060",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んっ……はぁ……。おっぱいに挟んだまま、\nオチ○チンを気持ち良くするからな？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm! Haah... I'm going to use my breasts to make you feel good, okay?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃……哈啊……让主人的肉棒，\n在胸部之间好好享受一番吧？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃……哈啊……讓主人的肉棒，\n在胸部之間好好享受一番吧？」"
+    }
+  },
+  {
+    "id": "0014_00061",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わかってる。男の人はこういうのが好きなのだろう？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I know that guys really like this kind of thing.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「我明白，男人都喜欢这样，对吧？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「我明白，男人都喜歡這樣，對吧？」"
+    }
+  },
+  {
+    "id": "0014_00062",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「経験の浅いわたしだが……\n侍女たちが話していたから、知っているのだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'm still pretty new at this... but I heard about this technique from the handmaidens at the castle.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「虽然没什么实际经验……\n但我听侍女们提起过，所以知道。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「雖然沒什麼實際經驗……\n但我聽侍女們提起過，所以知道。」"
+    }
+  },
+  {
+    "id": "0014_00063",
+    "ja": {
+      "name": null,
+      "text": "そう言い、アリーは下になっている俺に負担が\n掛からぬよう、ゆっくりと体を揺すり始めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She then slowly begins to rock her body, allowing me to just lay back and not move."
+    },
+    "cn": {
+      "name": null,
+      "text": "说完，\n艾丽一边注意不给被压在下面的我造成太大负担，\n一边缓缓地晃起了身子。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說完，\n艾麗一邊注意不給被壓在下面的我造成太大負擔，\n一邊緩緩地晃起了身子。"
+    }
+  },
+  {
+    "id": "0014_00064",
+    "ja": {
+      "name": null,
+      "text": "豊満な膨らみに挟み込まれたペニスが、\n上下に優しくしごかれ始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "She squeezes her enormous breasts around my cock and begins to gently move them up and down."
+    },
+    "cn": {
+      "name": null,
+      "text": "夹在丰满隆起物中间的阴茎，\n被温柔地上下揉搓着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "夾在豐滿隆起物中間的陰莖，\n被溫柔地上下揉搓著。"
+    }
+  },
+  {
+    "id": "0014_00065",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「くっ……う、あっ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm... Ah! Aah...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「咕……呜、啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「咕……嗚、啊……」"
+    }
+  },
+  {
+    "id": "0014_00066",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んっ……んっ、んっ……はぁ……。\nオチ○チンの形を感じるぞ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm! Mm! Mm... Haah... I can feel how hard you are...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯……嗯、嗯……哈啊……\n能感觉到肉棒的形状……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯……嗯、嗯……哈啊……\n能感覺到肉棒的形狀……」"
+    }
+  },
+  {
+    "id": "0014_00067",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「膨らみやくびれたところも、んっ……擦れると、\nゾクゾクするのだな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I can feel every curve... mm... every throb and pulse...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「膨胀的地方，还有陷下去的地方，呃……\n每蹭一下，都在颤抖……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「膨脹的地方，還有陷下去的地方，呃……\n每蹭一下，都在顫抖……」"
+    }
+  },
+  {
+    "id": "0014_00068",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「あ……ん、んぅぅっ……はぁ、おっぱいが熱くて……\nくぅんっ、んっ……\nわたしまで変な感じになりそうだ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Ah... Mm! Mmm... Haah! My breasts feel so hot... Mmm! Mm... It's making me feel weird...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啊……呃、呃呜呜……哈啊，胸部好热……\n咕呃、嗯……\n连我都要变得不正常了……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「啊……呃、呃嗚嗚……哈啊，胸部好熱……\n咕呃、嗯……\n連我都要變得不正常了……」"
+    }
+  },
+  {
+    "id": "0014_00069",
+    "ja": {
+      "name": null,
+      "text": "ピッタリと、ペニスと乳房が密着してしまっている。"
+    },
+    "en": {
+      "name": null,
+      "text": "My cock fits perfectly between her breasts."
+    },
+    "cn": {
+      "name": null,
+      "text": "阴茎和乳房正紧紧贴在一起。"
+    },
+    "tw": {
+      "name": null,
+      "text": "陰莖和乳房正緊緊貼在一起。"
+    }
+  },
+  {
+    "id": "0014_00070",
+    "ja": {
+      "name": null,
+      "text": "アリーは自分の手で胸を寄せながら、\nさらに強くペニスを圧迫してきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She uses her hands to squish them tighter."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽伸手按住自己的胸，\n给阴茎施加了更大的压力。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗伸手按住自己的胸，\n給陰莖施加了更大的壓力。"
+    }
+  },
+  {
+    "id": "0014_00071",
+    "ja": {
+      "name": null,
+      "text": "手で上下にしごかれるのとは違う。"
+    },
+    "en": {
+      "name": null,
+      "text": "The sensation is so different from her hand."
+    },
+    "cn": {
+      "name": null,
+      "text": "跟用手上下撸动相比，感觉完全不同。"
+    },
+    "tw": {
+      "name": null,
+      "text": "跟用手上下摩擦相比，感覺完全不同。"
+    }
+  },
+  {
+    "id": "0014_00072",
+    "ja": {
+      "name": null,
+      "text": "何とも言えない刺激に、\n蕩けそうな快感がじわじわと込み上げてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The indescribable stimulation sends mind-numbing pleasure through my body, leaving a tingling sensation in its wake."
+    },
+    "cn": {
+      "name": null,
+      "text": "难以名状的刺激，\n令炽热的快感开始渐渐涌入全身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "難以名狀的刺激，\n令熾熱的快感開始漸漸湧入全身。"
+    }
+  },
+  {
+    "id": "0014_00073",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃっ……主人？\n先っぽから、汁が出てきたぞ……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Aah... Sir? It feels like you're getting wet...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「咿呀……主人？\n从最前面，流出液体了哦……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「咿呀……主人？\n從最前面，流出液體了哦……？」"
+    }
+  },
+  {
+    "id": "0014_00074",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んぅぅっ……はぁ、おっぱいにまで垂れて……\nんっ、ヌルヌルだ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mmm... Haah! Your pre-cum is dripping all over my breasts... Mm! It's so slippery...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃呜呜……哈啊，都淌到胸膛上了……\n呃、黏黏的……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃嗚嗚……哈啊，都淌到胸膛上了……\n呃、黏黏的……」"
+    }
+  },
+  {
+    "id": "0014_00075",
+    "ja": {
+      "name": null,
+      "text": "気持ち良さに、先走り汁がにじみ出してきたようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "My pre-cum is an indication of how good it feels."
+    },
+    "cn": {
+      "name": null,
+      "text": "似乎由于太舒服，已经流出了前列腺液。"
+    },
+    "tw": {
+      "name": null,
+      "text": "似乎由於太舒服，已經流出了前列腺液。"
+    }
+  },
+  {
+    "id": "0014_00076",
+    "ja": {
+      "name": null,
+      "text": "それが垂れてくることで良く滑るようになり、\nますます快感が強くなってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "And her breasts growing wetter and slipperier only makes it feel better."
+    },
+    "cn": {
+      "name": null,
+      "text": "流淌在她胸前的液体起到了润滑作用，\n令快感变得愈发强烈。"
+    },
+    "tw": {
+      "name": null,
+      "text": "流淌在她胸前的液體起到了潤滑作用，\n令快感變得愈發強烈。"
+    }
+  },
+  {
+    "id": "0014_00077",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はぁ、はぁ……んっ、んぅぅ……ひゃっ、んぅぅ……\nもう……主人はしかたないな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Haah, haah... Mm! Mmm... Aah... Mm... Do you want to do it yet?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈啊、哈啊……呃、呃呜呜……\n咿呀、呃呜呜……\n主人……真拿你没办法啊。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈啊、哈啊……呃、呃嗚嗚……\n咿呀、呃嗚嗚……\n主人……真拿你沒辦法啊。」"
+    }
+  },
+  {
+    "id": "0014_00078",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ますます、オチ○チンが元気に\nピクンピクンってし始めたぞ……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I can feel your cock twitching more and more...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「你的肉棒，\n抽动得越来越用力了哦……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「你的肉棒，\n抽動得越來越用力了哦……？」"
+    }
+  },
+  {
+    "id": "0014_00079",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ヌルヌルおっぱいに擦られて、\n気持ち良くなったのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Does it feel good to be jerked off by my slippery breasts?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「被又湿又滑的胸部揉搓，\n感觉很舒服吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「被又濕又滑的胸部揉搓，\n感覺很舒服嗎……？」"
+    }
+  },
+  {
+    "id": "0014_00080",
+    "ja": {
+      "name": null,
+      "text": "少し興奮したような声が、アリーの口から漏れ出した。"
+    },
+    "en": {
+      "name": null,
+      "text": "The words slip from her lips, a hint of excitement in her voice."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽口中发出的声音，听起来似乎有些兴奋。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗口中發出的聲音，聽起來似乎有些興奮。"
+    }
+  },
+  {
+    "id": "0014_00081",
+    "ja": {
+      "name": null,
+      "text": "俺の反応をうかがうように、\n上目遣いでジッと見つめてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She looks into my face, gauging my reaction to what she's doing to me."
+    },
+    "cn": {
+      "name": null,
+      "text": "她抬起目光，\n似乎是在窥探我的反应。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她抬起目光，\n似乎是在窺探我的反應。"
+    }
+  },
+  {
+    "id": "0014_00082",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ……アリーの胸の感触、すごく良い……くぅっ、\nヤバいくらいだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Yeah... Your breasts on my cock feel so good... Mmm! Almost too good...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯……艾丽的胸、很舒服……咕唔、\n舒服到受不了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯……艾麗的胸、很舒服……咕唔、\n舒服到受不了。」"
+    }
+  },
+  {
+    "id": "0014_00083",
+    "ja": {
+      "name": null,
+      "text": "このまま続けられると、\nあっという間に射精してしまいそうだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "If she keeps this up, it won't be long before I'll be close to cumming."
+    },
+    "cn": {
+      "name": null,
+      "text": "这么下去的话，\n我恐怕很快就会射出来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這麼下去的話，\n我恐怕很快就會射出來。"
+    }
+  },
+  {
+    "id": "0014_00084",
+    "ja": {
+      "name": null,
+      "text": "アリーもその手応えを感じているのか、\n谷間でペニスをしごく動きを更に激しくしてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "As if she can sense that, she begins rubbing her breasts up and down around my cock faster and harder."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽似乎也对此有所察觉，\n于是开始更激烈地用乳沟揉搓阴茎。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗似乎也對此有所察覺，\n於是開始更激烈地用乳溝揉搓陰莖。"
+    }
+  },
+  {
+    "id": "0014_00085",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んっ、んっ……あんっ、んっ……んっ、\nはぁ、んぅぅぅっ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm! Mm... Aah! Mm... Mm! Haah... Mmmm!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃、呃……啊嗯、嗯……嗯、\n哈啊、呃呜呜呜……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃、呃……啊嗯、嗯……嗯、\n哈啊、呃嗚嗚嗚……」"
+    }
+  },
+  {
+    "id": "0014_00086",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人。ドピュって子種を出したくなったら、\n好きなタイミングで出してくれ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"If you want to cum, Sir, feel free to do so whenever you want.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人，如果想射的话，\n就随时把你的精子释放出来吧。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人，如果想射的話，\n就隨時把你的精子釋放出來吧。」"
+    }
+  },
+  {
+    "id": "0014_00087",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「我慢なんてする必要はないからな……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You don't need to feel like you have to hold back...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「没必要忍耐哦……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「沒必要忍耐哦……？」"
+    }
+  },
+  {
+    "id": "0014_00088",
+    "ja": {
+      "name": null,
+      "text": "アリー自身も興奮しているのか、\n誘うような声色でそう言ってきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She purrs invitingly, likely turned on as well."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽自己似乎也有些兴奋，\n于是用妩媚的声音如此说道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗自己似乎也有些興奮，\n於是用嫵媚的聲音如此說道。"
+    }
+  },
+  {
+    "id": "0014_00089",
+    "ja": {
+      "name": null,
+      "text": "乳房を擦りつけられる動きが、さらに加速していく。"
+    },
+    "en": {
+      "name": null,
+      "text": "She then begins stroking me even faster than before."
+    },
+    "cn": {
+      "name": null,
+      "text": "乳房的揉动，又进一步加快了速度。"
+    },
+    "tw": {
+      "name": null,
+      "text": "乳房的揉動，又進一步加快了速度。"
+    }
+  },
+  {
+    "id": "0014_00090",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ……くぅっ、わかって、る……う、\nああっ……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"O-Okay... Mm! I will... Aah... Aaaah!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯……咕唔、我知、道……\n唔、啊啊……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯……咕唔、我知、道……\n唔、啊啊……！」"
+    }
+  },
+  {
+    "id": "0014_00091",
+    "ja": {
+      "name": null,
+      "text": "激しく上下にしごかれる感触は、\n手でされているとき以上の興奮を俺にもたらしていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "The feel of her breasts cushioning my cock is sublime, so much better than her hand ever felt."
+    },
+    "cn": {
+      "name": null,
+      "text": "上下揉动的强大感触，\n与手掌相比，为我带来了更为激烈的兴奋感。"
+    },
+    "tw": {
+      "name": null,
+      "text": "上下揉動的強大感觸，\n與手掌相比，為我帶來了更為激烈的興奮感。"
+    }
+  },
+  {
+    "id": "0014_00092",
+    "ja": {
+      "name": null,
+      "text": "痺れるような快感が俺の中で膨れあがり、\n腰が勝手にアリーに向けて突き出されてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Mind-numbing pleasure begins to grow inside me, and I suddenly thrust my hips upward, toward Allie's face."
+    },
+    "cn": {
+      "name": null,
+      "text": "酥麻的快感在我体内剧烈膨胀，\n腰部情不自禁地朝艾丽的方向抬了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "酥麻的快感在我體內劇烈膨脹，\n腰部情不自禁地朝艾麗的方向抬了起來。"
+    }
+  },
+  {
+    "id": "0014_00093",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んぅっ……あんっ、主人……\nオチ○チンでそんなに突っつかないでくれ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm...! Aah! Sir... Don't move your hips like that...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯呜……啊呃，主人……\n不要那么凶地把肉棒顶过来……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯嗚……啊呃，主人……\n不要那麼猛地把肉棒頂過來……」"
+    }
+  },
+  {
+    "id": "0014_00094",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「この体勢で突き出されると、\n顔に押しつけられるではないか……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"In the position we're in, you might end up hitting me in the face if you're not careful...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「在这样的姿势下，\n会捅到我脸上来的……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「在這樣的姿勢下，\n會捅到我臉上來的……」"
+    }
+  },
+  {
+    "id": "0014_00095",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「す、すまん……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"S-Sorry...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「抱、抱歉……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「抱、抱歉……」"
+    }
+  },
+  {
+    "id": "0014_00096",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それとも、主人は口でもして欲しいのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Or is it that you want me to use my mouth as well?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「还是说，主人想让我连嘴也用上……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「還是說，主人想讓我連嘴也用上……？」"
+    }
+  },
+  {
+    "id": "0014_00097",
+    "ja": {
+      "name": null,
+      "text": "ふーっと、息を吹きかけるようにして\n亀頭をくすぐって来た。"
+    },
+    "en": {
+      "name": null,
+      "text": "She exhales gently, her warm breath tickling the head of my cock."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，她挑逗般地对着龟头轻轻吹了一口气。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，她挑逗般地對著龜頭輕輕吹了一口氣。"
+    }
+  },
+  {
+    "id": "0014_00098",
+    "ja": {
+      "name": null,
+      "text": "新たに加えられた刺激に、\nペニスがビクンビクンと暴れ始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "The addition of a new type of stimulation causes my cock to twitch and throb uncontrollably."
+    },
+    "cn": {
+      "name": null,
+      "text": "在这不一样的刺激下，\n阴茎凶暴地抽搐了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在這不一樣的刺激下，\n陰莖猛烈地抽搐了起來。"
+    }
+  },
+  {
+    "id": "0014_00099",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃっ、あんっ……まだ固くなってる……。\nもう、本当に主人はしかたのない人だな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Eep! Aah... It's even harder than before... You really want to do it, huh?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「咿啊、啊嗯……又变得更硬了……\n主人，你可真是让人无计可施啊。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「咿啊、啊嗯……又變得更硬了……\n主人，你可真是讓人無計可施啊。」"
+    }
+  },
+  {
+    "id": "0014_00100",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「でも……まだ、ダメだ。まずは……んっ、あんっ、\nこのままおっぱいで気持ち良くなってくれ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"But... not yet. First... Mm! Aah! I want to keep making you feel good with my breasts.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「但是……不行，还不可以，首先……呃、啊嗯、\n请专心享受我的胸部吧。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「但是……不行，還不可以，首先……呃、啊嗯、\n請專心享受我的胸部吧。」"
+    }
+  },
+  {
+    "id": "0014_00101",
+    "ja": {
+      "name": null,
+      "text": "くちゅっ、くちゅっと先走り汁で濡れた谷間が\n淫靡な音を奏でていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "With each stroke, lewd, squelching sounds are forced out from between her breasts, slick with pre-cum."
+    },
+    "cn": {
+      "name": null,
+      "text": "咕哧、咕哧──\n被前列腺液沾湿的乳沟，发出了淫靡的声响。"
+    },
+    "tw": {
+      "name": null,
+      "text": "咕哧、咕哧──\n被前列腺液沾濕的乳溝，發出了淫靡的聲響。"
+    }
+  },
+  {
+    "id": "0014_00102",
+    "ja": {
+      "name": null,
+      "text": "包まれるような柔らかさと温かさ。\nそれにヌメリが加えられて、激しくペニスをしごかれる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The pleasure of her soft, warm, pillowy breasts is amplified by the slipperiness as she rubs me relentlessly."
+    },
+    "cn": {
+      "name": null,
+      "text": "那充满包容感的柔软与温暖，\n再加上黏稠的感觉，一同猛烈侵袭着阴茎。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那充滿包容感的柔軟與溫暖，\n再加上黏稠的感覺，一同猛烈侵襲著陰莖。"
+    }
+  },
+  {
+    "id": "0014_00103",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んっ……はぁ、どうだ、主人……。\nオチ○チンが膨らんで来てるぞ……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm... Haah! How does it feel, sir? I can tell you're getting harder...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃……哈啊，怎么样，主人……\n肉棒开始膨胀了哦……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃……哈啊，怎麼樣，主人……\n肉棒開始膨脹了哦……？」"
+    }
+  },
+  {
+    "id": "0014_00104",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「まだ、わたしの動きはつたないと思うが……\nんっ、あんっ……出そうになったら、出してくれ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'm know I'm still pretty awkward at this... Mm! Aah... But if you want to cum, please go ahead.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「虽然，我的动作还有些生疏……\n呃、啊嗯……如果有感觉了，就射出来吧……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「雖然，我的動作還有些生疏……\n呃、啊嗯……如果有感覺了，就射出來吧……」"
+    }
+  },
+  {
+    "id": "0014_00105",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ……くぅっ、アリー……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"O-Okay... Mm! Allie...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「啊、啊啊……咕唔，艾丽……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「啊、啊啊……咕唔，艾麗……！」"
+    }
+  },
+  {
+    "id": "0014_00106",
+    "ja": {
+      "name": null,
+      "text": "抗いきれないくらい、射精感がどんどん高まって来た。"
+    },
+    "en": {
+      "name": null,
+      "text": "The urge to cum is steadily growing stronger."
+    },
+    "cn": {
+      "name": null,
+      "text": "射精的冲动汹涌而至，几乎要难以抵御。"
+    },
+    "tw": {
+      "name": null,
+      "text": "射精的衝動洶湧而至，幾乎要難以抵禦。"
+    }
+  },
+  {
+    "id": "0014_00107",
+    "ja": {
+      "name": null,
+      "text": "アリーの言葉通りペニスが膨らみ、\n今にも精液が飛び出しそうになっている。"
+    },
+    "en": {
+      "name": null,
+      "text": "She's right—my cock is incredibly hard, and even I can tell I'm about to explode at any moment."
+    },
+    "cn": {
+      "name": null,
+      "text": "阴茎如艾丽所说的那样暴胀，\n仿佛随时都会喷出精液。"
+    },
+    "tw": {
+      "name": null,
+      "text": "陰莖如艾麗所說的那樣暴脹，\n彷彿隨時都會噴出精液。"
+    }
+  },
+  {
+    "id": "0014_00108",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はぁ、はぁ、んっ……んっ、んっ、んっ……\nあんっ、んっ、んっ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Haah, haah... Mm... Mm! Mm! Mm... Aah! Mm! Mm...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈啊、哈啊、呃……嗯、嗯、嗯……\n啊嗯、呃、嗯……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈啊、哈啊、呃……嗯、嗯、嗯……\n啊嗯、呃、嗯……」"
+    }
+  },
+  {
+    "id": "0014_00109",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃっ……オチ○チンが跳ねて……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Eep... You're twitching like crazy...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哇啊……肉棒跳了一下……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哇啊……肉棒跳了一下……」"
+    }
+  },
+  {
+    "id": "0014_00110",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人……イク、のか？　んっ、あんっ、\nドピュって出すのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Sir... Are you going to cum? Mm! Aah! Are you going to shoot your cum all over me?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人……要射了吗？呃、啊嗯、\n要咻地一声，喷出来吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人……要射了嗎？呃、啊嗯、\n要咻地一聲，噴出來嗎……？」"
+    }
+  },
+  {
+    "id": "0014_00111",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ、もう、ダメだ……っ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Y-Yes! I can't hold back much longer...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯，就快、不行了……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯，就快、不行了……」"
+    }
+  },
+  {
+    "id": "0014_00112",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わかった……んぅっ、はぁ、はぁ、出してくれ……。\n主人っ、主人……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Okay... Mm! Haah, haah... Cum for me, Sir... Please!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「明白了……呃嗯、哈啊、哈啊，射吧……\n主人，主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「明白了……呃嗯、哈啊、哈啊，射吧……\n主人，主人……」"
+    }
+  },
+  {
+    "id": "0014_00113",
+    "ja": {
+      "name": null,
+      "text": "もう、これ以上は堪えることはできそうになかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "There's no way I can fight it any longer."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来，已经没法再扛下去了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來，已經沒法再扛下去了。"
+    }
+  },
+  {
+    "id": "0014_00114",
+    "ja": {
+      "name": null,
+      "text": "俺はペニスを圧迫してくる乳房の感触に\nうながされるまま、思いっきり欲望を解き放つ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Crushed between her giant breasts, her touch sends me over the edge and I unleash a flood of desire."
+    },
+    "cn": {
+      "name": null,
+      "text": "乳房依然压迫着我的阴茎，\n在那种感觉的逼迫下，我恣意地释放了自己的欲望。"
+    },
+    "tw": {
+      "name": null,
+      "text": "乳房依然壓迫著我的陰莖，\n在那種感覺的逼迫下，我恣意地釋放了自己的慾望。"
+    }
+  },
+  {
+    "id": "0014_00115",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃっ……んっ、んぅぅぅぅぅぅぅっ……！！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Aah... Mm! Mmmmmmmmm...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「咿呀……嗯、呃呜呜呜呜呜呜呜……！！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「咿呀……嗯、呃嗚嗚嗚嗚嗚嗚嗚……！！」"
+    }
+  },
+  {
+    "id": "0014_00116",
+    "ja": {
+      "name": null,
+      "text": "まるでアリーの谷間から逃げだそうとするかのように、\n激しくペニスが脈打った。"
+    },
+    "en": {
+      "name": null,
+      "text": "My cock pulses and throbs violently, like it's trying to escape from the valley between her breasts."
+    },
+    "cn": {
+      "name": null,
+      "text": "阴茎激烈地抽动着，\n就像是想从艾丽的乳沟里逃出来一样。"
+    },
+    "tw": {
+      "name": null,
+      "text": "陰莖激烈地抽動著，\n就像是想從艾麗的乳溝裡逃出來一樣。"
+    }
+  },
+  {
+    "id": "0014_00117",
+    "ja": {
+      "name": null,
+      "text": "先端からドロリとした精液を思いっきり吐き出し、\nアリーの顔へと浴びせかけていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Semen gushes out from the head, bathing Allie's face in white splashes."
+    },
+    "cn": {
+      "name": null,
+      "text": "大量喷射出的黏稠的精液，\n洒向了艾丽的脸。"
+    },
+    "tw": {
+      "name": null,
+      "text": "大量噴射出的黏稠的精液，\n灑向了艾麗的臉。"
+    }
+  },
+  {
+    "id": "0014_00118",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はうっ……んっ、んぅぅぅ……\nはぁっ、はぁっ、はぁっ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Haah... Mm! Mmmm... Haah, haah, haah...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈呜……呃、嗯呜呜呜……\n哈啊、哈啊、哈啊……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈嗚……呃、嗯嗚嗚嗚……\n哈啊、哈啊、哈啊……」"
+    }
+  },
+  {
+    "id": "0014_00119",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「オチ○チンが、脈打って……あんっ、\nすごい出てるぞ、主人……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Your cock is twitching so hard... Aah! There's so much cum, sir...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「肉棒、在搏动……啊呃，\n射出了好多啊，主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「肉棒、在搏動……啊呃，\n射出了好多啊，主人……」"
+    }
+  },
+  {
+    "id": "0014_00120",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はぁ、はぁ、ドロッとしてヌルヌルしたのが、\n勢いよく飛び出してる……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Haah, haah... It's so creamy and slippery, and there's sooo much of it...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈啊、哈啊，又浓、又黏的液体，\n不断地喷出来……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈啊、哈啊，又濃、又黏的液體，\n不斷地噴出來……」"
+    }
+  },
+  {
+    "id": "0014_00121",
+    "ja": {
+      "name": null,
+      "text": "興奮しつつも、少し驚いたような表情を浮かべるアリー。"
+    },
+    "en": {
+      "name": null,
+      "text": "She looks aroused, but also a little surprised."
+    },
+    "cn": {
+      "name": null,
+      "text": "在兴奋的同时，艾丽也流露出了些许惊讶。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在興奮的同時，艾麗也流露出了些許驚訝。"
+    }
+  },
+  {
+    "id": "0014_00122",
+    "ja": {
+      "name": null,
+      "text": "勢いよく打ち出された精液は、\nそんなアリーを白濁色に染めていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "I came so hard that her face is coated in white semen."
+    },
+    "cn": {
+      "name": null,
+      "text": "迸射而出的精液，\n将污浊的白色涂抹到了艾丽身上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "迸射而出的精液，\n將污濁的白色塗抹到了艾麗身上。"
+    }
+  },
+  {
+    "id": "0014_00123",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃんっ、んっ……まだ、出るのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Aah... Mm! Not done yet...?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呀嗯、呃……还在、继续射吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呀嗯、呃……還在、繼續射嗎……？」"
+    }
+  },
+  {
+    "id": "0014_00124",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「もう……出しすぎだ、主人。\nんっ、あんっ、まだビクンビクン暴れて……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You cum way too much, Sir... Mm! Aah! It's still pulsing and twitching all over...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「真是的……量太大了吧，主人。\n嗯、啊呃，还在蹦蹦跳跳地乱动……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「真是的……量太大了吧，主人。\n嗯、啊呃，還在蹦蹦跳跳地亂動……」"
+    }
+  },
+  {
+    "id": "0014_00125",
+    "ja": {
+      "name": null,
+      "text": "強い快感のうねりが、まだ俺の中で続いていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Intense pleasure is still surging through my body."
+    },
+    "cn": {
+      "name": null,
+      "text": "强烈的快感，如潮水般在体内泛滥。"
+    },
+    "tw": {
+      "name": null,
+      "text": "強烈的快感，如潮水般在體內氾濫。"
+    }
+  },
+  {
+    "id": "0014_00126",
+    "ja": {
+      "name": null,
+      "text": "なかなか射精が終わらず、断続的に、\n何度も何度もアリーの顔へ打ちだしていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "My orgasm seemingly never ending, my cock continues to pulse intermittently, continuously showering Allie's face in cum."
+    },
+    "cn": {
+      "name": null,
+      "text": "射精迟迟无法结束，\n一阵接一阵地，射向艾丽的面孔。"
+    },
+    "tw": {
+      "name": null,
+      "text": "射精遲遲無法結束，\n一陣接一陣地，射向艾麗的面孔。"
+    }
+  },
+  {
+    "id": "0014_00127",
+    "ja": {
+      "name": null,
+      "text": "だが、それもようやく治まってきたようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But, before long, it finally slows to a stop."
+    },
+    "cn": {
+      "name": null,
+      "text": "但这股高潮，终于逐渐平息了下来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但這股高潮，終於逐漸平息了下來。"
+    }
+  },
+  {
+    "id": "0014_00128",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はぁ、はぁ……いっぱい出したのだな、主人……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Haah, haah... You came so much, sir...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈啊、哈啊……射出了好多啊，主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈啊、哈啊……射出了好多啊，主人……」"
+    }
+  },
+  {
+    "id": "0014_00129",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「顔だけではなく、おっぱいまで……\n主人の子種まみれになったぞ……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"It's all over my breasts as well as my face... I'm covered in your cum...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「不仅脸上，就连胸部……\n都被主人的精子涂满了哦……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「不僅臉上，就連胸部……\n都被主人的精子塗滿了哦……？」"
+    }
+  },
+  {
+    "id": "0014_00130",
+    "ja": {
+      "name": null,
+      "text": "嬉しそうに目を細め、アリーは溜息交じりに呟いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She smiles happily as she murmurs softly, breathy moans mixed in with her words."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽欣喜地眯起眼睛，气喘吁吁地低语着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗欣喜地瞇起眼睛，氣喘吁籲地低語著。"
+    }
+  },
+  {
+    "id": "0014_00131",
+    "ja": {
+      "name": null,
+      "text": "大量の精液のせいで、アリーの顔も胸元も、\nドロドロになってしまっている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her face and breasts are a sticky, white mess thanks to copious amounts of cum."
+    },
+    "cn": {
+      "name": null,
+      "text": "大量的精液，令她从面庞到胸口，\n都变得黏糊糊的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "大量的精液，令她從面龐到胸口，\n都變得黏糊糊的。"
+    }
+  },
+  {
+    "id": "0014_00132",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「はぁ、はぁ、はぁ……さすがに、腰が……キツい……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Haah, haah, haah... My back definitely hurts now...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哈啊、哈啊、哈啊……腰真的……吃不消了……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哈啊、哈啊、哈啊……腰真的……吃不消了……」"
+    }
+  },
+  {
+    "id": "0014_00133",
+    "ja": {
+      "name": null,
+      "text": "俺はほとんど動かず、\nアリーが全部してくれたような状況だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She'd been true to her word about me not having to move a muscle—she'd done most of the work."
+    },
+    "cn": {
+      "name": null,
+      "text": "这次我几乎没有动，\n将一切都交给了艾丽。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這次我幾乎沒有動，\n將一切都交給了艾麗。"
+    }
+  },
+  {
+    "id": "0014_00134",
+    "ja": {
+      "name": null,
+      "text": "それでも射精の瞬間に腰を突き出したこともあり、\n気怠さと共に痛みが全身を駆け巡る。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I'd thrust my hips upward when I came, and as exhaustion takes over, so does the pain."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使如此，因为射精的瞬间用力挺起了腰，\n所以痛楚伴随着倦怠感，一同涌向了全身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使如此，因為射精的瞬間用力挺起了腰，\n所以痛楚伴隨著倦怠感，一同湧向了全身。"
+    }
+  },
+  {
+    "id": "0014_00135",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「もう……だから、\n無理をしないで欲しいと言ったではないか」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Gosh... I told you I didn't want you overexerting yourself needlessly, didn't I?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「真是的……\n所以才叫你不要勉强嘛。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「真是的……\n所以才叫你不要勉強嘛。」"
+    }
+  },
+  {
+    "id": "0014_00136",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人は……その、こういうときは、\n無理をしすぎではないか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Sir... all I mean is, I feel like you always end up pushing yourself too hard...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人你……那个，在这种时候，\n会不会太强求自己了……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人你……那個，在這種時候，\n會不會太強求自己了……？」"
+    }
+  },
+  {
+    "id": "0014_00137",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、それだけ、\nわたしで気持ち良くなってくれてるのは嬉しいが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I-I just wanted to ease your pain and help make you feel good...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「虽、虽然我很高兴，\n能让你舒服到那种程度……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「雖、雖然我很高興，\n能讓你舒服到那種程度啦……」"
+    }
+  },
+  {
+    "id": "0014_00138",
+    "ja": {
+      "name": null,
+      "text": "そんなアリーの言葉に、俺は何も言い返せない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can't think of a good response to that."
+    },
+    "cn": {
+      "name": null,
+      "text": "对艾丽的这番话，我完全无言以对。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對艾麗的這番話，我完全無言以對。"
+    }
+  },
+  {
+    "id": "0014_00139",
+    "ja": {
+      "name": null,
+      "text": "体が不自由なのはわかっているのに、\nつい無理をしてしまうのはいつものことだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I know my current limitations, and yet I still push myself far past them."
+    },
+    "cn": {
+      "name": null,
+      "text": "明知自己还无法自如活动，\n却总是不经意地逼迫着自己。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明知自己還無法自如活動，\n卻總是不經意地逼迫著自己。"
+    }
+  },
+  {
+    "id": "0014_00140",
+    "ja": {
+      "name": null,
+      "text": "さすがに、自分の性欲には呆れてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm a little fed up with my own overwhelming libido."
+    },
+    "cn": {
+      "name": null,
+      "text": "对自己的性欲，真是有些哑然。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對自己的性慾，真是有些啞然。"
+    }
+  },
+  {
+    "id": "0014_00141",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「はぁ……んぅっ、\n主人の匂いが、全身からしてる気がする……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Haah... Mm! My entire body is covered in your smell...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「哈啊……呃唔，\n全身上下，都散发着主人的气味……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「哈啊……呃唔，\n全身上下，都散發著主人的氣味……」"
+    }
+  },
+  {
+    "id": "0014_00142",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「毎日のようにしているのに、\nこんなに濃くてドロッとしているのだな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"We do this all the time, but I've never been covered in so much, and had it so thick, syrupy, and creamy.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「明明每天都在交欢，\n竟然还是如此浓郁啊。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「明明每天都在交歡，\n竟然還是如此濃郁啊。」"
+    }
+  },
+  {
+    "id": "0014_00143",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「だが、まだ全然オチ○チンが\n小さくなっていないようなのだが……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"And yet, after all that, your cock isn't close to getting soft yet, huh?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「但是，肉棒似乎一点都没有变小……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「但是，肉棒似乎一點都沒有變小……？」"
+    }
+  },
+  {
+    "id": "0014_00144",
+    "ja": {
+      "name": null,
+      "text": "射精したばかりだというのに、\nまだペニスは小さくなっていない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even after having just cum, my cock isn't even a little soft."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明刚刚射精，\n可阴茎依然膨胀着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明剛剛射精，\n可陰莖依然膨脹著。"
+    }
+  },
+  {
+    "id": "0014_00145",
+    "ja": {
+      "name": null,
+      "text": "アリーの乳房に挟み込まれたまま、\n小刻みに震えながら天を突くようにそびえ立っている。"
+    },
+    "en": {
+      "name": null,
+      "text": "My cock is still squished between her breasts, standing straight up and periodically spasming."
+    },
+    "cn": {
+      "name": null,
+      "text": "在艾丽的乳房之间，\n一边微微颤抖，一边直冲云霄般矗立着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在艾麗的乳房之間，\n一邊微微顫抖，一邊直衝雲霄般矗立著。"
+    }
+  },
+  {
+    "id": "0014_00146",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「何というか……すまん。\nアリーの胸が気持ち良すぎて、だな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"All I can say is... sorry. Your breasts just feel way too good...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「怎么讲呢……抱歉，\n因为艾丽的胸实在太舒服了……吧……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「怎麼講呢……抱歉，\n因為艾麗的胸實在太舒服了……吧……」"
+    }
+  },
+  {
+    "id": "0014_00147",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、そうか。だが、\nこれだけ固いままでは終われない……よな？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Oh, yeah? But there's no way we can end now if you're still hard... right?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是、是吗。\n但是，既然还这么硬，\n那就算不上结束……对吧？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是、是嗎。\n但是，既然還這麼硬，\n那就算不上結束……對吧？」"
+    }
+  },
+  {
+    "id": "0014_00148",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「では……次は、さっき言ったように口で……ちゅっ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"How about I use my mouth next, like I mentioned? *kiss*...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「那么……接下来就像刚才说的，\n改用我的嘴……啾。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「那麼……接下來就像剛才說的，\n改用我的嘴……啾。」"
+    }
+  },
+  {
+    "id": "0014_00149",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！！」"
+    }
+  },
+  {
+    "id": "0014_00150",
+    "ja": {
+      "name": null,
+      "text": "精液まみれの亀頭の先端に、\nアリーは軽く唇を押しつけてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She plants a light kiss on the head of my cock, still coated in a layer of cum."
+    },
+    "cn": {
+      "name": null,
+      "text": "轻轻地，艾丽将嘴唇贴在了\n黏满精液的龟头最前端。"
+    },
+    "tw": {
+      "name": null,
+      "text": "輕輕地，艾麗將嘴唇貼在了\n黏滿精液的龜頭最前端。"
+    }
+  },
+  {
+    "id": "0014_00151",
+    "ja": {
+      "name": null,
+      "text": "軽く音を立ててされた口づけに、\nペニスが元気よく跳ね上がる。"
+    },
+    "en": {
+      "name": null,
+      "text": "My cock twitches happily in response, the suction of her lips creating a loud slurping sound."
+    },
+    "cn": {
+      "name": null,
+      "text": "伴随着些许声响的浅吻，\n令阴茎精神饱满地弹了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "伴隨著些許聲響的淺吻，\n令陰莖精神飽滿地彈了起來。"
+    }
+  },
+  {
+    "id": "0014_00152",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ふふっ……主人のオチ○チンは正直だな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hehe... Your cock always tells the truth...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呵呵……主人的肉棒真诚实啊……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呵呵……主人的肉棒真誠實啊……」"
+    }
+  },
+  {
+    "id": "0014_00153",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人。すぐに搾り出すから、\nそのままで……ん、ちゅ……んぅぅ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'll squeeze another round of cum right out of you before you know it, so just lay back... Mm! *kiss*... Mmm...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人，我立刻帮你舔出来，\n你不要动……呃、啾……嗯呜呜……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人，我立刻幫你舔出來，\n你不要動……呃、啾……嗯嗚嗚……」"
+    }
+  },
+  {
+    "id": "0014_00154",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「くっ……う、あぁっ……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm... Aah! Aaah...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜……咕、啊啊……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚……咕、啊啊……！」"
+    }
+  },
+  {
+    "id": "0014_00155",
+    "ja": {
+      "name": null,
+      "text": "乳房に挟み込まれたまま、\n柔らかい唇と濡れた舌の感触に先端から\nまさぐられていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "With my cock still engulfed between her breasts, she uses her soft lips and wet tongue to relentlessly tease the head."
+    },
+    "cn": {
+      "name": null,
+      "text": "阴茎依然被夹在双乳之间，\n柔软的嘴唇和湿润的舌头一起对龟头展开了攻势。"
+    },
+    "tw": {
+      "name": null,
+      "text": "陰莖依然被夾在雙乳之間，\n柔軟的嘴唇和濕潤的舌頭一起對龜頭展開了攻勢。"
+    }
+  },
+  {
+    "id": "0014_00156",
+    "ja": {
+      "name": null,
+      "text": "そのまま……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And just like that..."
+    },
+    "cn": {
+      "name": null,
+      "text": "就这样……"
+    },
+    "tw": {
+      "name": null,
+      "text": "就這樣……"
+    }
+  },
+  {
+    "id": "0014_00157",
+    "ja": {
+      "name": null,
+      "text": "俺はさらに射精するまで、\nアリーに舐め回されてしまうのだった……。"
+    },
+    "en": {
+      "name": null,
+      "text": "She continues licking me all over until I cum once more."
+    },
+    "cn": {
+      "name": null,
+      "text": "直到再次射精为止，\n我都被艾丽不断舔舐着……"
+    },
+    "tw": {
+      "name": null,
+      "text": "直到再次射精為止，\n我都被艾麗不斷舔舐著……"
+    }
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "0044_00001",
+    "ja": {
+      "name": null,
+      "text": "そして、最後の日がやってきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Our last day together is finally upon us."
+    },
+    "cn": {
+      "name": null,
+      "text": "接着，终于迎来了最后的日子。"
+    },
+    "tw": {
+      "name": null,
+      "text": "接著，終於迎來了最後的日子。"
+    }
+  },
+  {
+    "id": "0044_00002",
+    "ja": {
+      "name": null,
+      "text": "俺たちの暮らしていた小屋の前には、\n朝も早い時間から大勢の人が集まっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "The sun's barely up, and already a large crowd of people are gathered in front of the small cabin where we lived together."
+    },
+    "cn": {
+      "name": null,
+      "text": "时间仍是清晨，\n可我们居住的小屋外已经聚集了一大群人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "時間仍是清晨，\n可我們居住的小屋外已經聚集了一大群人。"
+    }
+  },
+  {
+    "id": "0044_00003",
+    "ja": {
+      "name": "鎧姿の男",
+      "text": "「アリエノール王女殿下、お迎えに上がりました！」"
+    },
+    "en": {
+      "name": "Armored Man",
+      "text": "\"Crown Princess Alienor, we've come to get you!\""
+    },
+    "cn": {
+      "name": "穿盔甲的男人",
+      "text": "「艾丽耶诺尔公主殿下，我们来接您了！」"
+    },
+    "tw": {
+      "name": "穿盔甲的男人",
+      "text": "「艾麗耶諾爾公主殿下，我們來接您了！」"
+    }
+  },
+  {
+    "id": "0044_00004",
+    "ja": {
+      "name": null,
+      "text": "そう言って跪くのは、あの騎士の男だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The man who kneels before her is none other than the knight from the other day."
+    },
+    "cn": {
+      "name": null,
+      "text": "说罢，之前见过的骑士跪在了艾丽面前。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說罷，之前見過的騎士跪在了艾麗面前。"
+    }
+  },
+  {
+    "id": "0044_00005",
+    "ja": {
+      "name": null,
+      "text": "その背後には同じような鎧姿の男、\n冒険者の装いの男女、町娘の格好の元侍女と、\n様々な者たちが同じように跪いている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Behind him stands a man dressed in similar armor, several men and women clad in adventuring gear, a former handmaid dressed in normal clothing, and various others, all kneeling."
+    },
+    "cn": {
+      "name": null,
+      "text": "一同跪下的，还有他身后同样穿着盔甲的男人，\n以及打扮成冒险者的男男女女，\n平民模样的侍女……各种各样的人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一同跪下的，還有他身後同樣穿著盔甲的男人，\n以及打扮成冒險者的男男女女，\n平民模樣的侍女……各種各樣的人。"
+    }
+  },
+  {
+    "id": "0044_00006",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わざわざ全員で来たのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You all came here for me...?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「所有人都特意过来了吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「所有人都特意過來了嗎……？」"
+    }
+  },
+  {
+    "id": "0044_00007",
+    "ja": {
+      "name": "鎧姿の男",
+      "text": "「代表で自分だけが来ようと思ったのですが、\n全員が同行を申し出たものでして」"
+    },
+    "en": {
+      "name": "Armored Man",
+      "text": "\"I offered to come alone, but no one wanted to be left behind.\""
+    },
+    "cn": {
+      "name": "穿盔甲的男人",
+      "text": "「本打算由在下一人作为代表，\n可所有人都说要一起来。」"
+    },
+    "tw": {
+      "name": "穿盔甲的男人",
+      "text": "「本打算由在下一人作為代表，\n可所有人都說要一起來。」"
+    }
+  },
+  {
+    "id": "0044_00008",
+    "ja": {
+      "name": "鎧姿の男",
+      "text": "「皆が皆、殿下の捜索のために尽力いたしました」"
+    },
+    "en": {
+      "name": "Armored Man",
+      "text": "\"After all, we've been searching high and low for you.\""
+    },
+    "cn": {
+      "name": "穿盔甲的男人",
+      "text": "「为了搜寻殿下，大家都尽了一份心力。」"
+    },
+    "tw": {
+      "name": "穿盔甲的男人",
+      "text": "「為了搜尋殿下，大家都盡了一份心力。」"
+    }
+  },
+  {
+    "id": "0044_00009",
+    "ja": {
+      "name": "鎧姿の男",
+      "text": "「一刻も早く、\n殿下にお目に掛かりたいと切望していたのです」"
+    },
+    "en": {
+      "name": "Armored Man",
+      "text": "\"They all wanted to see their beloved princess as soon as possible.\""
+    },
+    "cn": {
+      "name": "穿盔甲的男人",
+      "text": "「所以，每个人都希望尽早见您一面。」"
+    },
+    "tw": {
+      "name": "穿盔甲的男人",
+      "text": "「所以，每個人都希望儘早見您一面。」"
+    }
+  },
+  {
+    "id": "0044_00010",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そうか……。\n皆、大義だった。\nわたしは嬉しく思うぞ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I see... I owe all of you a debt of gratitude. I'm overjoyed.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是吗……\n各位，辛苦你们了，我深表感动。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是嗎……\n各位，辛苦你們了，我深表感動。」"
+    }
+  },
+  {
+    "id": "0044_00011",
+    "ja": {
+      "name": null,
+      "text": "アリーのその言葉に、\nよりいっそう跪く者たちが深く頭を垂れた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing her words, everyone kneeling in front of her bow their heads even deeper."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了艾丽的话，\n跪在地上的人都将头埋得更低了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了艾麗的話，\n跪在地上的人都將頭埋得更低了。"
+    }
+  },
+  {
+    "id": "0044_00012",
+    "ja": {
+      "name": null,
+      "text": "俺はその様子を、やや呆然としながら眺めている。"
+    },
+    "en": {
+      "name": null,
+      "text": "All I can do is watch, slightly stunned by what's going on."
+    },
+    "cn": {
+      "name": null,
+      "text": "对面前这一幕，我完全看傻了眼，做不出任何反应。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對面前這一幕，我完全看傻了眼，做不出任何反應。"
+    }
+  },
+  {
+    "id": "0044_00013",
+    "ja": {
+      "name": null,
+      "text": "「そうだよな……\nアリーは本当に王女様だったんだよな……」"
+    },
+    "en": {
+      "name": null,
+      "text": "\"That's right... I forgot that Allie really is a princess...\""
+    },
+    "cn": {
+      "name": null,
+      "text": "「这也难怪……\n艾丽果真是一位高贵的公主啊……」"
+    },
+    "tw": {
+      "name": null,
+      "text": "「這也難怪……\n艾麗果真是一位高貴的公主啊……」"
+    }
+  },
+  {
+    "id": "0044_00014",
+    "ja": {
+      "name": null,
+      "text": "アリーは、俺が買い与えた冒険者の装いをしていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie's wearing the adventuring outfit I bought her."
+    },
+    "cn": {
+      "name": null,
+      "text": "此时的艾丽，正穿着我买的冒险者装备。"
+    },
+    "tw": {
+      "name": null,
+      "text": "此時的艾麗，正穿著我買的冒險者裝備。"
+    }
+  },
+  {
+    "id": "0044_00015",
+    "ja": {
+      "name": null,
+      "text": "安物だというのに、\nそれに釣り合わぬほどの気品と高貴さを漂わせていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "But she exudes and an elegance and nobility independent of the price of the clothing she has on."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然只是便宜货，但仅因为穿在艾丽身上，\n就沾染上了一丝高贵的气质，显得与她十分相称。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然只是便宜貨，但僅因為穿在艾麗身上，\n就沾染上了一絲高貴的氣質，顯得與她十分相稱。"
+    }
+  },
+  {
+    "id": "0044_00016",
+    "ja": {
+      "name": null,
+      "text": "ただ立っているだけなのに、\nそこには大勢の人間をかしずかせるだけの何かがある。"
+    },
+    "en": {
+      "name": null,
+      "text": "That presence alone is enough to cause crowds of people to kneel before her."
+    },
+    "cn": {
+      "name": null,
+      "text": "在艾丽身上，确实拥有着仅仅站在那里，\n就足以令人卑躬屈膝的某种力量。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在艾麗身上，確實擁有著僅僅站在那裡，\n就足以令人卑躬屈膝的某種力量。"
+    }
+  },
+  {
+    "id": "0044_00017",
+    "ja": {
+      "name": null,
+      "text": "アリーの母国とは無関係な俺でも、\nそれを察することのできる光景だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even someone like me, who has no relation to her former homeland, can sense that about her."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使是与艾丽的祖国毫无关系的我，\n面对这幅光景，也能够对此有所察觉。"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使是與艾麗的祖國毫無關係的我，\n面對這幅光景，也能夠對此有所察覺。"
+    }
+  },
+  {
+    "id": "0044_00018",
+    "ja": {
+      "name": null,
+      "text": "ファルナも、安物のメイド服なのを意識させない\n完璧なたたずまいで、そのすぐ後ろに控えている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even Farna, who's standing just behind Allie, looks perfectly put together in her cheap maid outfit."
+    },
+    "cn": {
+      "name": null,
+      "text": "站在艾丽身后的法尔娜，也凭其天衣无缝的仪容，\n令人完全不会介怀她那身女仆的装扮。"
+    },
+    "tw": {
+      "name": null,
+      "text": "站在艾麗身後的法爾娜，也憑其天衣無縫的儀容，\n令人完全不會介懷她那身女僕的裝扮。"
+    }
+  },
+  {
+    "id": "0044_00019",
+    "ja": {
+      "name": null,
+      "text": "それは、ただの平民出の冒険者でしかない俺には、\n縁のない世界に思えた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Then there's me, a common, ordinary adventurer, with no ties to the world of nobles and royalty."
+    },
+    "cn": {
+      "name": null,
+      "text": "对我这种平民出身的冒险者而言，\n眼前的一切似乎都与自己彻底无缘。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對我這種平民出身的冒險者而言，\n眼前的一切似乎都與自己徹底無緣。"
+    }
+  },
+  {
+    "id": "0044_00020",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様、ボーッとされてどうされたんですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Master, what's wrong? You're just standing there.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，您怎么一直在发呆？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，您怎麼一直在發呆？」"
+    }
+  },
+  {
+    "id": "0044_00021",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、いや……何でもない」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Oh, uh... Nothing. Nothing's wrong.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「啊，不……没什么。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「啊，不……沒什麼。」"
+    }
+  },
+  {
+    "id": "0044_00022",
+    "ja": {
+      "name": null,
+      "text": "首をかしげたファルナに声をかけられ、\nようやく俺は我に返る。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna's watching me quizzically, and her words snap me back to reality."
+    },
+    "cn": {
+      "name": null,
+      "text": "多亏法尔娜歪着脖子对我搭腔，\n我才清醒过来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "多虧法爾娜歪著脖子對我搭腔，\n我才清醒過來。"
+    }
+  },
+  {
+    "id": "0044_00023",
+    "ja": {
+      "name": null,
+      "text": "同時に跪いている人たちの視線が一斉に俺へ向き、\n何とも言えない居心地の悪さが込み上げる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Suddenly, the crowd still kneeling before Allie turns their attention on me, and I'm suddenly overwhelmed by incredible discomfort."
+    },
+    "cn": {
+      "name": null,
+      "text": "与此同时，跪在地上的人也一同将目光投向了我，\n令我产生了一种难以言喻的难堪之情。"
+    },
+    "tw": {
+      "name": null,
+      "text": "與此同時，跪在地上的人也一同將目光投向了我，\n令我產生了一種難以言喻的難堪之情。"
+    }
+  },
+  {
+    "id": "0044_00024",
+    "ja": {
+      "name": null,
+      "text": "そこには、アリーたちを奴隷にしていることへの嫌悪感や敵愾心が含まれていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Their hatred and disgust towards me, knowing I'm the one who kept Allie and Farna to serve me, is almost palpable."
+    },
+    "cn": {
+      "name": null,
+      "text": "在他们的眼神当中，\n充满了对奴役艾丽之人的憎恶与敌意。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在他們的眼神當中，\n充滿了對奴役艾麗之人的憎惡與敵意。"
+    }
+  },
+  {
+    "id": "0044_00025",
+    "ja": {
+      "name": null,
+      "text": "それでも俺に対してアクションを起こさないのは、\nアリーの目があるからだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, I'm assuming the reason why no one has made even a single move towards me is because of Allie."
+    },
+    "cn": {
+      "name": null,
+      "text": "之所以没有对我动手，大概只是顾虑着艾丽而已吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "之所以沒有對我動手，大概只是顧慮著艾麗而已吧。"
+    }
+  },
+  {
+    "id": "0044_00026",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人。\n予定よりは早くなってしまうが、\nそろそろ頼んでも良いだろうか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Sir. I know it's a little earlier than we planned, but can we go ahead and do it now?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人，虽然比预计要早，\n但可以将接下来的事拜托给你吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人，雖然比預計要早，\n但可以將接下來的事拜託給你嗎？」"
+    }
+  },
+  {
+    "id": "0044_00027",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「お願いします。\n姫様が解放されるまでは、\nずっとこのままだと思いますので……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Please. They won't leave our side until the princess and I have both been released...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「拜托您了，\n在公主殿下获得解放之前，\n他们恐怕会一直跪在这里……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「拜託您了，\n在公主殿下獲得解放之前，\n他們恐怕會一直跪在這裡……」"
+    }
+  },
+  {
+    "id": "0044_00028",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……わかった」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Of course.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……明白了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……明白了。」"
+    }
+  },
+  {
+    "id": "0044_00029",
+    "ja": {
+      "name": null,
+      "text": "これで、\nアリーやファルナとの関係は全てが終わりを告げる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Just like that, my relationship with both Allie and Farna is coming to an end."
+    },
+    "cn": {
+      "name": null,
+      "text": "这么一来，\n我与艾丽、法尔娜两人的关系就要彻底结束了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這麼一來，\n我與艾麗、法爾娜兩人的關係就要徹底結束了。"
+    }
+  },
+  {
+    "id": "0044_00030",
+    "ja": {
+      "name": null,
+      "text": "アリーとファルナは解放されて王女や侍女に戻り、\n俺は奴隷の主人からただの平民になる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie and Farna will return to their former roles as princess and handmaid, while I go back to just being an ordinary commoner."
+    },
+    "cn": {
+      "name": null,
+      "text": "被释放的艾丽和法尔娜会恢复公主与侍女的身份，\n我也不再是两个奴隶的主人，而只是一介平民。"
+    },
+    "tw": {
+      "name": null,
+      "text": "被釋放的艾麗和法爾娜會恢復公主與侍女的身份，\n我也不再是兩個奴隸的主人，而只是一介平民。"
+    }
+  },
+  {
+    "id": "0044_00031",
+    "ja": {
+      "name": null,
+      "text": "その事実に寂しさを覚えながらも、\n事前に用意しておいた解放用の道具を手に取った。"
+    },
+    "en": {
+      "name": null,
+      "text": "As the sad reality of the situation dawns on me, I begin gathering together the items necessary for breaking the curse."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然对此十分不舍，\n但我还是拿出了事先准备好的解咒道具。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然對此十分不捨，\n但我還是拿出了事先準備好的解咒道具。"
+    }
+  },
+  {
+    "id": "0044_00032",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「では、アリーからだな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Let's start with Allie, then.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那就艾丽先来吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那就艾麗先來吧。」"
+    }
+  },
+  {
+    "id": "0044_00033",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……ああ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Okay...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……嗯。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……嗯。」"
+    }
+  },
+  {
+    "id": "0044_00034",
+    "ja": {
+      "name": null,
+      "text": "アリーも寂しい気持ちを抱いてくれているのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Is she as sad as I am right now?"
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽是不是也怀有不舍的心情？"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗是不是也懷有不捨的心情？"
+    }
+  },
+  {
+    "id": "0044_00035",
+    "ja": {
+      "name": null,
+      "text": "多くの目がある手前、アリーの表情に変化はない。"
+    },
+    "en": {
+      "name": null,
+      "text": "With all eyes focused on her, she remains emotionless."
+    },
+    "cn": {
+      "name": null,
+      "text": "在众人环视之下，艾丽的表情毫无变化。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在眾人環視之下，艾麗的表情毫無變化。"
+    }
+  },
+  {
+    "id": "0044_00036",
+    "ja": {
+      "name": null,
+      "text": "それでもわずかに声が震えたように感じるのは、\n俺の気のせいだろうか……？"
+    },
+    "en": {
+      "name": null,
+      "text": "Still... Did I imagine the slight tremor in her voice as she spoke?"
+    },
+    "cn": {
+      "name": null,
+      "text": "即使如此，声音似乎还是有些颤抖……\n不知是不是我的错觉？"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使如此，聲音似乎還是有些顫抖……\n不知是不是我的錯覺？"
+    }
+  },
+  {
+    "id": "0044_00037",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……主人として、アリエノールの解放を認める」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"As your master, I grant your release, Alienor.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……以主人之名，允许艾丽耶诺尔重获自由。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……以主人之名，允許艾麗耶諾爾重獲自由。」"
+    }
+  },
+  {
+    "id": "0044_00038",
+    "ja": {
+      "name": null,
+      "text": "奴隷から解放するのに、豪華な儀式や派手な演出は\n存在しない。"
+    },
+    "en": {
+      "name": null,
+      "text": "There are no customary lavish ceremonies or flashy productions for when a slave is set free."
+    },
+    "cn": {
+      "name": null,
+      "text": "释放奴隶，无需任何奢华的仪式与夸张的表演。"
+    },
+    "tw": {
+      "name": null,
+      "text": "釋放奴隸，無需任何奢華的儀式與誇張的表演。"
+    }
+  },
+  {
+    "id": "0044_00039",
+    "ja": {
+      "name": null,
+      "text": "解放用の道具をアリーの胸元に押しつけながら、\n俺はただ、解放することを許すだけだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "All that's necessary is for me to hold the spell-breaking device against Allie's chest to release her from servitude."
+    },
+    "cn": {
+      "name": null,
+      "text": "只需将解咒道具贴在艾丽胸口，\n再由我开口允许即可。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只需將解咒道具貼在艾麗胸口，\n再由我開口允許即可。"
+    }
+  },
+  {
+    "id": "0044_00040",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ぐっ……！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mngh...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呜……！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗚……！」"
+    }
+  },
+  {
+    "id": "0044_00041",
+    "ja": {
+      "name": null,
+      "text": "絶対服従の呪いを解呪する反動で、\n軽くアリーがうめき声を漏らす。"
+    },
+    "en": {
+      "name": null,
+      "text": "As the effects of the curse of absolute obedience dissipate, Allie moans quietly."
+    },
+    "cn": {
+      "name": null,
+      "text": "解除绝对服从的诅咒所产生的反作用力，\n令艾丽发出了轻微的呻吟。"
+    },
+    "tw": {
+      "name": null,
+      "text": "解除絕對服從的詛咒所產生的反作用力，\n令艾麗發出了輕微的呻吟。"
+    }
+  },
+  {
+    "id": "0044_00042",
+    "ja": {
+      "name": null,
+      "text": "ただ、それだけ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But that's it."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，也仅止于此。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，也僅止於此。"
+    }
+  },
+  {
+    "id": "0044_00043",
+    "ja": {
+      "name": null,
+      "text": "なんの感慨も残さずに、\n俺とアリーとの繋がりが完全に断たれてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm left feeling nothing as the connection between Allie and me is severed."
+    },
+    "cn": {
+      "name": null,
+      "text": "我与艾丽，\n就这样不留任何余韵地断绝了联系。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我與艾麗，\n就這樣不留任何餘韻地斷絕了聯繫。"
+    }
+  },
+  {
+    "id": "0044_00044",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「次はファルナ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna's next...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「接着是法尔娜……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「接著是法爾娜……」"
+    }
+  },
+  {
+    "id": "0044_00045",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい、ご主人様。\nどうぞよろしくお願いします」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yes, Master. I'm ready.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是，主人，麻烦您了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是，主人，麻煩您了。」"
+    }
+  },
+  {
+    "id": "0044_00046",
+    "ja": {
+      "name": null,
+      "text": "一歩引いたアリーの代わりに、\n今度はファルナが俺の前へ進み出てくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna steps forward, taking Allie's place, and I move to stand just in front of her."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽向后退了一步，将我面前的位置让给了法尔娜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗向後退了一步，將我面前的位置讓給了法爾娜。"
+    }
+  },
+  {
+    "id": "0044_00047",
+    "ja": {
+      "name": null,
+      "text": "そして、その大きな胸を俺へと突き出してきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She thrusts her large breasts out in my direction."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，法尔娜向我挺起了丰满的胸部。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，法爾娜向我挺起了豐滿的胸部。"
+    }
+  },
+  {
+    "id": "0044_00048",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……主人として、ファルナの解放を認める」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"As your master, I grant your release, Farna.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……以主人之名，允许法尔娜重获自由。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……以主人之名，允許法爾娜重獲自由。」"
+    }
+  },
+  {
+    "id": "0044_00049",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「んぅっ……！」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Mmm...!\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呜……！」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「嗚……！」"
+    }
+  },
+  {
+    "id": "0044_00050",
+    "ja": {
+      "name": null,
+      "text": "アリーの時と同様に、\n解放用の道具をファルナの胸元に押しつけた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Just like with Allie, I press the spell-breaking device against her chest."
+    },
+    "cn": {
+      "name": null,
+      "text": "我与刚才一样，\n将解咒道具贴在了法尔娜的胸口上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我與剛才一樣，\n將解咒道具貼在了法爾娜的胸口上。"
+    }
+  },
+  {
+    "id": "0044_00051",
+    "ja": {
+      "name": null,
+      "text": "ファルナは艶めかしい声を漏らし、ほうっと溜まりに\n溜まった感情を息と一緒に吐き出した。"
+    },
+    "en": {
+      "name": null,
+      "text": "She lets out a dazed moan before releasing all of her pent-up emotions in one breath."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜先是发出了娇艳的呻吟，\n然后伴随着深埋心底的情感，长长地舒了一口气。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜先是發出了嬌豔的呻吟，\n然後伴隨著深埋心底的情感，長長地舒了一口氣。"
+    }
+  },
+  {
+    "id": "0044_00052",
+    "ja": {
+      "name": null,
+      "text": "ファルナとの繋がりも、これで完全に断たれた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thus, my connection with Farna is likewise severed."
+    },
+    "cn": {
+      "name": null,
+      "text": "就这样，我与法尔娜之间也断绝了关系。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就這樣，我與法爾娜之間也斷絕了關係。"
+    }
+  },
+  {
+    "id": "0044_00053",
+    "ja": {
+      "name": null,
+      "text": "奴隷だった二人には、\n自身を縛る呪いが消えた実感があるのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The curse of absolute obedience that bound them to me is gone."
+    },
+    "cn": {
+      "name": null,
+      "text": "刚刚还是奴隶之身的艾丽与法尔娜，\n似乎更明显地感觉到了诅咒的消失。"
+    },
+    "tw": {
+      "name": null,
+      "text": "剛剛還是奴隸之身的艾麗與法爾娜，\n似乎更明顯地感覺到了詛咒的消失。"
+    }
+  },
+  {
+    "id": "0044_00054",
+    "ja": {
+      "name": null,
+      "text": "一瞬だけ寂しそうな表情を浮かべ、アリーは目線だけで、ファルナは俺に一礼して、静かに別れを告げてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "An expression of sadness briefly crosses both their faces. It's replaced by a blankness on Allie's face, while Farna bows in my direction, quietly saying goodbye."
+    },
+    "cn": {
+      "name": null,
+      "text": "她们先是稍微露出了一丝落寞的神情，\n然后艾丽给了我一个眼神，法尔娜则是施了一礼，\n借以完成了无声的道别。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她們先是稍微露出了一絲落寞的神情，\n然後艾麗給了我一個眼神，法爾娜則是施了一禮，\n藉以完成了無聲的道別。"
+    }
+  },
+  {
+    "id": "0044_00055",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「待たせたな、皆の者！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'm sorry for keeping you waiting!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「让大家久等了！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「讓大家久等了！」"
+    }
+  },
+  {
+    "id": "0044_00056",
+    "ja": {
+      "name": null,
+      "text": "全てを吹っ切るように振り返ったアリーは、\n跪いている人たちへ朗々と声を掛けた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie turns to the crowd of people still kneeling before her like she suddenly remembered something and cries out loudly."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽像是彻底释然一般转过头，\n向跪在地上的人们大声说道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗像是徹底釋然一般轉過頭，\n向跪在地上的人們大聲說道。"
+    }
+  },
+  {
+    "id": "0044_00057",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「このまま、すぐにでも父上の下へ向かう。\n案内せよ！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Now then, please take me to where my father is! Right away!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「我这就出发，与父亲大人汇合。\n带路吧！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「我這就出發，與父親大人匯合。\n帶路吧！」"
+    }
+  },
+  {
+    "id": "0044_00058",
+    "ja": {
+      "name": "鎧姿の男",
+      "text": "「ハッ！！」"
+    },
+    "en": {
+      "name": "Armored Man",
+      "text": "\"Yes, Ma'am!\""
+    },
+    "cn": {
+      "name": "穿盔甲的男人",
+      "text": "「是！！」"
+    },
+    "tw": {
+      "name": "穿盔甲的男人",
+      "text": "「是！！」"
+    }
+  },
+  {
+    "id": "0044_00059",
+    "ja": {
+      "name": null,
+      "text": "王女然としたアリーの命令に、\n鎧姿の男たちは一斉に返事をしていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing Princess Allie's command, both armor-clad men bark out a response right away."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了公主威风凛凛的命令，\n身穿盔甲的男人们一同做出了回应。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了公主威風凜凜的命令，\n身穿盔甲的男人們一同做出了回應。"
+    }
+  },
+  {
+    "id": "0044_00060",
+    "ja": {
+      "name": null,
+      "text": "アリーを中心として全員が動き出し、\n俺のことを振り返ることもなく颯爽と進んで行く。"
+    },
+    "en": {
+      "name": null,
+      "text": "The crowd of people begin moving briskly with Allie at their center, none of them sparing me a second glance."
+    },
+    "cn": {
+      "name": null,
+      "text": "众人将艾丽围在中央，就此扬长而去，\n对身后的我完全不屑一顾。"
+    },
+    "tw": {
+      "name": null,
+      "text": "眾人將艾麗圍在中央，就此揚長而去，\n對身後的我完全不屑一顧。"
+    }
+  },
+  {
+    "id": "0044_00061",
+    "ja": {
+      "name": null,
+      "text": "すでに俺やここでの生活に未練はないように見え、\n心にジクリとした痛みを感じてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "A jolt of pain shoots through my heart as I realize how quickly she's cut me out of her life."
+    },
+    "cn": {
+      "name": null,
+      "text": "那副看似对我，以及这里的生活毫无迷恋的态度，\n令我心中涌起一阵刺痛。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那副看似對我，以及這裡的生活毫無迷戀的態度，\n令我心中湧起一陣刺痛。"
+    }
+  },
+  {
+    "id": "0044_00062",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様……今までありがとうございました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Master... Thank you for everything you did for us.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人……至今为止，真的十分感谢您。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人……至今為止，真的十分感謝您。」"
+    }
+  },
+  {
+    "id": "0044_00063",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「姫様──アリーともども、お世話になりました……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You helped both me and the princess—Allie—so much.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「公主殿下──艾丽与我，都蒙您照顾了……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「公主殿下──艾麗與我，都蒙您照顧了……」"
+    }
+  },
+  {
+    "id": "0044_00064",
+    "ja": {
+      "name": null,
+      "text": "最後にファルナが、\n俺にだけ聞こえる声量でそんなことを呟く。"
+    },
+    "en": {
+      "name": null,
+      "text": "Before she leaves, Farna murmurs a parting goodbye to me, in a voice so low only I can hear."
+    },
+    "cn": {
+      "name": null,
+      "text": "最后，法尔娜用只有我听得到的音量，\n如此低声说道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "最後，法爾娜用只有我聽得到的音量，\n如此低聲說道。"
+    }
+  },
+  {
+    "id": "0044_00065",
+    "ja": {
+      "name": null,
+      "text": "俺はただ黙り込んだまま……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Meanwhile, I remain there, standing silently..."
+    },
+    "cn": {
+      "name": null,
+      "text": "而我只能一言不发……"
+    },
+    "tw": {
+      "name": null,
+      "text": "而我只能一言不發……"
+    }
+  },
+  {
+    "id": "0044_00066",
+    "ja": {
+      "name": null,
+      "text": "アリーとファルナの姿が見えなくなるまで、\nその場に立ち尽くして見送るのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Rooted to the spot, watching Allie and Farna until they disappear from view."
+    },
+    "cn": {
+      "name": null,
+      "text": "站在原地目送着她们的队伍，\n直到艾丽与法尔娜的身影双双消失在远方。"
+    },
+    "tw": {
+      "name": null,
+      "text": "站在原地目送著她們的隊伍，\n直到艾麗與法爾娜的身影雙雙消失在遠方。"
+    }
+  }
+]

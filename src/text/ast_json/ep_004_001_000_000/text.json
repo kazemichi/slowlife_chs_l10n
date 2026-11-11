@@ -1,0 +1,3403 @@
+[
+  {
+    "id": "0045_00001",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……寝過ごした。\nもう、こんなに太陽が高くなっているのか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Looks like I slept in. I can't believe the sun's already this high in the sky.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……睡过头了，\n太阳已经升得那么高了吗。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……睡過頭了，\n太陽已經升得那麼高了嗎。」"
+    }
+  },
+  {
+    "id": "0045_00002",
+    "ja": {
+      "name": null,
+      "text": "今日は、アリーとファルナを奴隷から解放した翌日だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's the day after I set Allie and Farna free."
+    },
+    "cn": {
+      "name": null,
+      "text": "今天，是释放艾丽与法尔娜之后的第一天。"
+    },
+    "tw": {
+      "name": null,
+      "text": "今天，是釋放艾麗與法爾娜之後的第一天。"
+    }
+  },
+  {
+    "id": "0045_00003",
+    "ja": {
+      "name": null,
+      "text": "一晩だけ小屋で過ごしたが、\n二人がいないだけでどうにも調子が出ない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I spent the night alone in the cabin, but it was pretty terrible without the two of them with me."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明只在小屋里度过了一个晚上，\n但没了她们两个，总觉得自己没什么状态。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明只在小屋裡度過了一個晚上，\n但沒了她們兩個，總覺得自己沒什麼狀態。"
+    }
+  },
+  {
+    "id": "0045_00004",
+    "ja": {
+      "name": null,
+      "text": "いつもは二人に起こして貰っていたため、\n寝過ごしてしまったようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Plus, since they usually wake me every morning, I ended up sleeping longer than I intended to."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为之前都是被她们叫醒，所以今天睡过了头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為之前都是被她們叫醒，所以今天睡過了頭。"
+    }
+  },
+  {
+    "id": "0045_00005",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「今日中に街に拠点を移して、\nギルドに顔を出そうと思っていたんだが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I should probably move back into town today and make a stop at the guild while I'm there...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「还想在今天之内把据点挪回城里，\n再去协会露个脸来着……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「還想在今天之內把據點挪回城裡，\n再去協會露個臉呢……」"
+    }
+  },
+  {
+    "id": "0045_00006",
+    "ja": {
+      "name": null,
+      "text": "この時間から街へ向かうとなると、\nどうしても昼を過ぎてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "If I leave now, I won't make it into town until well past the afternoon."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果现在出发，到城里时肯定已经是下午了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果現在出發，到城裡時肯定已經是下午了。"
+    }
+  },
+  {
+    "id": "0045_00007",
+    "ja": {
+      "name": null,
+      "text": "急ぐ用事もないため、全然構わないのだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though I guess it doesn't matter, since I don't have any urgent business..."
+    },
+    "cn": {
+      "name": null,
+      "text": "反正没什么急事，晚一点倒也无所谓……"
+    },
+    "tw": {
+      "name": null,
+      "text": "反正沒什麼急事，晚一點倒也無所謂……"
+    }
+  },
+  {
+    "id": "0045_00008",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ここまで二人の存在が自分の中で\n大きくなっているなんてな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I can't believe how much space the two of them took up in my life...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不过，没想到她们的存在\n已经对我如此重要了啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不過，沒想到她們的存在\n已經對我如此重要了啊……」"
+    }
+  },
+  {
+    "id": "0045_00009",
+    "ja": {
+      "name": null,
+      "text": "失ってから気が付く……というやつだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "I guess you don't really notice it until they're gone."
+    },
+    "cn": {
+      "name": null,
+      "text": "这就是所谓的……直到失去，才懂得珍惜吗？"
+    },
+    "tw": {
+      "name": null,
+      "text": "這就是所謂的……直到失去，才懂得珍惜嗎？"
+    }
+  },
+  {
+    "id": "0045_00010",
+    "ja": {
+      "name": null,
+      "text": "強い寂寥感に襲われながら、\n俺はモゾモゾとベッドから降りた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Feeling overwhelmed with loneliness, I force myself out of bed."
+    },
+    "cn": {
+      "name": null,
+      "text": "伴随着强烈的寂寥感，我慢吞吞地爬下了床。"
+    },
+    "tw": {
+      "name": null,
+      "text": "伴隨著強烈的寂寥感，我慢吞吞地爬下了床。"
+    }
+  },
+  {
+    "id": "0045_00011",
+    "ja": {
+      "name": null,
+      "text": "街に拠点を移すための準備は、\n昨日のうちに済ませてある。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'd managed to get everything together yesterday for my move into the city."
+    },
+    "cn": {
+      "name": null,
+      "text": "将据点移动到城里的准备工作，\n已经在昨天完成了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "將據點移動到城裡的準備工作，\n已經在昨天完成了。"
+    }
+  },
+  {
+    "id": "0045_00012",
+    "ja": {
+      "name": null,
+      "text": "俺は怪我をする前から愛用していた防具を身に纏い、\n愛用の剣を手に取った。"
+    },
+    "en": {
+      "name": null,
+      "text": "After putting on my much-loved armor from before I got injured, I pick up my favorite sword."
+    },
+    "cn": {
+      "name": null,
+      "text": "我穿上受伤前常用的防具，并拿起了熟悉的剑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我穿上受傷前常用的防具，並拿起了熟悉的劍。"
+    }
+  },
+  {
+    "id": "0045_00013",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……そういえば、\n最初はこの剣をアリーに貸していたんだよな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Now that I think about it, this is the same sword I let Allie use when we first came here...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……说起来，\n起初还把它借给艾丽用来着。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……說起來，\n起初還把它借給艾麗用呢。」"
+    }
+  },
+  {
+    "id": "0045_00014",
+    "ja": {
+      "name": null,
+      "text": "ふと、そんな感傷に浸りそうになってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I find myself suddenly getting emotional."
+    },
+    "cn": {
+      "name": null,
+      "text": "为此，我不禁陷入了伤感当中。"
+    },
+    "tw": {
+      "name": null,
+      "text": "為此，我不禁陷入了傷感當中。"
+    }
+  },
+  {
+    "id": "0045_00015",
+    "ja": {
+      "name": null,
+      "text": "慌ててそれを振り払い、\n俺はまとめてあった荷物を担いだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hurriedly shaking it off, I sling my bag of belongings over my shoulder."
+    },
+    "cn": {
+      "name": null,
+      "text": "我连忙打消这种情绪，\n背起了整理完毕的行李。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我連忙打消這種情緒，\n背起了整理完畢的行李。"
+    }
+  },
+  {
+    "id": "0045_00016",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「暗くなる前に森を出なくちゃならないし、\n準備ができたら行かないとな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"If I'm going to make it through the woods before dark, I really have to get ready and get going.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「要在天黑前走出森林才行，\n准备好了就快出发吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「要在天黑前走出森林才行，\n準備好了就快出發吧。」"
+    }
+  },
+  {
+    "id": "0045_00017",
+    "ja": {
+      "name": null,
+      "text": "ファルナがしっかり掃除をしてくれたため、\n改めてこの小屋でやることは何もない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna did such a thorough job cleaning up that there's not much left for me to do."
+    },
+    "cn": {
+      "name": null,
+      "text": "在被法尔娜精心打扫之后，\n小屋里已经没有了我可以做的事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在被法爾娜精心打掃之後，\n小屋裡已經沒有了我可以做的事。"
+    }
+  },
+  {
+    "id": "0045_00018",
+    "ja": {
+      "name": null,
+      "text": "俺は一度だけ感慨をにじませながら室内を眺め、\n一人で小屋を後にする。"
+    },
+    "en": {
+      "name": null,
+      "text": "I take one last look around the small room, taking in all the memories that linger here, before leaving the cabin all alone."
+    },
+    "cn": {
+      "name": null,
+      "text": "我最后一次满怀感慨地环视了一下室内，\n然后独自离开了小屋。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我最後一次滿懷感慨地環視了一下室內，\n然後獨自離開了小屋。"
+    }
+  },
+  {
+    "id": "0045_00019",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……ここは相変わらずか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"This is still the same, I guess...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……这里还是毫无变化啊。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……這裡還是毫無變化啊。」"
+    }
+  },
+  {
+    "id": "0045_00020",
+    "ja": {
+      "name": null,
+      "text": "街中を歩くだけで、\n無遠慮な視線が周囲から注がれていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Just walking around town attracts unwanted stares from the people around me."
+    },
+    "cn": {
+      "name": null,
+      "text": "光是走在街上，\n周围就会向我投来轻佻的视线。"
+    },
+    "tw": {
+      "name": null,
+      "text": "光是走在街上，\n周圍就會向我投來輕佻的視線。"
+    }
+  },
+  {
+    "id": "0045_00021",
+    "ja": {
+      "name": null,
+      "text": "嫉妬が多分に含まれているその視線は、\n相変わらず不愉快でしかなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The attention, mostly hostility mixed with jealousy, is as dauntingly oppressive as ever."
+    },
+    "cn": {
+      "name": null,
+      "text": "那饱含嫉妒之情的目光，依然令人相当不愉快。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那飽含嫉妒之情的目光，依然令人相當不愉快。"
+    }
+  },
+  {
+    "id": "0045_00022",
+    "ja": {
+      "name": null,
+      "text": "それでも、美人なアリーやファルナを連れていない分だけマシになっているのだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "This was all a lot easier to handle when I had two gorgeous ladies with me..."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使如此，因为身边没有艾丽和法尔娜这样的美女，\n所以已经比过去好很多了……"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使如此，因為身邊沒有艾麗和法爾娜這樣的美女，\n所以已經比過去好很多了……"
+    }
+  },
+  {
+    "id": "0045_00023",
+    "ja": {
+      "name": null,
+      "text": "これも、『ドラゴンサバイバー』なんて、\n二つ名をつけられた所為だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I guess this is just what happens when you end up with a nickname like the Dragon Survivor."
+    },
+    "cn": {
+      "name": null,
+      "text": "这也是『龙口生还者』这个称号导致的吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這也是『龍口生還者』這個稱號導致的吧。"
+    }
+  },
+  {
+    "id": "0045_00024",
+    "ja": {
+      "name": null,
+      "text": "その来歴を思い出すと途端に暗い気分になってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Remembering only makes me depressed."
+    },
+    "cn": {
+      "name": null,
+      "text": "想起这个称号的来历，心情又变得格外阴郁。"
+    },
+    "tw": {
+      "name": null,
+      "text": "想起這個稱號的來歷，心情又變得格外陰鬱。"
+    }
+  },
+  {
+    "id": "0045_00025",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「はぁ……森に帰りたい……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Sigh... I want to go back to the woods...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「唉……真想回森林去……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「唉……真想回森林去……」"
+    }
+  },
+  {
+    "id": "0045_00026",
+    "ja": {
+      "name": null,
+      "text": "だが、森の小屋に帰ったところで、\n待っている人は誰もいない。"
+    },
+    "en": {
+      "name": null,
+      "text": "But even if I did go back, there'd be no one waiting for me."
+    },
+    "cn": {
+      "name": null,
+      "text": "可就算回到森林小屋，\n也没有人会迎接我的归来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可就算回到森林小屋，\n也沒有人會迎接我的歸來。"
+    }
+  },
+  {
+    "id": "0045_00027",
+    "ja": {
+      "name": null,
+      "text": "俺は仕方なく、冒険者ギルドへの道を重い足取りで歩いて行く。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having no other options, I start heading toward the adventurers' guild, dragging my feet behind me."
+    },
+    "cn": {
+      "name": null,
+      "text": "没有办法，我只好迈着沉重的步伐，\n走向了冒险者协会。"
+    },
+    "tw": {
+      "name": null,
+      "text": "沒有辦法，我只好邁著沉重的步伐，\n走向了冒險者協會。"
+    }
+  },
+  {
+    "id": "0045_00028",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「まあ！　ドラゴンサバイバー様、\n冒険者として復帰していただけるのですね！」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Well, well! I see the famous Dragon Survivor is finally back on his feet as an adventurer!\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「是吗！龙口生还者大人，\n您终于可以继续做冒险者了啊！」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「是嗎！龍口生還者大人，\n您終於可以繼續做冒險者了啊！」"
+    }
+  },
+  {
+    "id": "0045_00029",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ、まぁ……な」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Yeah, looks that way...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯，是啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯，是啊……」"
+    }
+  },
+  {
+    "id": "0045_00030",
+    "ja": {
+      "name": null,
+      "text": "受付で復帰のことを告げた途端、\n手放しで歓迎されてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "As soon as I tell the receptionist I'm back, she welcomes me back with open arms."
+    },
+    "cn": {
+      "name": null,
+      "text": "在接待处说明来意后，\n立刻受到了极为热烈的欢迎。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在接待處說明來意後，\n立刻受到了極為熱烈的歡迎。"
+    }
+  },
+  {
+    "id": "0045_00031",
+    "ja": {
+      "name": null,
+      "text": "喜色満面な受付嬢を前に、俺は愛想笑いを浮かべていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her enthusiasm is contagious, bringing a smile to my face."
+    },
+    "cn": {
+      "name": null,
+      "text": "在满面春风的女接待员面前，我也只好陪以笑脸。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在滿面春風的女接待員面前，我也只好陪以笑臉。"
+    }
+  },
+  {
+    "id": "0045_00032",
+    "ja": {
+      "name": null,
+      "text": "ギルド側としては優秀な冒険者が欲しいんだと思うが、\n二つ名で呼ばれても空寒く感じてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having the best adventurers around is a plus for the guild, but being called by my title only makes me feel cold and empty."
+    },
+    "cn": {
+      "name": null,
+      "text": "协会当然希望拥有优秀的冒险者，\n但听到这个称号，只会令我心里发凉。"
+    },
+    "tw": {
+      "name": null,
+      "text": "協會當然希望擁有優秀的冒險者，\n但聽到這個稱號，只會令我心裡發涼。"
+    }
+  },
+  {
+    "id": "0045_00033",
+    "ja": {
+      "name": null,
+      "text": "それに、受付嬢の声が大きかったからだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Plus, the receptionist's excited shout carries far in here."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且，或许是因为女接待员的声音太大了吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且，或許是因為女接待員的聲音太大了吧。"
+    }
+  },
+  {
+    "id": "0045_00034",
+    "ja": {
+      "name": null,
+      "text": "ギルド内でたむろしていた冒険者たちが、\n一斉に俺のことを噂し始めていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Because of that, the adventurers who were milling around the guildhall suddenly begin gossiping about me."
+    },
+    "cn": {
+      "name": null,
+      "text": "盘踞在协会的冒险者们，顿时开始对我议论纷纷。"
+    },
+    "tw": {
+      "name": null,
+      "text": "盤踞在協會的冒險者們，頓時開始對我議論紛紛。"
+    }
+  },
+  {
+    "id": "0045_00035",
+    "ja": {
+      "name": "冒険者Ａ",
+      "text": "「ドラゴンサバイバーが復帰とか、マジかよ。\nまたドラゴンの巣にでも潜るのか？」"
+    },
+    "en": {
+      "name": "Adventurer A",
+      "text": "\"The Dragon Survivor is really back in action? Think he's got plans to sneak into any more dragon lairs?\""
+    },
+    "cn": {
+      "name": "冒险者Ａ",
+      "text": "「龙口生还者要回归？\n真的假的，又要勇闯龙穴了么？」"
+    },
+    "tw": {
+      "name": "冒險者Ａ",
+      "text": "「龍口生還者要回歸？\n真的假的，又要勇闖龍穴了嗎？」"
+    }
+  },
+  {
+    "id": "0045_00036",
+    "ja": {
+      "name": "冒険者Ｂ",
+      "text": "「財宝が手に入るような実入りの良い仕事をやるなら、\n是非とも相伴に預かりてぇな」"
+    },
+    "en": {
+      "name": "Adventurer B",
+      "text": "\"If you're taking on a lucrative job with the chance for a big payout, count me in.\""
+    },
+    "cn": {
+      "name": "冒险者Ｂ",
+      "text": "「要是有能分到财宝的好差事，\n真想抱抱他的大腿呀～」"
+    },
+    "tw": {
+      "name": "冒險者Ｂ",
+      "text": "「要是有能分到財寶的好差事，\n真想抱抱他的大腿呀～」"
+    }
+  },
+  {
+    "id": "0045_00037",
+    "ja": {
+      "name": "冒険者Ａ",
+      "text": "「まぁ今度は、\n俺たちが犠牲になるだけかもしれねぇけどな！\nガハハハハッ」"
+    },
+    "en": {
+      "name": "Adventurer A",
+      "text": "\"Careful, though. We might end up the victims this time around! Bwahahaha!\""
+    },
+    "cn": {
+      "name": "冒险者Ａ",
+      "text": "「但这一次，\n被牺牲的说不定就是我们了啊！\n哇哈哈哈哈！」"
+    },
+    "tw": {
+      "name": "冒險者Ａ",
+      "text": "「但這一次，\n被犧牲的說不定就是我們了啊！\n哇哈哈哈哈！」"
+    }
+  },
+  {
+    "id": "0045_00038",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0045_00039",
+    "ja": {
+      "name": null,
+      "text": "予想していたとはいえ、そんな冒険者たちの言葉に\n心がささくれ立っていくのを感じる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite knowing I'd end up the butt of a joke, their words act like salt on the open wound in my heart."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然早有预料，但冒险者们的话语\n仍在我心中激起了不和谐的涟漪。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然早有預料，但冒險者們的話語\n仍在我心中激起了不和諧的漣漪。"
+    }
+  },
+  {
+    "id": "0045_00040",
+    "ja": {
+      "name": null,
+      "text": "好意的な冒険者がいないわけではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's not like friendly adventurers don't exist."
+    },
+    "cn": {
+      "name": null,
+      "text": "心怀善意的冒险者并非不存在。"
+    },
+    "tw": {
+      "name": null,
+      "text": "心懷善意的冒險者並非不存在。"
+    }
+  },
+  {
+    "id": "0045_00041",
+    "ja": {
+      "name": null,
+      "text": "だが、心ない誹謗の言葉が突き刺さり、\nまた人間不信になってしまいそうだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But each needlessly cruel comment is like a dagger, further reinforcing my distrust for humanity."
+    },
+    "cn": {
+      "name": null,
+      "text": "但这些歹毒的诽谤中伤，\n几乎就要令我再次失去对人的信任。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但這些歹毒的誹謗中傷，\n幾乎就要令我再次失去對人的信任。"
+    }
+  },
+  {
+    "id": "0045_00042",
+    "ja": {
+      "name": null,
+      "text": "それに……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And then..."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且……"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且……"
+    }
+  },
+  {
+    "id": "0045_00043",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「ドラゴンサバイバー様。\n早速、何か依頼を受けられますか？」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Mr. Dragon Survivor, would you like to take on a job right away?\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「龙口生还者大人，\n是否要立刻接受委托？」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「龍口生還者大人，\n是否要立刻接受委託？」"
+    }
+  },
+  {
+    "id": "0045_00044",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「リクエストがございましたら、\n私の方で探してみますが……」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"If there's a specific job you'd prefer, I can look to see what we have available...\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「您若有什么要求，我可以帮您甄选一下……」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「您若有什麼要求，我可以幫您甄選一下……」"
+    }
+  },
+  {
+    "id": "0045_00045",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……いや、今日は止めておく。\n復帰の報告をしに来ただけだからな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"That's okay. I just stopped by to let you know that I'm ready to get back into the field again.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……不，今天就算了，\n我只是来汇报自己的回归而已。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……不，今天就算了，\n我只是來匯報自己的回歸而已。」"
+    }
+  },
+  {
+    "id": "0045_00046",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「そうでございますか。\nでは、次に来ていただける時をお待ちしてますね！」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Is that right? In that case, I'll be here, eagerly awaiting your next visit!\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「是这样啊。\n那么，我就期待您再次光临喽！」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「是這樣啊。\n那麼，我就期待您再次光臨嘍！」"
+    }
+  },
+  {
+    "id": "0045_00047",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Thanks...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯……」"
+    }
+  },
+  {
+    "id": "0045_00048",
+    "ja": {
+      "name": null,
+      "text": "冒険者に復帰したというのに、\nやはり昔ほどの熱が込み上げてこない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I may be back to my old adventuring ways, but the passion and zeal I once held have fizzled out."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明终于恢复了冒险者的身份，\n可心中还是没有涌现过去的那种热量。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明終於恢復了冒險者的身份，\n可心中還是沒有湧現過去的那種熱量。"
+    }
+  },
+  {
+    "id": "0045_00049",
+    "ja": {
+      "name": null,
+      "text": "俺はそんな自分の心にも、戸惑いを隠せないのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "My bewilderment is evident, even to myself."
+    },
+    "cn": {
+      "name": null,
+      "text": "对自己的这种变化，我难掩困惑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對自己的這種變化，我難掩困惑。"
+    }
+  },
+  {
+    "id": "0045_00050",
+    "ja": {
+      "name": null,
+      "text": "冒険者に復帰してから、早くも数日の時が流れていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Several days have already passed since I returned to work."
+    },
+    "cn": {
+      "name": null,
+      "text": "重新成为冒险者之后，已经过了很长一段时间。"
+    },
+    "tw": {
+      "name": null,
+      "text": "重新成為冒險者之後，已經過了很長一段時間。"
+    }
+  },
+  {
+    "id": "0045_00051",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「オヤジ、肉串を三本くれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Three kebabs, please.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「老爹，给我三根肉串。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「老爹，給我三根肉串。」"
+    }
+  },
+  {
+    "id": "0045_00052",
+    "ja": {
+      "name": null,
+      "text": "駆け出しの冒険者がやるような簡単な仕事を終え、\n俺は昼食のために屋台に寄る。"
+    },
+    "en": {
+      "name": null,
+      "text": "After completing a simple task that any novice could handle, I stop at a nearby food stall for lunch."
+    },
+    "cn": {
+      "name": null,
+      "text": "完成入门级的简单任务后，\n我为了吃午饭而来到了露天摊。"
+    },
+    "tw": {
+      "name": null,
+      "text": "完成入門級的簡單任務後，\n我為了吃午飯而來到了露天攤。"
+    }
+  },
+  {
+    "id": "0045_00053",
+    "ja": {
+      "name": null,
+      "text": "冒険者ギルドにも酒場は併設されているが、\n俺はそこで食事をすることは滅多にない。"
+    },
+    "en": {
+      "name": null,
+      "text": "There's a bar in the guildhall itself, but I've hardly ever eaten in there."
+    },
+    "cn": {
+      "name": null,
+      "text": "冒险者协会内部虽然也设有酒馆，\n但我很少去那里用餐。"
+    },
+    "tw": {
+      "name": null,
+      "text": "冒險者協會內部雖然也設有酒館，\n但我很少去那裡用餐。"
+    }
+  },
+  {
+    "id": "0045_00054",
+    "ja": {
+      "name": null,
+      "text": "というのも、理由があるのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I have my reasons why."
+    },
+    "cn": {
+      "name": null,
+      "text": "当然，那也是有原因的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "當然，那也是有原因的。"
+    }
+  },
+  {
+    "id": "0045_00055",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「まったく、冒険者は暇な奴ばかりなのか？\n人の行動をいちいち監視して……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Does no one work anymore? All they seem to do is hang out and people watch...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「真是的，冒险者都这么闲吗？\n对别人的一举一动都盯得那么紧……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「真是的，冒險者都這麼閒嗎？\n對別人的一舉一動都盯得那麼緊……」"
+    }
+  },
+  {
+    "id": "0045_00056",
+    "ja": {
+      "name": null,
+      "text": "元々、俺は安全マージンを多く取って依頼を受けることが多かった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm used to only taking on jobs that aren't excessively dangerous."
+    },
+    "cn": {
+      "name": null,
+      "text": "打从一开始，\n我就经常会接那些可以确保安全的委托。"
+    },
+    "tw": {
+      "name": null,
+      "text": "打從一開始，\n我就經常會接那些可以確保安全的委託。"
+    }
+  },
+  {
+    "id": "0045_00057",
+    "ja": {
+      "name": null,
+      "text": "復帰直後なこともあって、\n自分のペースでのんびり仕事をしているわけだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And now that I'm back in the field, I've been picking up jobs here and there..."
+    },
+    "cn": {
+      "name": null,
+      "text": "再加上刚刚回归，\n所以只打算按自己的节奏，做一些从容的工作……"
+    },
+    "tw": {
+      "name": null,
+      "text": "再加上剛剛回歸，\n所以只打算按自己的節奏，做一些從容的工作……"
+    }
+  },
+  {
+    "id": "0045_00058",
+    "ja": {
+      "name": null,
+      "text": "俺を『ドラゴンサバイバー』と呼ぶ奴らは、\n臆病に取り憑かれたと、あざ笑ってくるのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But the guys who call me the Dragon Survivor mock me for doing so, saying I've been possessed by a coward."
+    },
+    "cn": {
+      "name": null,
+      "text": "但那些称我为『龙口生还者』的家伙，\n却纷纷嘲笑我变成了贪生怕死之徒。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但那些稱我為『龍口生還者』的傢伙，\n卻紛紛嘲笑我變成了貪生怕死之徒。"
+    }
+  },
+  {
+    "id": "0045_00059",
+    "ja": {
+      "name": null,
+      "text": "その中で食事をしたところで、美味く感じるわけがない。"
+    },
+    "en": {
+      "name": null,
+      "text": "There is no way food could taste good in that type of environment."
+    },
+    "cn": {
+      "name": null,
+      "text": "在那样的环境下，根本吃不出饭菜的滋味。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在那樣的環境下，根本吃不出飯菜的滋味。"
+    }
+  },
+  {
+    "id": "0045_00060",
+    "ja": {
+      "name": null,
+      "text": "そもそもドラゴンの巣なんて危険な場所は、\n先輩冒険者に騙されでもしなければ行く気はない。"
+    },
+    "en": {
+      "name": null,
+      "text": "And I have no intention of ever stepping foot near another dragon's lair, unless I get tricked into it."
+    },
+    "cn": {
+      "name": null,
+      "text": "像龙穴那种危险的地方，\n若不是受到了冒险者前辈的蒙骗，\n我打从一开始就不会接近半步。"
+    },
+    "tw": {
+      "name": null,
+      "text": "像龍穴那種危險的地方，\n若不是受到了冒險者前輩的矇騙，\n我打從一開始就不會接近半步。"
+    }
+  },
+  {
+    "id": "0045_00061",
+    "ja": {
+      "name": null,
+      "text": "あいつらは、それをわかっていないらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "Guys like them will never understand."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，那帮家伙似乎对此毫不知情。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，那幫傢伙似乎對此毫不知情。"
+    }
+  },
+  {
+    "id": "0045_00062",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「まだ、霊薬を買うには金が足りなさそうだな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I still don't have enough money for an elixir...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「目前攒的钱，好像还买不起灵药啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「目前攢的錢，好像還買不起靈藥啊……」"
+    }
+  },
+  {
+    "id": "0045_00063",
+    "ja": {
+      "name": null,
+      "text": "備えとはとても大切だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's important to be prepared for anything."
+    },
+    "cn": {
+      "name": null,
+      "text": "充足的准备是很重要的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "充足的準備是很重要的。"
+    }
+  },
+  {
+    "id": "0045_00064",
+    "ja": {
+      "name": null,
+      "text": "俺自身、霊薬を持っていなければ、\nドラゴンの巣から生還できなかっただろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Without that elixir on hand, I never would've made it back alive from that dragon's lair."
+    },
+    "cn": {
+      "name": null,
+      "text": "要是没有灵药，\n我根本无法活着逃离龙穴。"
+    },
+    "tw": {
+      "name": null,
+      "text": "要是沒有靈藥，\n我根本無法活著逃離龍穴。"
+    }
+  },
+  {
+    "id": "0045_00065",
+    "ja": {
+      "name": null,
+      "text": "なけなしの一つを使ってしまったので、\n再度資金を貯めて購入するつもりなのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having already spent what little I have, I'm going to have to wait a bit before I have enough to get one."
+    },
+    "cn": {
+      "name": null,
+      "text": "之前用的是我倍加珍惜的唯一一剂，\n目前正打算攒钱再买一剂。"
+    },
+    "tw": {
+      "name": null,
+      "text": "之前用的是我倍加珍惜的唯一一劑，\n目前正打算攢錢再買一劑。"
+    }
+  },
+  {
+    "id": "0045_00066",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……ん？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Hmm...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……嗯？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……嗯？」"
+    }
+  },
+  {
+    "id": "0045_00067",
+    "ja": {
+      "name": null,
+      "text": "肉串を食べながらそんなことを考えていると、\nふと噂話が聞こえて来た。"
+    },
+    "en": {
+      "name": null,
+      "text": "As I munch on my meat, lost in thought, my ears pick up on a nearby conversation."
+    },
+    "cn": {
+      "name": null,
+      "text": "我正边吃肉串边想这些事，\n突然听到了别人的议论声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我正邊吃肉串邊想這些事，\n突然聽到了別人的議論聲。"
+    }
+  },
+  {
+    "id": "0045_00068",
+    "ja": {
+      "name": null,
+      "text": "先日、国内──正確にいえば最近占領した地域で、\n大規模な反乱が起きたらしい……と。"
+    },
+    "en": {
+      "name": null,
+      "text": "Apparently there was a massive uprising in our kingdom—or rather, a land we recently occupied."
+    },
+    "cn": {
+      "name": null,
+      "text": "前些天在国内──准确来说，是最近占领的地区，\n似乎发生了大规模的叛乱……"
+    },
+    "tw": {
+      "name": null,
+      "text": "前些天在國內──準確來說，是最近佔領的地區，\n似乎發生了大規模的叛亂……"
+    }
+  },
+  {
+    "id": "0045_00069",
+    "ja": {
+      "name": null,
+      "text": "奪われた祖国を取り戻すため、\n亡国の王族であろう姫騎士の率いる部隊が、\n破竹の勢いで領地を取り戻しているとか……。"
+    },
+    "en": {
+      "name": null,
+      "text": "A small faction led by a female knight, supposedly related to the former reigning royalty, is taking back their stolen homeland with surprising ferocity."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了夺回国家，\n自称旧国王室成员的骑士公主正率领部队，\n势如破竹地收复原本的领地……"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了奪回國家，\n自稱舊國王室成員的騎士公主正率領部隊，\n勢如破竹地收復原本的領地……"
+    }
+  },
+  {
+    "id": "0045_00070",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリー……だよな、多分」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"They must be talking about Allie...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「应该……是艾丽吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「應該……是艾麗吧。」"
+    }
+  },
+  {
+    "id": "0045_00071",
+    "ja": {
+      "name": null,
+      "text": "ただの噂話でしかないが、\nどうやら元気にやっているらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite being nothing more than idle gossip, hearing it makes me feel a little better."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然仅仅是市井传闻，\n但照这么说，她似乎精神得很。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然僅僅是市井傳聞，\n但照這麼說，她似乎精神得很。"
+    }
+  },
+  {
+    "id": "0045_00072",
+    "ja": {
+      "name": null,
+      "text": "幸い、再度捕虜になったりもしていないようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thankfully, it sounds like she wasn't taken prisoner again."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来在那之后，没有再次沦为阶下囚。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來在那之後，沒有再次淪為階下囚。"
+    }
+  },
+  {
+    "id": "0045_00073",
+    "ja": {
+      "name": null,
+      "text": "おそらくだが、\nファルナもその近くでアリーを支えているに違いない。"
+    },
+    "en": {
+      "name": null,
+      "text": "And I have no doubt that Farna's there with her, supporting her as best she can."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然只能凭借猜测，\n但法尔娜一定也在身旁辅佐着她吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然只能憑藉猜測，\n但法爾娜一定也在身旁輔佐著她吧。"
+    }
+  },
+  {
+    "id": "0045_00074",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「会いたいな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I really miss them...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「好想她们啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「好想她們啊……」"
+    }
+  },
+  {
+    "id": "0045_00075",
+    "ja": {
+      "name": null,
+      "text": "ふと、そんな言葉が口をついて出てしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The words slip from my mouth before I realize it."
+    },
+    "cn": {
+      "name": null,
+      "text": "不经意间，这样的话突然脱口而出。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不經意間，這樣的話突然脫口而出。"
+    }
+  },
+  {
+    "id": "0045_00076",
+    "ja": {
+      "name": null,
+      "text": "そのことに気が付き、急激に寂しさを覚えてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "And my loneliness instantly grows stronger."
+    },
+    "cn": {
+      "name": null,
+      "text": "察觉到这件事后，强烈的寂寞之情涌上了心头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "察覺到這件事後，強烈的寂寞之情湧上了心頭。"
+    }
+  },
+  {
+    "id": "0045_00077",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……さっさとギルドへ行って、\n納品を済ませてしまうか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Might as well head over the guild right away and offload this delivery.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……还是快去协会，赶紧交差走人吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……還是快去協會，趕緊交差走人吧。」"
+    }
+  },
+  {
+    "id": "0045_00078",
+    "ja": {
+      "name": null,
+      "text": "込み上げて来た寂寥感を振り払い、\n俺は串を捨てて歩き出す。"
+    },
+    "en": {
+      "name": null,
+      "text": "Shaking off my loneliness, I toss my leftover kebab sticks and start walking."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了摆脱汹涌而至的寂寥感，\n我丢下肉串离开了那里。"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了擺脫洶湧而至的寂寥感，\n我丟下肉串離開了那裡。"
+    }
+  },
+  {
+    "id": "0045_00079",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「あのぉ……ドラゴンサバイバー様。\nまだ本調子ではないのでしょうか？」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Excuse me... Mr. Dragon Survivor? Still not back in the full swing of things yet?\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「请问……龙口生还者大人，\n您还没有恢复到万全的状态吗？」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「請問……龍口生還者大人，\n您還沒有恢復到萬全的狀態嗎？」"
+    }
+  },
+  {
+    "id": "0045_00080",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「最近は失敗こそないものの、\nギリギリで成功というのが多いですが……」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"While you haven't exactly failed any jobs since you came back, you're only just barely getting by...\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「最近虽然没有失败，\n但很多任务都完成得十分勉强……」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「最近雖然沒有失敗，\n但很多任務都完成得十分勉強……」"
+    }
+  },
+  {
+    "id": "0045_00081",
+    "ja": {
+      "name": null,
+      "text": "さらに何日もの時間が経過した。"
+    },
+    "en": {
+      "name": null,
+      "text": "I've been back in the field for a while now."
+    },
+    "cn": {
+      "name": null,
+      "text": "在那之后，又过了几天。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在那之後，又過了幾天。"
+    }
+  },
+  {
+    "id": "0045_00082",
+    "ja": {
+      "name": null,
+      "text": "そんなある日、\n受付嬢に小声でそんなことを指摘されてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "One day, the receptionist pulls me over for a pep talk."
+    },
+    "cn": {
+      "name": null,
+      "text": "某一次，\n女接待员小心翼翼地对我提出了这样的质疑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "某一次，\n女接待員小心翼翼地對我提出了這樣的質疑。"
+    }
+  },
+  {
+    "id": "0045_00083",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ……\nどうやら、まだ勘を取り戻せていないようだな。\n注意するよ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Yeah... I guess I'm still rusty, huh? I'll be more careful.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哦……\n看来，还没有完全找回之前的感觉啊。\n我会注意的。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哦……\n看來，還沒有完全找回之前的感覺啊。\n我會注意的。」"
+    }
+  },
+  {
+    "id": "0045_00084",
+    "ja": {
+      "name": null,
+      "text": "俺自身もそれを自覚していたため、\n受付嬢に苦笑いを返していた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Fully aware of my own flaws, I force a smile to my face for the receptionist's sake."
+    },
+    "cn": {
+      "name": null,
+      "text": "我对此也有所自觉，所以只好对女接待员报以苦笑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我對此也有所自覺，所以只好對女接待員報以苦笑。"
+    }
+  },
+  {
+    "id": "0045_00085",
+    "ja": {
+      "name": null,
+      "text": "理由はわかっている。\n最近はよく、街中で反乱軍の噂を\n聞くようになったからだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I know exactly what the problem is. The rumor mill is working overtime regarding an increase of insurgency within the kingdom."
+    },
+    "cn": {
+      "name": null,
+      "text": "理由十分清楚。\n这是因为最近在街上，\n经常听得到有关反叛军的传闻。"
+    },
+    "tw": {
+      "name": null,
+      "text": "理由十分清楚。\n這是因為最近在街上，\n經常聽得到有關反叛軍的傳聞。"
+    }
+  },
+  {
+    "id": "0045_00086",
+    "ja": {
+      "name": null,
+      "text": "そのたびにアリーやファルナのことを思い出してしまい、依頼に集中しきれない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Each time I hear about it triggers memories of Allie and Farna, making it hard to concentrate on the task at hand."
+    },
+    "cn": {
+      "name": null,
+      "text": "每次听到，都令我想起艾丽和法尔娜，\n因此无法集中精神完成任务。"
+    },
+    "tw": {
+      "name": null,
+      "text": "每次聽到，都令我想起艾麗和法爾娜，\n因此無法集中精神完成任務。"
+    }
+  },
+  {
+    "id": "0045_00087",
+    "ja": {
+      "name": null,
+      "text": "駆け出しがやるような簡単な依頼はともかく、\n難易度を上げたものは厳しい結果になっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can get by just fine with entry-level jobs, but things get trickier as the difficulty ramps up."
+    },
+    "cn": {
+      "name": null,
+      "text": "姑且不论那些给新手做的简单任务，\n一旦接手高难度的委托，结果就不甚理想了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "姑且不論那些給新手做的簡單任務，\n一旦接手高難度的委託，結果就不甚理想了。"
+    }
+  },
+  {
+    "id": "0045_00088",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「ドラゴンサバイバー様が自覚されているのなら、\n構いませんけれども……」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"As long as you're aware of it, then it's fine, but...\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「既然龙口生还者大人自己也有所察觉，\n那我也不再多嘴了……」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「既然龍口生還者大人自己也有所察覺，\n那我也不再多嘴了……」"
+    }
+  },
+  {
+    "id": "0045_00089",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「元々無理をするのは避けられていますし、\n大きな失敗はないでしょうから」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"I know you always avoided taking on more than you could handle and it seemed to work pretty well for you.\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「所幸您原本就不会接受太勉强的任务，\n也没有犯下很大的失败。」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「所幸您原本就不會接受太勉強的任務，\n也沒有犯下很大的失敗。」"
+    }
+  },
+  {
+    "id": "0045_00090",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「ですが……その、ドラゴンサバイバー様に、\n国からの指名依頼が来ているのです」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"However... a special job has come in for you specifically, Mr. Dragon Survivor. From the kingdom itself.\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「但是……其实，我们收到了\n国家对龙口生还者大人的指名委托。」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「但是……其實，我們有收到\n國家對龍口生還者大人的指名委託。」"
+    }
+  },
+  {
+    "id": "0045_00091",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「国からの指名依頼？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Someone requested me by name?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「国家指名的委托？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「國家指名的委託？」"
+    }
+  },
+  {
+    "id": "0045_00092",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「はい。\n国王陛下から、直々に……です」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Yes. It's a job direct from His Majesty, the king himself.\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「没错，\n而且……是国王陛下亲自指名。」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「沒錯，\n而且……是國王陛下親自指名。」"
+    }
+  },
+  {
+    "id": "0045_00093",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……は？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Um... What?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……哈？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……哈？」"
+    }
+  },
+  {
+    "id": "0045_00094",
+    "ja": {
+      "name": null,
+      "text": "さすがに話が話だからか、\n受付嬢は辺りを気にしながらそう囁いてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Clearly speaking the truth, she glances around to make sure we're alone before leaning closer."
+    },
+    "cn": {
+      "name": null,
+      "text": "毕竟事关重大，\n女接待员注意了一下周围，才低声向我透露。"
+    },
+    "tw": {
+      "name": null,
+      "text": "畢竟事關重大，\n女接待員注意了一下周圍，才低聲向我透露。"
+    }
+  },
+  {
+    "id": "0045_00095",
+    "ja": {
+      "name": null,
+      "text": "あまりに意外過ぎる言葉を聞き、俺は絶句してしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm so taken aback that I find myself speechless."
+    },
+    "cn": {
+      "name": null,
+      "text": "她的话过于出乎意料，我一时有些哑口无言。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她的話過於出乎意料，我一時有些啞口無言。"
+    }
+  },
+  {
+    "id": "0045_00096",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「何故……国王、が……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What does the king want with me?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「为什么……国王会……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「為什麼……國王會……？」"
+    }
+  },
+  {
+    "id": "0045_00097",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「以前のお話しになりますが、\nお偉い方からの指名の打診があった話は\n覚えてらっしゃいますか……？」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Remember how I mentioned once that some well-known person wanted you for some kind of job?\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「之前曾经提到，\n有权高位重之人向协会问及了您的情况，\n不知您是否还记得……？」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「之前曾經提到，\n有權高位重之人向協會問及了您的情況，\n不知您是否還記得……？」"
+    }
+  },
+  {
+    "id": "0045_00098",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ、もちろん」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Oh, right. How could I forget?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯，当然。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯，當然。」"
+    }
+  },
+  {
+    "id": "0045_00099",
+    "ja": {
+      "name": null,
+      "text": "まだ、アリーやファルナがいたときの話だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It happened back when Allie and Farna were still here."
+    },
+    "cn": {
+      "name": null,
+      "text": "那是艾丽和法尔娜还在身边时的事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那是艾麗和法爾娜還在身邊時的事。"
+    }
+  },
+  {
+    "id": "0045_00100",
+    "ja": {
+      "name": null,
+      "text": "俺の──『ドラゴンサバイバー』のことを調べている人がいるという話は聞いている。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'd heard whispers that someone was looking for me—the fabled Dragon Survivor."
+    },
+    "cn": {
+      "name": null,
+      "text": "听她说，有人在对我──\n『龙口生还者』的情况进行咨询。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽她說，有人在對我──\n『龍口生還者』的情況進行諮詢。"
+    }
+  },
+  {
+    "id": "0045_00101",
+    "ja": {
+      "name": null,
+      "text": "てっきり、貴族だと思っていたのだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'd assumed it was just some high-ranking aristocrat..."
+    },
+    "cn": {
+      "name": null,
+      "text": "当时，我还以为绝对是某个贵族……"
+    },
+    "tw": {
+      "name": null,
+      "text": "當時，我還以為絕對是某個貴族……"
+    }
+  },
+  {
+    "id": "0045_00102",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「すごいですよね、一国の王からの依頼ですよ？」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"It's pretty impressive, having the king himself ask for you by name.\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「这可是一国之君的委托，很不得了哦？」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「這可是一國之君的委託，很不得了的哦？」"
+    }
+  },
+  {
+    "id": "0045_00103",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「冒険者としては大出世で、英雄の仲間入りですっ」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"You've really made a name for yourself among the heroes and legends!\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「身为冒险者，可谓是平步青云，\n一跃成为了英雄呀。」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「身為冒險者，可謂是平步青雲，\n一躍成為了英雄呀。」"
+    }
+  },
+  {
+    "id": "0045_00104",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そう、だな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I guess...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是、啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是、啊……」"
+    }
+  },
+  {
+    "id": "0045_00105",
+    "ja": {
+      "name": null,
+      "text": "この国は、アリーの国を攻め滅ぼして占領できるほどの\n大国である。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm a part of a kingdom so vast that they're able to invade and take over other countries."
+    },
+    "cn": {
+      "name": null,
+      "text": "这里是个强大的国家。\n有能力侵略并占领艾丽的祖国，就足可见这一点。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這裡是個強大的國家。\n有能力侵略並佔領艾麗的祖國，就足可見這一點。"
+    }
+  },
+  {
+    "id": "0045_00106",
+    "ja": {
+      "name": null,
+      "text": "その大国の王からの、指名しての依頼が来る……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And the leader of this kingdom wants my help specifically..."
+    },
+    "cn": {
+      "name": null,
+      "text": "这种国家的君主，亲自对我提出委托……"
+    },
+    "tw": {
+      "name": null,
+      "text": "這種國家的君主，親自對我提出委託……"
+    }
+  },
+  {
+    "id": "0045_00107",
+    "ja": {
+      "name": null,
+      "text": "それは、以前から夢に見ていた冒険者としての\n大成であり、英雄への入り口でもあった。"
+    },
+    "en": {
+      "name": null,
+      "text": "This is my chance to make my former dreams of becoming a great adventurer come true, to become a hero."
+    },
+    "cn": {
+      "name": null,
+      "text": "这可谓是过去的我梦寐以求的机会，\n冒险者的最高成就，化身英雄的登龙门。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這可謂是過去的我夢寐以求的機會，\n冒險者的最高成就，化身英雄的登龍門。"
+    }
+  },
+  {
+    "id": "0045_00108",
+    "ja": {
+      "name": null,
+      "text": "国王からの直接の依頼は、最高ランクの冒険者でさえも\n滅多にないほどなのだから。"
+    },
+    "en": {
+      "name": null,
+      "text": "Direct requests from the king himself are so rare that even the highest-ranking adventurers rarely get them."
+    },
+    "cn": {
+      "name": null,
+      "text": "哪怕是最高级别的冒险者，\n也很少获得直接由国王提出的委托。"
+    },
+    "tw": {
+      "name": null,
+      "text": "哪怕是最高級別的冒險者，\n也很少獲得直接由國王提出的委託。"
+    }
+  },
+  {
+    "id": "0045_00109",
+    "ja": {
+      "name": null,
+      "text": "ただ……不思議なことに、\n俺の心はまったく湧き立つことがなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "And yet, the strangest thing of all is how completely nonplussed I am by the prospect."
+    },
+    "cn": {
+      "name": null,
+      "text": "然而……不可思议的是，\n我的心中没有涌现任何的雀跃之情。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然而……不可思議的是，\n我的心中沒有湧現任何的雀躍之情。"
+    }
+  },
+  {
+    "id": "0045_00110",
+    "ja": {
+      "name": null,
+      "text": "むしろ、\n言葉にできないような苛立たしさを感じてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "In fact, more than elated, I feel incredibly annoyed by this entire thing."
+    },
+    "cn": {
+      "name": null,
+      "text": "不仅如此，甚至燃起了一团无名之火。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不僅如此，甚至燃起了一團無名之火。"
+    }
+  },
+  {
+    "id": "0045_00111",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリーやファルナの祖国を滅ぼした、張本人……か」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"The same person who destroyed Allie and Farna's homeland...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「毁灭艾丽和法尔娜祖国的……罪魁祸首么。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「毀滅艾麗和法爾娜祖國的……罪魁禍首麼。」"
+    }
+  },
+  {
+    "id": "0045_00112",
+    "ja": {
+      "name": null,
+      "text": "二人が戦争に負けて奴隷にならなければ、\nそもそも出会うことすらなかっただろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "If they hadn't lost the war against our kingdom and been captured, we never would have met."
+    },
+    "cn": {
+      "name": null,
+      "text": "她们若没有输掉战争，沦为奴隶，\n我们恐怕根本没有机会相识。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她們若沒有輸掉戰爭，淪為奴隸，\n我們恐怕根本沒有機會相識。"
+    }
+  },
+  {
+    "id": "0045_00113",
+    "ja": {
+      "name": null,
+      "text": "そういう意味では、\n二人に出会えた恩人ではあるのだが……\n心情としてはかなり複雑だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thinking about it that way, it's almost as if I owe him a debt of gratitude... but it's not anywhere near that simple."
+    },
+    "cn": {
+      "name": null,
+      "text": "从这个角度来讲，\n他也可以算是促使我们相遇的恩人……\n但实际上，我依然心情复杂。"
+    },
+    "tw": {
+      "name": null,
+      "text": "從這個角度來講，\n他也可以算是促使我們相遇的恩人……\n但實際上，我依然心情複雜。"
+    }
+  },
+  {
+    "id": "0045_00114",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「今日これから、\nご使者の方が来られることになっています」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"I've been told a messenger will be stopping by the guild today.\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「今天不久之后，使者就会抵达这里。」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「今天不久之後，使者就會抵達這裡。」"
+    }
+  },
+  {
+    "id": "0045_00115",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「相手が相手だけに断ることができず……\n会っては頂けないでしょうか？」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"This is someone you cannot say no to... So could you please meet with him?\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「考虑到对方的身份，实在无法拒绝……\n可以请您与他见个面吗？」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「考慮到對方的身份，實在無法拒絕……\n可以請您與他見個面嗎？」"
+    }
+  },
+  {
+    "id": "0045_00116",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……わかった。\nというか、実質拒否権はないよな、それ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Fine... It's not really my place to turn this down, anyway.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……明白了。\n或者说，我其实根本没有拒绝权吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……明白了。\n或者說，我其實根本沒有拒絕權吧？」"
+    }
+  },
+  {
+    "id": "0045_00117",
+    "ja": {
+      "name": "受付嬢",
+      "text": "「あは、はははは……」"
+    },
+    "en": {
+      "name": "Receptionist",
+      "text": "\"Haha... Hahahaha...\""
+    },
+    "cn": {
+      "name": "女接待员",
+      "text": "「啊哈、哈哈哈哈……」"
+    },
+    "tw": {
+      "name": "女接待員",
+      "text": "「啊哈、哈哈哈哈……」"
+    }
+  },
+  {
+    "id": "0045_00118",
+    "ja": {
+      "name": null,
+      "text": "いくら二つ名を持っていても、\n俺はただの平民でしかない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite my title, I'm still nothing more than a commoner."
+    },
+    "cn": {
+      "name": null,
+      "text": "就算获得了称号，我也终究是一介平民。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就算獲得了稱號，我也終究是一介平民。"
+    }
+  },
+  {
+    "id": "0045_00119",
+    "ja": {
+      "name": null,
+      "text": "すでに国王の使者が動くほどに話が進んでいるのならば、いまさら断れるわけがなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "If we've already progressed to the point where the king's own messenger is reaching out, then I can no longer refuse."
+    },
+    "cn": {
+      "name": null,
+      "text": "事情已经进展到国王的使者都开始行动的程度，\n就已经没有拒绝的余地了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "事情已經進展到國王的使者都開始行動的程度，\n就已經沒有拒絕的餘地了。"
+    }
+  },
+  {
+    "id": "0045_00120",
+    "ja": {
+      "name": null,
+      "text": "乾いた笑いを漏らす受付嬢を見て、\n俺は深々と溜息を吐くのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Watching the receptionist, who's laughing dryly, all I can do is heave a huge sigh."
+    },
+    "cn": {
+      "name": null,
+      "text": "看着苦笑的女接待员，\n我也只好深深地叹了一口气。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看著苦笑的女接待員，\n我也只好深深地嘆了一口氣。"
+    }
+  },
+  {
+    "id": "0045_00121",
+    "ja": {
+      "name": "使者",
+      "text": "「ふむ……貴様が、\n巷で有名な『ドラゴンサバイバー』などと呼ばれている　男か」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"Ahem... You must be the man known throughout these parts as the fabled Dragon Survivor?\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「唔……\n闻名市井的『龙口生还者』，就是你这家伙么。」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「唔……\n聞名市井的『龍口生還者』，就是你這傢伙嗎？」"
+    }
+  },
+  {
+    "id": "0045_00122",
+    "ja": {
+      "name": null,
+      "text": "国王からの使者だという男は、\nいかにも貴族らしい男だった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The man who introduces himself as a messenger from the king is clearly part of the aristocracy."
+    },
+    "cn": {
+      "name": null,
+      "text": "担任使者的，是个明显出身贵族的男人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "擔任使者的，是個明顯出身貴族的男人。"
+    }
+  },
+  {
+    "id": "0045_00123",
+    "ja": {
+      "name": null,
+      "text": "平民の成り上がり者である俺を見下すような態度に、\n心の中でイラッとした気持ちが湧いてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "And the condescending way he looks down his nose at me, like I'm nothing more than a peasant, instantly irritates me."
+    },
+    "cn": {
+      "name": null,
+      "text": "对平民出身的我，他摆出了一副鄙夷的态度，\n令我心中十分不爽。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對平民出身的我，他擺出了一副鄙夷的態度，\n令我心中十分不爽。"
+    }
+  },
+  {
+    "id": "0045_00124",
+    "ja": {
+      "name": null,
+      "text": "滅んでしまったとはいえ、王女だったアリーとは、\n気品の面で比べるべくもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "She might've been the former princess to a decimated kingdom, but Allie's inborn elegance is something this man will never have."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然已经亡国，但身为公主的艾丽与他相比，\n气度可谓是判若云泥。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然已經亡國，但身為公主的艾麗與他相比，\n氣度可謂是判若云泥。"
+    }
+  },
+  {
+    "id": "0045_00125",
+    "ja": {
+      "name": null,
+      "text": "下級の貴族の娘だったというファルナとでさえ、\n比べるのもおこがましいレベルだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "He's not even comparable to Farna, the daughter of a much lower-ranking noble."
+    },
+    "cn": {
+      "name": null,
+      "text": "就连出身于下级贵族的法尔娜，\n也跟他完全不在一个层次。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就連出身於下級貴族的法爾娜，\n也跟他完全不在一個層次。"
+    }
+  },
+  {
+    "id": "0045_00126",
+    "ja": {
+      "name": null,
+      "text": "それでも王からの使いには違いないため、\n俺はうやうやしく頭を下げ続ける。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, as the messenger to the king, I find myself feeling obligated to bow before him."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使如此，他也是国王的使者，\n我只得毕恭毕敬地低着自己的头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使如此，他也是國王的使者，\n我只得畢恭畢敬地低著自己的頭。"
+    }
+  },
+  {
+    "id": "0045_00127",
+    "ja": {
+      "name": "使者",
+      "text": "「わが王より、貴様を指名しての依頼がある。\n心して聞き、速やかに従うのだ」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"I come bearing a direct request from the king, so listen carefully and act promptly.\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「吾王亲自对你指派了委托，\n现命你洗耳恭听，并立即完成任务。」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「吾王親自對你指派了委託，\n現命你洗耳恭聽，並立即完成任務。」"
+    }
+  },
+  {
+    "id": "0045_00128",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……冒険者ギルドは自由組織。\n王からの依頼でも、従う義務はないはずでは？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"The adventurers' guild is not under the kingdom's jurisdiction. I'm under no obligation to carry out any of his orders.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……冒险者协会是自由组织，\n即便是国王的委托，应该也没有服从的义务吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……冒險者協會是自由組織，\n即便是國王的委託，應該也沒有服從的義務吧？」"
+    }
+  },
+  {
+    "id": "0045_00129",
+    "ja": {
+      "name": "使者",
+      "text": "「ほう。我が国に住みながら、\n王命に逆らい反逆するというのか、貴様は？」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"Oh, yeah? You plan on directly defying an order from the king while living in his kingdom as a citizen?\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「哦？明明身在我国，\n你这厮竟敢违抗国王的旨意？」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「哦？明明身在我國，\n你這廝竟敢違抗國王的旨意？」"
+    }
+  },
+  {
+    "id": "0045_00130",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0045_00131",
+    "ja": {
+      "name": null,
+      "text": "使者の言葉に、俺は何も反論はしなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can't argue with his logic."
+    },
+    "cn": {
+      "name": null,
+      "text": "对使者的话，我完全无言以对。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對使者的話，我完全無言以對。"
+    }
+  },
+  {
+    "id": "0045_00132",
+    "ja": {
+      "name": null,
+      "text": "冒険者ギルドはどこの国にもあり、\nどの国にも支配されない独立した組織である。"
+    },
+    "en": {
+      "name": null,
+      "text": "The adventurers' guild is an independent organization that exists outside the political realm."
+    },
+    "cn": {
+      "name": null,
+      "text": "冒险者协会存在于所有国家，\n是不被任何国家支配的独立组织。"
+    },
+    "tw": {
+      "name": null,
+      "text": "冒險者協會存在於所有國家，\n是不被任何國家支配的獨立組織。"
+    }
+  },
+  {
+    "id": "0045_00133",
+    "ja": {
+      "name": null,
+      "text": "そのため、大国の王の命令といえども、\n素直に従う必要はまったくない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Which is why none of us are obligated to take on a job we don't want to, theoretically even one from the king."
+    },
+    "cn": {
+      "name": null,
+      "text": "因此，即使是强国君主的命令，\n也无需乖乖服从。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因此，即使是強國君主的命令，\n也無需乖乖服從。"
+    }
+  },
+  {
+    "id": "0045_00134",
+    "ja": {
+      "name": null,
+      "text": "とはいえ……それは建て前でしかないのは、\n誰が考えてもわかるだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "That being said, in practice, one wouldn't really have a choice in the matter."
+    },
+    "cn": {
+      "name": null,
+      "text": "话虽如此……每个人都明白这只是纸上空谈。"
+    },
+    "tw": {
+      "name": null,
+      "text": "話雖如此……每個人都明白這只是紙上空談。"
+    }
+  },
+  {
+    "id": "0045_00135",
+    "ja": {
+      "name": null,
+      "text": "冒険者ギルドといえど、その国に住む人間が国に逆らって生きていけるわけもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "And while the guild itself exists independently from its kingdom, it's not like we, as residents, can openly defy our own ruler."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使是冒险者，一旦忤逆所在的国家，\n也是无法生存下去的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使是冒險者，一旦忤逆所在的國家，\n也是無法生存下去的。"
+    }
+  },
+  {
+    "id": "0045_00136",
+    "ja": {
+      "name": null,
+      "text": "そして、ただの冒険者である俺も同様だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Besides, I'm just a simple adventurer."
+    },
+    "cn": {
+      "name": null,
+      "text": "身为一介冒险者，我当然也是如此。"
+    },
+    "tw": {
+      "name": null,
+      "text": "身為一介冒險者，我當然也是如此。"
+    }
+  },
+  {
+    "id": "0045_00137",
+    "ja": {
+      "name": null,
+      "text": "俺が黙り込んだことで気を良くしたのか、\n使者はペラペラと依頼の内容を語り出す。"
+    },
+    "en": {
+      "name": null,
+      "text": "The messenger, clearly emboldened by my sudden silence, starts telling me more about the job."
+    },
+    "cn": {
+      "name": null,
+      "text": "见我一言不发，使者似乎颇为得意，\n于是开始宣布委托的内容。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見我一言不發，使者似乎頗為得意，\n於是開始宣布委託的內容。"
+    }
+  },
+  {
+    "id": "0045_00138",
+    "ja": {
+      "name": "使者",
+      "text": "「依頼の内容は、\n貴様が莫大な財を持ち帰ったドラゴンの巣への案内だ」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"As part of this job, you'll be guiding us back to the dragon's lair from whence you brought back all that treasure.\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「这次的委托，\n是要你带路前往你获得巨额财富的龙穴。」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「這次的委託，\n是要你帶路前往你獲得巨額財富的龍穴。」"
+    }
+  },
+  {
+    "id": "0045_00139",
+    "ja": {
+      "name": "使者",
+      "text": "「最近は軍備に財政がひっ迫させられ、\nドラゴンの財宝でもなければ戦費が賄えんのだ」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"Our military forces are quickly running low on money, and this dragon's treasure is just what we need to keep afloat.\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「最近的军事支出威胁了国家财政，\n需要用恶龙的财宝来换取军费。」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「最近的軍事支出威脅了國家財政，\n需要用惡龍的財寶來換取軍費。」"
+    }
+  },
+  {
+    "id": "0045_00140",
+    "ja": {
+      "name": "使者",
+      "text": "「故に、貴様の役目は国にとって一大事と心得よ！」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"Thus, your role is one of great importance to the survival of the kingdom!\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「所以要知道，你的任务关乎国家大事！」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「所以要知道，你的任務關乎國家大事！」"
+    }
+  },
+  {
+    "id": "0045_00141",
+    "ja": {
+      "name": null,
+      "text": "……戦費で財政がひっ迫？"
+    },
+    "en": {
+      "name": null,
+      "text": "The royal forces are suffering from financial strain?"
+    },
+    "cn": {
+      "name": null,
+      "text": "……军事支出威胁了国家财政？"
+    },
+    "tw": {
+      "name": null,
+      "text": "……軍事支出威脅了國家財政？"
+    }
+  },
+  {
+    "id": "0045_00142",
+    "ja": {
+      "name": null,
+      "text": "それは、\nアリーたちの国を侵略したことを言っているのか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Does this have anything to do with the invasion of Allie and Farna's homeland?"
+    },
+    "cn": {
+      "name": null,
+      "text": "那是指对艾丽的国家实施的侵略吗？"
+    },
+    "tw": {
+      "name": null,
+      "text": "那是指對艾麗的國家實施的侵略嗎？"
+    }
+  },
+  {
+    "id": "0045_00143",
+    "ja": {
+      "name": null,
+      "text": "その上でさらに戦費を必要としている。"
+    },
+    "en": {
+      "name": null,
+      "text": "And they need even more money on top of that."
+    },
+    "cn": {
+      "name": null,
+      "text": "除此之外，他们还需要更多军费？"
+    },
+    "tw": {
+      "name": null,
+      "text": "除此之外，他們還需要更多軍費？"
+    }
+  },
+  {
+    "id": "0045_00144",
+    "ja": {
+      "name": null,
+      "text": "すなわち、\n反乱を起こしているアリーたちを鎮圧するために\n使われるのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "That means it's probably going toward subduing the rebellion that Allie is spearheading."
+    },
+    "cn": {
+      "name": null,
+      "text": "也就是说，\n是要用来镇压艾丽她们掀起的叛乱吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "也就是說，\n是要用來鎮壓艾麗她們掀起的叛亂吧。"
+    }
+  },
+  {
+    "id": "0045_00145",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！」"
+    }
+  },
+  {
+    "id": "0045_00146",
+    "ja": {
+      "name": null,
+      "text": "俺は歯を食いしばり、使者から見えないように拳を\n強く握りしめた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I clench my teeth and ball my hands into fists out of the messenger's sight."
+    },
+    "cn": {
+      "name": null,
+      "text": "我咬紧牙关，在使者看不到的地方攥紧了拳头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我咬緊牙關，在使者看不到的地方攥緊了拳頭。"
+    }
+  },
+  {
+    "id": "0045_00147",
+    "ja": {
+      "name": null,
+      "text": "本来であれば断れない依頼とはいえ、\n承服できない内容だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Although the job is something I shouldn't be able to refuse, there's no way I can agree to it, either."
+    },
+    "cn": {
+      "name": null,
+      "text": "本应是无法拒绝的委托，\n但这样的内容，实在令我难以忍受。"
+    },
+    "tw": {
+      "name": null,
+      "text": "本應是無法拒絕的委託，\n但這樣的內容，實在令我難以忍受。"
+    }
+  },
+  {
+    "id": "0045_00148",
+    "ja": {
+      "name": null,
+      "text": "間接的とはいえ、\nアリーやファルナを苦しめる手助けなんてできないし、\nしたくもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I want nothing to do with anything that might bring about more hardship for Allie or Farna, even indirectly."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然只是间接作用，\n但要我帮忙对付艾丽和法尔娜，\n我既做不到，也不想去做。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然只是間接作用，\n但要我幫忙對付艾麗和法爾娜，\n我既做不到，也不想去做。"
+    }
+  },
+  {
+    "id": "0045_00149",
+    "ja": {
+      "name": null,
+      "text": "それは、俺のことを想ってくれていた二人への裏切りにも等しい行為だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It would be tantamount to betrayal of the two people who mean the most to me."
+    },
+    "cn": {
+      "name": null,
+      "text": "这样的行为，对与我情意深重的她们而言，\n无疑是一种背叛。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這樣的行為，對與我情意深重的她們而言，\n無疑是一種背叛。"
+    }
+  },
+  {
+    "id": "0045_00150",
+    "ja": {
+      "name": null,
+      "text": "俺は、死んでもアリーとファルナを裏切りたくない。"
+    },
+    "en": {
+      "name": null,
+      "text": "In fact, I'd rather die than betray them."
+    },
+    "cn": {
+      "name": null,
+      "text": "我宁愿死，也决不背叛艾丽和法尔娜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我寧願死，也決不背叛艾麗和法爾娜。"
+    }
+  },
+  {
+    "id": "0045_00151",
+    "ja": {
+      "name": "使者",
+      "text": "「おい、貴様。返事はどうした？」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"I don't have all day. What's your response?\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「喂，你这家伙，还不快答应！」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「餵，你這傢伙，還不快答應！」"
+    }
+  },
+  {
+    "id": "0045_00152",
+    "ja": {
+      "name": "使者",
+      "text": "「平民の冒険者風情が何を考える？\nああ、そうか。卑しい奴め。\n依頼料を吊り上げようという魂胆か？」"
+    },
+    "en": {
+      "name": "Servant",
+      "text": "\"What could a sniveling adventurer like you have to consider anyway? Oh, but that's right. You're a greedy lowlife. You want more money, is that it?\""
+    },
+    "cn": {
+      "name": "使者",
+      "text": "「卑贱的平民冒险者，有什么可考虑的？\n哦，是吗，贪得无厌的家伙，\n是想敲诈更多的委托费吗？」"
+    },
+    "tw": {
+      "name": "使者",
+      "text": "「卑賤的平民冒險者，有什麼可考慮的？\n哦，是嗎，貪得無厭的傢伙，\n是想敲詐更多的委託費嗎？」"
+    }
+  },
+  {
+    "id": "0045_00153",
+    "ja": {
+      "name": null,
+      "text": "何を勘違いしているのか、俺を蔑んでくる使者。"
+    },
+    "en": {
+      "name": null,
+      "text": "He sneers at me derisively, misunderstanding my hesitation."
+    },
+    "cn": {
+      "name": null,
+      "text": "使者不知是误会了什么，开始对我恶言相向。"
+    },
+    "tw": {
+      "name": null,
+      "text": "使者不知是誤會了什麼，開始對我惡言相向。"
+    }
+  },
+  {
+    "id": "0045_00154",
+    "ja": {
+      "name": null,
+      "text": "俺は握りしめた拳からゆっくり力を抜きながら、\n正面から使者を見返す。"
+    },
+    "en": {
+      "name": null,
+      "text": "While slowly forcing my fists back open, I stand up straight, looking the messenger in the eyes."
+    },
+    "cn": {
+      "name": null,
+      "text": "我缓缓松开了攥紧的拳头，一脸坦然地直视着他。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我緩緩鬆開了攥緊的拳頭，一臉坦然地直視著他。"
+    }
+  },
+  {
+    "id": "0045_00155",
+    "ja": {
+      "name": null,
+      "text": "もちろん、返事は決まっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "My answer is obvious."
+    },
+    "cn": {
+      "name": null,
+      "text": "至于回答，当然早已决定。"
+    },
+    "tw": {
+      "name": null,
+      "text": "至於回答，當然早已決定。"
+    }
+  },
+  {
+    "id": "0045_00156",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「その依頼は断らせてもらう。\nそんなことに付き合う気はない！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I won't accept this job. There is no way I will do anything of the sort!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「恕我回绝这个委托。\n这样的勾当，我不打算奉陪！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「恕我回絕這個委託。\n這樣的勾當，我不打算奉陪！」"
+    }
+  },
+  {
+    "id": "0045_00157",
+    "ja": {
+      "name": null,
+      "text": "拒絶の言葉を放つ俺に、使者は信じられないものを\n見るような目を向けてくるのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The messenger just stands there, as if his mind cannot comprehend the possibility of me turning him down."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了我的严词拒绝，\n使者向我投来了难以置信的目光。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了我的嚴詞拒絕，\n使者向我投來了難以置信的目光。"
+    }
+  },
+  {
+    "id": "0045_00158",
+    "ja": {
+      "name": null,
+      "text": "バカなことを……と思うだろうか？\nだが、俺は我慢できなかったのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's probably pretty stupid of me, but this is one thing I simply can't bring myself to do."
+    },
+    "cn": {
+      "name": null,
+      "text": "他大概觉得我愚不可及吧？\n但是，我对此完全无法容忍。"
+    },
+    "tw": {
+      "name": null,
+      "text": "他大概覺得我愚不可及吧？\n但是，我對此完全無法容忍。"
+    }
+  },
+  {
+    "id": "0045_00159",
+    "ja": {
+      "name": null,
+      "text": "王からの指名依頼に見せかけた命令を拒絶し、\n俺はその場で冒険者としての身分を投げ捨てた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Turning down a direct order from the king himself means I've effectively destroyed any hope I have of being an adventurer."
+    },
+    "cn": {
+      "name": null,
+      "text": "拒绝掉国王这个看似指名委托的命令，\n就意味着当场舍弃了冒险者的身份。"
+    },
+    "tw": {
+      "name": null,
+      "text": "拒絕掉國王這個看似指名委託的命令，\n就意味著當場捨棄了冒險者的身份。"
+    }
+  },
+  {
+    "id": "0045_00160",
+    "ja": {
+      "name": null,
+      "text": "街に滞在することが難しくなり、\n早々に荷物をまとめて出て行くことにする。"
+    },
+    "en": {
+      "name": null,
+      "text": "Unable to stick around for much longer, I hurriedly pack my things to leave as soon as possible."
+    },
+    "cn": {
+      "name": null,
+      "text": "同时，我也难以继续在城里容身，\n于是打算尽早收拾行李，一走了之。"
+    },
+    "tw": {
+      "name": null,
+      "text": "同時，我也難以繼續在城裡容身，\n於是打算儘早收拾行李，一走了之。"
+    }
+  },
+  {
+    "id": "0045_00161",
+    "ja": {
+      "name": null,
+      "text": "この件を噂として漏れ聞いた冒険者たちは、\n俺を揶揄しながら笑っていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "As soon as my fellow adventurers heard what I had said, they immediately ridiculed my decision."
+    },
+    "cn": {
+      "name": null,
+      "text": "听闻此事的冒险者们，\n都对我极尽揶揄嘲讽之能事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽聞此事的冒險者們，\n都對我極盡揶揄嘲諷之能事。"
+    }
+  },
+  {
+    "id": "0045_00162",
+    "ja": {
+      "name": null,
+      "text": "だが、それが何だというのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "But what does their opinion matter anyway?"
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，那又如何？"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，那又如何？"
+    }
+  },
+  {
+    "id": "0045_00163",
+    "ja": {
+      "name": null,
+      "text": "逆に俺の心には一点の曇りもなく、\nこの空のように晴れ晴れとしている……。"
+    },
+    "en": {
+      "name": null,
+      "text": "On the contrary, I feel no regret over what I did. In fact, my conscious is as clear as a blue sky."
+    },
+    "cn": {
+      "name": null,
+      "text": "我的心反而不再有一丝阴霾，\n宛如这片天空一般澄澈晴朗……"
+    },
+    "tw": {
+      "name": null,
+      "text": "我的心反而不再有一絲陰霾，\n宛如這片天空一般澄澈晴朗……"
+    }
+  },
+  {
+    "id": "0045_00164",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「とはいえ、\nこの森もあの国の一部ではあるんだよな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Though the forest is still within the boundaries of the kingdom...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「可话说回来，\n这片森林也是这个国家的一部分啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「可話說回來，\n這片森林也是這個國家的一部分啊……」"
+    }
+  },
+  {
+    "id": "0045_00165",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ないとは思うが、\n追っ手が掛かる前に拠点を変えるべきだろうか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I doubt they'll send anyone after me, but it might be wise to find a new place to stay...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「虽然觉得不太可能，\n但是不是应该在追兵出现之前改变据点？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「雖然覺得不太可能，\n但是不是應該在追兵出現之前改變據點？」"
+    }
+  },
+  {
+    "id": "0045_00166",
+    "ja": {
+      "name": null,
+      "text": "そんなことを考えながら、\n俺は森の中を小屋へ向けて歩いていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "With that thought on my mind, I head toward my little cabin in the middle of the woods."
+    },
+    "cn": {
+      "name": null,
+      "text": "我一边思考着这种事，\n一边向森林中的小屋走去。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我一邊思考著這種事，\n一邊向森林中的小屋走去。"
+    }
+  },
+  {
+    "id": "0045_00167",
+    "ja": {
+      "name": null,
+      "text": "今回の件があって、俺が本当に欲しかったものに、\nようやく気付くことができた気がする。"
+    },
+    "en": {
+      "name": null,
+      "text": "This entire situation has made me realize what it is that I really want, more than anything."
+    },
+    "cn": {
+      "name": null,
+      "text": "经过这次的事，\n我终于意识到了自己真正渴望的东西。"
+    },
+    "tw": {
+      "name": null,
+      "text": "經過這次的事，\n我終於意識到了自己真正渴望的東西。"
+    }
+  },
+  {
+    "id": "0045_00168",
+    "ja": {
+      "name": null,
+      "text": "いや……気付いてはいたけれど、\n失ってから自覚したのかもしれない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Well, maybe that's not entirely accurate—a part of me always knew, but I didn't fully realize what that was until I'd lost it."
+    },
+    "cn": {
+      "name": null,
+      "text": "不……话虽如此，\n但也可能是失去之后才有所察觉。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不……話雖如此，\n但也可能是失去之後才有所察覺。"
+    }
+  },
+  {
+    "id": "0045_00169",
+    "ja": {
+      "name": null,
+      "text": "冒険者を続けるよりも、さらに大事なこと……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Something more important to me than being an adventurer..."
+    },
+    "cn": {
+      "name": null,
+      "text": "比继续做冒险者，还要重要的事……"
+    },
+    "tw": {
+      "name": null,
+      "text": "比繼續做冒險者，還要重要的事……"
+    }
+  },
+  {
+    "id": "0045_00170",
+    "ja": {
+      "name": null,
+      "text": "俺が本当に大切にしたいこと……。"
+    },
+    "en": {
+      "name": null,
+      "text": "The most precious treasure to me in the whole world..."
+    },
+    "cn": {
+      "name": null,
+      "text": "我真正想要珍惜的事物……"
+    },
+    "tw": {
+      "name": null,
+      "text": "我真正想要珍惜的事物……"
+    }
+  },
+  {
+    "id": "0045_00171",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ここは全然変わらないな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Everything's exactly how I left it...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「这里真是一点都没变啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「這裡真是一點都沒變啊……」"
+    }
+  },
+  {
+    "id": "0045_00172",
+    "ja": {
+      "name": null,
+      "text": "アリーとファルナが出て行って、\nすでに数ヶ月が経っている。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's been several months since Allie and Farna left."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽和法尔娜离开之后，已经过去好几个月了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗和法爾娜離開之後，已經過去好幾個月了。"
+    }
+  },
+  {
+    "id": "0045_00173",
+    "ja": {
+      "name": null,
+      "text": "それから俺も戻って来ていなかったが、\n出て行った時とほとんど変わっていなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "And since I, too, left shortly after them, the cabin is basically the same as before."
+    },
+    "cn": {
+      "name": null,
+      "text": "那之后我一直没有回来，\n但这里几乎还是我离开时的那副模样。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那之後我一直沒有回來，\n但這裡幾乎還是我離開時的那副模樣。"
+    }
+  },
+  {
+    "id": "0045_00174",
+    "ja": {
+      "name": null,
+      "text": "思い出のままの森の小屋を見て、\n思わず表情をほころばせてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The cabin looks exactly the way I remember it, and I find myself beginning to tear up."
+    },
+    "cn": {
+      "name": null,
+      "text": "看着与回忆里毫无二致的森林小屋，\n我不禁露出了笑容。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看著與回憶裡毫無二致的森林小屋，\n我不禁露出了笑容。"
+    }
+  },
+  {
+    "id": "0045_00175",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……いや、待て。\nいくら何でも、変わらなさすぎじゃないか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Hold on a moment... It's almost TOO perfect. How can it still look exactly the same?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……不，慢着，\n再怎么说，也不该保持原样到这种地步吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……不，慢著，\n再怎麼說，也不該保持原樣到這種地步吧？」"
+    }
+  },
+  {
+    "id": "0045_00176",
+    "ja": {
+      "name": null,
+      "text": "何ヶ月も留守にしたのだから、\nもっと草などで荒れていてもおかしくない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Considering I've been gone for several months, it's kind of odd that there's not more weeds."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明好几个月没人照料，\n野草什么的应该更加肆虐才对。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明好幾個月沒人照料，\n野草什麼的應該更加肆虐才對。"
+    }
+  },
+  {
+    "id": "0045_00177",
+    "ja": {
+      "name": null,
+      "text": "だというのに、まるで整えられているかのような状態を\n保っているのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's almost as if someone's been around to keep things tidy and in order."
+    },
+    "cn": {
+      "name": null,
+      "text": "但眼前的小屋，却俨然是一副经过了打理的状态。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但眼前的小屋，卻儼然是一副經過了打理的狀態。"
+    }
+  },
+  {
+    "id": "0045_00178",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「これはいったい……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What's going on...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「究竟怎么回事……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「究竟怎麼回事……？」"
+    }
+  },
+  {
+    "id": "0045_00179",
+    "ja": {
+      "name": null,
+      "text": "そのことを不思議に思いながら、\n俺は小屋のドアへゆっくり近づいていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Curious, I slowly approach the front door to the small cabin."
+    },
+    "cn": {
+      "name": null,
+      "text": "怀着一肚子疑问，\n我蹑手蹑脚地接近了小屋的门前。"
+    },
+    "tw": {
+      "name": null,
+      "text": "懷著一肚子疑問，\n我躡手躡腳地接近了小屋的門前。"
+    }
+  }
+]

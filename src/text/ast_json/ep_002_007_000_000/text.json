@@ -1,0 +1,800 @@
+[
+  {
+    "id": "0026_00001",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「くぅっ……まだ、体が痛むな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Ugh... My body still hurts all over...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「咕唔……身子还有点疼……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「咕唔……身子還有點疼……」"
+    }
+  },
+  {
+    "id": "0026_00002",
+    "ja": {
+      "name": null,
+      "text": "昼間に無理をしたツケが、いまだに俺の体を苛んでいた。"
+    },
+    "en": {
+      "name": null,
+      "text": "My muscles are still sore from our exercise earlier in the day."
+    },
+    "cn": {
+      "name": null,
+      "text": "白天用力过猛的后果，正在惩罚着我的身体。"
+    },
+    "tw": {
+      "name": null,
+      "text": "白天用力過猛的後果，正在懲罰著我的身體。"
+    }
+  },
+  {
+    "id": "0026_00003",
+    "ja": {
+      "name": null,
+      "text": "なまじ調子が良かっただけに、\nまた介助される状態になったのは辛いものがある。"
+    },
+    "en": {
+      "name": null,
+      "text": "To go from feeling fine to once again needing help getting around is a hard pill to swallow."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明之前的状态还不错，\n却又倒退了需要看护的状态，\n实在是令人难堪。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明之前的狀態還不錯，\n卻又倒退了需要看護的狀態，\n實在是令人難堪。"
+    }
+  },
+  {
+    "id": "0026_00004",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「無茶をするからですよ。\nもっと御自愛ください」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It's because you went too hard. You need to take better care of yourself and slow down.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「都怪您太逞强了嘛，\n要懂得自爱才是。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「都怪您太逞強了嘛，\n要懂得自愛才是。」"
+    }
+  },
+  {
+    "id": "0026_00005",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「う、うむ、そうだぞ主人。\n無理は駄目だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Y-Yeah. She's right, Sir. Stop doing too much too soon.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯、嗯，就是啊，主人，\n不可以太勉强自己。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯、嗯，就是啊，主人，\n不可以太勉強自己。」"
+    }
+  },
+  {
+    "id": "0026_00006",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「わかってはいるんだけどな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I know, already...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「我倒是也明白啦……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「我倒是也明白啦……」"
+    }
+  },
+  {
+    "id": "0026_00007",
+    "ja": {
+      "name": null,
+      "text": "とはいえ、言われてもしかたないだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, I can't fault them for stating the obvious."
+    },
+    "cn": {
+      "name": null,
+      "text": "话虽如此，也只能接受这番说教了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "話雖如此，也只能接受這番說教了。"
+    }
+  },
+  {
+    "id": "0026_00008",
+    "ja": {
+      "name": null,
+      "text": "原因が昼間の無理な腰使いにあるのは間違いないため、\n結局は自分が原因なのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The reason I'm in this much pain is due to my over-enthusiastic fuck session earlier, so I can't exactly complain."
+    },
+    "cn": {
+      "name": null,
+      "text": "毕竟是用腰过度造成了这种局面，\n所以归根结底，只能怪我自己。"
+    },
+    "tw": {
+      "name": null,
+      "text": "畢竟是用腰過度造成了這種局面，\n所以歸根結底，只能怪我自己。"
+    }
+  },
+  {
+    "id": "0026_00009",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、それはそれとしてだ。\nファルナは恥ずかしくないのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"B-Be that as it may... you don't seem embarrassed about this at all, Farna.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「比、比起这个，\n法尔娜难道不会难为情吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「比、比起這個，\n法爾娜難道不會難為情嗎……？」"
+    }
+  },
+  {
+    "id": "0026_00010",
+    "ja": {
+      "name": null,
+      "text": "アリーは真っ赤になって、\n平然と俺の体を洗っているファルナへ視線を向ける。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie, whose cheeks are bright red, looks over at Farna, who's washing my body without batting an eyelash."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽满脸通红，\n将目光投向了若无其事地清洗身体的法尔娜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗滿臉通紅，\n將目光投向了若無其事地清洗身體的法爾娜。"
+    }
+  },
+  {
+    "id": "0026_00011",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私はもう慣れていますから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I've already grown quite used to it.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为我已经习惯了嘛。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為我已經習慣了嘛。」"
+    }
+  },
+  {
+    "id": "0026_00012",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「な、慣れるもの……なのか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You're... u-used to it...?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「这、这能习惯……吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「這、這能習慣……嗎？」"
+    }
+  },
+  {
+    "id": "0026_00013",
+    "ja": {
+      "name": null,
+      "text": "風呂場での介助はファルナがしていたため、\n一緒に入浴する機会は特に多かった。"
+    },
+    "en": {
+      "name": null,
+      "text": "As the person in charge of helping me clean myself up, we've shared many a bath by this point."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为洗澡时都要接受法尔娜的照料，\n所以一起入浴的机会也比较多。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為洗澡時都要接受法爾娜的照料，\n所以一起入浴的機會也比較多。"
+    }
+  },
+  {
+    "id": "0026_00014",
+    "ja": {
+      "name": null,
+      "text": "そしてアリーが一緒に入るようになったのは、\nごく最近のことだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "And it wasn't until recently that Allie began joining us."
+    },
+    "cn": {
+      "name": null,
+      "text": "而艾丽是直到最近，\n才开始与我们一同洗澡的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而艾麗是直到最近，\n才開始與我們一同洗澡的。"
+    }
+  },
+  {
+    "id": "0026_00015",
+    "ja": {
+      "name": null,
+      "text": "そのこともあって、\nアリーにはまだ恥じらいが強く残っている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Which is probably why the entire situation is still pretty embarrassing to her."
+    },
+    "cn": {
+      "name": null,
+      "text": "也是因此，\n艾丽仍显得有些难掩羞涩。"
+    },
+    "tw": {
+      "name": null,
+      "text": "也是因此，\n艾麗仍顯得有些難掩羞澀。"
+    }
+  },
+  {
+    "id": "0026_00016",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様、失礼します。\nこちらも綺麗にしますね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I'm sorry, Master, but do you want me to clean you up here as well?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，冒犯了，\n接下来要洗这边了哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，冒犯了，\n接下來要洗這邊了哦？」"
+    }
+  },
+  {
+    "id": "0026_00017",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うぉっ……！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Whuh...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「喔哦……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「喔哦……！？」"
+    }
+  },
+  {
+    "id": "0026_00018",
+    "ja": {
+      "name": null,
+      "text": "石けんの泡まみれの手が、\n体を隅から隅まで撫で回してくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her soap-sudsy hand leaves no part of my body untouched, caressing me all over."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜用沾满泡沫的手，\n周到地清洗着我身体的每个角落。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜用沾滿泡沫的手，\n周到地清洗著我身體的每個角落。"
+    }
+  },
+  {
+    "id": "0026_00019",
+    "ja": {
+      "name": null,
+      "text": "その手が股間を無造作に掴んで来たため、\n俺は思わず声を上げてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "And I can't help but yelp in surprise as that same hand nonchalantly squeezes my cock."
+    },
+    "cn": {
+      "name": null,
+      "text": "当她毫不犹豫地抓向胯下时，\n我情不自禁地叫出了声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "當她毫不猶豫地抓向胯下時，\n我情不自禁地叫出了聲。"
+    }
+  },
+  {
+    "id": "0026_00020",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ファ、ファルナ！？\nそのようなところまで……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"F-Farna?! You're really going to do something like that now?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「法、法尔娜！？\n连那种地方都……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「法、法爾娜！？\n連那種地方都……」"
+    }
+  },
+  {
+    "id": "0026_00021",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あら、変なところに触ったでしょうか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hmm? Did I do something weird?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「哎呀，我摸到了什么不该摸的地方吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「哎呀，我有摸到什麼不該摸的地方嗎？」"
+    }
+  },
+  {
+    "id": "0026_00022",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ここを綺麗にするのも、\n当然のことだと思いますけれど……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I'm washing him off, aren't I? This is just another part of his body that needs cleaning.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「把这个位置洗干净，\n应该是理所当然的吧……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「把這個位置洗乾淨，\n應該是理所當然的吧……」"
+    }
+  },
+  {
+    "id": "0026_00023",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「い、いや、それはそうだろうが、そんな平然と……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"W-Well, yeah... Naturally, that makes sense, I guess, b-but still...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「不、不，话是这么说，可你动作也太自然了……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「不、不，話是這麼說，可妳動作也太自然了……」"
+    }
+  },
+  {
+    "id": "0026_00024",
+    "ja": {
+      "name": null,
+      "text": "照れながらも慌てるアリーの様子に、\nファルナはからかうような微笑みを浮かべる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna flashes Allie, deeply embarrassed and flustered, a teasing smile."
+    },
+    "cn": {
+      "name": null,
+      "text": "看着艾丽那慌张又害臊的样子，\n法尔娜露出了有些不怀好意的微笑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看著艾麗那慌張又害臊的樣子，\n法爾娜露出了有些不懷好意的微笑。"
+    }
+  },
+  {
+    "id": "0026_00025",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ふふっ。ご主人様、こちらも洗いますね……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hehe, shall I wash this for you, too, Master?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呵呵，主人，接下来要洗这里了哦……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呵呵，主人，接下來要洗這裡了哦……？」"
+    }
+  },
+  {
+    "id": "0026_00026",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0026_00027",
+    "ja": {
+      "name": null,
+      "text": "股間をまさぐるように洗っていた手が、\n今度はお尻の方に伸びてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "The hand which had been stroking my cock slides over my butt."
+    },
+    "cn": {
+      "name": null,
+      "text": "在胯下搓搓揉揉的手，\n紧接着伸向了屁股。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在胯下搓搓揉揉的手，\n緊接著伸向了屁股。"
+    }
+  },
+  {
+    "id": "0026_00028",
+    "ja": {
+      "name": null,
+      "text": "ためらいなくお尻の穴まで弄られ、\nぞわぞわっとした感触が背筋を這い上がってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Without hesitation, she begins playing with my asshole and a shiver races up my spine."
+    },
+    "cn": {
+      "name": null,
+      "text": "她毫不犹豫地揉弄着我的肛门，\n令一阵难以按捺的感觉直冲脊柱。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她毫不猶豫地揉弄著我的肛門，\n令一陣難以按捺的感覺直衝脊柱。"
+    }
+  },
+  {
+    "id": "0026_00029",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んなっ……！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Whuh...?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「诶……！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「欸……！？」"
+    }
+  },
+  {
+    "id": "0026_00030",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あら……ご主人様ったら。\n体を洗ってるだけなのに固くなってきましたよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Oh, my... Dear me. You're already this hard and all I'm doing is washing your body for you.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「哎呀……主人您真是的，\n明明只是在清洗身子，怎么还变硬了？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「哎呀……主人您真是的，\n明明只是在清洗身子，怎麼還變硬了？」"
+    }
+  },
+  {
+    "id": "0026_00031",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「もう、本当に仕方のない人なんですから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You really are hopeless...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「唉，您可真让人没办法啊……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「唉，您可真讓人沒辦法啊……」"
+    }
+  },
+  {
+    "id": "0026_00032",
+    "ja": {
+      "name": null,
+      "text": "股間やお尻の穴を同時に刺激され、\n当然のように反応してしまう俺のペニス。"
+    },
+    "en": {
+      "name": null,
+      "text": "There's no way I can't get hard with her teasing both my cock and my asshole at the same time."
+    },
+    "cn": {
+      "name": null,
+      "text": "胯下和肛门同时受到刺激，\n令阴茎理所当然般产生了反应。"
+    },
+    "tw": {
+      "name": null,
+      "text": "胯下和肛門同時受到刺激，\n令陰莖理所當然般產生了反應。"
+    }
+  },
+  {
+    "id": "0026_00033",
+    "ja": {
+      "name": null,
+      "text": "ファルナはそれを包み込むようにして触れてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She wraps her fingers around my cock, squeezing it."
+    },
+    "cn": {
+      "name": null,
+      "text": "见状，法尔娜将阴茎整个握在了手掌当中。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見狀，法爾娜將陰莖整個握在了手掌當中。"
+    }
+  },
+  {
+    "id": "0026_00034",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ファルナ、主人のを掴んで、何をして……！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Farna, w-what do you think you're doing?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「法尔娜，你抓住主人那里干嘛……！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「法爾娜，妳抓住主人那裡是要做什麼……！？」"
+    }
+  },
+  {
+    "id": "0026_00035",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私のせいで大きくしてしまったのですから、\n責任を取ろうかと……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It's my fault that he's hard, so I'm simply accepting responsibility and doing something about it...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「既然是我害它变得这么大，\n那就要为此负责才行……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「既然是我害它變得這麼大，\n那就要為此負責才行……」"
+    }
+  },
+  {
+    "id": "0026_00036",
+    "ja": {
+      "name": null,
+      "text": "アリーをからかうように言い、\n俺にお湯をかけて石けんの泡を流していく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna answers Allie playfully as she pours hot water over my body to rinse off the soap."
+    },
+    "cn": {
+      "name": null,
+      "text": "她用戏谑的口吻这样说，\n然后洒下热水，冲掉了肥皂泡。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她用戲謔的口吻這樣說，\n然後灑下熱水，沖掉了肥皂泡。"
+    }
+  },
+  {
+    "id": "0026_00037",
+    "ja": {
+      "name": null,
+      "text": "そのうえで、\n体を密着させながら俺に立ち上がるように促してきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She then helps me up, holding me close and supporting my body with her own."
+    },
+    "cn": {
+      "name": null,
+      "text": "紧接着，还将身体贴上来，似乎是要将我扶起。"
+    },
+    "tw": {
+      "name": null,
+      "text": "緊接著，還將身體貼上來，似乎是要將我扶起。"
+    }
+  },
+  {
+    "id": "0026_00038",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様。\n洗い終わりましたので、湯船へ行きましょう？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You're all clean, Master, so why don't we get you over to the bath?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，\n身体冲洗干净了，我们去浴池吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，\n身體沖洗乾淨了，我們去浴池吧？」"
+    }
+  },
+  {
+    "id": "0026_00039",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それと……このたくましいモノで、\nどうか私にお情けをくださいませ……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"And then perhaps you can grace me with that thick, throbbing member of yours...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「然后……麻烦您用那粗壮的肉棒，\n赐予我些许爱怜……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「然後……麻煩您用那粗壯的肉棒，\n賜予我些許愛憐……」"
+    }
+  },
+  {
+    "id": "0026_00040",
+    "ja": {
+      "name": null,
+      "text": "むにゅっとむき出しの乳房が押し当てられる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I feel her very large, very naked breasts pressed against me."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，她将裸露的乳房压在了我身上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，她將裸露的乳房壓在了我身上。"
+    }
+  },
+  {
+    "id": "0026_00041",
+    "ja": {
+      "name": null,
+      "text": "俺を支えながらも、\n手は相変わらず股間の辺り──内股や下腹部を誘うように撫で回していた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even while holding me up, her hand never stops rubbing my cock, inner thighs, and lower abdomen for even a moment."
+    },
+    "cn": {
+      "name": null,
+      "text": "在搀扶我的同时，\n手也依然在我胯下──大腿内侧和下腹周围，\n挑逗般地来回抚摸着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在攙扶我的同時，\n手也依然在我胯下──大腿內側和下腹周圍，\n挑逗般地來回撫摸著。"
+    }
+  },
+  {
+    "id": "0026_00042",
+    "ja": {
+      "name": null,
+      "text": "耳元で色っぽくそんなことを囁かれては、\n正直なところ俺も我慢できるわけがない。"
+    },
+    "en": {
+      "name": null,
+      "text": "With her voice whispering alluringly in my ears, there's no way I could have stood on my own two legs."
+    },
+    "cn": {
+      "name": null,
+      "text": "再加上耳边那一声声淫靡的低语，\n说实话，我已完全无法忍耐。"
+    },
+    "tw": {
+      "name": null,
+      "text": "再加上耳邊那一聲聲淫靡的低語，\n說實話，我已完全無法忍耐。"
+    }
+  }
+]

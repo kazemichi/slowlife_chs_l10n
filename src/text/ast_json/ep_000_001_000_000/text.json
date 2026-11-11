@@ -1,0 +1,5645 @@
+[
+  {
+    "id": "0001_00001",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「いらっしゃいませ。\n当都市で一番の奴隷商店へ、\nようこそおいでくださいました！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Welcome! We've got the best slaves this town has to offer! A special someone for any inclination!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「欢迎光临。\n客人您可真有眼光，\n我这儿是全城最好的奴隶商店！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「歡迎光臨。\n客人您可真有眼光，\n這裡是全城最好的奴隸商店！」"
+    }
+  },
+  {
+    "id": "0001_00002",
+    "ja": {
+      "name": null,
+      "text": "無駄に豪華な造りの店内に入るなり、\n媚びるような声を掛けられた。"
+    },
+    "en": {
+      "name": null,
+      "text": "As soon as I step inside the ridiculously luxurious store, I am immediately greeted in an overly friendly way."
+    },
+    "cn": {
+      "name": null,
+      "text": "刚刚踏进装潢得过分华美的店内，\n就迎来了一阵谄媚的招呼声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "剛剛踏進裝潢得過分華美的店內，\n就迎來了一陣諂媚的招呼聲。"
+    }
+  },
+  {
+    "id": "0001_00003",
+    "ja": {
+      "name": null,
+      "text": "中年の──\nここの店主だろう男が笑顔を張り付けて近付いてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The middle-aged man, most likely the shop owner, approaches me with a smile on his face."
+    },
+    "cn": {
+      "name": null,
+      "text": "一名中年男子──\n估计就是这里的店主，满脸堆笑地走到了我身边。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一名中年男子──\n估計就是這裡的店主，滿臉堆笑地走到了我身邊。"
+    }
+  },
+  {
+    "id": "0001_00004",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……奴隷を買いたい」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'd like to buy a slave...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……我想买奴隶。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……我想買奴隸。」"
+    }
+  },
+  {
+    "id": "0001_00005",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「もちろんでございます、お客様！\nして、どのような奴隷をお求めですかな？」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Well, of course, good sir! Now then, did you have anything special in mind?\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「当然没问题，这位客人！\n请问您想要什么样的奴隶？」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「當然沒問題，這位客人！\n請問您想要什麼樣的奴隸？」"
+    }
+  },
+  {
+    "id": "0001_00006",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「身の世話をする女奴隷でしょうか？\nもちろん、当店の奴隷は大変質も良く、\n夜のお世話もこなせますぞ！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"A female caretaker, perhaps? Keep in mind, our slaves receive the finest training, and you can call upon their services at any time!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「是想找个女奴隶来服侍自己么？\n本店的奴隶皆是品质上佳，\n侍奉客人过夜自然是不在话下！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「是想找個女奴隸來服侍自己麼？\n本店的奴隸皆是品質上佳，\n侍奉客人過夜自然是不在話下！」"
+    }
+  },
+  {
+    "id": "0001_00007",
+    "ja": {
+      "name": null,
+      "text": "値踏みするような不快な視線が、\nじろじろと俺の体を這い回る。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can feel his gaze creeping over my skin, assessing my worth."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，他用估价般令人不悦的视线，\n将我从头到脚打量了一遍。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，他用估價般令人不悅的視線，\n將我從頭到腳打量了一遍。"
+    }
+  },
+  {
+    "id": "0001_00008",
+    "ja": {
+      "name": null,
+      "text": "最近はそのような視線に良く晒されることもあり、\nつい眉をひそめてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I've grown used to stares like that lately, but I still can't help but scowl back at him."
+    },
+    "cn": {
+      "name": null,
+      "text": "由于最近经常会遭受这样的目光，\n令我不由得皱起了眉。"
+    },
+    "tw": {
+      "name": null,
+      "text": "由於最近經常會遭受這樣的目光，\n令我不由得皺起了眉。"
+    }
+  },
+  {
+    "id": "0001_00009",
+    "ja": {
+      "name": null,
+      "text": "ただ、店主の推察は正しい。\n俺が求めているのはまさに自分の世話をしてくれる\n奴隷だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Regardless, he's right. I am in search of a caretaker of sorts."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，店主的推测很准确。\n我此行的目的，正是想挑个奴隶来照顾自己。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，店主的推測很準確。\n我此行的目的，正是想挑個奴隸來照顧自己。"
+    }
+  },
+  {
+    "id": "0001_00010",
+    "ja": {
+      "name": null,
+      "text": "全身に負った大怪我のせいで、\n動きのぎこちない俺を見れば、\n誰だって予想できるだろうが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "One look at the grave injuries all over the body makes it pretty obvious to anyone that I have a hard time taking care of myself."
+    },
+    "cn": {
+      "name": null,
+      "text": "看到我全身遭受重创，行动不便的模样，\n大概谁都猜得到吧……"
+    },
+    "tw": {
+      "name": null,
+      "text": "看到我全身遭受重創，行動不便的模樣，\n大概誰都猜得到吧……"
+    }
+  },
+  {
+    "id": "0001_00011",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「推察通り、\n俺の世話をできる奴隷ならば、\n男だろうが女だろうが構わない」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You guessed correctly. However, the gender matters naught as long as they're good at what they do.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「如你所讲，\n只要是可以照顾我的奴隶，\n无论男女都无所谓。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「如你所講，\n只要是可以照顧我的奴隸，\n無論男女都無所謂。」"
+    }
+  },
+  {
+    "id": "0001_00012",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「つける条件は一つのみ。\n絶対に、俺を裏切らない相手……というだけだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"My only condition is that I require an individual who will never betray me, under any circumstances.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「附加条件只有一个，\n要绝对不会背叛我的人……就这样。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「附加條件只有一個，\n要絕對不會背叛我的人……就這樣。」"
+    }
+  },
+  {
+    "id": "0001_00013",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「裏切らない相手……ですか。\nなるほど、なるほど」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"So you're looking for a loyal slave, then? I see. Interesting.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「绝不会背叛的人……是吗？\n我懂了，我懂了。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「絕不會背叛的人……是嗎？\n我懂了，我懂了。」"
+    }
+  },
+  {
+    "id": "0001_00014",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「お客様は奴隷を買うのは初めてですな？」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"This is your first time shopping for this particular purchase, is it not?\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「客人您一定是第一次购买奴隶吧？」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「客人您一定是第一次購買奴隸吧？」"
+    }
+  },
+  {
+    "id": "0001_00015",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「ご安心ください。\n全ての奴隷は、絶対服従の呪いをかけております」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"You may leave those fears at the door. All of our slaves have been enchanted with a spell of absolute obedience.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「请您放心，\n所有的奴隶都被施加了绝对服从的诅咒。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「請您放心，\n所有的奴隸都有被施加絕對服從的詛咒。」"
+    }
+  },
+  {
+    "id": "0001_00016",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「自分では解除できない呪いですので、\n絶対に裏切る心配はないのです！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"The slaves cannot break the spell themselves, so betrayal is not something you'll need to worry about.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「这种诅咒无法凭自身力量解除，\n所以完全不用担心他们会背叛主人！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「這種詛咒無法憑自身力量解除，\n所以完全不用擔心他們會背叛主人！」"
+    }
+  },
+  {
+    "id": "0001_00017",
+    "ja": {
+      "name": null,
+      "text": "噂には聞いていたが、\n本当に呪いで絶対服従になっているらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'd heard rumors about that sort of enchantment. Evidently they were true."
+    },
+    "cn": {
+      "name": null,
+      "text": "对此我也有所耳闻。\n看来，绝对服从的诅咒是真的存在。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對此我也有所耳聞。\n看來，絕對服從的詛咒是真的存在。"
+    }
+  },
+  {
+    "id": "0001_00018",
+    "ja": {
+      "name": null,
+      "text": "国の法で認められているとはいえ、\n今までは悪印象から敬遠していた存在だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even though it's completely legal, I'd shied away from this sort of thing in the past due to its inherent impropriety."
+    },
+    "cn": {
+      "name": null,
+      "text": "尽管本国法律允许这样的行为，\n但我对此没什么好印象，也始终未曾染指。"
+    },
+    "tw": {
+      "name": null,
+      "text": "儘管本國法律允許這樣的行為，\n但我對此沒什麼好印象，也始終未曾染指。"
+    }
+  },
+  {
+    "id": "0001_00019",
+    "ja": {
+      "name": null,
+      "text": "無理矢理相手を従わせることに、\nどうしても悪感情を抱いてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The idea of someone being forced to obey my every command fills me with loathing."
+    },
+    "cn": {
+      "name": null,
+      "text": "用强硬的手段迫使对方屈从，\n实在令人感觉很不愉快。"
+    },
+    "tw": {
+      "name": null,
+      "text": "用強硬的手段迫使對方屈從，\n實在令人感覺很不愉快。"
+    }
+  },
+  {
+    "id": "0001_00020",
+    "ja": {
+      "name": null,
+      "text": "とはいえ……だ。\n今回は背に腹は代えられない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even so, I've come too far to turn back now."
+    },
+    "cn": {
+      "name": null,
+      "text": "话虽如此……\n这一次我也是迫不得已。"
+    },
+    "tw": {
+      "name": null,
+      "text": "話雖如此……\n這一次我也是迫不得已。"
+    }
+  },
+  {
+    "id": "0001_00021",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「なら、俺の世話をできそうな奴隷を用立ててくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Fine, then. I need a slave who can take care of me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那么，请挑一个可以照顾我的奴隶吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那麼，請挑一個可以照顧我的奴隸吧。」"
+    }
+  },
+  {
+    "id": "0001_00022",
+    "ja": {
+      "name": null,
+      "text": "数度深呼吸をして込み上げてくる感情を飲み込み、\n表情に出さないように店主へ告げる。"
+    },
+    "en": {
+      "name": null,
+      "text": "After a few deep breaths to swallow my feelings, I speak to the owner, keeping my expression blank."
+    },
+    "cn": {
+      "name": null,
+      "text": "我用几次深呼吸压抑着奔涌而上的情感，\n不动声色地对店主说道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我用幾次深呼吸壓抑著奔湧而上的情感，\n不動聲色地對店主說道。"
+    }
+  },
+  {
+    "id": "0001_00023",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「くふふっ、\nお客様は大変運がよろしいですな！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Hehheh! Today's your lucky day, good sir!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「嘿嘿嘿，\n客人您的运气真是不错！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「嘿嘿嘿，\n客人您的運氣真是不錯！」"
+    }
+  },
+  {
+    "id": "0001_00024",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……運が良い？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Is it...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……运气不错？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……運氣不錯？」"
+    }
+  },
+  {
+    "id": "0001_00025",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「隣国との戦争で、\nタイミング良く奴隷になった者が大勢いるのですよ」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"We received a fresh batch of slaves just the other day, thanks to the ongoing war.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「由于与邻国的战争，\n我这儿正好进了一大批优秀的奴隶。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「由於與鄰國的戰爭，\n我這邊正好進了一大批優秀的奴隸。」"
+    }
+  },
+  {
+    "id": "0001_00026",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「その中に、\n城勤めだったという見目麗しい侍女がおりましてね」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"And among them is a simply stunning handmaid who was employed by the Queen herself.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「其中有一位十分美貌的侍女，\n据说曾经奉公于王城。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「其中有一位十分美貌的侍女，\n據說曾經奉公於王城。」"
+    }
+  },
+  {
+    "id": "0001_00027",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「お客様が求める介助の人材としては、\n最上級の技術を持っていると言えるでしょう」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"If you're looking for someone to take care of you, there's none who possess more skill than her.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「客人若是需要照顾伤者的人才，\n这名奴隶可谓是拥有最高等级的技术。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「客人若是需要照顧傷者的人才，\n這名奴隸可謂是擁有最高等級的技術。」"
+    }
+  },
+  {
+    "id": "0001_00028",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「何しろ、\n小国とはいえ王族に仕えていた侍女なのですから！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"After all, regardless of the size of the country they ruled, she was in the service of the royal family.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「毕竟，尽管是小国，\n但好歹也是曾隶属王室的侍女呀！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「畢竟，儘管是小國，\n但好歹也是曾隸屬王室的侍女呀！」"
+    }
+  },
+  {
+    "id": "0001_00029",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「城勤めだった侍女、か……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"A royal handmaiden?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「奉公于王城的侍女吗……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「奉公於王城的侍女嗎……」"
+    }
+  },
+  {
+    "id": "0001_00030",
+    "ja": {
+      "name": null,
+      "text": "怪我が治るまでの付き合いになる予定だし、\n相手の素性はそれほど気にしていない。"
+    },
+    "en": {
+      "name": null,
+      "text": "My caretaker-to-be's background is irrelevant to me, as I only require their help until my wounds heal."
+    },
+    "cn": {
+      "name": null,
+      "text": "我只打算让奴隶照顾自己到康复为止，\n所以其实并不太在乎出身与经历。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我只打算讓奴隸照顧自己到康復為止，\n所以其實並不太在乎出身與經歷。"
+    }
+  },
+  {
+    "id": "0001_00031",
+    "ja": {
+      "name": null,
+      "text": "元侍女なら世話をして貰うのに最適だが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "But a former handmaiden sounds almost too good to be true."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果曾经是侍女，倒确实适合买来照顾自己……"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果曾經是侍女，倒確實適合買來照顧自己……"
+    }
+  },
+  {
+    "id": "0001_00032",
+    "ja": {
+      "name": null,
+      "text": "店主の笑顔になんらかの裏があるような気がして、\nつい警戒をしてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, I catch something lurking behind the owner's customer service smile that puts me on guard."
+    },
+    "cn": {
+      "name": null,
+      "text": "但店主的笑容看上去似乎别有深意，\n让我不由得起了戒心。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但店主的笑容看上去似乎別有深意，\n讓我不由得起了戒心。"
+    }
+  },
+  {
+    "id": "0001_00033",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「何かを隠していないか？\n問題のある女じゃないだろうな？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What's the catch? She's not a troublemaker, is she?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「你是不是有所隐瞒？\n这女的该不会有什么问题吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「你是不是有所隱瞞？\n這女的該不會有什麼問題吧？」"
+    }
+  },
+  {
+    "id": "0001_00034",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「見抜かれてしまいましたか。\n実はですね、少々面倒なことを言っているのですよ」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Looks like I've been caught red-handed. To tell you the truth, there is a bit of a conundrum with that one.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「被您看穿了吗。\n其实她呀，说了一些令人头疼的话。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「被您看穿了嗎。\n其實她呀，說了一些令人頭疼的話。」"
+    }
+  },
+  {
+    "id": "0001_00035",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「その奴隷は、\n立場もわきまえずに自分を買う相手に条件をつけて\nおりましてね」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"She seems to have misunderstood her new position, and as such, has come up with her own conditions for sale.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「明明是个奴隶，\n却不顾自己的身份，对买主提起了条件。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「明明是個奴隸，\n卻不顧自己的身份，對買主提起了條件。」"
+    }
+  },
+  {
+    "id": "0001_00036",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「自分と一緒にもう一人奴隷を買ってくれる相手にのみ、　自分を売りたい……と」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Something about only selling herself to someone who would purchase a specific companion alongside her...\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「说是如果想要自己，\n就必须同时把另一名奴隶也买下来才行……」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「說是如果想要自己，\n就必須同時把另一名奴隸也買下來才行……」"
+    }
+  },
+  {
+    "id": "0001_00037",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「その分、買ってくれた相手には、\n身を尽くして仕えると言っていますがね」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"But, if they agree, she will dedicate her life to serving her new master.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「同时还说作为回报，\n她将会尽心尽力地服侍主人。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「同時還說作為回報，\n她將會盡心盡力地服侍主人。」"
+    }
+  },
+  {
+    "id": "0001_00038",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……その一緒に買うように指定している相手が\n問題なのか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"So the companion is the problem, then?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……所以，\n她要求同时买下的另一名奴隶有什么问题吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……所以，\n她要求同時買下的另一名奴隸有什麼問題嗎？」"
+    }
+  },
+  {
+    "id": "0001_00039",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「はい。\n元王族であり、とんでもない高額な奴隷なのです」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Correct. As former royalty, she comes at an incredibly steep price.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「没错。\n那名奴隶本是皇族，因此售价十分昂贵。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「沒錯。\n那名奴隸本是皇族，因此售價十分昂貴。」"
+    }
+  },
+  {
+    "id": "0001_00040",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「しかも別々に売られた場合は死ぬと言っているのです。\n絶対服従の呪いといえども、\n死にたがりには効果は薄いわけでして」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Even worse, they've both vowed to take their own lives if separated. Unfortunately, that devotion is so strong that it even goes beyond the spell of obedience.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「她还威胁说如果被分开卖掉，自己就一死了之。\n虽说有绝对服从的诅咒，\n可对求死之人，效果就比较有限了。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「她還威脅說如果被分開賣掉，自己就一死了之。\n雖說有絕對服從的詛咒，\n可對求死之人，效果就比較有限了。」"
+    }
+  },
+  {
+    "id": "0001_00041",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「大金で仕入れた以上、死なれては大損。\n売り先に苦労しているありさまなのです」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"We'd be out quite a bit of cash if we lost such valuable assets, though we're having some difficulty finding a buyer.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「花高价进的货，如果死了就亏大了，\n所以我也正愁找不到买家呢。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「花高價進的貨，如果死了就虧大了，\n所以我也正愁找不到買家呢。」"
+    }
+  },
+  {
+    "id": "0001_00042",
+    "ja": {
+      "name": null,
+      "text": "絶対服従の呪いは洗脳して自由意志を奪い、\n行動を強制するものではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "The spell of absolute obedience doesn't take away the subject's free will or force their limbs into motion."
+    },
+    "cn": {
+      "name": null,
+      "text": "所谓绝对服从的诅咒，并非靠洗脑剥夺自由意志，\n强行使唤对方行动的手段。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所謂絕對服從的詛咒，並非靠洗腦剝奪自由意志，\n強行使喚對方行動的手段。"
+    }
+  },
+  {
+    "id": "0001_00043",
+    "ja": {
+      "name": null,
+      "text": "行動に制限を掛け、\n制限から外れれば動きを封じられるか、\n耐えがたい苦痛に襲われる。"
+    },
+    "en": {
+      "name": null,
+      "text": "If they try to disobey, however, their body becomes immobile or wracked by excruciating pain."
+    },
+    "cn": {
+      "name": null,
+      "text": "它只会限制对方的行动，\n对方一旦越界，要么会立刻无法动弹，\n要么就会引起难以承受的痛苦。"
+    },
+    "tw": {
+      "name": null,
+      "text": "它只會限制對方的行動，\n對方一旦越界，要麼會立刻無法動彈，\n要麼就會引起難以承受的痛苦。"
+    }
+  },
+  {
+    "id": "0001_00044",
+    "ja": {
+      "name": null,
+      "text": "もちろん刃物を自分に突き刺したり、\n首を吊って死ぬことは禁じられる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Those affected are forbidden from suicide through any direct means, such as stabbing or hanging."
+    },
+    "cn": {
+      "name": null,
+      "text": "像是用利器刺死自己，或者上吊等行为，\n自然是被禁止的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "像是用利器刺死自己，或者上吊等行為，\n自然是被禁止的。"
+    }
+  },
+  {
+    "id": "0001_00045",
+    "ja": {
+      "name": null,
+      "text": "だが、行動を禁止できても強制することができない。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, those forbidden commands still are impossible to enforce."
+    },
+    "cn": {
+      "name": null,
+      "text": "但这样的禁止，却不能彻底阻止对方的行动。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但這樣的禁止，卻不能徹底阻止對方的行動。"
+    }
+  },
+  {
+    "id": "0001_00046",
+    "ja": {
+      "name": null,
+      "text": "自ら死を望む奴隷の中には、\n食事を断つなりして死のうとする者が一定数いるらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "There have been slaves who wished for death's embrace and reached it by starving themselves."
+    },
+    "cn": {
+      "name": null,
+      "text": "在一心求死的奴隶当中，\n似乎也有不少人企图采用绝食之类的手段。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在一心求死的奴隸當中，\n似乎也有不少人企圖採用絕食之類的手段。"
+    }
+  },
+  {
+    "id": "0001_00047",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「ですが、そこで現れたのがお客様です！\n勇名を馳せているドラゴンサバイバーであれば、\nこの程度の金額はお安いものでしょう！？」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Or, shall I say, we've had such difficulty until today! I'm sure such a price tag is nothing for the famous Dragon Survivor, am I right?!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「但就在这时，客人您就出现了！\n对大名鼎鼎的龙口生还者来说，\n这点钱肯定只是小意思，对吧！？」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「但就在這時，客人您就出現了！\n對大名鼎鼎的龍口生還者來說，\n這點錢肯定只是小意思，對吧！？」"
+    }
+  },
+  {
+    "id": "0001_00048",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0001_00049",
+    "ja": {
+      "name": null,
+      "text": "ドラゴンサバイバー。"
+    },
+    "en": {
+      "name": null,
+      "text": "Dragon Survivor."
+    },
+    "cn": {
+      "name": null,
+      "text": "龙口生还者。"
+    },
+    "tw": {
+      "name": null,
+      "text": "龍口生還者。"
+    }
+  },
+  {
+    "id": "0001_00050",
+    "ja": {
+      "name": null,
+      "text": "その二つ名を耳にして、\n俺は忌々しい出来事を思い出して顔をしかめてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I frown at those words as unwelcome memories surface."
+    },
+    "cn": {
+      "name": null,
+      "text": "这个称号令我想起了那段令人憎恶的回忆，\n于是我不禁绷紧了面孔。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這個稱號令我想起了那段令人憎惡的回憶，\n於是我不禁繃緊了面孔。"
+    }
+  },
+  {
+    "id": "0001_00051",
+    "ja": {
+      "name": null,
+      "text": "俺は元々、\n田舎にある農村で暮らしていた、ただの平民だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Originally, I was nothing more than an ordinary commoner, living in a rural town deep in the country."
+    },
+    "cn": {
+      "name": null,
+      "text": "原本的我，\n只是一名生活在郊外乡村的平民。"
+    },
+    "tw": {
+      "name": null,
+      "text": "原本的我，\n只是一名生活在郊外鄉村的平民。"
+    }
+  },
+  {
+    "id": "0001_00052",
+    "ja": {
+      "name": null,
+      "text": "幼い頃から英雄や未知への冒険に憧れ、\n親との死別を機に、一念発起して冒険者になった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Ever since I was young, I yearned to be a hero, venturing into the wild unknown—which is exactly what I did following death of my parents."
+    },
+    "cn": {
+      "name": null,
+      "text": "自幼对英雄与神秘的冒险满怀憧憬，\n所以在双亲逝世后，便下定决心成为了冒险者。"
+    },
+    "tw": {
+      "name": null,
+      "text": "自幼對英雄與神秘的冒險滿懷憧憬，\n所以在雙親逝世後，便下定決心成為了冒險者。"
+    }
+  },
+  {
+    "id": "0001_00053",
+    "ja": {
+      "name": null,
+      "text": "着実に実績を重ね、若いながらも中堅冒険者として\n名を連ねるほどにまで成長できた。"
+    },
+    "en": {
+      "name": null,
+      "text": "As I gained experience and accolades, I made a name for myself as a formidable adventurer, despite my age."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然尚且年轻，但扎实地积累着成绩，\n成为了一位小有名气的中坚冒险者。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然尚且年輕，但紮實地積累著成績，\n成為了一位小有名氣的中堅冒險者。"
+    }
+  },
+  {
+    "id": "0001_00054",
+    "ja": {
+      "name": null,
+      "text": "ドラゴンサバイバーと呼ばれるようになる出来事が\n起きたのは、その矢先のことだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The event that left me with the nickname \"Dragon Survivor\" happened just before the pinnacle of my career."
+    },
+    "cn": {
+      "name": null,
+      "text": "而就在那之后，\n发生了令我获得龙口生还者这一称号的事件。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而就在那之後，\n發生了令我獲得龍口生還者這一稱號的事件。"
+    }
+  },
+  {
+    "id": "0001_00055",
+    "ja": {
+      "name": null,
+      "text": "信頼していた先輩冒険者達に誘われて、\n『あまり危険のない』はずの冒険へと向かった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I was invited to join a well-traveled adventuring party on a journey they assured me would be a walk in the park."
+    },
+    "cn": {
+      "name": null,
+      "text": "我当时受信任的冒险者前辈们邀请，\n参加了一次『没什么危险』的冒险。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我當時受信任的冒險者前輩們邀請，\n參加了一次『沒什麼危險』的冒險。"
+    }
+  },
+  {
+    "id": "0001_00056",
+    "ja": {
+      "name": null,
+      "text": "だが、『あまり危険のない』というのは真っ赤な嘘で、\n実際にはドラゴンの巣から財宝を持ち出すという危険\n極まりないものだった……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Their promise turned out to be a bold-faced lie. In actuality, stealing treasure from a dragon's nest is the polar opposite of a leisurely stroll..."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，『没什么危险』其实是赤裸裸的谎言。\n实际上，他们的目标是从龙穴盗取财宝，\n可谓危险至极……"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，『沒什麼危險』其實是赤裸裸的謊言。\n實際上，他們的目標是從龍穴盜取財寶，\n可謂危險至極……"
+    }
+  },
+  {
+    "id": "0001_00057",
+    "ja": {
+      "name": null,
+      "text": "財宝を持ち出そうとしたことにドラゴンは怒り狂い、\n金に目が眩んだ先輩冒険者達のせいで、\n俺は逃げ時を失ってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Our theft drove the dragon into an uncontrollable rage, and thanks to my money-hungry companions, I was unable to escape its fury."
+    },
+    "cn": {
+      "name": null,
+      "text": "在我们染指财宝之后，恶龙暴怒欲狂。\n而前辈们则被财富蒙蔽了双眼，\n使我错失了逃命的机会。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在我們染指財寶之後，惡龍暴怒欲狂。\n而前輩們竟被財富蒙蔽了雙眼，\n使我錯失了逃命的機會。"
+    }
+  },
+  {
+    "id": "0001_00058",
+    "ja": {
+      "name": null,
+      "text": "さらに、先輩冒険者達は俺を囮にして逃げようとした。\nだが、その程度で逃げられるほど、\nドラゴンは甘い存在ではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "In fact, these experienced adventurers planned on using me as bait in order to get away, although unfortunately for them, dragons are not so easily fooled."
+    },
+    "cn": {
+      "name": null,
+      "text": "其后，他们更是企图让我充当诱饵，自己趁机逃脱。\n但龙并没那么好对付，怎么可能轻易放过他们？"
+    },
+    "tw": {
+      "name": null,
+      "text": "其後，他們更是企圖讓我充當誘餌，自己趁機逃脫。\n但龍並沒那麼好對付，怎麼可能輕易放過他們？"
+    }
+  },
+  {
+    "id": "0001_00059",
+    "ja": {
+      "name": null,
+      "text": "結果として、先輩冒険者達は全滅。"
+    },
+    "en": {
+      "name": null,
+      "text": "In the end, the entire crew was slaughtered."
+    },
+    "cn": {
+      "name": null,
+      "text": "最终，冒险者前辈们全军覆没。"
+    },
+    "tw": {
+      "name": null,
+      "text": "最終，冒險者前輩們全軍覆沒。"
+    }
+  },
+  {
+    "id": "0001_00060",
+    "ja": {
+      "name": null,
+      "text": "たまたま持っていた霊薬で生き延びた俺は、\nその場にあった財宝だけを手に這々の体で逃げ出すことに成功する。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having survived thanks to an elixir I just happened to have, I managed to escape along with whatever treasure I could scoop up and drag back."
+    },
+    "cn": {
+      "name": null,
+      "text": "我靠碰巧带在身上的灵药保住了性命，\n带着掉落在手边的财宝，\n连滚带爬地独自逃出了龙穴。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我靠碰巧帶在身上的靈藥保住了性命，\n帶著掉落在手邊的財寶，\n連滾帶爬地獨自逃出了龍穴。"
+    }
+  },
+  {
+    "id": "0001_00061",
+    "ja": {
+      "name": null,
+      "text": "凶悪なドラゴンの住む巣から財宝を持ち帰ったとして、\n俺は『ドラゴンサバイバー』の二つ名で呼ばれるように\nなった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having returned in (more or less) one piece, bearing riches beyond anyone's wildest dreams from the vicious dragon's lair, I was dubbed \"The Dragon Survivor.\""
+    },
+    "cn": {
+      "name": null,
+      "text": "因为带着财宝从恶龙栖身的巢穴逃了出来，\n我开始被人称为『龙口生还者』。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為帶著財寶從惡龍棲身的巢穴逃了出來，\n我開始被人稱為『龍口生還者』。"
+    }
+  },
+  {
+    "id": "0001_00062",
+    "ja": {
+      "name": null,
+      "text": "持ち帰ることのできた財宝のおかげで、\n莫大なお金までもが転がり込んできた。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's thanks to my forethought in bringing that treasure back with me that I found myself rolling in gold."
+    },
+    "cn": {
+      "name": null,
+      "text": "靠着从那里带回来的财宝，\n我甚至一举获得了莫大的财富。"
+    },
+    "tw": {
+      "name": null,
+      "text": "靠著從那裡帶回來的財寶，\n我甚至一舉獲得了莫大的財富。"
+    }
+  },
+  {
+    "id": "0001_00063",
+    "ja": {
+      "name": null,
+      "text": "しかし、その代償は今の俺のありさまだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, it came at the price of my own body."
+    },
+    "cn": {
+      "name": null,
+      "text": "其代价，就是如今的这副模样。"
+    },
+    "tw": {
+      "name": null,
+      "text": "其代價，就是如今的這副模樣。"
+    }
+  },
+  {
+    "id": "0001_00064",
+    "ja": {
+      "name": null,
+      "text": "霊薬では命を繋ぐのが精一杯で、\nドラゴンに負わされた傷は完治せず、\nまともに動けない体になってしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The elixir was only strong enough to keep me on the brink of life itself. Unable to fully heal from my wounds, I am now far from the spry young man I once was."
+    },
+    "cn": {
+      "name": null,
+      "text": "灵药只能勉强保住一条命，\n但是无法治愈恶龙造成的伤害，\n害得我如今连正常活动都十分困难。"
+    },
+    "tw": {
+      "name": null,
+      "text": "靈藥只能勉強保住一條命，\n但是無法治愈惡龍造成的傷害，\n害得我如今連正常活動都十分困難。"
+    }
+  },
+  {
+    "id": "0001_00065",
+    "ja": {
+      "name": null,
+      "text": "そして先輩冒険者に裏切られたことで、\n誰も信じられなくなってしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "And, after being betrayed by those I looked up to, I now find it hard to trust anyone."
+    },
+    "cn": {
+      "name": null,
+      "text": "而冒险者前辈们的背叛，\n也令我从此无法再相信任何人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而冒險者前輩們的背叛，\n也令我從此無法再相信任何人。"
+    }
+  },
+  {
+    "id": "0001_00066",
+    "ja": {
+      "name": null,
+      "text": "忌避していた奴隷を買おうとしたのも、それが原因だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thanks to all that, I now find myself going completely against my ideals and purchasing a slave."
+    },
+    "cn": {
+      "name": null,
+      "text": "也是因此，才决定购买过去一直有所避讳的奴隶。"
+    },
+    "tw": {
+      "name": null,
+      "text": "也是因此，才決定購買過去一直有所避諱的奴隸。"
+    }
+  },
+  {
+    "id": "0001_00067",
+    "ja": {
+      "name": null,
+      "text": "一人では生活に不自由するが、\n親兄弟もいない俺には信じられる人間がいない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I live a solitary life, with no family to whom I can turn."
+    },
+    "cn": {
+      "name": null,
+      "text": "独自一人无法正常生活，\n可身为独生子的我，身边又没有值得信赖的人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "獨自一人無法正常生活，\n可身為獨生子的我，身邊又沒有值得信賴的人。"
+    }
+  },
+  {
+    "id": "0001_00068",
+    "ja": {
+      "name": null,
+      "text": "主人を裏切ることのない奴隷にしか、\n生活の世話を頼むことができないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The only one I can trust to take care of my frail body is a slave magically bound to never turn on their master."
+    },
+    "cn": {
+      "name": null,
+      "text": "所以只好靠无法背叛主人的奴隶，\n来照料自己的生活。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以只好靠無法背叛主人的奴隸，\n來照料自己的生活。"
+    }
+  },
+  {
+    "id": "0001_00069",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……店主。\nとりあえず、その奴隷を見せてくれ。\n話はそれからだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'd like to take a look at the goods to start, and then we can move on to the matter of money.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……店主，\n总之，先让我见见那名奴隶吧。\n剩余的事情之后再谈。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……店主，\n總之，先讓我見見那名奴隸吧。\n剩餘的事情之後再談。」"
+    }
+  },
+  {
+    "id": "0001_00070",
+    "ja": {
+      "name": null,
+      "text": "嫌なことを思い出させられたが、\nかろうじて感情を飲み込むことに成功する。"
+    },
+    "en": {
+      "name": null,
+      "text": "With my head full of unpleasant memories best left forgotten, I manage to keep my turbulent emotions at bay."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然想起了不好的事，\n但还是勉强压抑住了内心的情感。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然想起了不好的事，\n但還是勉強壓抑住了內心的情感。"
+    }
+  },
+  {
+    "id": "0001_00071",
+    "ja": {
+      "name": null,
+      "text": "人の足下を見るような店主に思うことはあるものの、\n俺が奴隷を求めているのは事実なのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite my feelings about shopkeepers taking advantage of their customers, at this point I just need help."
+    },
+    "cn": {
+      "name": null,
+      "text": "尽管对趁人之危的店主颇有微词，\n但我需要奴隶也是不争的事实。"
+    },
+    "tw": {
+      "name": null,
+      "text": "儘管對趁人之危的店主頗有微詞，\n但我需要奴隸也是不爭的事實。"
+    }
+  },
+  {
+    "id": "0001_00072",
+    "ja": {
+      "name": null,
+      "text": "王族の生活は知らないが、\nそこで働いていた侍女なら家事に精通しているのは\n間違いないだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite my lack of knowledge surrounding the royal family, I have no doubt this handmaiden is well versed in the art of household chores."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然不知王族都是怎样生活，\n但既然是在王城工作的侍女，\n想必对家务极为精通。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然不知王族都是怎樣生活，\n但既然是在王城工作的侍女，\n想必對家務極為精通。"
+    }
+  },
+  {
+    "id": "0001_00073",
+    "ja": {
+      "name": null,
+      "text": "元王族を一緒に買うかは別だが、\n一度顔を合わせて確認してみたい。"
+    },
+    "en": {
+      "name": null,
+      "text": "The prospect of also getting a former member of said royal family is another matter, but I should at least see her for myself first."
+    },
+    "cn": {
+      "name": null,
+      "text": "先不提是否要将那个落魄王族一起买下，\n总之还是先见一面再说吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "先不提是否要將那個落魄王族一起買下，\n總之還是先見一面再說吧。"
+    }
+  },
+  {
+    "id": "0001_00074",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「くふふっ、\nかしこまりました、お客様。\nすぐに二人を連れてきましょう」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Hehheh! Understood, good sir. I'll have someone bring the two women out right away.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「嘿嘿嘿。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「嘿嘿嘿。」"
+    }
+  },
+  {
+    "id": "0001_00075",
+    "ja": {
+      "name": null,
+      "text": "大金が転がり込むのを想像したのか、\n奴隷商はニヤについた笑みを浮かべて頷いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "He nods in my direction with a smile stretching from ear to ear, likely imagining the immense fortune coming his way."
+    },
+    "cn": {
+      "name": null,
+      "text": "似乎是想到即将赚一大笔钱，\n奴隶商人扬起嘴角，露出了笑容。"
+    },
+    "tw": {
+      "name": null,
+      "text": "似乎是想到即將賺一大筆錢，\n奴隸商人揚起嘴角，露出了笑容。"
+    }
+  },
+  {
+    "id": "0001_00076",
+    "ja": {
+      "name": null,
+      "text": "そして、すぐに使用人によって二人の奴隷が連れられて\nやってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Moments later, the two in question are paraded into the room."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，立刻命令手下的佣人带出了两名奴隶。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，立刻命令手下的佣人帶出了兩名奴隸。"
+    }
+  },
+  {
+    "id": "0001_00077",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0001_00078",
+    "ja": {
+      "name": null,
+      "text": "連れられて来た二人の姿を見るなり、\n俺は絶句してしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "As soon as I see them, I find myself stunned into silence."
+    },
+    "cn": {
+      "name": null,
+      "text": "见到被带出的两个人，\n我顿时震惊得说不出话来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見到被帶出的兩個人，\n我頓時震驚得說不出話來。"
+    }
+  },
+  {
+    "id": "0001_00079",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「いかがですかな、お客様。\n二人とも驚くほどに美しいでしょう？」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"I was right, wasn't I, good sir? The two of them are incredible beauties, aren't they?\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「怎么样呀，这位客人。\n她们两人都美貌非凡，对吧？」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「怎麼樣呀，這位客人。\n她們兩人都美貌非凡，對吧？」"
+    }
+  },
+  {
+    "id": "0001_00080",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ……確かに……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You spoke the truth... They truly are...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯……确实……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯……確實……」"
+    }
+  },
+  {
+    "id": "0001_00081",
+    "ja": {
+      "name": null,
+      "text": "世話をしてくれるのであれば、どんな奴隷でも構わない。"
+    },
+    "en": {
+      "name": null,
+      "text": "The type of person means naught as long as they're good at their job."
+    },
+    "cn": {
+      "name": null,
+      "text": "只要能照顾自己生活，无论什么样的奴隶都无所谓。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只要能照顧自己生活，無論什麼樣的奴隸都無所謂。"
+    }
+  },
+  {
+    "id": "0001_00082",
+    "ja": {
+      "name": null,
+      "text": "そう思っていたのだが、\n俺は想像以上に美しい二人を前に言葉を無くしてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "At least, that was I thought coming into this sordid affair—however, these two women are so gorgeous, I'm at a loss for words."
+    },
+    "cn": {
+      "name": null,
+      "text": "之前确实是这样想的，\n但两人的美貌实在超乎想象，令我不由得哑口无言。"
+    },
+    "tw": {
+      "name": null,
+      "text": "之前確實是這樣想的，\n但兩人的美貌實在超乎想像，令我不由得啞口無言。"
+    }
+  },
+  {
+    "id": "0001_00083",
+    "ja": {
+      "name": null,
+      "text": "元々の気質がそうなのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "I wonder what they were like in their former lives."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明穿着破烂的衣服，\n其仪容却仍显得别具一格。"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明穿著破爛的衣服，\n其儀容卻仍顯得別具一格。"
+    }
+  },
+  {
+    "id": "0001_00084",
+    "ja": {
+      "name": null,
+      "text": "粗末な服を着ているというのに立ち姿には、\n気品さえ感じられる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite their shabby clothing, they have a certain grace and dignity they can't dispel."
+    },
+    "cn": {
+      "name": null,
+      "text": "或许是天生气质出众吧？"
+    },
+    "tw": {
+      "name": null,
+      "text": "或許是天生氣質出眾吧？"
+    }
+  },
+  {
+    "id": "0001_00085",
+    "ja": {
+      "name": null,
+      "text": "とても奴隷とは思えないその姿に、\n俺はただ呆然としていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Their appearance is so unlike what I imagined slaves to look that all I can do is stare."
+    },
+    "cn": {
+      "name": null,
+      "text": "那副完全不像是奴隶的模样，\n使我不禁哑然良久。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那副完全不像是奴隸的模樣，\n使我不禁啞然良久。"
+    }
+  },
+  {
+    "id": "0001_00086",
+    "ja": {
+      "name": null,
+      "text": "そんな俺の反応を見て、ニタリと笑っている店主が\n妙に腹立たしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "The knowing smirk on the trader's face on seeing my reaction rubs me the wrong way."
+    },
+    "cn": {
+      "name": null,
+      "text": "见到我的反应，店主撇嘴一笑，\n这令我莫名的有些不爽。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見到我的反應，店主撇嘴一笑，\n這令我莫名的有些不爽。"
+    }
+  },
+  {
+    "id": "0001_00087",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「手前にいるのが、お客様が求められたファルナです」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"The woman directly in front of you is Farna.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「站在前面的，就是客人想要的法尔娜。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「站在前面的，就是客人想要的法爾娜。」"
+    }
+  },
+  {
+    "id": "0001_00088",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「亡国の王女に仕えていた侍女だったため、\nお客様がお望みのお世話はお手のものでしょう」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"As the former handmaiden to a now exiled Princess, I am sure she will have no trouble providing the finest care.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「她曾经是亡国公主的侍女，\n所以一定可以轻松满足客人的需求。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「她曾經是亡國公主的侍女，\n所以一定可以輕鬆滿足客人的需求。」"
+    }
+  },
+  {
+    "id": "0001_00089",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「ほれ、自己紹介をするのだ。\nお前のご主人様になるかもしれないのだからな！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Go on and introduce yourself. You might be talking to your new master!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「喂，你也赶紧来做自我介绍。\n他今后很有可能就是你的主人喽！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「欸，妳也趕緊來做自我介紹。\n他今後很有可能就是妳的主人嘍！」"
+    }
+  },
+  {
+    "id": "0001_00090",
+    "ja": {
+      "name": null,
+      "text": "店主の言葉に、ファルナと紹介された女性が\n小さく膝を折った。"
+    },
+    "en": {
+      "name": null,
+      "text": "At the trader's words, Farna places one foot in front of the other, bending her knees while bowing her head."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了店主的话，被叫做法尔娜的女性稍稍屈膝，\n对我施了一礼。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了店主的話，被叫做法爾娜的女性稍稍屈膝，\n對我施了一禮。"
+    }
+  },
+  {
+    "id": "0001_00091",
+    "ja": {
+      "name": null,
+      "text": "あれは、上流階級の人がするカーテシーという挨拶……\nだっただろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm assuming this must be a curtsey, a polite greeting used among the upper class."
+    },
+    "cn": {
+      "name": null,
+      "text": "那好像就是上流阶级的行礼方式……\n似乎是叫屈膝礼？"
+    },
+    "tw": {
+      "name": null,
+      "text": "那好像就是上流階級的行禮方式……\n似乎是叫屈膝禮？"
+    }
+  },
+  {
+    "id": "0001_00092",
+    "ja": {
+      "name": null,
+      "text": "その所作にも洗練されたものを感じてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "A clear sign of her refined mannerisms."
+    },
+    "cn": {
+      "name": null,
+      "text": "这些细微的动作，也显得格外精致。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這些細微的動作，也顯得格外精緻。"
+    }
+  },
+  {
+    "id": "0001_00093",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご紹介にあずかりました、ファルナと申します」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"My name is Farna, as stated.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「承蒙介绍，小女名为法尔娜。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「承蒙介紹，小女名為法爾娜。」"
+    }
+  },
+  {
+    "id": "0001_00094",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご自身の世話をされる奴隷をお求めとのこと。\n必ずお役に立ちますので、\nどうぞよろしくお願いいたします」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"If you are seeking a slave to act as a caretaker, then I'm sure I can be of great service to you. I pray you will give me a chance.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「听说您需要一名奴隶来照顾自己。\n我一定能够满足您的需要，还请多多关照。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「聽說您需要一名奴隸來照顧自己。\n我一定能夠滿足您的需要，還請多多關照。」"
+    }
+  },
+  {
+    "id": "0001_00095",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Uh, sure...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哦、哦……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哦、哦……」"
+    }
+  },
+  {
+    "id": "0001_00096",
+    "ja": {
+      "name": null,
+      "text": "にじみ出る優雅さに、農村の出である俺とは育ちからして違うことがわかってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her every word and action is steeped in elegance, making it obvious she comes from a far different world than me."
+    },
+    "cn": {
+      "name": null,
+      "text": "她的一举一动都显露着优雅，\n与乡村出身且没受过什么教育的我相比，\n可谓截然不同。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她的一舉一動都顯露著優雅，\n與鄉村出身且沒受過什麼教育的我相比，\n可謂截然不同。"
+    }
+  },
+  {
+    "id": "0001_00097",
+    "ja": {
+      "name": null,
+      "text": "自分を買おうとしている俺を見定めようとしているのか、礼儀正しい態度の中にも、\nこちらを覗うような視線を感じていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can feel the weight of her gaze running over my body as she appraises me, albeit politely."
+    },
+    "cn": {
+      "name": null,
+      "text": "但在彬彬有礼的态度之下，\n她也在暗暗地用目光窥视着我，\n仿佛在评定自己的潜在买家是个怎样的人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但在彬彬有禮的態度之下，\n她也在暗暗地用目光窺視著我，\n彷彿在評定自己的潛在買家是個怎樣的人。"
+    }
+  },
+  {
+    "id": "0001_00098",
+    "ja": {
+      "name": null,
+      "text": "何より、その眼差しに何もかもを諦めたような色合いが\nない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Most striking is that I don't detect even the faintest hint of resignation in her eyes."
+    },
+    "cn": {
+      "name": null,
+      "text": "更重要的是，\n在她的眼神当中并不含有自暴自弃的色彩。"
+    },
+    "tw": {
+      "name": null,
+      "text": "更重要的是，\n在她的眼神當中並不含有自暴自棄的色彩。"
+    }
+  },
+  {
+    "id": "0001_00099",
+    "ja": {
+      "name": null,
+      "text": "自分を買う相手に条件をつけることもそうだが、\n奴隷に落とされたことに絶望していないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Considering her own self-imposed requirements for purchase, it seems she hasn't fallen into despair over her current situation."
+    },
+    "cn": {
+      "name": null,
+      "text": "再加上对自己的买家提出条件这一点，\n可以看出沦为奴隶的事实并未令她绝望。"
+    },
+    "tw": {
+      "name": null,
+      "text": "再加上對自己的買家提出條件這一點，\n可以看出淪為奴隸的事實並未令她絕望。"
+    }
+  },
+  {
+    "id": "0001_00100",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「お客様。\nその奥に立っているのがアリエノール。\nファルナのオマケとなります」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Good sir, the lady in the back there is Alienor. She's the bonus slave I mentioned earlier.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「客人，\n站在后面的是艾丽耶诺尔，\n是法尔娜的附属品。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「客人，\n站在後面的是艾麗耶諾爾，\n是法爾娜的附屬品。」"
+    }
+  },
+  {
+    "id": "0001_00101",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「ほら、アリエノール。\nお前も自己紹介せんか！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Get out here, Alienor, and introduce yourself!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「喂，艾丽耶诺尔，\n你也赶快来做自我介绍！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「欸，艾麗耶諾爾，\n妳也趕快來做自我介紹！」"
+    }
+  },
+  {
+    "id": "0001_00102",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……！」"
+    }
+  },
+  {
+    "id": "0001_00103",
+    "ja": {
+      "name": null,
+      "text": "オマケ呼ばわりされたからだろうか、\nその女性……アリエノールの視線が、\n少しだけ険しくなった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The woman named Alienor stiffens slightly, perhaps in response to the trader referring to her as a bonus slave."
+    },
+    "cn": {
+      "name": null,
+      "text": "或许是因为被称为附属品，\n这名女性……艾丽耶诺尔的视线变得有些凶恶。"
+    },
+    "tw": {
+      "name": null,
+      "text": "或許是因為被稱為附屬品，\n這名女性……艾麗耶諾爾的視線變得有些兇惡。"
+    }
+  },
+  {
+    "id": "0001_00104",
+    "ja": {
+      "name": null,
+      "text": "唇を噛み、俺と店主へ睨むような視線を、\n静かに向けてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She bites her lip, shooting both me and the trader a silent glare."
+    },
+    "cn": {
+      "name": null,
+      "text": "只见她咬紧嘴唇，\n将瞪视般的眼神转向了我与店主。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只見她咬緊嘴唇，\n將瞪視般的眼神轉向了我與店主。"
+    }
+  },
+  {
+    "id": "0001_00105",
+    "ja": {
+      "name": null,
+      "text": "もちろん絶対服従の呪いがあるため睨む以外のことは\nできないだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Of course, under the spell of absolute obedience, she can't do much more than that."
+    },
+    "cn": {
+      "name": null,
+      "text": "当然，因为有绝对服从的诅咒，\n所以除了瞪之外，想必做不到任何事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "當然，因為有絕對服從的詛咒，\n所以除了瞪之外，想必做不到任何事。"
+    }
+  },
+  {
+    "id": "0001_00106",
+    "ja": {
+      "name": null,
+      "text": "店主の話を信じるのであれば、\nこの女性が隣国の王族──姫なのは間違いない。"
+    },
+    "en": {
+      "name": null,
+      "text": "If the trader is to be believed, she must be the princess of the royal family of the neighboring nation."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果店主没有说谎，\n这位女性应该就是邻国的王族──也就是公主了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果店主沒有說謊，\n這位女性應該就是鄰國的王族──也就是公主了。"
+    }
+  },
+  {
+    "id": "0001_00107",
+    "ja": {
+      "name": null,
+      "text": "一国の王女という矜持があるためか、\nこちらに屈すまいとするような強さが感じられる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The strength of her defiance is palpable, most likely due to her lingering pride from being part of the ruling class."
+    },
+    "cn": {
+      "name": null,
+      "text": "或许是身为一国公主的矜持吧，\n从她身上可以感觉到誓死不屈的强大意志。"
+    },
+    "tw": {
+      "name": null,
+      "text": "或許是身為一國公主的矜持吧，\n從她身上可以感覺到誓死不屈的強大意志。"
+    }
+  },
+  {
+    "id": "0001_00108",
+    "ja": {
+      "name": null,
+      "text": "それでいて、隣に立つファルナと比べても、\nまったく気品も劣ってはいなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "And yet, with the two women standing next to each other, it's abundantly clear she lacks Farna's dignity."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且与身边的法尔娜相比，其气度丝毫不显逊色。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且與身邊的法爾娜相比，其氣度絲毫不顯遜色。"
+    }
+  },
+  {
+    "id": "0001_00109",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「なんだ、その目は？\n相変わらず反抗的なヤツだ！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"What's with that look? Disobedient as always!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「你那是什么眼神？\n这家伙，还是那么野性难驯！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「妳那是什麼眼神？\n這傢伙，還是那麼野性難馴！」"
+    }
+  },
+  {
+    "id": "0001_00110",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ぐっ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Grr...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啧……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嘖……」"
+    }
+  },
+  {
+    "id": "0001_00111",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「さあ、お客様に自己紹介するのだ！\nこれは命令だ！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Stop stalling and introduce yourself to our guest! That's an order!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「赶快向客人做自我介绍！\n这是命令！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「趕快向客人做自我介紹！\n這是命令！」"
+    }
+  },
+  {
+    "id": "0001_00112",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「うっ……あ、あぁぁっ……！！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Ungh... Mm... Aaaah...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呜……啊、啊啊啊……！！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗚……啊、啊啊啊……！！」"
+    }
+  },
+  {
+    "id": "0001_00113",
+    "ja": {
+      "name": null,
+      "text": "いつまでも黙っているアリエノールに対して、\n奴隷商は絶対服従の呪いを使ったようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The trader uses the power of the spell of obedience against the until-now silent Alienor."
+    },
+    "cn": {
+      "name": null,
+      "text": "由于艾丽耶诺尔始终一言不发，\n奴隶商人对她发动了绝对服从的诅咒。"
+    },
+    "tw": {
+      "name": null,
+      "text": "由於艾麗耶諾爾始終一言不發，\n奴隸商人對她發動了絕對服從的詛咒。"
+    }
+  },
+  {
+    "id": "0001_00114",
+    "ja": {
+      "name": null,
+      "text": "行動を強制するのではなく、\n行動しないことで苦しみが与えられているのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though the spell doesn't force her to introduce herself, she will suffer if she tries to disobey."
+    },
+    "cn": {
+      "name": null,
+      "text": "此举并未强制她行动，\n而是用痛苦来惩罚她的抗命行为。"
+    },
+    "tw": {
+      "name": null,
+      "text": "此舉並未強制她行動，\n而是用痛苦來懲罰她的抗命行為。"
+    }
+  },
+  {
+    "id": "0001_00115",
+    "ja": {
+      "name": null,
+      "text": "喘ぐように苦悶の声を上げ、\n悔しげにその端正で美麗な表情を歪めていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "She cries out in pain, the perfect features of her beautiful face distorted in frustrated anguish."
+    },
+    "cn": {
+      "name": null,
+      "text": "她发出了低沉的呻吟，\n端丽的容貌也因不甘而愈发扭曲。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她發出了低沉的呻吟，\n端麗的容貌也因不甘而愈發扭曲。"
+    }
+  },
+  {
+    "id": "0001_00116",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「う、ぐ……くっ……はぁ、はぁ、はぁ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm... Mnph... Haah, haah, haah...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呜、咕……呜……哈、哈、哈……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗚、咕……嗚……哈、哈、哈……」"
+    }
+  },
+  {
+    "id": "0001_00117",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「姫様……自己紹介を。\nここは意地を張る場面ではございません……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Princess... Just introduce yourself. This is not the hill to die on...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「公主殿下……请做自我介绍吧，\n此处并非逞强的场合……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「公主殿下……請做自我介紹吧，\n此處並非逞強的場合……」"
+    }
+  },
+  {
+    "id": "0001_00118",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ファ、ファルナ……ぐぅっ、く、くそ……ぅ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"F-Farna... Ungh! D-Damn it...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「法、法尔娜……呜、可、可恶……呜……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「法、法爾娜……嗚、可、可惡……嗚……」"
+    }
+  },
+  {
+    "id": "0001_00119",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「くっ……ア、アリエノール……だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm... M-My name is... Alienor...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啧……我、我是艾丽耶诺尔……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嘖……我、我是艾麗耶諾爾……」"
+    }
+  },
+  {
+    "id": "0001_00120",
+    "ja": {
+      "name": null,
+      "text": "短い、必要最低限の自己紹介。"
+    },
+    "en": {
+      "name": null,
+      "text": "A short introduction providing the bare minimum of information."
+    },
+    "cn": {
+      "name": null,
+      "text": "她简短地完成了最低程度的自我介绍。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她簡短地完成了最低程度的自我介紹。"
+    }
+  },
+  {
+    "id": "0001_00121",
+    "ja": {
+      "name": null,
+      "text": "それだけでも命令をこなしたことになるのか、\n絶対服従の呪いから一時的に解放される。"
+    },
+    "en": {
+      "name": null,
+      "text": "It must have been enough, as the spell's effects on her body vanish for the time being."
+    },
+    "cn": {
+      "name": null,
+      "text": "可即使如此，似乎也算是执行了命令，\n所以暂且逃离了绝对服从的诅咒。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可即使如此，似乎也算是執行了命令，\n所以暫且逃離了絕對服從的詛咒。"
+    }
+  },
+  {
+    "id": "0001_00122",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んぁあぁっ……！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Aaaah...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「唔啊啊啊……！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「唔啊啊啊……！」"
+    }
+  },
+  {
+    "id": "0001_00123",
+    "ja": {
+      "name": null,
+      "text": "アリエノールは小さく声を上げながら、\nその場にへたり込んでしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Alienor cries out softly before slumping to the ground."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽耶诺尔一边低声发出哀鸣，\n一边瘫坐在了地上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗耶諾爾一邊低聲發出哀鳴，\n一邊癱坐在了地上。"
+    }
+  },
+  {
+    "id": "0001_00124",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「お客様。\n見苦しい所をお見せしてしまい、\n申し訳ございません」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"I'm sorry you had to witness that, good sir. Please accept my humble apologies.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「客人，实在抱歉，\n在您面前献丑了。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「客人，實在抱歉，\n在您面前獻醜了。」"
+    }
+  },
+  {
+    "id": "0001_00125",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「まだ当店に引き渡されてから日も浅いため、\n十分な奴隷教育ができていないのです」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"We only received this last shipment several days ago, meaning we haven't had much time to train them.\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「她被带到本店之后时日尚浅，\n还没来得及进行足够的奴隶教育。」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「她被帶到本店之後時日尚淺，\n還沒來得及進行足夠的奴隸教育。」"
+    }
+  },
+  {
+    "id": "0001_00126",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや……構わない。\nそれより、二人に質問したいんだが？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"It's not a problem. More importantly, may I question them directly?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不……没关系。\n比起这个，我可以问她们几个问题么？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不……沒關係。\n比起這個，我可以問她們幾個問題嗎？」"
+    }
+  },
+  {
+    "id": "0001_00127",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「ええ、問題ございません！\nさあ、お好きなようにご質問ください！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Of course, good sir! That's no problem at all! Feel free to ask them whatever you'd like!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「嗯，这是当然！\n请吧，您想问什么都没问题！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「嗯，這是當然！\n請吧，您想問什麼都沒問題！」"
+    }
+  },
+  {
+    "id": "0001_00128",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「じゃあ……ファルナ、アリエノール、答えてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"In that case... Answer me this, Farna, Alienor.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那么……法尔娜，艾丽耶诺尔，我问你们。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那麼……法爾娜，艾麗耶諾爾，我問妳們。」"
+    }
+  },
+  {
+    "id": "0001_00129",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい、何なりと」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It would be our pleasure to do so.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是，请尽管问吧。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是，請儘管問吧。」"
+    }
+  },
+  {
+    "id": "0001_00130",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0001_00131",
+    "ja": {
+      "name": null,
+      "text": "俺の言葉に頷くファルナと、\n面白くなさそうに睨んで来るアリエノール。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna nods upon hearing my words, while Alienor glares at me, clearly unamused."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了我的话，法尔娜点了点头，\n艾丽耶诺尔则是十分不悦地瞪了我一眼。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了我的話，法爾娜點了點頭，\n艾麗耶諾爾則是十分不悅地瞪了我一眼。"
+    }
+  },
+  {
+    "id": "0001_00132",
+    "ja": {
+      "name": null,
+      "text": "正直なところ、\n今の俺は二人を購入する方に天秤が傾き始めていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "If I'm being honest, I'm already leaning toward buying both of them."
+    },
+    "cn": {
+      "name": null,
+      "text": "实话说，我心中的天秤\n正向买下她们的一方倾斜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "實話說，我心中的天秤\n正向買下她們的一方傾斜。"
+    }
+  },
+  {
+    "id": "0001_00133",
+    "ja": {
+      "name": null,
+      "text": "好奇心が半分。\nそして、同情心が半分……だろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "In part because of my own curiosity, but also out of pity."
+    },
+    "cn": {
+      "name": null,
+      "text": "一半是出于好奇心，\n至于另一半……或许是同情吧？"
+    },
+    "tw": {
+      "name": null,
+      "text": "一半是出於好奇心，\n至於另一半……或許是同情吧？"
+    }
+  },
+  {
+    "id": "0001_00134",
+    "ja": {
+      "name": null,
+      "text": "ドラゴンの巣へ向かう前に風の噂で聞いたことを\n思い出したのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "A rumor I heard while en route to the dragon's lair suddenly comes to mind."
+    },
+    "cn": {
+      "name": null,
+      "text": "在前往龙穴之前，曾听过这样一个传闻。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在前往龍穴之前，曾聽過這樣一個傳聞。"
+    }
+  },
+  {
+    "id": "0001_00135",
+    "ja": {
+      "name": null,
+      "text": "隣国は離間工作──\nつまりは『裏切り』によって滅んだのだと。"
+    },
+    "en": {
+      "name": null,
+      "text": "The neighboring country's downfall was carefully orchestrated. In other words, they were betrayed by someone on the inside."
+    },
+    "cn": {
+      "name": null,
+      "text": "邻国由于中了离间计──\n也就是遭到『背叛』而灭亡了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "鄰國由於中了離間計──\n也就是遭到『背叛』而滅亡了。"
+    }
+  },
+  {
+    "id": "0001_00136",
+    "ja": {
+      "name": null,
+      "text": "先輩の裏切りで囮にされ、\n大怪我を負った俺と重なって見えるのは、\n気のせいだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Meanwhile, the grave wounds I suffered were the direct result of the deceitful bait-and-switch pulled off by my supposed comrades."
+    },
+    "cn": {
+      "name": null,
+      "text": "遭到前辈的背叛，被当做诱饵，\n因此身受重伤的我，会对她们感同身受，\n会不会只是错觉呢？"
+    },
+    "tw": {
+      "name": null,
+      "text": "遭到前輩的背叛，被當做誘餌，\n因此身受重傷的我，會對她們感同身受，\n會不會只是錯覺呢？"
+    }
+  },
+  {
+    "id": "0001_00137",
+    "ja": {
+      "name": null,
+      "text": "しかし、ファルナだけならばともかく、\n元王女だというアリエノールはとても高額だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, Farna can only be bought alongside Alienor, and even disgraced former princesses don't come cheap."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，法尔娜一人的话姑且不论，\n原本贵为公主的艾丽耶诺尔恐怕价格不菲。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，法爾娜一人的話姑且不論，\n原本貴為公主的艾麗耶諾爾恐怕價格不菲。"
+    }
+  },
+  {
+    "id": "0001_00138",
+    "ja": {
+      "name": null,
+      "text": "二人揃って購入した場合、\nドラゴンの巣から持ち帰った財が\nほとんどなくなってしまうだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The two of them together will almost certainly deplete most of the riches I brought back with me from the dragon's lair."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果将二人一并买下，\n从龙穴带回来的财富恐怕也将所剩无几。"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果將二人一併買下，\n從龍穴帶回來的財富恐怕也將所剩無幾。"
+    }
+  },
+  {
+    "id": "0001_00139",
+    "ja": {
+      "name": null,
+      "text": "だが……俺は、元々冒険に財や富を求めていなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, extravagant wealth was never my primary goal in life."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是……我原本就并不打算通过冒险来追求财富。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是……我原本就並不打算通過冒險來追求財富。"
+    }
+  },
+  {
+    "id": "0001_00140",
+    "ja": {
+      "name": null,
+      "text": "英雄に憧れはしても、\n生きていくだけの糧があれば十分だった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite my dream of being a hero, all I truly wanted in life was enough money to live comfortably."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然对英雄心怀憧憬，\n但能赚取活下去的口粮就足够了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然對英雄心懷憧憬，\n但能賺取活下去的糧食就足夠了。"
+    }
+  },
+  {
+    "id": "0001_00141",
+    "ja": {
+      "name": null,
+      "text": "冒険をして探究心が満たされれば、\nそれで問題は無かった。"
+    },
+    "en": {
+      "name": null,
+      "text": "As long as I could retain my sense of adventure and inquisitiveness, then there was no problem."
+    },
+    "cn": {
+      "name": null,
+      "text": "只要可以通过冒险满足求知欲，\n对我来讲一切都不成问题。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只要可以通過冒險滿足求知欲，\n對我來講一切都不成問題。"
+    }
+  },
+  {
+    "id": "0001_00142",
+    "ja": {
+      "name": null,
+      "text": "だからドラゴンの巣から持ち帰った財を、\n二人の為に使っても良いんじゃないか……？\nなんて考える。"
+    },
+    "en": {
+      "name": null,
+      "text": "Which begs the question—should I really be throwing away the riches I dragged out of that damned dragon's lair on these two?"
+    },
+    "cn": {
+      "name": null,
+      "text": "所以我不禁开始想，\n将从龙穴带回来的财富用在她们身上，\n似乎也没什么不妥。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以我不禁開始想，\n將從龍穴帶回來的財富用在她們身上，\n似乎也沒什麼不妥當。"
+    }
+  },
+  {
+    "id": "0001_00143",
+    "ja": {
+      "name": null,
+      "text": "怪我で動けない以上、\n今ある財を使い切れば生活費にも困窮してしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Since my injuries prevent me from working, once the money I've amassed is gone, that's it."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然在因伤而动弹不得的情况下，\n若将财产用光，或许会穷得连生活费都拿不出。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然在因傷而動彈不得的情況下，\n若將財產用光，或許會窮得連生活費都拿不出。"
+    }
+  },
+  {
+    "id": "0001_00144",
+    "ja": {
+      "name": null,
+      "text": "しかし、それも特に問題にはならない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Although I guess it's not really that big of an issue."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，这也不是什么大问题。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，這也不是什麼大問題。"
+    }
+  },
+  {
+    "id": "0001_00145",
+    "ja": {
+      "name": null,
+      "text": "他の人間を信用できないため、\n人の多い場所を避けて街を出ようと考えている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Due to my general distrust of others, I've been considering leaving the crowded city streets behind."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为无法相信他人，\n所以我正打算避开人多的地方，远离城镇。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為無法相信他人，\n所以我正打算避開人多的地方，遠離城鎮。"
+    }
+  },
+  {
+    "id": "0001_00146",
+    "ja": {
+      "name": null,
+      "text": "ひなびた農村から出てきたばかりの頃は、\n森の中に家を建て、そこで暮らしていたのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'd built a small home in the middle of the forest when I first ventured out on my own, and could easily move back there."
+    },
+    "cn": {
+      "name": null,
+      "text": "刚刚离开偏僻的乡村时，\n我曾在森林里建起小屋，在那里居住。"
+    },
+    "tw": {
+      "name": null,
+      "text": "剛剛離開偏僻的鄉村時，\n我曾在森林裡建起小屋，在那裡居住。"
+    }
+  },
+  {
+    "id": "0001_00147",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「二人は、自給自足の生活をする自信はあるか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Are you two capable of living off the land? Being self-sufficient?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「你们对自给自足的生活，是否有自信？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「妳們對自給自足的生活，是否有自信？」"
+    }
+  },
+  {
+    "id": "0001_00148",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……は？　自給、自足……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Huh? Living off the land?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……哈？自给、自足……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……哈？自給、自足……？」"
+    }
+  },
+  {
+    "id": "0001_00149",
+    "ja": {
+      "name": null,
+      "text": "俺の言葉に呆気にとられたのか、\nアリエノールが初めてまともに声を出した。"
+    },
+    "en": {
+      "name": null,
+      "text": "Alienor speaks normally for the first time, as if my question shocks the words out of her mouth."
+    },
+    "cn": {
+      "name": null,
+      "text": "或许因为我说的话太出乎意料，\n艾丽耶诺尔头一次发出了正常的声音。"
+    },
+    "tw": {
+      "name": null,
+      "text": "或許因為我說的話太出乎意料，\n艾麗耶諾爾頭一次發出了正常的聲音。"
+    }
+  },
+  {
+    "id": "0001_00150",
+    "ja": {
+      "name": null,
+      "text": "ファルナも質問の意味を図りかねた様子で、\n俺を見つめてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna, similarly, stares at me silently, clearly having no idea what I meant."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜也正牢牢盯着我，\n似乎不太明白我这个问题的用意。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜也正牢牢盯著我，\n似乎不太明白我這個問題的用意。"
+    }
+  },
+  {
+    "id": "0001_00151",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「行儀見習いの一環で、\n一通りの家事は学んでおりますが……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Though I am well-versed in all manner of housekeeping chores, thanks to my extensive training...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「作为礼仪修行的一环，\n对所有的家务倒是均有掌握……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「作為禮儀修行的一環，\n對所有的家務倒是均有掌握……」"
+    }
+  },
+  {
+    "id": "0001_00152",
+    "ja": {
+      "name": null,
+      "text": "それがどうしたのか？\nそう目で問いかけてくるファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm not exactly sure what you're getting at, her eyes seem to say."
+    },
+    "cn": {
+      "name": null,
+      "text": "可那又如何呢？\n──法尔娜用眼神如此问道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可那又如何呢？\n──法爾娜用眼神如此問道。"
+    }
+  },
+  {
+    "id": "0001_00153",
+    "ja": {
+      "name": null,
+      "text": "だが、俺はそれには答えない。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I don't need to answer her unspoken question."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，我并未做出回答。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，我並未做出回答。"
+    }
+  },
+  {
+    "id": "0001_00154",
+    "ja": {
+      "name": null,
+      "text": "生活で最も頼ることになるファルナに問題が無ければ、\nこれ以上の問答をする必要もない。"
+    },
+    "en": {
+      "name": null,
+      "text": "And as long as Farna is okay with the lifestyle I have planned, then I don't need to question them further."
+    },
+    "cn": {
+      "name": null,
+      "text": "既然在生活上最需要仰赖的法尔娜能派上用场，\n那也就不必继续问下去了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "既然在生活上最需要仰賴的法爾娜能派上用場，\n那也就不必繼續問下去了。"
+    }
+  },
+  {
+    "id": "0001_00155",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「店主、二人とも即金で買おう。\nすぐに手続きをしてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'll pay cash for both of them. Go get the paperwork ready.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「店主，我用现金买下她们两个，\n请立刻办好手续。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「店主，我用現金買下她們兩個，\n請立刻辦好手續。」"
+    }
+  },
+  {
+    "id": "0001_00156",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「かしこまりました！\nさすがドラゴンサバイバー様、\n決断がお早い！！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"Right away, good sir! Leave it to the Dragon Survivor to know what he wants!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「明白了！\n不愧是龙口生还者大人，\n真是当机立断！！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「明白了！\n不愧是龍口生還者大人，\n真是當機立斷！！」"
+    }
+  },
+  {
+    "id": "0001_00157",
+    "ja": {
+      "name": null,
+      "text": "即金で買うという言葉に、\n店主は大喜びで俺を持ち上げ始めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "The trader jumps to his feet happily upon hearing my ability and desire to pay with cash."
+    },
+    "cn": {
+      "name": null,
+      "text": "一听到现金购买这几个字，\n店主立刻开心地拍起了我的马屁。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一聽到現金購買這幾個字，\n店主立刻開心地拍起了我的馬屁。"
+    }
+  },
+  {
+    "id": "0001_00158",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あ、あの……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"What's happening...?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「那、那个……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「那、那個……？」"
+    }
+  },
+  {
+    "id": "0001_00159",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「くっ……！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Ugh...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啧……！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嘖……！」"
+    }
+  },
+  {
+    "id": "0001_00160",
+    "ja": {
+      "name": null,
+      "text": "いきなり話が進んだことに戸惑うファルナと、\n反感を持ったように俺を睨むアリエノール。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna is clearly perplexed by this sudden and unexpected development while Alienor simply glares at me with revulsion."
+    },
+    "cn": {
+      "name": null,
+      "text": "对于迅速发展的事态，法尔娜有些困惑，\n艾丽耶诺尔则是用反感的眼神瞪视着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對於迅速發展的事態，法爾娜有些困惑，\n艾麗耶諾爾則是用反感的眼神瞪視著我。"
+    }
+  },
+  {
+    "id": "0001_00161",
+    "ja": {
+      "name": null,
+      "text": "ただ、ファルナは二人一緒だということで\n安堵している様子もあった。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I can tell Farna is just relieved that the two of them won't be separated."
+    },
+    "cn": {
+      "name": null,
+      "text": "但听说两人可以在一起，\n法尔娜似乎也安心了几分。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但聽說兩人可以在一起，\n法爾娜似乎也安心了幾分。"
+    }
+  },
+  {
+    "id": "0001_00162",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「正式に譲渡する書類を揃えて参りますので、\n少々お待ちください！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"I'll be back in a moment with the necessary transfer of ownership documents. It won't take long!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「这就去为您办理正式转让的手续，\n请稍等片刻！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「這就去為您辦理正式轉讓的手續，\n請稍等片刻！」"
+    }
+  },
+  {
+    "id": "0001_00163",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「俺の気が変わらないよう、早めに頼む」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"It'd better not. Do it before I change my mind.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「麻烦快一点，趁我还没改变主意。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「麻煩快一點，趁我還沒改變主意。」"
+    }
+  },
+  {
+    "id": "0001_00164",
+    "ja": {
+      "name": "奴隷商",
+      "text": "「もちろんですとも！！」"
+    },
+    "en": {
+      "name": "Trader",
+      "text": "\"I assure you, I'll be lightning quick!\""
+    },
+    "cn": {
+      "name": "奴隶商人",
+      "text": "「这是自然！！」"
+    },
+    "tw": {
+      "name": "奴隸商人",
+      "text": "「這是自然！！」"
+    }
+  },
+  {
+    "id": "0001_00165",
+    "ja": {
+      "name": null,
+      "text": "急いで部屋を出ていく店主を見送り、\n俺はそっと息をついた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I watch the trader scurry out of the room before breathing a soft sigh of relief."
+    },
+    "cn": {
+      "name": null,
+      "text": "目送店主快步走出房间，\n我这才缓缓地松了一口气。"
+    },
+    "tw": {
+      "name": null,
+      "text": "目送店主快步走出房間，\n我這才緩緩地鬆了一口氣。"
+    }
+  },
+  {
+    "id": "0001_00166",
+    "ja": {
+      "name": null,
+      "text": "所在なさげに立ち尽くす二人の美女へと視線を向ける。"
+    },
+    "en": {
+      "name": null,
+      "text": "My gaze idly turns to the two gorgeous women before me."
+    },
+    "cn": {
+      "name": null,
+      "text": "我将目光转向了有些不知所措的两位美女。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我將目光轉向了有些不知所措的兩位美女。"
+    }
+  },
+  {
+    "id": "0001_00167",
+    "ja": {
+      "name": null,
+      "text": "滅んだ祖国や奴隷に身をやつした自分たちのことを、\nどう考えているのかはわからない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I have no idea how they feel about their decimated homeland and their own unfortunate situation."
+    },
+    "cn": {
+      "name": null,
+      "text": "对于失去祖国，并沦为奴隶的自己，\n不知她们是如何看待的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對於失去祖國，並淪為奴隸的自己，\n不知她們是如何看待的。"
+    }
+  },
+  {
+    "id": "0001_00168",
+    "ja": {
+      "name": null,
+      "text": "だが、奴隷である以上は俺を裏切ることはできず、\n服従しなければならないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, as slaves, it is impossible for them to betray me. They have to obey my every command."
+    },
+    "cn": {
+      "name": null,
+      "text": "但既然身为奴隶，就注定无法背叛我，\n而只能选择服从。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但既然身為奴隸，就注定無法背叛我，\n而只能選擇服從。"
+    }
+  },
+  {
+    "id": "0001_00169",
+    "ja": {
+      "name": null,
+      "text": "決して裏切らない。\nその事実があるだけで、俺には十分だった。"
+    },
+    "en": {
+      "name": null,
+      "text": "The fact that they can't double-cross me is more than enough to put me at ease."
+    },
+    "cn": {
+      "name": null,
+      "text": "绝不会背叛──\n只凭这一事实，对我而言就已足够。"
+    },
+    "tw": {
+      "name": null,
+      "text": "絕不會背叛──\n只憑這一事實，對我而言就已足夠。"
+    }
+  },
+  {
+    "id": "0001_00170",
+    "ja": {
+      "name": null,
+      "text": "そして、怪我が治れば俺はまた冒険者に戻る予定でいる。"
+    },
+    "en": {
+      "name": null,
+      "text": "And once I'm all healed, my plan is to venture out once again."
+    },
+    "cn": {
+      "name": null,
+      "text": "一旦伤势痊愈，我也打算重新成为冒险者。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一旦傷勢痊癒，我也打算重新成為冒險者。"
+    }
+  },
+  {
+    "id": "0001_00171",
+    "ja": {
+      "name": null,
+      "text": "そのときは、\n奴隷を引き連れて行動するわけにいかないため、\n最終的に解放することになるだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Once that happens, I want to release them from servitude, since their presence will only slow me down if I'm forced to take them with me."
+    },
+    "cn": {
+      "name": null,
+      "text": "到时候总不能带着奴隶一起行动，\n所以到头来，我应该会将她们释放。"
+    },
+    "tw": {
+      "name": null,
+      "text": "到時候總不能帶著奴隸一起行動，\n所以到頭來，我應該會將她們釋放。"
+    }
+  },
+  {
+    "id": "0001_00172",
+    "ja": {
+      "name": null,
+      "text": "そう考えると、\n高額な奴隷は金の無駄でしかないのだが……これも何かの縁だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Expensive slaves just seem like an extravagant waste of money in the first place, but I feel some kind of bond between us."
+    },
+    "cn": {
+      "name": null,
+      "text": "想到这一点，\n就觉得用高价购买奴隶有些浪费……\n但事已至此，也算一种缘分吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "想到這一點，\n就覺得用高價購買奴隸有些浪費……\n但事已至此，也算一種緣分吧。"
+    }
+  },
+  {
+    "id": "0001_00173",
+    "ja": {
+      "name": null,
+      "text": "俺は二人の様子を眺めながら、\nそんなことを考えるのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thoughts of our future play through my mind as I watch them."
+    },
+    "cn": {
+      "name": null,
+      "text": "我一边看着她们，一边如此思索着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我一邊看著她們，一邊如此思索著。"
+    }
+  },
+  {
+    "id": "0001_00174",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「歩きながらで良いから、俺の話を聞いてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"We can walk and talk, but I need you to listen to me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「一边走路，一边听我说吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「一邊走路，一邊聽我說吧。」"
+    }
+  },
+  {
+    "id": "0001_00175",
+    "ja": {
+      "name": null,
+      "text": "二人を引きつれ、用が済んだ奴隷商店を後にする。"
+    },
+    "en": {
+      "name": null,
+      "text": "After finishing up the transaction, I leave with them in tow."
+    },
+    "cn": {
+      "name": null,
+      "text": "办完事情后，我带着她们离开了奴隶商店。"
+    },
+    "tw": {
+      "name": null,
+      "text": "辦完事情後，我帶著她們離開了奴隸商店。"
+    }
+  },
+  {
+    "id": "0001_00176",
+    "ja": {
+      "name": null,
+      "text": "正式に俺の奴隷になったこともあり、\nアリエノールもファルナも大人しく俺についてきていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "The two women are now officially in my possession, and they both obediently follow me as I lead the way."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为实质上已经成了我的奴隶，\n所以艾丽耶诺尔和法尔娜都乖乖跟在身后。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為實質上已經成了我的奴隸，\n所以艾麗耶諾爾和法爾娜都乖乖跟在身後。"
+    }
+  },
+  {
+    "id": "0001_00177",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「お前たちの主人になった俺のことを知らないのも\n困るだろ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You should probably get to know at least a little about the person who owns you, right?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「如果对我这个新主人毫不了解，你们也很难办吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「如果對我這個新主人毫不了解，妳們也很難辦吧？」"
+    }
+  },
+  {
+    "id": "0001_00178",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「まず……俺の名はガーラント。\n田舎の農村の出で、今は冒険者をやっている」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"First of all, my name is Garland. I'm an adventurer, originally hailing from a small, rural town in the countryside.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「首先……我的名字是加兰德。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「首先……我的名字是加蘭德。」"
+    }
+  },
+  {
+    "id": "0001_00179",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「冒険者ですか？\n様々な所へおもむき依頼をこなす、\n何でも屋のような？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"An adventurer? So essentially you travel around, taking on whatever jobs you can find?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「您是冒险者吗？\n去各种地方接受委托，\n包办各种杂事的人？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「您是冒險者嗎？\n去各種地方接受委託，\n包辦各種雜事的人？」"
+    }
+  },
+  {
+    "id": "0001_00180",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「その認識で間違っていない」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"That's not exactly wrong.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「这样的认识基本没错。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「這樣的認識基本沒錯。」"
+    }
+  },
+  {
+    "id": "0001_00181",
+    "ja": {
+      "name": null,
+      "text": "残念ながら多くの人にはそう認識されている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Unfortunately, that's how I'm perceived by most people."
+    },
+    "cn": {
+      "name": null,
+      "text": "很遗憾，大多数人都是如此看待我们的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "很遺憾，大多數人都是如此看待我們的。"
+    }
+  },
+  {
+    "id": "0001_00182",
+    "ja": {
+      "name": null,
+      "text": "俺は未知を追い求めることが冒険者だと思っているが、\n実際には便利屋まがいな依頼が多いのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I consider myself an adventurer on a quest for the unknown, but in reality, I'm more like a glorified handyman."
+    },
+    "cn": {
+      "name": null,
+      "text": "在我看来，冒险者是一种探索未知事物的职业。\n可实际接受的委托，都是各种琐碎的杂事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在我看來，冒險者是一種探索未知事物的職業。\n可實際接受的委託，都是各種瑣碎的雜事。"
+    }
+  },
+  {
+    "id": "0001_00183",
+    "ja": {
+      "name": null,
+      "text": "まあ、冒険者とは何か……というのはともかく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Well, I guess that is what most adventurers are."
+    },
+    "cn": {
+      "name": null,
+      "text": "不过……冒险者的定义就先放在一边吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不過……冒險者的定義就先放在一邊吧。"
+    }
+  },
+  {
+    "id": "0001_00184",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「俺は冒険者で、とある一件で大怪我を負ってしまった」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I WAS one... until an unfortunate accident, that is.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「在做冒险者时，我因为某件事而受了重伤。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「在做冒險者時，我因為某件事而受了重傷。」"
+    }
+  },
+  {
+    "id": "0001_00185",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「奴隷を買ったのは、怪我が治るまでの俺の世話を、\n絶対に裏切らない相手にして貰うため……というのが\n理由だ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I need someone to help care for me until I'm healed enough to venture back out into the world. That you two can't betray me is what swayed my decision to invest in you.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「之所以购买奴隶，是需要绝不会背叛的人，\n在疗伤期间照顾我的生活……就是这样了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「之所以購買奴隸，是需要絕不會背叛的人，\n在療傷期間照顧我的生活……就是這樣了。」"
+    }
+  },
+  {
+    "id": "0001_00186",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「絶対服従の呪い、ですね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You're referring to the spell of absolute obedience?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为有绝对服从的诅咒么？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為有絕對服從的詛咒嗎？」"
+    }
+  },
+  {
+    "id": "0001_00187",
+    "ja": {
+      "name": null,
+      "text": "ファルナにも理解できる理由なのか、\n素直に納得したように頷いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She nods in my direction, seemingly understanding the reasoning behind my actions."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜似乎也可以理解这个理由，\n于是坦率地点了点头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜似乎也可以理解這個理由，\n於是坦率地點了點頭。"
+    }
+  },
+  {
+    "id": "0001_00188",
+    "ja": {
+      "name": null,
+      "text": "だが、その眼差しは、\nまだ俺を探っているような色をたたえている。"
+    },
+    "en": {
+      "name": null,
+      "text": "But there's a look in her eyes like she's searching for something."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，在她看我的眼神当中，\n依然掺杂着试探的色彩。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，在她看我的眼神當中，\n依然摻雜著試探的色彩。"
+    }
+  },
+  {
+    "id": "0001_00189",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「怪我が治れば冒険者に復帰する。\nそのときには二人を解放するつもりだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Once my injuries have healed, I plan on returning to my former occupation, at which time I will release both of you.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「伤势痊愈后我会继续做冒险者，\n到时候就打算放了你们。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「傷勢痊癒後我會繼續做冒險者，\n到時候就打算放了妳們。」"
+    }
+  },
+  {
+    "id": "0001_00190",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「なっ……わたしたちを、解放……してくれるのか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"What? You'll really set both of us free?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「什么……你会……放了我们吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「什麼……你會……放了我們嗎？」"
+    }
+  },
+  {
+    "id": "0001_00191",
+    "ja": {
+      "name": null,
+      "text": "今まで黙って歩いていたアリエノールが、\nここで初めて反応を見せた。"
+    },
+    "en": {
+      "name": null,
+      "text": "This is the first reaction I've gotten from Alienor, who, until now, has been following silently."
+    },
+    "cn": {
+      "name": null,
+      "text": "一直在默默走路的艾丽耶诺尔，\n这才头一次有了反应。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一直在默默走路的艾麗耶諾爾，\n這才頭一次有了反應。"
+    }
+  },
+  {
+    "id": "0001_00192",
+    "ja": {
+      "name": null,
+      "text": "驚きに目を見開きつつも、疑わしげに俺を見つめてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her eyes are wide in surprise, though there's a hint of doubt."
+    },
+    "cn": {
+      "name": null,
+      "text": "她惊讶地睁大眼睛，充满疑惑地凝视着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她驚訝地睜大眼睛，充滿疑惑地凝視著我。"
+    }
+  },
+  {
+    "id": "0001_00193",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「信じられないか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You don't believe I speak the truth?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不相信吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不相信嗎？」"
+    }
+  },
+  {
+    "id": "0001_00194",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「当然だ！\n奴隷を買うような奴の、\n何を信じろというのだ！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Of course not! Why should I believe anything someone like you, who deals in the slave trade, has to say?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「当然了！\n一个会买奴隶的家伙，叫我怎么相信！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「當然了！\n一個會買奴隸的傢伙，叫我怎麼相信！？」"
+    }
+  },
+  {
+    "id": "0001_00195",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「口では何とでも言える。\n腹の中では、何を考えているか知れたことかっ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You can utter whatever words you wish, but how I know if you actually mean any of it?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嘴上说得轻巧，\n心里在盘算什么，又有谁会知道！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嘴上說得輕巧，\n心裡在盤算什麼，又有誰會知道！」"
+    }
+  },
+  {
+    "id": "0001_00196",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……まぁ、そうだろうな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Well... you do have a point.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……嗯，确实如此。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……嗯，確實如此。」"
+    }
+  },
+  {
+    "id": "0001_00197",
+    "ja": {
+      "name": null,
+      "text": "当たり前の反応だ。\n俺だって初対面の人間にそう言われても信用できるわけがない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her reaction is natural enough. If the positions were reversed, I wouldn't trust me, either."
+    },
+    "cn": {
+      "name": null,
+      "text": "这也是理所当然。\n刚见面就说出这种话，换成是我也不会相信。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這也是理所當然。\n剛見面就說出這種話，換成是我也不會相信。"
+    }
+  },
+  {
+    "id": "0001_00198",
+    "ja": {
+      "name": null,
+      "text": "ただ、俺がそのつもりだってことを、\n先に言っておきたかっただけだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The only reason I mentioned it was because I wanted them to know my plans."
+    },
+    "cn": {
+      "name": null,
+      "text": "不过，我只是想事先把这种想法告诉她们而已。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不過，我只是想事先把這種想法告訴她們而已。"
+    }
+  },
+  {
+    "id": "0001_00199",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それで──ぐっ！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Now then... Ungh!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「所以──唔！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「所以──唔！」"
+    }
+  },
+  {
+    "id": "0001_00200",
+    "ja": {
+      "name": null,
+      "text": "突然全身を駆け抜けた痛みに、思わずうめいてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I cry out as a sharp pain suddenly races through my body."
+    },
+    "cn": {
+      "name": null,
+      "text": "痛楚突然涌遍全身，我不禁发出了呻吟。"
+    },
+    "tw": {
+      "name": null,
+      "text": "痛楚突然湧遍全身，我不禁發出了呻吟。"
+    }
+  },
+  {
+    "id": "0001_00201",
+    "ja": {
+      "name": null,
+      "text": "元々引きずっていた足に力が入らず、\nそのまま膝から崩れ落ちそうになってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having put weight on my bad leg, I find myself about to fall."
+    },
+    "cn": {
+      "name": null,
+      "text": "原本就有些拖沓的腿完全使不上力，\n差一点就要跪倒在地。"
+    },
+    "tw": {
+      "name": null,
+      "text": "原本就拖著的腿完全使不上力，\n差一點就要跪倒在地。"
+    }
+  },
+  {
+    "id": "0001_00202",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……失礼いたします、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Excuse me, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……失礼了，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……失禮了，主人。」"
+    }
+  },
+  {
+    "id": "0001_00203",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「くっ……ファルナ……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm... Farna...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜……法尔娜……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚……法爾娜……？」"
+    }
+  },
+  {
+    "id": "0001_00204",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「今にも倒れそうでしたので。\nこういう介助が必要で、私を買われたのですよね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You looked like you were about to collapse. This is part of the reason why you needed my help, correct?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为看您快要摔倒了。\n之所以买下我，就是需要这样的看护吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為看您快要摔倒了。\n之所以買下我，就是需要這樣的看護吧？」"
+    }
+  },
+  {
+    "id": "0001_00205",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ、助かる」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Yeah, I appreciate it.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯，多谢了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯，多謝了。」"
+    }
+  },
+  {
+    "id": "0001_00206",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「いえ……奴隷としての仕事ですから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"There's no need to thank me for simply doing my job.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「不……这是奴隶的本分。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「不……這是奴隸的本分。」"
+    }
+  },
+  {
+    "id": "0001_00207",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0001_00208",
+    "ja": {
+      "name": null,
+      "text": "不意に、柔らかいものがムギュッと俺に押しつけられた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I suddenly feel something soft and squishy."
+    },
+    "cn": {
+      "name": null,
+      "text": "突然，某种软绵绵的东西压了过来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "突然，某種軟綿綿的東西壓了過來。"
+    }
+  },
+  {
+    "id": "0001_00209",
+    "ja": {
+      "name": null,
+      "text": "視線を向けると、\nファルナの胸の膨らみが無造作に押し当てられ、\n大きくひしゃげている。"
+    },
+    "en": {
+      "name": null,
+      "text": "I look down to see Farna's breast squashed against my body, pressed almost flat."
+    },
+    "cn": {
+      "name": null,
+      "text": "转过视线，\n发现她胸前的隆起物直接贴在了我身上，\n已经压得变了形状。"
+    },
+    "tw": {
+      "name": null,
+      "text": "轉過視線，\n發現她胸前的隆起物直接貼在了我身上，\n已經壓得變了形狀。"
+    }
+  },
+  {
+    "id": "0001_00210",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ファ、ファルナ、いったい何を……！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"F-Farna?! What in god's name do you think you're doing?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「法、法尔娜，你这是干嘛……！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「法、法爾娜，妳這是乾嘛……！？」"
+    }
+  },
+  {
+    "id": "0001_00211",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「姫様、どうかされましたか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"What seems to be wrong, Princess?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「公主殿下，有什么问题吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「公主殿下，有什麼問題嗎？」"
+    }
+  },
+  {
+    "id": "0001_00212",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「い、いや、何でもないが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"N-Never mind. It's nothing...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「不、不，倒也没什么……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「不、不，倒也沒什麼……」"
+    }
+  },
+  {
+    "id": "0001_00213",
+    "ja": {
+      "name": null,
+      "text": "アリエノールが頬を赤らめ、\nファルナに何かを言おうとしていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "With her cheeks bright red, Alienor looks like she wants to say something to Farna."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽耶诺尔脸颊泛红，\n似乎想对法尔娜说些什么。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗耶諾爾臉頰泛紅，\n似乎想對法爾娜說些什麼。"
+    }
+  },
+  {
+    "id": "0001_00214",
+    "ja": {
+      "name": null,
+      "text": "チラチラと押しつけられた膨らみ部分を見ているため、\nそのことを言いたいのだろうが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I assume it's about our unexpected body contact, based on her repeated glances toward Farna's breasts pressed against me."
+    },
+    "cn": {
+      "name": null,
+      "text": "看她正瞥着法尔娜被压得变形的胸部，\n估计是想说这个吧……"
+    },
+    "tw": {
+      "name": null,
+      "text": "看她正瞥著法爾娜被壓得變形的胸部，\n估計是想說這個吧……"
+    }
+  },
+  {
+    "id": "0001_00215",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0001_00216",
+    "ja": {
+      "name": null,
+      "text": "多分、わざと……なんだろう。\nもしかすると俺を試している可能性もある。"
+    },
+    "en": {
+      "name": null,
+      "text": "Is there a chance she's doing this on purpose? Is she trying to gauge my intentions?"
+    },
+    "cn": {
+      "name": null,
+      "text": "大概……是故意的吧。\n说不定她这番举动，是对我的试探。"
+    },
+    "tw": {
+      "name": null,
+      "text": "大概……是故意的吧。\n說不定她這番舉動，是對我的試探。"
+    }
+  },
+  {
+    "id": "0001_00217",
+    "ja": {
+      "name": null,
+      "text": "俺にその気はないが、\n若い女奴隷を買うのは、\n性処理目的だと思われても不思議ではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "That wasn't necessarily what I had in mind, but it's not unusual for men to purchase young women for sexual purposes."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然我没有那个意图，\n但站在被买下的年轻女奴隶的角度来看，\n会担心自己成为泄欲工具也不奇怪。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然我沒有那個意圖，\n但站在被買下的年輕女奴隸的角度來看，\n會擔心自己成為洩慾工具也不奇怪。"
+    }
+  },
+  {
+    "id": "0001_00218",
+    "ja": {
+      "name": null,
+      "text": "ファルナは、自分と一緒にアリエノールを売るように\n命懸けで奴隷商に直談判するくらいだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna put her life on the line by imploring the trader to keep both her and Alienor together."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了保证自己与艾丽耶诺尔被一起卖掉，\n法尔娜甚至都不惜与奴隶商人进行谈判。"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了保證自己與艾麗耶諾爾被一起賣掉，\n法爾娜甚至都不惜與奴隸商人進行談判。"
+    }
+  },
+  {
+    "id": "0001_00219",
+    "ja": {
+      "name": null,
+      "text": "俺がアリエノールにそのような要求をする男なのかを\n探っているに違いない。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's very possible she's trying to figure out if I'm the type of man who'd make such demands from Alienor."
+    },
+    "cn": {
+      "name": null,
+      "text": "所以，她一定是想试探一下\n我是不是会对艾丽耶诺尔提出那种要求的男人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以，她一定是想試探一下\n我是不是會對艾麗耶諾爾提出那種要求的男人。"
+    }
+  },
+  {
+    "id": "0001_00220",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……ファルナ、あまり強くしがみつかないでくれ。\n歩き辛くなる」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You don't have to hold me that tightly, Farna. It's hard to walk.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……法尔娜，不要贴得太紧了，\n不然走起路来也很困难。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……法爾娜，不要貼得太緊了，\n不然走起路來也很困難。」"
+    }
+  },
+  {
+    "id": "0001_00221",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい、申し訳ございません、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Of course, Master. It won't happen again.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是，十分抱歉，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是，十分抱歉，主人。」"
+    }
+  },
+  {
+    "id": "0001_00222",
+    "ja": {
+      "name": null,
+      "text": "さらに膨らみが押しつけられるが、\n俺は小さく首を横に振ってそう告げた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She presses her breast even harder against me, but I give a slight shake of my head as I speak."
+    },
+    "cn": {
+      "name": null,
+      "text": "她还继续将胸脯挤压过来，\n但我稍微摇了摇头，如此制止道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她還繼續將胸脯擠壓過來，\n但我稍微搖了搖頭，如此制止道。"
+    }
+  },
+  {
+    "id": "0001_00223",
+    "ja": {
+      "name": null,
+      "text": "俺も男だし、\nこの手のことは純粋にドキドキさせられてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I am still a man, and as such, I can't help but get turned on by this kind of behavior."
+    },
+    "cn": {
+      "name": null,
+      "text": "我毕竟是男人，\n对于这种事情难免感到紧张。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我畢竟是男人，\n對於這種事情難免感到緊張。"
+    }
+  },
+  {
+    "id": "0001_00224",
+    "ja": {
+      "name": null,
+      "text": "娼館で経験はあるとはいえ、\n女性慣れしているわけでもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though I've visited my fair share of whore houses, but I'm still not used to being around women."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽说在妓院有过那方面经验，\n但对女人的阅历并不算深。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖說在妓院有過那方面經驗，\n但對女人的閱歷並不算深。"
+    }
+  },
+  {
+    "id": "0001_00225",
+    "ja": {
+      "name": null,
+      "text": "ただ単純に、\n会ったばかりの女性に情欲を持つほど人を\n信じられなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Plus, it's hard for me to trust a woman I've just met, especially when it comes to anything sexual."
+    },
+    "cn": {
+      "name": null,
+      "text": "之所以对刚刚见面的女性难以产生情欲，\n仅仅是因为无法对人信任到那种程度。"
+    },
+    "tw": {
+      "name": null,
+      "text": "之所以對剛剛見面的女性難以產生情慾，\n僅僅是因為無法對人信任到那種程度。"
+    }
+  },
+  {
+    "id": "0001_00226",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……ふんっ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hmph...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……哼。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……哼。」"
+    }
+  },
+  {
+    "id": "0001_00227",
+    "ja": {
+      "name": null,
+      "text": "その様子をジッと見ていたアリエノールと、\nはたと目が合った。"
+    },
+    "en": {
+      "name": null,
+      "text": "Alienor, who'd been watching the scene carefully, briefly met my gaze with hers."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽耶诺尔始终盯着这一幕，\n然后不期然地与我对上了视线。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗耶諾爾始終盯著這一幕，\n然後不期然地與我對上了視線。"
+    }
+  },
+  {
+    "id": "0001_00228",
+    "ja": {
+      "name": null,
+      "text": "不機嫌そうにそっぽを向かれるが、\n先程までの反抗的な眼差しが和らいでいるような\n気がする。"
+    },
+    "en": {
+      "name": null,
+      "text": "She quickly looks away, unamused, although the glint of defiance in her eyes seems to have softened somewhat."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然马上就不愉快地甩过了头，\n但刚刚那种充满反抗的眼神似乎稍微缓和了一些。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然馬上就不愉快地甩過了頭，\n但剛剛那種充滿反抗的眼神似乎稍微緩和了一些。"
+    }
+  },
+  {
+    "id": "0001_00229",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ところで、ご主人様。\nどちらへ向かっているのでしょうか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"By the way, Master, which way are we going?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「话说回来，主人，\n我们这是要去哪里？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「話說回來，主人，\n我們這是要去哪裡？」"
+    }
+  },
+  {
+    "id": "0001_00230",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「言われるままについて来ましたが、\nご宿泊されている宿がこちらなのですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I've been following you up until now, but where exactly is the inn where you've been staying?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「一直都只是按照您的指示在移动……\n莫非您入住的旅馆在这个方向？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「一直都只是按照您的指示在移動……\n莫非您入住的旅館在這個方向？」"
+    }
+  },
+  {
+    "id": "0001_00231",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「っと、そのことはまだ説明していなかったな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Oops. I didn't make it that far, did I?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哦，这件事还没跟你们讲明白。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哦，這件事還沒跟妳們講明白。」"
+    }
+  },
+  {
+    "id": "0001_00232",
+    "ja": {
+      "name": null,
+      "text": "説明しようとしたところで、\n体の痛みから転びそうになってしまったのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I was about to explain when I almost collapsed in the middle of the street from pain."
+    },
+    "cn": {
+      "name": null,
+      "text": "刚刚想说这件事的时候，\n就差点因身上的剧痛而倒在地上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "剛剛想說這件事的時候，\n就差點因身上的劇痛而倒在地上。"
+    }
+  },
+  {
+    "id": "0001_00233",
+    "ja": {
+      "name": null,
+      "text": "命が助かっただけ幸運だとはいえ、\n怪我で満足に動けないのは辛い。"
+    },
+    "en": {
+      "name": null,
+      "text": "While I'm indeed lucky to be alive, it's rough not being able to move around easily thanks to my serious injuries."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽说能捡回一条命已经算万幸，\n但伤到无法正常行动的程度，实在是难受得很。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖說能撿回一條命已經算萬幸，\n但傷到無法正常行動的程度，實在是難受得很。"
+    }
+  },
+  {
+    "id": "0001_00234",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「これから俺の住処へ向かうが、\nお前たちの日用品も必要だろ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"We are heading to my humble abode, but we should probably pick up some necessities for you two along the way.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「之后要去我住的地方，\n但你们也需要一些生活用品吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「之後要去我住的地方，\n但妳們也需要一些生活用品吧？」"
+    }
+  },
+  {
+    "id": "0001_00235",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「金はファルナに預ける。\n二人で必要だと思う物を買ってきてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna, I'll give you some money. Just get whatever the two of you need.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「钱就交给法尔娜，\n你们去买一些自己需要的东西吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「錢就交給法爾娜，\n妳們去買一些自己需要的東西吧。」"
+    }
+  },
+  {
+    "id": "0001_00236",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……私がお金を預かってもよろしいのですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You really trust me with your money?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……真的可以把钱交给我保管吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……真的可以把錢交給我保管嗎？」"
+    }
+  },
+  {
+    "id": "0001_00237",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「別に、大金を渡すわけじゃない。\nそれに俺は女が必要なものなんて知らない」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"It's not like I'm giving you a lot. Plus, I don't really know what kinds of things women need on a daily basis.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「无妨，反正也不是很大一笔钱。\n而且，我也不知道女人都需要什么东西。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「無妨，反正也不是很大一筆錢。\n而且，我也不知道女人都需要什麼東西。」"
+    }
+  },
+  {
+    "id": "0001_00238",
+    "ja": {
+      "name": null,
+      "text": "本来なら、俺が金を管理して買い物をするべきだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I should be the one managing the money and buying necessities."
+    },
+    "cn": {
+      "name": null,
+      "text": "原本，确实应该由我来管理财务，购买物资。"
+    },
+    "tw": {
+      "name": null,
+      "text": "原本，確實應該由我來管理財務，購買物資。"
+    }
+  },
+  {
+    "id": "0001_00239",
+    "ja": {
+      "name": null,
+      "text": "しかし動くのも辛い現状ではそれも難しい。"
+    },
+    "en": {
+      "name": null,
+      "text": "But not being able to move freely makes that difficult."
+    },
+    "cn": {
+      "name": null,
+      "text": "但凭这无法自由活动的身体，想做到这点也很困难。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但憑這無法自由活動的身體，想做到這點也很困難。"
+    }
+  },
+  {
+    "id": "0001_00240",
+    "ja": {
+      "name": null,
+      "text": "ならばいっそのことファルナに丸投げするのが\n一番面倒が少ないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "That's why I'd much rather let Farna deal with it and save me the trouble."
+    },
+    "cn": {
+      "name": null,
+      "text": "所以干脆把一切都交给法尔娜，才是最省事的办法。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以乾脆把一切都交給法爾娜，才是最省事的辦法。"
+    }
+  },
+  {
+    "id": "0001_00241",
+    "ja": {
+      "name": null,
+      "text": "俺は金への執着はほとんどないし、\n大金を預けるわけでもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Money doesn't mean that much to me, and I no longer have that much of it, anyway."
+    },
+    "cn": {
+      "name": null,
+      "text": "我对金钱基本没有执念，\n何况也并没交给她太多的钱。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我對金錢基本沒有執念，\n何況也並沒交給她太多的錢。"
+    }
+  },
+  {
+    "id": "0001_00242",
+    "ja": {
+      "name": null,
+      "text": "もし俺の目を盗んで金をかすめ取ったとしても、\nそれほど痛手でもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even if they were to steal what I gave them, it wouldn't be that big of a loss."
+    },
+    "cn": {
+      "name": null,
+      "text": "就算她真的背着我盗取一些，\n也算不上什么大的损失。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就算她真的背著我盜取一些，\n也算不上什麼大的損失。"
+    }
+  },
+  {
+    "id": "0001_00243",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「いえ、他にもどこで暮らすかでも──」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"If we were anywhere other than here...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「不，但至少想先知道我们要住哪里──」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「不，但至少想先知道我們要住哪裡──」"
+    }
+  },
+  {
+    "id": "0001_00244",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……いえ、何でもありません。\nかしこまりました、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"...Actually, never mind. I understand and appreciate your generosity, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……不，没什么。\n我明白了，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……不，沒什麼。\n我明白了，主人。」"
+    }
+  },
+  {
+    "id": "0001_00245",
+    "ja": {
+      "name": null,
+      "text": "納得がいかないのか、何かを言いかけるファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's clear she was about to say something, seemingly confused by my actions."
+    },
+    "cn": {
+      "name": null,
+      "text": "似乎心中仍有疑虑，法尔娜有些欲言又止。"
+    },
+    "tw": {
+      "name": null,
+      "text": "似乎心中仍有疑慮，法爾娜有些欲言又止。"
+    }
+  },
+  {
+    "id": "0001_00246",
+    "ja": {
+      "name": null,
+      "text": "しかし奴隷としての身の上を思い出したのか、\n主人である俺に口答えせず、素直に頷いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, before she can finish, she remembers her status as a slave, and simply nods in my direction, unquestioningly."
+    },
+    "cn": {
+      "name": null,
+      "text": "但大概是顾及自己奴隶的身份，\n所以并未忤逆身为主人的我，而是老实地点了点头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但大概是顧及自己奴隸的身份，\n所以並未忤逆身為主人的我，而是老實地點了點頭。"
+    }
+  },
+  {
+    "id": "0001_00247",
+    "ja": {
+      "name": null,
+      "text": "アリエノールは良くわかっていないのか、\n黙ってそんなファルナと俺を見比べている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Meanwhile, Alienor's gaze shifts between Farna and me, completely unaware of what just happened."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽耶诺尔则像是没有搞清楚状况，\n正一来一回地看着我和法尔娜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗耶諾爾則像是沒有搞清楚狀況，\n正一來一回地看著我和法爾娜。"
+    }
+  },
+  {
+    "id": "0001_00248",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「日々の生活で必要だと思う物を買ってくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Go on and buy whatever daily necessities you need.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「去买些你们在日常生活中需要的东西吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「去買些你們在日常生活中需要的東西吧。」"
+    }
+  },
+  {
+    "id": "0001_00249",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「俺は見ての通り満足に動けないからな。\nそこで座って待ってる」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"As you can see, I can't get around easily, so I'll sit here and wait for your return.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「如你们所见，我连走路都不太方便，\n所以就坐在这里等着。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「如妳們所見，我連走路都不太方便，\n所以就坐在這裡等著。」"
+    }
+  },
+  {
+    "id": "0001_00250",
+    "ja": {
+      "name": null,
+      "text": "高級な奴隷を二人も買ったため、ドラゴンの巣から財宝を持ち帰って得た金もほとんど残っていない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having purchased two high-class slaves, there's not much left of the riches I brought back from the dragon's lair."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为买了两个高级的奴隶，\n所以靠从龙穴带回来的财宝换取的金钱\n已经所剩无几。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為買了兩個高級的奴隸，\n所以靠從龍穴帶回來的財寶換取的金錢，\n已經所剩無幾。"
+    }
+  },
+  {
+    "id": "0001_00251",
+    "ja": {
+      "name": null,
+      "text": "その残り少ない金をファルナに渡すと、\n俺は日陰に座って体を休めることにするのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I hand over what little money I have left to Farna before settling down in the shade of a tree to rest."
+    },
+    "cn": {
+      "name": null,
+      "text": "我将剩下的少量金钱交给了法尔娜，\n然后就坐在了阴凉处，打算休息一下身体。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我將剩下的少量金錢交給了法爾娜，\n然後就坐在了陰涼處，打算休息一下身體。"
+    }
+  },
+  {
+    "id": "0001_00252",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「お待たせいたしました、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"We have returned, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「让您久等了，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「讓您久等了，主人。」"
+    }
+  },
+  {
+    "id": "0001_00253",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ……本当に、\n最低限しか買って来なかったみたいだな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"There you are... It doesn't look like you got much.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯……看来，\n你们真的只买了最最基本的东西啊。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯……看來，\n妳們真的只買了最最基本的東西啊。」"
+    }
+  },
+  {
+    "id": "0001_00254",
+    "ja": {
+      "name": null,
+      "text": "戻って来たファルナが抱えている荷物を見て、\n頭の中で使った金額に見当をつける。"
+    },
+    "en": {
+      "name": null,
+      "text": "I glance over the items Farna brings back with her, mentally calculating how much she must have spent."
+    },
+    "cn": {
+      "name": null,
+      "text": "我看了看走回来的法尔娜捧着的物品，\n在脑内估算了一下金额。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我看了看走回來的法爾娜捧著的物品，\n在腦內估算了一下金額。"
+    }
+  },
+  {
+    "id": "0001_00255",
+    "ja": {
+      "name": null,
+      "text": "荷物はかなり少なめなため、\nほとんど使っていないはずだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It doesn't look like she bought that much, meaning most of the money I gave her should be left unspent."
+    },
+    "cn": {
+      "name": null,
+      "text": "她买的东西相当少，看上去几乎没花什么钱。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她買的東西相當少，看上去幾乎沒花什麼錢。"
+    }
+  },
+  {
+    "id": "0001_00256",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様。\nこちらは残金になります」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Here is the change, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，这是剩下的钱。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，這是剩下的錢。」"
+    }
+  },
+  {
+    "id": "0001_00257",
+    "ja": {
+      "name": null,
+      "text": "そして、ファルナは俺へと残りの金を手渡してくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna hands me the remaining money."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，法尔娜将剩余的钱还给了我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，法爾娜將剩餘的錢還給了我。"
+    }
+  },
+  {
+    "id": "0001_00258",
+    "ja": {
+      "name": null,
+      "text": "……結構ずしりとした重みを感じるため、\nかすめ取ったりもしていないらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "Based on the weight in my hand, it feels like they used almost none of it."
+    },
+    "cn": {
+      "name": null,
+      "text": "……沉甸甸的，\n看來并没有被偷拿。"
+    },
+    "tw": {
+      "name": null,
+      "text": "……沉甸甸的，\n看來並沒有被偷拿。"
+    }
+  },
+  {
+    "id": "0001_00259",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「残りが俺の全財産だ。\n他に何か足りない物があれば、\nその都度、俺に言ってくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"This is all that remains of my grand fortune. If you find yourself missing some necessity in the future, tell me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「剩下的就是我的全部财产了。\n如果还有什么需要的东西，就随时跟我说吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「剩下的就是我的全部財產了。\n如果還有什麼需要的東西，就隨時跟我說吧。」"
+    }
+  },
+  {
+    "id": "0001_00260",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……それが、全財産なのか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"This is all the money you have left?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……那就是全部财产？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……那就是全部財產？」"
+    }
+  },
+  {
+    "id": "0001_00261",
+    "ja": {
+      "name": null,
+      "text": "自分を買ったからには、\n俺はお金持ちに違いない……とでも\n思っていたのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "She clearly assumed I was far wealthier than I truly am, considering what I paid for her."
+    },
+    "cn": {
+      "name": null,
+      "text": "她大概觉得，既然能买得起自己，\n那么我一定是个有钱人吧？"
+    },
+    "tw": {
+      "name": null,
+      "text": "她大概覺得，既然能買得起自己，\n那麼我一定是個有錢人吧？"
+    }
+  },
+  {
+    "id": "0001_00262",
+    "ja": {
+      "name": null,
+      "text": "貴族や王族から見れば少なすぎる全財産に、\nアリエノールは申し訳なさそうに聞いてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Alienor speaks almost apologetically, the amount of money I'm left with being far less than anything a princess is used to."
+    },
+    "cn": {
+      "name": null,
+      "text": "在贵族和王室眼里，这全部财产实在少得可怜。\n也是为此，艾丽耶诺尔有些难以启齿地问道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在貴族和王室眼裡，這全部財產實在少得可憐。\n也是為此，艾麗耶諾爾有些難以啟齒地問道。"
+    }
+  },
+  {
+    "id": "0001_00263",
+    "ja": {
+      "name": null,
+      "text": "恐らくは、自分を買ったことで財産がなくなったと\n自覚したのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Perhaps she's finally aware that I basically bankrupted myself because of her."
+    },
+    "cn": {
+      "name": null,
+      "text": "恐怕她也明白，我大概是为了买她，\n才花掉了大部分的财产。"
+    },
+    "tw": {
+      "name": null,
+      "text": "恐怕她也明白，我大概是為了買她，\n才花掉了大部分的財產。"
+    }
+  },
+  {
+    "id": "0001_00264",
+    "ja": {
+      "name": null,
+      "text": "実際に、元王族のアリエノールにはファルナの数倍もの\n金額を支払っている。"
+    },
+    "en": {
+      "name": null,
+      "text": "In fact, given that she's former royalty, I paid several times as much for Alienor as for her handmaiden."
+    },
+    "cn": {
+      "name": null,
+      "text": "实际上，为了买下原本贵为王族的艾丽耶诺尔，\n我确实花费了数倍于法尔娜的金钱。"
+    },
+    "tw": {
+      "name": null,
+      "text": "實際上，為了買下原本貴為王族的艾麗耶諾爾，\n我確實花費了數倍於法爾娜的金錢。"
+    }
+  },
+  {
+    "id": "0001_00265",
+    "ja": {
+      "name": null,
+      "text": "ファルナはファルナで、\n心配げな表情を浮かべて俺を見ていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna watches me, an expression of worry coming over her face."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜也是一样，\n正用有些担心的表情看着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜也是一樣，\n正用有些擔心的表情看著我。"
+    }
+  },
+  {
+    "id": "0001_00266",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様。\n私や姫様も増えた状況で生活は、\n大丈夫なのでしょうか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Master, will this really be enough, now that you have two extra bodies to care for?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，\n多出了我和公主殿下，\n真的可以维持正常生活吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，\n多出了我和公主殿下，\n真的可以維持正常生活嗎？」"
+    }
+  },
+  {
+    "id": "0001_00267",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「そのお体では仕事もできませんし、\n稼ぐあてがありませんと……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You can't work the way you are now, and being unable to earn money...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「您目前的身体也没办法工作，\n要是没有收入来源的话……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「您目前的身體也沒辦法工作，\n要是沒有收入來源的話……」"
+    }
+  },
+  {
+    "id": "0001_00268",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「その点は問題ない。\n元々、金を使うような生活は好まないんだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Don't worry about that. I'm not the type to spend frivolously to begin with.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「这一点没有问题，\n毕竟，我本来就不喜欢在生活上花钱。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「這一點沒有問題，\n畢竟，我本來就不喜歡在生活上花錢。」"
+    }
+  },
+  {
+    "id": "0001_00269",
+    "ja": {
+      "name": null,
+      "text": "元王族とその侍女だった二人には、\n理解できないかもしれないが、\nこちらは元村民なのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though it's probably impossible for a former princess and royal handmaiden to understand, I come from a very small, rural town."
+    },
+    "cn": {
+      "name": null,
+      "text": "她们原本是王族及其侍女，\n所以对此或许无法理解，\n但我毕竟是农民出身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她們原本是王族及其侍女，\n所以對此或許無法理解，\n但我畢竟是農民出身。"
+    }
+  },
+  {
+    "id": "0001_00270",
+    "ja": {
+      "name": null,
+      "text": "自給自足の生活が当たり前だったし、\n実際にそうやって生きてきた期間は長い。"
+    },
+    "en": {
+      "name": null,
+      "text": "I've been self-sufficient for most of my life, so living off the land comes naturally to me."
+    },
+    "cn": {
+      "name": null,
+      "text": "对我而言，自给自足是理所当然的生活方式，\n事实上也已经这样生存了很久。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對我而言，自給自足是理所當然的生活方式，\n事實上也已經這樣生存了很久。"
+    }
+  },
+  {
+    "id": "0001_00271",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「何より人の多いところにいると煩わしくてな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I can't stand living among throngs of people...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「更重要的是，人多的地方实在嘈杂得很……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「更重要的是，人多的地方實在吵雜得很……」"
+    }
+  },
+  {
+    "id": "0001_00272",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「だから、これから街を出る」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"So we're leaving the city.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「所以接下来，我们要离开城镇。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「所以接下來，我們要離開城鎮。」"
+    }
+  },
+  {
+    "id": "0001_00273",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「街を、出る？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"We are?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「离开……城镇？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「離開……城鎮？」"
+    }
+  },
+  {
+    "id": "0001_00274",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「どういうことでしょうか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"What exactly do you mean?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「这是什么意思呢？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「這是什麼意思呢？」"
+    }
+  },
+  {
+    "id": "0001_00275",
+    "ja": {
+      "name": null,
+      "text": "顔を見合わせ、首をかしげるアリエノールとファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "The two of them look at me quizzically."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽耶诺尔和法尔娜歪着脑袋，面面相觑起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗耶諾爾和法爾娜歪著腦袋，面面相覷起來。"
+    }
+  },
+  {
+    "id": "0001_00276",
+    "ja": {
+      "name": null,
+      "text": "俺はファルナに支えて貰いながら立ち上がると、\n二人を促して再度歩き始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna helps me to my feet and the three of us resume walking toward our destination."
+    },
+    "cn": {
+      "name": null,
+      "text": "我在法尔娜的搀扶下站起身，\n指挥二人重新迈开了步伐。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我在法爾娜的攙扶下站起身，\n指揮二人重新邁開了步伐。"
+    }
+  },
+  {
+    "id": "0001_00277",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……街の外に出るならば馬か馬車に乗った方が\n良いのではないか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"If we're leaving the city limits, then wouldn't it be best to make use of a horse or carriage?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……要去城外的话，\n骑马或乘坐马车不是更好吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……要去城外的話，\n騎馬或乘坐馬車不是更好嗎？」"
+    }
+  },
+  {
+    "id": "0001_00278",
+    "ja": {
+      "name": null,
+      "text": "さすが元王族。\n徒歩で街の外に出る発想がなかったのか、\n不思議そうに聞いてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Spoken like true royalty. Her perplexity is evident in her voice, unable to fathom a reality where one walks anywhere outside the main city streets."
+    },
+    "cn": {
+      "name": null,
+      "text": "不愧是王族出身。\n大概是从未考虑过徒步出城的可能性，\n所以她有些好奇地如此问道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不愧是王族出身。\n大概是從未考慮過徒步出城的可能性，\n所以她有些好奇地如此問道。"
+    }
+  },
+  {
+    "id": "0001_00279",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「姫様のおっしゃるとおりです。\nご主人様はお体も良くないのですから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I agree with the princess. You shouldn't be walking long distances in your condition, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「公主殿下说的有道理，\n更何况主人的身体状况也很糟糕……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「公主殿下說的有道理，\n更何況主人的身體狀況也很糟糕……」"
+    }
+  },
+  {
+    "id": "0001_00280",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「大丈夫だ。\nそこまで遠出はしないからな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'll be fine. Besides, where we're headed isn't too far from here.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不要紧，我们不需要走太远。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不要緊，我們不需要走太遠。」"
+    }
+  },
+  {
+    "id": "0001_00281",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですが……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Still...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是……」"
+    }
+  },
+  {
+    "id": "0001_00282",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「悪いが、もうしばらく俺を支えて歩いてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'm sorry, but I'll need you to help me a little while longer.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「很抱歉，再扶着我多走一段路吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「很抱歉，再扶著我多走一段路吧。」"
+    }
+  },
+  {
+    "id": "0001_00283",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「いえ、\nそれがお仕事ですので、\nそれは構いません」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Of course, Master. Supporting you is my job, after all, and I will do so as long as necessary.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「不，\n毕竟这是我的工作，请您不必在意。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「不，\n畢竟這是我的工作，請您不必在意。」"
+    }
+  },
+  {
+    "id": "0001_00284",
+    "ja": {
+      "name": null,
+      "text": "どこへ行くのかわからないからか、\nファルナは少し不安げだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna seems a little hesitant, most likely since she has no idea where we are going."
+    },
+    "cn": {
+      "name": null,
+      "text": "大概是因为不知要去哪里，\n法尔娜显得不太放心。"
+    },
+    "tw": {
+      "name": null,
+      "text": "大概是因為不知要去哪裡，\n法爾娜顯得不太放心。"
+    }
+  },
+  {
+    "id": "0001_00285",
+    "ja": {
+      "name": null,
+      "text": "大人の男を支えるにも体力が必要なため、\n少し息も上がっている。"
+    },
+    "en": {
+      "name": null,
+      "text": "She's also a bit out of breath, since it takes considerable effort to support a full-grown man."
+    },
+    "cn": {
+      "name": null,
+      "text": "加上支撑成年男性的身体需要体力，\n她的呼吸也局促了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "加上支撐成年男性的身體需要體力，\n她的呼吸也局促了起來。"
+    }
+  },
+  {
+    "id": "0001_00286",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「あ……えと、むぅ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Uh... Are you sure... Mm...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啊……那个、呃……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「啊……那個、呃……」"
+    }
+  },
+  {
+    "id": "0001_00287",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……姫様も、\nどうぞお気づかいなさらないでくださいね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Don't you worry about me, either, Princess. I promise I'm fine.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……公主殿下也是，请不要放在心上。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……公主殿下也是，請不要放在心上。」"
+    }
+  },
+  {
+    "id": "0001_00288",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「う、うむ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"O-Okay...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯、嗯……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯、嗯……」"
+    }
+  },
+  {
+    "id": "0001_00289",
+    "ja": {
+      "name": null,
+      "text": "街中で買った荷物の全てを、\nファルナが一人で抱えている状況だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna is carrying everything that the two of them purchased before leaving the city."
+    },
+    "cn": {
+      "name": null,
+      "text": "在街上买的东西，\n目前也全都由法尔娜独自捧在手中。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在街上買的東西，\n目前也全都由法爾娜獨自捧在手中。"
+    }
+  },
+  {
+    "id": "0001_00290",
+    "ja": {
+      "name": null,
+      "text": "アリエノールは葛藤があるのか、\n踏ん切りのつかない様子で手を伸ばしては引っ込める\n動作を繰り返している。"
+    },
+    "en": {
+      "name": null,
+      "text": "Clearly conflicted about what to do, Alienor repeatedly reaches out to take the items from Farna and lessen her load before pulling back."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽耶诺尔似乎仍在纠结，\n有些举棋不定地重复着伸出手，\n然后又缩回去的动作。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗耶諾爾似乎仍在糾結，\n有些舉棋不定地重複著伸出手，\n然後又縮回去的動作。"
+    }
+  },
+  {
+    "id": "0001_00291",
+    "ja": {
+      "name": null,
+      "text": "ファルナもファルナで、\n王女だったアリエノールに配慮して\n荷物を渡そうとしない。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, Farna cannot help but see her as royalty, and thus has no inclination whatsoever to have her do any work."
+    },
+    "cn": {
+      "name": null,
+      "text": "至于法尔娜，\n也因为顾及艾丽耶诺尔的公主身份，\n不肯将物品交给她拿。"
+    },
+    "tw": {
+      "name": null,
+      "text": "至於法爾娜，\n也因為顧及艾麗耶諾爾的公主身份，\n不肯將物品交給她拿。"
+    }
+  },
+  {
+    "id": "0001_00292",
+    "ja": {
+      "name": null,
+      "text": "今は二人とも同じ奴隷でしかないのだが……。\nまぁ、今はそれでも構わないか。"
+    },
+    "en": {
+      "name": null,
+      "text": "As slaves, the two are of equal status now, but there's no point bringing that up now."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然现在两人都仅仅是奴隶……\n不过，倒是也无所谓。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然現在兩人都僅僅是奴隸……\n不過，倒是也無所謂。"
+    }
+  },
+  {
+    "id": "0001_00293",
+    "ja": {
+      "name": null,
+      "text": "俺としては、\nファルナが生活の世話をしてくれれば\n問題はないのだから。"
+    },
+    "en": {
+      "name": null,
+      "text": "As long as Farna is making my life a little easier, then I don't really care what the two of them do."
+    },
+    "cn": {
+      "name": null,
+      "text": "对我来说，\n只要有法尔娜照顾我的生活起居，\n就没问题了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對我來說，\n只要有法爾娜照顧我的生活起居，\n就沒問題了。"
+    }
+  },
+  {
+    "id": "0001_00294",
+    "ja": {
+      "name": null,
+      "text": "そして、たどり着いたのは街の近くにある森の中だった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Before long, we finally arrive at a forest just outside the city."
+    },
+    "cn": {
+      "name": null,
+      "text": "最终，我们走到了城镇附近的森林里。"
+    },
+    "tw": {
+      "name": null,
+      "text": "最終，我們走到了城鎮附近的森林裡。"
+    }
+  },
+  {
+    "id": "0001_00295",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「森……ですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"This is where we're going?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是……森林啊。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是……森林啊。」"
+    }
+  },
+  {
+    "id": "0001_00296",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「あ、ああ、森……だな……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Yup, among these trees here...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯、嗯，确实是……森林……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯、嗯，確實是……森林……？」"
+    }
+  },
+  {
+    "id": "0001_00297",
+    "ja": {
+      "name": null,
+      "text": "青々と生い茂る木々の中、\nアリエノールとファルナは、\n呆然とした声を上げるのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Faced with so much lush, green foliage, both Alienor and Farna are stunned into silence by the sight before them."
+    },
+    "cn": {
+      "name": null,
+      "text": "站在郁郁葱葱的树木之间，\n艾丽耶诺尔和法尔娜一起哑然感叹。"
+    },
+    "tw": {
+      "name": null,
+      "text": "站在鬱鬱蔥蔥的樹木之間，\n艾麗耶諾爾和法爾娜一起啞然感嘆。"
+    }
+  }
+]

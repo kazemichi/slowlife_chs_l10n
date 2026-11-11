@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "0033_00001",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナ。\nこんな時間にどうしたんだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna, what are you doing out here this late?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜，\n这么晚了，怎么还没睡？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜，\n這麼晚了，怎麼還沒睡？」"
+    }
+  },
+  {
+    "id": "0033_00002",
+    "ja": {
+      "name": null,
+      "text": "足音が近づいて来るのを待ち、\n俺はその場で上半身を起こした。"
+    },
+    "en": {
+      "name": null,
+      "text": "I sit up from a laying position as I wait for the owner of the approaching footsteps to get closer."
+    },
+    "cn": {
+      "name": null,
+      "text": "我静静等脚步声接近，\n然后撑起了上半身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我靜靜等腳步聲接近，\n然後撐起了上半身。"
+    }
+  },
+  {
+    "id": "0033_00003",
+    "ja": {
+      "name": null,
+      "text": "振り返ってみると、\n予想通りファルナが少し驚いたような表情で立っている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Turning my head, I spot Farna, sporting a look of surprise on her face, confused how I knew it was her."
+    },
+    "cn": {
+      "name": null,
+      "text": "回头一看，\n法尔娜果然正一脸惊讶地站在身后。"
+    },
+    "tw": {
+      "name": null,
+      "text": "回頭一看，\n法爾娜果然正一臉驚訝地站在身後。"
+    }
+  },
+  {
+    "id": "0033_00004",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「気付いていたのですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I guess you noticed me coming, huh?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「被您发现了？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「被您發現了？」"
+    }
+  },
+  {
+    "id": "0033_00005",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「足音で、何となく……だけどな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I heard your footsteps and put two and two together.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「只要听脚步……自然就知道是你了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「只要聽腳步……自然就知道是妳了。」"
+    }
+  },
+  {
+    "id": "0033_00006",
+    "ja": {
+      "name": null,
+      "text": "そもそも、最初からファルナかアリーの\nどちらかしか可能性はないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "For starters, we're the only folks around, so the footsteps could have only belonged to either Farna or Allie."
+    },
+    "cn": {
+      "name": null,
+      "text": "毕竟除了法尔娜或艾丽，\n就不可能是其他人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "畢竟除了法爾娜或艾麗，\n就不可能是其他人。"
+    }
+  },
+  {
+    "id": "0033_00007",
+    "ja": {
+      "name": null,
+      "text": "後は足音を聞き分ければわかる。"
+    },
+    "en": {
+      "name": null,
+      "text": "And I can tell the difference between their unique steps."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后只要靠脚步声，就可以分辨。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後只要靠腳步聲，就可以分辨。"
+    }
+  },
+  {
+    "id": "0033_00008",
+    "ja": {
+      "name": null,
+      "text": "アリーの足音は少し力強さがあるし、\nファルナの足音はお淑やかさがあるし……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie tends to stomp around a bit more forcefully, while Farna walks more daintily, more ladylike..."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽的脚步声比较有力，\n法尔娜的脚步声则是比较优雅……"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗的腳步聲比較有力，\n法爾娜的腳步聲則是比較優雅……"
+    }
+  },
+  {
+    "id": "0033_00009",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それで、夜中に外に出て来てどうしたんだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What are you doing out here in the middle of the night?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「所以，你怎么半夜跑出来了？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「所以，妳怎麼半夜跑出來了？」"
+    }
+  },
+  {
+    "id": "0033_00010",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それはこちらの台詞でもあるのですが……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I should be asking you the same thing...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「应该是我这样问您才对吧……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「應該是我這樣問您才對吧……」"
+    }
+  },
+  {
+    "id": "0033_00011",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様がベッドを抜け出されたので、\nどうかしたのかと思って様子を見に来たのです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I figured something must be wrong if you're sneaking out of bed, so I came to check on you.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为发现主人下了床，\n还以为出了什么事，所以就来看看。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為發現主人下了床，\n還以為出了什麼事，所以就來看看。」"
+    }
+  },
+  {
+    "id": "0033_00012",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ……俺を心配して来てくれたのか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I see... You were worried about me?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哦……原来是担心我啊。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哦……原來是擔心我啊。」"
+    }
+  },
+  {
+    "id": "0033_00013",
+    "ja": {
+      "name": null,
+      "text": "どうやら、\nベッドを抜け出す段階で起こしてしまっていたらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "I guess I must have woken her up while getting out of the bed."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来在离开床铺时，就被她注意到了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來在離開床舖時，就被她注意到了。"
+    }
+  },
+  {
+    "id": "0033_00014",
+    "ja": {
+      "name": null,
+      "text": "無用な心配をかけないよう、\n静かに出てきたつもりだったんだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I thought I'd been as quiet as possible, so as not to bother them, but turns out I wasn't..."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了不害她们担心，明明已经尽量悄无声息了……"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了不害她們擔心，明明已經盡量悄無聲息了……"
+    }
+  },
+  {
+    "id": "0033_00015",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「最近は寒くなってきてますし、\nそんな服装では風邪を引いてしまいますよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It's been getting chilly lately. If you stay outside too long dressed like that, you'll end up sick.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「最近天越来越冷，\n穿成这样出来，会感冒的哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「最近天越來越冷，\n穿成這樣出來，會感冒的哦？」"
+    }
+  },
+  {
+    "id": "0033_00016",
+    "ja": {
+      "name": null,
+      "text": "少し申し訳なく思っていると、\nファルナに抱きしめられてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Clearly worried about my wellbeing, she steps closer before pulling me close in a warm embrace."
+    },
+    "cn": {
+      "name": null,
+      "text": "我正觉得内疚，\n法尔娜却直接抱住了我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我正覺得內疚，\n法爾娜卻直接抱住了我。"
+    }
+  },
+  {
+    "id": "0033_00017",
+    "ja": {
+      "name": null,
+      "text": "俺を胸で包み込むように抱きつき、\nファルナ自身は俺の耳元へと顔を寄せてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "With her arms wrapped around my chest, she brings her lips close to my ear."
+    },
+    "cn": {
+      "name": null,
+      "text": "她将我揽入胸口，然后把脸贴到了我耳边。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她將我攬入胸口，然後把臉貼到了我耳邊。"
+    }
+  },
+  {
+    "id": "0033_00018",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「やっぱり……。\n体が冷えてるではありませんか」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Just as I thought... You're chilled to the bone, aren't you?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「果然……身体已经开始发凉了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「果然……身體已經開始發涼了。」"
+    }
+  },
+  {
+    "id": "0033_00019",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや、そういうファルナこそ冷えてないか？\nそんな薄着だし」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I doubt I'm colder than you, Farna, considering that thin nightgown you're wearing.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不，法尔娜穿得那么薄，\n不是应该比我更容易着凉吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不，法爾娜穿得那麼薄，\n不是應該比我更容易著涼嗎？」"
+    }
+  },
+  {
+    "id": "0033_00020",
+    "ja": {
+      "name": null,
+      "text": "今のファルナの服装は、薄手の寝間着を着ているだけだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna's clad in nothing more than a thin slip for sleeping."
+    },
+    "cn": {
+      "name": null,
+      "text": "现在的法尔娜，只穿着一件薄薄的睡衣。"
+    },
+    "tw": {
+      "name": null,
+      "text": "現在的法爾娜，只穿著一件薄薄的睡衣。"
+    }
+  },
+  {
+    "id": "0033_00021",
+    "ja": {
+      "name": null,
+      "text": "とはいえ、触れ合う肌の感触はとても心地よく、\n思わずホッとする温もりがある。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though the touch of her skin on mine is comforting, and it fills me with a warm sense of relief."
+    },
+    "cn": {
+      "name": null,
+      "text": "话虽这么说，但肌肤相亲的感觉十分舒适，\n令我不禁有些飘飘然。"
+    },
+    "tw": {
+      "name": null,
+      "text": "話雖這麼說，但肌膚相親的感覺十分舒適，\n令我不禁有些飄飄然。"
+    }
+  },
+  {
+    "id": "0033_00022",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私は大丈夫です。\nこうして、ご主人様で暖を取っていますから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I'm okay. Plus, like this, I can help warm you up.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「我不要紧，因为可以和主人抱起来取暖。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「我不要緊，因為可以和主人抱起來取暖。」"
+    }
+  },
+  {
+    "id": "0033_00023",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ほら……ご主人様。\nこうすればもっと温かいですよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Here, Master... If I do this, I can warm you up even more.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「怎么样，主人……\n这样是不是更暖和一点？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「怎麼樣，主人……\n這樣是不是更暖和一點？」"
+    }
+  },
+  {
+    "id": "0033_00024",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うぐぅっ……！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mngh...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜咕……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚咕……！？」"
+    }
+  },
+  {
+    "id": "0033_00025",
+    "ja": {
+      "name": null,
+      "text": "今度は、\n俺の顔を抱きかかえるように腕を回してくるファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "This time, she wraps her arms around my head."
+    },
+    "cn": {
+      "name": null,
+      "text": "接着，法尔娜又伸出双臂，紧紧抱住了我的头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "接著，法爾娜又伸出雙臂，緊緊抱住了我的頭。"
+    }
+  },
+  {
+    "id": "0033_00026",
+    "ja": {
+      "name": null,
+      "text": "鼻先からファルナの乳房へと顔を埋める体勢になり、\n思わずうめいてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "With my face suddenly buried in her cleavage, I can't help but give out a muffled yelp in surprise."
+    },
+    "cn": {
+      "name": null,
+      "text": "从鼻尖到整张脸都被埋进了双乳之间，\n令我不禁惊叫了一声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "從鼻尖到整張臉都被埋進了雙乳之間，\n令我不禁驚叫了一聲。"
+    }
+  },
+  {
+    "id": "0033_00027",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あんっ……\nご主人様、そこに顔を押し当てて、\nもごもご口を動かされますと……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Aah... Master, be careful. If you try to speak with your face pressed against me like that...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「啊呃……\n主人，您不要把脸埋进来，\n然后嘴巴动来动去嘛……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「啊呃……\n主人，您不要把臉埋進來，\n然後嘴巴動來動去嘛……」"
+    }
+  },
+  {
+    "id": "0033_00028",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ぐ、むぅ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm! Mnph...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「咕、唔……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「咕、唔……」"
+    }
+  },
+  {
+    "id": "0033_00029",
+    "ja": {
+      "name": null,
+      "text": "ファルナから艶めかしい声が漏れ出し、\n俺はビクリと動きを止めていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing Farna's sultry moan, I immediately freeze in place."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜发出了娇艳的呻吟声，\n使我不禁停止了动作。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜發出了嬌豔的呻吟聲，\n使我不禁停止了動作。"
+    }
+  },
+  {
+    "id": "0033_00030",
+    "ja": {
+      "name": null,
+      "text": "そんな様子を見て、\nくすりとした笑いがファルナから聞こえてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Apparently amused by my reaction, I hear a soft chuckle coming from somewhere above me."
+    },
+    "cn": {
+      "name": null,
+      "text": "见状，她又嘻嘻嘻地笑了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見狀，她又嘻嘻嘻地笑了起來。"
+    }
+  },
+  {
+    "id": "0033_00031",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ふふっ……冗談です。\nそれよりも、どうされたのですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hehe... I'm joking. More importantly, did something happen?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呵呵……开玩笑的。\n比起这个，您究竟是怎么了？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呵呵……開玩笑的。\n比起這個，您究竟是怎麼了？」"
+    }
+  },
+  {
+    "id": "0033_00032",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「何か悩みごとでもあるのでしょうか……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Is there something that's bothering you?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「该不会，是有什么烦恼……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「該不會，是有什麼煩惱……？」"
+    }
+  },
+  {
+    "id": "0033_00033",
+    "ja": {
+      "name": null,
+      "text": "ぽんぽんっと、\n優しく俺の後頭部を撫でながら問いかけてくるファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She asks while gently patting the back of my head."
+    },
+    "cn": {
+      "name": null,
+      "text": "一边问，法尔娜一边温柔地抚摸着我的后脑勺。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一邊問，法爾娜一邊溫柔地撫摸著我的後腦勺。"
+    }
+  },
+  {
+    "id": "0033_00034",
+    "ja": {
+      "name": null,
+      "text": "とくんとくんっと拍動する心臓の音を聞いていると、\nなんだか安らかな気分になってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The steady sound of her heartbeat has a calming effect on me."
+    },
+    "cn": {
+      "name": null,
+      "text": "听着耳边传来有节奏的心跳声，\n心中不禁变得愈发安逸。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽著耳邊傳來有節奏的心跳聲，\n心中不禁變得愈發安逸。"
+    }
+  },
+  {
+    "id": "0033_00035",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「むぐ……ぷはっ。\n別にたいしたことは悩んでないさ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mngh... Fwah! There isn't really anything I'm worried about.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「唔咕……噗哈，\n其实也没什么烦恼啦。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「唔咕……噗哈，\n其實也沒什麼煩惱啦。」"
+    }
+  },
+  {
+    "id": "0033_00036",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ただ、ファルナやアリーを手放すことが、\nかなり現実味を帯びてきたと思ってな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I guess the thought of us having to part ways is becoming more of a reality with each passing day.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「只是感觉，距离释放艾丽和法尔娜的那一天，\n似乎真的已经越来越近了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「只是感覺，距離釋放艾麗和法爾娜的那一天，\n似乎真的已經越來越近了。」"
+    }
+  },
+  {
+    "id": "0033_00037",
+    "ja": {
+      "name": null,
+      "text": "冒険者ギルドで復帰の話をする。\n二人の昔の知人らしき男と会う。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thinking about returning to work and the secret conversation shared between that armor-clad man, Farna, and Allie..."
+    },
+    "cn": {
+      "name": null,
+      "text": "在冒险者协会谈到了回归之后的事，\n又遇到了她们两个认识的人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在冒險者協會談到了回歸之後的事，\n又遇到了她們兩個認識的人。"
+    }
+  },
+  {
+    "id": "0033_00038",
+    "ja": {
+      "name": null,
+      "text": "どちらも、\n二人との別れが近いことを暗示しているできごとだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Both events made me realize the time to say goodbye is only drawing closer."
+    },
+    "cn": {
+      "name": null,
+      "text": "这两件事，似乎都昭示着\n自己即将迎来与她们的分别。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這兩件事，似乎都昭示著\n自己即將迎來與她們的分別。"
+    }
+  },
+  {
+    "id": "0033_00039",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナたちを手放したくない。\nそう思うのは、わがままだとわかっているんだが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I don't want either of you to leave me, though I know how selfish that sounds...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「我不想与你们分开。\n虽然知道这种想法仅仅是我的任性……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「我不想與妳們分開。\n雖然知道這種想法僅僅是我的任性……」"
+    }
+  },
+  {
+    "id": "0033_00040",
+    "ja": {
+      "name": null,
+      "text": "そんな本音が思わず漏れてしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I let my true feelings on the matter slip out."
+    },
+    "cn": {
+      "name": null,
+      "text": "我不由自主地，吐露了这样的心声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我不由自主地，吐露了這樣的心聲。"
+    }
+  },
+  {
+    "id": "0033_00041",
+    "ja": {
+      "name": null,
+      "text": "途端、ファルナの心音がわずかに強まり、\n鼓動の間隔が短くなっていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Suddenly, Farna's heartbeat speeds up, the intervals between each thump growing much shorter."
+    },
+    "cn": {
+      "name": null,
+      "text": "顿时，法尔娜的心跳变得稍强了一些，\n节奏也开始加快。"
+    },
+    "tw": {
+      "name": null,
+      "text": "頓時，法爾娜的心跳變得稍強了一些，\n節奏也開始加快。"
+    }
+  },
+  {
+    "id": "0033_00042",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ありがとうございます、ご主人様。\nそう言って貰えると、すごく……嬉しいです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I understand how you feel, Master. And hearing you say that makes me feel... really happy.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「谢谢您，主人。\n听到您这句话，我真的……非常高兴。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「謝謝您，主人。\n聽到您這句話，我真的……非常高興。」"
+    }
+  },
+  {
+    "id": "0033_00043",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「わたくしも、あなたの側を離れがたいです……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I don't really want to leave your side, either...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「我也一样，不想离开您的身边……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「我也一樣，不想離開您的身邊……」"
+    }
+  },
+  {
+    "id": "0033_00044",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナ……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜……？」"
+    }
+  },
+  {
+    "id": "0033_00045",
+    "ja": {
+      "name": null,
+      "text": "俺を抱きしめてくる腕の力が、少しだけ強くなった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her arms, still wrapped around me, squeeze a little harder."
+    },
+    "cn": {
+      "name": null,
+      "text": "拥抱着我的双臂，用上了更强的力道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "擁抱著我的雙臂，用上了更強的力道。"
+    }
+  },
+  {
+    "id": "0033_00046",
+    "ja": {
+      "name": null,
+      "text": "ファルナの気持ちを聞いたことで、\n俺まで心臓の鼓動が早まっていくような気がする。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing how she feels makes my heart beat a little faster as well."
+    },
+    "cn": {
+      "name": null,
+      "text": "听到法尔娜诉说心意，\n我的心似乎也跳得越来越快了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽到法爾娜訴說心意，\n我的心似乎也跳得越來越快了。"
+    }
+  },
+  {
+    "id": "0033_00047",
+    "ja": {
+      "name": null,
+      "text": "そんな俺と近い距離で目が合い、\nはにかむように微笑みかけてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Our eyes lock, our faces so close together, and she smiles down at me shyly."
+    },
+    "cn": {
+      "name": null,
+      "text": "而她近距离与我对上了目光，\n并露出了嫣然的微笑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而她近距離與我對上了目光，\n並露出了嫣然的微笑。"
+    }
+  },
+  {
+    "id": "0033_00048",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「始まりはああでしたけど、\n今はちゃんと自分の主人だと思っているんですよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Though you've always been my master, you haven't truly felt like one until recently.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「尽管有着那样的开端，\n但我现在，真的想一直和您在一起哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「儘管有著那樣的開端，\n但我現在，真的想一直跟您在一起哦？」"
+    }
+  },
+  {
+    "id": "0033_00049",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それは、奴隷と主人として……ってことか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You mean like in a slave and master relationship?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那是出于……奴隶的身份吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那是出於……奴隸的身份嗎？」"
+    }
+  },
+  {
+    "id": "0033_00050",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「いえ、違います」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"No, not at all.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「不，并非如此。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「不，並非如此。」"
+    }
+  },
+  {
+    "id": "0033_00051",
+    "ja": {
+      "name": null,
+      "text": "その問いに、小さく首を横に振るファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She gives a slight shake of her head in answer."
+    },
+    "cn": {
+      "name": null,
+      "text": "对我的提问，法尔娜微微摇了摇头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對我的提問，法爾娜微微搖了搖頭。"
+    }
+  },
+  {
+    "id": "0033_00052",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「奴隷と主人という関係では無く、\n夫と妻として……というのは、\nおこがましいでしょうか……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Not like as a slave and master, but as a husband and wife—although that comparison might be a bit presumptuous of me.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「并非作为奴隶，而是作为妻子，\n将您视为我的夫君……\n这样想，会不会有些不自量……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「並非作為奴隸，而是作為妻子，\n將您視為我的丈夫……\n這樣想，會不會有些不自量……？」"
+    }
+  },
+  {
+    "id": "0033_00053",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0033_00054",
+    "ja": {
+      "name": null,
+      "text": "夫と妻。\nそれはつまり、ファルナは俺のことを……？"
+    },
+    "en": {
+      "name": null,
+      "text": "Husband and wife? In other words, is Farna saying that she sees me as her husband?"
+    },
+    "cn": {
+      "name": null,
+      "text": "妻子。\n也就是说，法尔娜对我……？"
+    },
+    "tw": {
+      "name": null,
+      "text": "妻子。\n也就是說，法爾娜對我……？"
+    }
+  },
+  {
+    "id": "0033_00055",
+    "ja": {
+      "name": null,
+      "text": "そんなことを考えると、\n胸に顔を埋めるような今の体勢が、\nものすごく気恥ずかしく思えてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Thinking about it like that with my face buried in her cleavage leaves me feeling incredibly embarrassed."
+    },
+    "cn": {
+      "name": null,
+      "text": "这样一想，\n突然对把脸埋在她胸口的姿势感到很难为情。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這樣一想，\n突然對把臉埋在她胸口的姿勢感到很難為情。"
+    }
+  },
+  {
+    "id": "0033_00056",
+    "ja": {
+      "name": null,
+      "text": "同時に、どうしようもない感覚が込み上げ、\n股間へと血流が集まっていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "At the same time, I find myself getting all tingly inside, sending blood shooting straight to my cock."
+    },
+    "cn": {
+      "name": null,
+      "text": "与此同时，一种难以抑制的感觉奔涌而至，\n令血液聚集到了我的胯下。"
+    },
+    "tw": {
+      "name": null,
+      "text": "與此同時，一種難以抑制的感覺奔湧而至，\n令血液聚集到了我的胯下。"
+    }
+  },
+  {
+    "id": "0033_00057",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あら……？\nふふっ、\nもう。ご主人様は元気なのですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hmm? Hehe, gosh, you really are virile, Master, aren't you?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「哎呀……？\n呵呵，真是的，\n主人您也太精力旺盛了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「哎呀……？\n呵呵，真是的，\n主人您也太精力旺盛了。」"
+    }
+  },
+  {
+    "id": "0033_00058",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「こちらが、固くなってきてますよ……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You're already hard...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「您的下面，开始变硬了哦……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「您的下面，開始變硬了哦……？」"
+    }
+  },
+  {
+    "id": "0033_00059",
+    "ja": {
+      "name": null,
+      "text": "ファルナは恥ずかしげに頬を赤らめ、\n視線を俺の股間へと向けていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her gaze is fixed on my crotch as she blushes in embarrassment."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜面颊绯红，并将目光投向了我的下半身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜面頰緋紅，並將目光投向了我的下半身。"
+    }
+  },
+  {
+    "id": "0033_00060",
+    "ja": {
+      "name": null,
+      "text": "密着しているため、誤魔化すこともできない。"
+    },
+    "en": {
+      "name": null,
+      "text": "We're so close that there's no way I can hide it."
+    },
+    "cn": {
+      "name": null,
+      "text": "彼此靠得太近，令我完全无法为此开脱。"
+    },
+    "tw": {
+      "name": null,
+      "text": "彼此靠得太近，令我完全無法為此開脫。"
+    }
+  },
+  {
+    "id": "0033_00061",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「このままでは、寝るときも窮屈……ですよね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"There's no way you can sleep now, huh?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「一直这样的话，睡觉时也会闷得慌……对吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「一直這樣的話，睡覺時也會悶得慌……對吧？」"
+    }
+  },
+  {
+    "id": "0033_00062",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様はそのままで。\nすぐに、スッキリさせて差し上げますから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Why don't I take care of that problem for you, Master, so you can rest easy?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人不必做任何事，\n我立刻就为您纾解欲望……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人不必做任何事，\n我立刻就為您紓解慾望……」"
+    }
+  },
+  {
+    "id": "0033_00063",
+    "ja": {
+      "name": null,
+      "text": "にっこりと微笑み、\n俺の耳元でそんなことを囁きかけてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She purrs in my ear, a bemused smile playing on her lips."
+    },
+    "cn": {
+      "name": null,
+      "text": "她微微一笑，\n并在我耳边如此低语道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她微微一笑，\n並在我耳邊如此低語道。"
+    }
+  },
+  {
+    "id": "0033_00064",
+    "ja": {
+      "name": null,
+      "text": "そして一旦俺を胸から解放すると、\n座った状態の俺の股間へと顔を埋めてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She releases my head from her embrace before burying her face in my lap."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后将我从胸前解放出来，\n让我维持坐姿，自己则把脸凑到了我的胯下。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後將我從胸前解放出來，\n讓我維持坐姿，自己則把臉湊到了我的胯下。"
+    }
+  }
+]

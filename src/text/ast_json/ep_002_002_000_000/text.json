@@ -1,0 +1,933 @@
+[
+  {
+    "id": "0013_00001",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「じゃあ、アリーについて行っても良いか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Can I join you, Allie?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那样的话，我可以跟艾丽一起去么？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那樣的話，我可以跟艾麗一起去嗎？」"
+    }
+  },
+  {
+    "id": "0013_00002",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「大工仕事なら、\nアドバイスできることもあるだろうからな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I can offer a few pointers when it comes to woodworking.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「要做木匠活的话，\n说不定我还能给你提些建议。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「要做木工的話，\n說不定我還能給妳提些建議。」"
+    }
+  },
+  {
+    "id": "0013_00003",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「もちろんだとも、主人！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Of course you can, sir!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「当然可以啦，主人！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「當然可以啦，主人！」"
+    }
+  },
+  {
+    "id": "0013_00004",
+    "ja": {
+      "name": null,
+      "text": "俺の言葉を聞いて、アリーは嬉しそうに頷いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie's face immediately brightens when she hears my words."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了我的话，艾丽开心地点了点头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了我的話，艾麗開心地點了點頭。"
+    }
+  },
+  {
+    "id": "0013_00005",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「その……実は自信がなかったのだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Actually... I'm not very confident in my handiwork.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「其实……我本来也没什么自信。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「其實……我本來也沒什麼自信。」"
+    }
+  },
+  {
+    "id": "0013_00006",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「だが、主人が傍で見てアドバイスをくれるなら、\nわたしも安心だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"But if you're there to give me advice, then I feel a lot better about it.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「但如果主人在旁边看着，并给我点建议，\n那我也就放心多了。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「但如果主人在旁邊看著，並給我點建議，\n那我也就放心多了。」"
+    }
+  },
+  {
+    "id": "0013_00007",
+    "ja": {
+      "name": null,
+      "text": "俺も大工仕事に自信があるわけではないのだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can't say I feel that confident in my skills, either..."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然我对木匠活也并不是那么熟练……"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然我對木工也並不是那麼熟練……"
+    }
+  },
+  {
+    "id": "0013_00008",
+    "ja": {
+      "name": null,
+      "text": "アリーが安心なのであれば、\nついて行く甲斐があるというものだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But if my presence makes Allie feel better, then it makes it worth it."
+    },
+    "cn": {
+      "name": null,
+      "text": "但若是能让艾丽安心一点，\n那我跟过去也就值得了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但若是能讓艾麗安心一點，\n那我跟過去也就值得了。"
+    }
+  },
+  {
+    "id": "0013_00009",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それで、何を作るつもりだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What were you planning on making, anyway?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那么，你打算做什么？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那麼，妳打算做什麼？」"
+    }
+  },
+  {
+    "id": "0013_00010",
+    "ja": {
+      "name": null,
+      "text": "もしくは、何かを補修するつもりだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Is she going to repair something?"
+    },
+    "cn": {
+      "name": null,
+      "text": "又或者，是想把某些东西修补一下？"
+    },
+    "tw": {
+      "name": null,
+      "text": "又或者，是想把某些東西修補一下？"
+    }
+  },
+  {
+    "id": "0013_00011",
+    "ja": {
+      "name": null,
+      "text": "最近は屋外での仕事をアリーに任せているため、\n不便を感じていたのかもしれない。"
+    },
+    "en": {
+      "name": null,
+      "text": "She probably feels useless around the house since most of the chores we've been giving her are all outside."
+    },
+    "cn": {
+      "name": null,
+      "text": "最近室外的活基本都交给了艾丽，\n所以她或许发现了不便之处吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "最近室外的活基本都交給了艾麗，\n所以她或許發現了不便之處吧。"
+    }
+  },
+  {
+    "id": "0013_00012",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人が座る椅子を作ろうと思ってな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I wanted to make you a nice chair.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「我想给主人做一把椅子。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「我想給主人做一把椅子。」"
+    }
+  },
+  {
+    "id": "0013_00013",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「まだ体が万全ではないんだし、\n楽に座れる椅子があっても良いだろう？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You're still far from feeling back to normal, and I figured you'd probably like a chair you can relax in.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「毕竟你的身体还没完全恢复，\n所以有一把舒服的椅子，应该不错吧？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「畢竟你的身體還沒完全恢復，\n所以有一把舒服的椅子，應該不錯吧？」"
+    }
+  },
+  {
+    "id": "0013_00014",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「確かに……。\nでも、大丈夫か？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I wouldn't mind it... but are you sure about this?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「确实……\n但是，你能行吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「確實……\n但是，妳能行嗎？」"
+    }
+  },
+  {
+    "id": "0013_00015",
+    "ja": {
+      "name": null,
+      "text": "今はベッドか食卓の椅子を使っているため、\nその他の椅子があれば便利だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Until now, I've only sat on the bed or the dining room chairs, so it might be nice to have other options."
+    },
+    "cn": {
+      "name": null,
+      "text": "目前坐的都是床或者餐桌边的椅子，\n如果有其他椅子的话，确实方便一点。"
+    },
+    "tw": {
+      "name": null,
+      "text": "目前坐的都是床或者餐桌邊的椅子，\n如果有其他椅子的話，確實方便一點。"
+    }
+  },
+  {
+    "id": "0013_00016",
+    "ja": {
+      "name": null,
+      "text": "しかし、アリーはあまり大工仕事が得意ではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "The problem is that Allie's carpentry skills still leave something to be desired."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，艾丽并不怎么擅长木匠活。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，艾麗並不怎麼擅長木工。"
+    }
+  },
+  {
+    "id": "0013_00017",
+    "ja": {
+      "name": null,
+      "text": "出入り口のドアを修理しようとして、\nさらにガタガタにしてしまったくらいだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "After her attempt at fixing the front door, she only managed to make it squeak even louder."
+    },
+    "cn": {
+      "name": null,
+      "text": "之前她也想要修理小屋的正门，\n结果拉起来反而更僵硬了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "之前她也想要修理小屋的正門，\n結果拉起來反而更僵硬了。"
+    }
+  },
+  {
+    "id": "0013_00018",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「安心してくれ。\n今回は上手く行くような気がするんだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Don't worry. I have a feeling that this time, everything's going to go much smoother!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「放心吧，我感觉这次一定能做好。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「放心吧，我感覺這次一定能做好。」"
+    }
+  },
+  {
+    "id": "0013_00019",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「その自信がどこから湧いているのかは知らないが……。\nわからないことがあったら聞いてくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'm not sure where this newfound confidence is coming from... but, at any rate, let me know if you get stuck.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「虽然不知道你的自信从何而来……\n总之有什么不明白的，就来问我吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「雖然不知道妳的自信從何而來……\n總之有什麼不明白的，就來問我吧。」"
+    }
+  },
+  {
+    "id": "0013_00020",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そのときは頼む、主人」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I promise I will, Sir!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「到时候就拜托喽，主人。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「到時候就拜託嘍，主人。」"
+    }
+  },
+  {
+    "id": "0013_00021",
+    "ja": {
+      "name": null,
+      "text": "ほがらかな笑顔でそう言い、\nアリーは早速木材を手に取った。"
+    },
+    "en": {
+      "name": null,
+      "text": "With a cheerful grin on her face, she quickly begins gathering pieces of wood."
+    },
+    "cn": {
+      "name": null,
+      "text": "在用灿烂的笑容回应之后，\n她立刻备好了木材。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在用燦爛的笑容回應之後，\n她立刻備好了木材。"
+    }
+  },
+  {
+    "id": "0013_00022",
+    "ja": {
+      "name": null,
+      "text": "薪とは別に、何かに使えると思って集めておいた物だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Evidently she didn't collect this as firewood."
+    },
+    "cn": {
+      "name": null,
+      "text": "这是与木柴分开收集，以备其他用途的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這是與木柴分開收集，以備其他用途的。"
+    }
+  },
+  {
+    "id": "0013_00023",
+    "ja": {
+      "name": null,
+      "text": "板には加工されていないため、\nそれをどう使うのかもセンスが問われるだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Since it hasn't been shaped into a board yet, she's free to carve into whatever shape she wants."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为还没被加工成木板，\n所以该如何运用，都取决于她的创作能力。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為還沒被加工成木板，\n所以該如何運用，都取決於她的創作能力。"
+    }
+  },
+  {
+    "id": "0013_00024",
+    "ja": {
+      "name": null,
+      "text": "俺は適当な場所に腰を下ろすと、\n張り切るアリーを眺めることにする。"
+    },
+    "en": {
+      "name": null,
+      "text": "I find a nice spot to settle down and watch Allie get to work."
+    },
+    "cn": {
+      "name": null,
+      "text": "于是我随便找了块地方坐下，\n开始观望热情高涨的艾丽。"
+    },
+    "tw": {
+      "name": null,
+      "text": "於是我隨便找了塊地方坐下，\n開始觀望熱情高漲的艾麗。"
+    }
+  },
+  {
+    "id": "0013_00025",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「むっ……。\nい、一応、完成はしたが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hmm... I-I guess I'm done, for now...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「唔……\n做、做倒是做好了……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「唔……\n做、做倒是做好了……」"
+    }
+  },
+  {
+    "id": "0013_00026",
+    "ja": {
+      "name": null,
+      "text": "しばらく時間が経ち、\nアリーの目の前には不格好な椅子ができあがっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Some time later, there's a rather awkward-looking chair sitting in front of her."
+    },
+    "cn": {
+      "name": null,
+      "text": "一段时间之后，\n艾丽面前多出了一张外形欠佳的椅子。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一段時間之後，\n艾麗面前多出了一張外形欠佳的椅子。"
+    }
+  },
+  {
+    "id": "0013_00027",
+    "ja": {
+      "name": null,
+      "text": "途中、見ていられなくて口を出したが……\nそれでも全てがアリーの手作りだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Unable to silently watch as the catastrophe unfolded before me, I did offer some advice, but this masterpiece is all Allie's work."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然途中因为看不下去而插了几句嘴……\n但椅子本身，都是艾丽亲手做的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然途中因為看不下去而插了幾句嘴……\n但椅子本身，都是艾麗親手做的。"
+    }
+  },
+  {
+    "id": "0013_00028",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ありがとう、アリー。\nそれじゃあ、早速座ってみるか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Thanks, Allie. Should I go ahead and give it a try?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「谢谢了，艾丽，\n那我马上坐上去试试吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「謝謝了，艾麗，\n那我馬上坐上去試試吧。」"
+    }
+  },
+  {
+    "id": "0013_00029",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「待ってくれ、主人！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Wait, Sir!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「等一下，主人！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「等一下，主人！」"
+    }
+  },
+  {
+    "id": "0013_00030",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「あ、あのだな、無理して座る必要はないのだぞ？\n使ってくれようとする気持ちは嬉しいが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"U-Um, what I mean is, don't feel pressured to sit in it. Though I'm really happy you want to use it right away...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「那、那个，虽然很感谢你愿意用它……\n但真的没必要勉强的哦？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「那、那個，雖然很感謝你願意用它……\n但真的沒必要勉強的哦？」"
+    }
+  },
+  {
+    "id": "0013_00031",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「まぁ……確かに不格好だけど、\n椅子を作ったのは初めてだろ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Look... It might be a little ugly, but also, this is the very first chair you've ever made, right?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「唔……外表确实不太好看，\n但你毕竟是第一次做椅子吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「唔……外表確實不太好看，\n但妳畢竟是第一次做椅子吧？」"
+    }
+  },
+  {
+    "id": "0013_00032",
+    "ja": {
+      "name": null,
+      "text": "初めてなのだから、ある程度は仕方ない。"
+    },
+    "en": {
+      "name": null,
+      "text": "There's only so much you can expect from a first attempt."
+    },
+    "cn": {
+      "name": null,
+      "text": "既然是第一次，也就不能太苛求了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "既然是第一次，也就不能太苛求了。"
+    }
+  },
+  {
+    "id": "0013_00033",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「何より、せっかくアリーが俺のために作ってくれた\n椅子だからな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Besides, you went to all this trouble to make this chair for me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「而且，这毕竟是艾丽特意为我做的椅子嘛。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「而且，這畢竟是艾麗特意為我做的椅子嘛。」"
+    }
+  },
+  {
+    "id": "0013_00034",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「うっ……主人……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"*sniff*... Sir...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呜……主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗚……主人……」"
+    }
+  },
+  {
+    "id": "0013_00035",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「手を貸して貰っても良いか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Give me a hand up?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「可以扶我一下吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「可以扶我一下嗎？」"
+    }
+  },
+  {
+    "id": "0013_00036",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「う、うむ！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"S-Sure!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯、嗯！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯、嗯！」"
+    }
+  },
+  {
+    "id": "0013_00037",
+    "ja": {
+      "name": null,
+      "text": "アリーの手を借りて地面から立ち上がる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She reaches down and helps pull me up from the ground."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽拉着我的手，帮我站了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗拉著我的手，幫我站了起來。"
+    }
+  },
+  {
+    "id": "0013_00038",
+    "ja": {
+      "name": null,
+      "text": "そのまま、支えて貰いながらゆっくりと手作り椅子に腰を下ろしてみた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Then she helps me over to the chair, where I very slowly lower myself down."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，我就在她的搀扶下，\n小心翼翼地坐在了她做的椅子上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，我就在她的攙扶下，\n小心翼翼地坐在了她做的椅子上。"
+    }
+  },
+  {
+    "id": "0013_00039",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「むっ……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Huh...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯……？」"
+    }
+  },
+  {
+    "id": "0013_00040",
+    "ja": {
+      "name": null,
+      "text": "体重をかけた途端、軋んだ音が聞こえてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "As soon as I settle my full weight on the chair, I hear an alarming creak."
+    },
+    "cn": {
+      "name": null,
+      "text": "刚把全身压上去，就听到嘎吱一声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "剛把全身壓上去，就聽到嘎吱一聲。"
+    }
+  },
+  {
+    "id": "0013_00041",
+    "ja": {
+      "name": null,
+      "text": "それを聞いて不安に思ったのか、\nアリーの俺の手を掴む力が少しだけ強くなる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing the same sound and worried about my safety, Allie's grip on my arm immediately tightens."
+    },
+    "cn": {
+      "name": null,
+      "text": "可能是因此而感到不安，\n艾丽开始更加用力地抓着我的手。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可能是因此而感到不安，\n艾麗開始更加用力地抓著我的手。"
+    }
+  },
+  {
+    "id": "0013_00042",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ど、どうだ、主人？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"W-What do you think, sir?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「怎、怎么样，主人？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「怎、怎麼樣，主人？」"
+    }
+  },
+  {
+    "id": "0013_00043",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「少しガタついてはいるけど、そこまで問題は──」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Well, aside from the creaking when you sit on it...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「虽然不太结实，但问题应该不──」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「雖然不太結實，但問題應該不──」"
+    }
+  },
+  {
+    "id": "0013_00044",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0013_00045",
+    "ja": {
+      "name": null,
+      "text": "木の裂ける音が妙に大きく聞こえる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I suddenly hear the oddly loud sound of snapping wood."
+    },
+    "cn": {
+      "name": null,
+      "text": "木头断裂的声音，听起来格外响亮。"
+    },
+    "tw": {
+      "name": null,
+      "text": "木頭斷裂的聲音，聽起來格外響亮。"
+    }
+  },
+  {
+    "id": "0013_00046",
+    "ja": {
+      "name": null,
+      "text": "ヤバい……なんて思いつつも、\n俺はとっさに動くことができない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Crap... I think to myself, knowing I'm unable to move fast enough to get up."
+    },
+    "cn": {
+      "name": null,
+      "text": "糟糕了……心里虽然如此念叨，\n但我却没能立刻反应过来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "糟糕了……心裡雖然如此念叨，\n但我卻沒能立刻反應過來。"
+    }
+  },
+  {
+    "id": "0013_00047",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「危ない、主人！！　って、ひゃぁあぁぁっ！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Careful, Sir—eeeeeep?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「危险，主人！！\n呃、咿呀啊啊啊啊啊！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「危險，主人！！\n呃、咿呀啊啊啊啊啊！？」"
+    }
+  },
+  {
+    "id": "0013_00048",
+    "ja": {
+      "name": null,
+      "text": "アリーはとっさに俺の腕を引っ張るが、すでに時遅し。"
+    },
+    "en": {
+      "name": null,
+      "text": "She tries to grab my arm, but she's one moment too late."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽情急之中想要将我拉住，但却为时已晚。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗情急之中想要將我拉住，但卻為時已晚。"
+    }
+  },
+  {
+    "id": "0013_00049",
+    "ja": {
+      "name": null,
+      "text": "椅子は派手な音を立てて壊れ、\n俺はアリーともつれるようにして倒れ込む。"
+    },
+    "en": {
+      "name": null,
+      "text": "With a sickening crack, the chair collapses underneath me and I fall to the ground, dragging Allie down with me."
+    },
+    "cn": {
+      "name": null,
+      "text": "于是椅子应声散架，\n我和艾丽也彼此纠缠着倒在了地上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "於是椅子應聲散架，\n我和艾麗也彼此糾纏著倒在了地上。"
+    }
+  }
+]

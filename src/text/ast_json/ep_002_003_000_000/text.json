@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "0016_00001",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「俺は、ファルナと一緒に室内でゆっくりしているかな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Maybe I'll relax inside with Farna today.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那我就跟法尔娜留在屋里，安心休息吧。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那我就跟法爾娜留在屋裡，安心休息吧。」"
+    }
+  },
+  {
+    "id": "0016_00002",
+    "ja": {
+      "name": null,
+      "text": "少しずつ体は良くなっている。"
+    },
+    "en": {
+      "name": null,
+      "text": "My body's getting back to normal, little by little."
+    },
+    "cn": {
+      "name": null,
+      "text": "身体状况确实在逐渐好转。"
+    },
+    "tw": {
+      "name": null,
+      "text": "身體狀況確實在逐漸好轉。"
+    }
+  },
+  {
+    "id": "0016_00003",
+    "ja": {
+      "name": null,
+      "text": "それでも、まだ無理をできるような状態ではなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I'm still not in any condition to push myself outside of my comfort zone."
+    },
+    "cn": {
+      "name": null,
+      "text": "即使如此，也还没到可以勉强自己的地步。"
+    },
+    "tw": {
+      "name": null,
+      "text": "即使如此，也還沒到可以勉強自己的地步。"
+    }
+  },
+  {
+    "id": "0016_00004",
+    "ja": {
+      "name": null,
+      "text": "少しでも早く万全な状態に戻るため、\nゆっくりと休むことも必要だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "And taking it easy is incredibly important if I want to get my full strength back as quickly as possible."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了早日恢复到完全状态，\n必须尽量多多休息。"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了早日恢復到完全狀態，\n必須盡量多多休息。"
+    }
+  },
+  {
+    "id": "0016_00005",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そうか。\nわたしは外にいるから、\n何かあったら声を掛けてくれ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Oh, yeah? Well, I'll be outside, so if you need anything, just give a shout.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是吗，那我就在屋外，\n有事的话就叫我吧。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是嗎，那我就在屋外，\n有事的話就叫我吧。」"
+    }
+  },
+  {
+    "id": "0016_00006",
+    "ja": {
+      "name": null,
+      "text": "アリーは大工道具を持つと、\n意気揚々と外へと出て行った。"
+    },
+    "en": {
+      "name": null,
+      "text": "Taking her woodcutting tools with her, she cheerfully bounces outside."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，艾丽带着木匠道具，\n精神抖擞地走了出去。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，艾麗帶著木匠道具，\n精神抖擻地走了出去。"
+    }
+  },
+  {
+    "id": "0016_00007",
+    "ja": {
+      "name": null,
+      "text": "大丈夫だとは思うが少し不安ではあるな……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm still a little worried about her, but I'm sure she'll be fine..."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然觉得不要紧，但还是有点不安啊……"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然覺得不要緊，但還是有點不安啊……"
+    }
+  },
+  {
+    "id": "0016_00008",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「良かったのですか、ご主人様？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Are you okay, Master?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「这样好吗，主人？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「這樣好嗎，主人？」"
+    }
+  },
+  {
+    "id": "0016_00009",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「大丈夫だろ。\nアリーもここでの生活に慣れてきたみたいだしな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I'm fine. It seems like Allie's gotten quite used to this kind of lifestyle.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「应该没事吧，\n艾丽似乎也对这里的生活比较适应了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「應該沒事吧，\n艾麗似乎也對這裡的生活比較適應了。」"
+    }
+  },
+  {
+    "id": "0016_00010",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「そうですね。\nさて、それでは私も編み物をすることにします」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You're right. Well then, time to get to work.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「也对。\n那么，我就开始织衣服吧。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「也對。\n那麼，我就開始織衣服吧。」"
+    }
+  },
+  {
+    "id": "0016_00011",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「えっと、どこで……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Now, let's see... Where can I sit...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「该去哪里呢……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「該去哪裡呢……」"
+    }
+  },
+  {
+    "id": "0016_00012",
+    "ja": {
+      "name": null,
+      "text": "ファルナは少し悩むように室内を見渡した。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her eyes roam around the inside of the cabin, looking faintly distressed."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜有些犯愁地环顾了一下室内。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜有些犯愁地環顧了一下室內。"
+    }
+  },
+  {
+    "id": "0016_00013",
+    "ja": {
+      "name": null,
+      "text": "そして俺と目が合うなり、にっこりと微笑みかけてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Suddenly, our eyes meet, and her frown softens into a smile."
+    },
+    "cn": {
+      "name": null,
+      "text": "最后与我四目相对，并露出了微笑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "最後與我四目相對，並露出了微笑。"
+    }
+  },
+  {
+    "id": "0016_00014",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様、隣に失礼しますね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I hope you don't mind if I sit next to you, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，容我坐在您身边吧。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，容我坐在您身邊吧。」"
+    }
+  },
+  {
+    "id": "0016_00015",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ、それは構わないが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Go right ahead. It doesn't bother me.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哦，那倒是不要紧……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哦，那倒是不要緊啦……」"
+    }
+  },
+  {
+    "id": "0016_00016",
+    "ja": {
+      "name": null,
+      "text": "断りを入れ、ベッドに座る俺の隣に腰をかけてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "After excusing herself, she settles down next to me on the bed."
+    },
+    "cn": {
+      "name": null,
+      "text": "征得同意后，法尔娜来到床边，坐在了我身旁。"
+    },
+    "tw": {
+      "name": null,
+      "text": "徵得同意後，法爾娜來到床邊，坐在了我身旁。"
+    }
+  },
+  {
+    "id": "0016_00017",
+    "ja": {
+      "name": null,
+      "text": "ちょうど、ギリギリ肩が触れるかどうか……\nという距離だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "We're close enough that are shoulders are just barely touching."
+    },
+    "cn": {
+      "name": null,
+      "text": "彼此之间，恰好隔着一段\n差一点点就能碰到肩膀的距离。"
+    },
+    "tw": {
+      "name": null,
+      "text": "彼此之間，恰好隔著一段\n差一點點就能碰到肩膀的距離。"
+    }
+  },
+  {
+    "id": "0016_00018",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「手元が暗いと見づらいですし、\n室内はあまり日の当たる場所がないので」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It's hard to see when it's dark, and there isn't a lot of sunlight in here.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为屋里比较缺少光照，\n除了这里都比较暗，看不太清楚。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為屋裡比較缺少光照，\n除了這裡都比較暗，看不太清楚。」"
+    }
+  },
+  {
+    "id": "0016_00019",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……言われてみればそうだな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...Now that you mention it, you're right.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……听你这么一说，确实如此。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……聽妳這麼一說，確實如此。」"
+    }
+  },
+  {
+    "id": "0016_00020",
+    "ja": {
+      "name": null,
+      "text": "小屋を作るときは気にしていなかったが、\n室内の採光はあまり良いとは言えない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I hadn't thought about it when I'd built the cabin, but it does get pretty dark in here."
+    },
+    "cn": {
+      "name": null,
+      "text": "建造小屋的时候完全没考虑到，\n所以室内的采光效果实在不尽人意。"
+    },
+    "tw": {
+      "name": null,
+      "text": "建造小屋的時候完全沒考慮到，\n所以室內的採光效果實在不盡人意。"
+    }
+  },
+  {
+    "id": "0016_00021",
+    "ja": {
+      "name": null,
+      "text": "編み物をするのなら手元が明るい方が良いだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's probably much easier to knit when you can see what you're doing."
+    },
+    "cn": {
+      "name": null,
+      "text": "要做编织的话，还是要明亮一点才行。"
+    },
+    "tw": {
+      "name": null,
+      "text": "要做編織的話，還是要明亮一點才行。"
+    }
+  },
+  {
+    "id": "0016_00022",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「しかし、\n棒と糸なんて何に使うのかと思っていたが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I always wondered how those two sticks work together with the yarn to create something...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「但是，\n起初还纳闷你要拿木棒和线来做什么呢……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「但是，\n起初還納悶妳要拿木棒和線來做什麼呢……」"
+    }
+  },
+  {
+    "id": "0016_00023",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様は何かを編んでいるところを見たことがないの　ですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You've never seen someone knit before, Master?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人莫非从没见过别人编织衣物？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人莫非從沒見過別人編織衣物？」"
+    }
+  },
+  {
+    "id": "0016_00024",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「村では、身近に編み物をする人がいなかったからな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"There were no seamstresses in the village I grew up in.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「在村里时，身边没遇到过会做编织的人。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「在村裡時，身邊沒遇到過會做編織的人。」"
+    }
+  },
+  {
+    "id": "0016_00025",
+    "ja": {
+      "name": null,
+      "text": "冒険者として活動している最中は、\nさらにそんな人とは縁遠い生活だった。"
+    },
+    "en": {
+      "name": null,
+      "text": "And, as an adventurer, my path never came close to crossing anyone like that."
+    },
+    "cn": {
+      "name": null,
+      "text": "而以冒险者的身份活动时，\n过的就更是与这类人无缘的生活了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而以冒險者的身份活動時，\n過的就更是與這類人無緣的生活了。"
+    }
+  },
+  {
+    "id": "0016_00026",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「何に使うかもわからずに、\n買うのを許可してくれてたのですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Thank you for buying this for me without even knowing what I was going to use it for.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「都不清楚用途，\n却还是允许我买啊。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「都不清楚用途，\n卻還是允許我買啊。」"
+    }
+  },
+  {
+    "id": "0016_00027",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ありがとうございます、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It means a lot to me, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「真是谢谢您，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「真是謝謝您，主人。」"
+    }
+  },
+  {
+    "id": "0016_00028",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや、俺はファルナに丸投げしていただけだからな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I left all the decision making to you.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「哪里，我只是把事情都推卸给你罢了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「哪裡，我只是把事情都推卸給妳罷了。」"
+    }
+  },
+  {
+    "id": "0016_00029",
+    "ja": {
+      "name": null,
+      "text": "日用品と一緒に買ったのだから、\nきっと必要なのだろう……としか思わなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Since she bought it with the rest of her daily necessities, I had no reason to assume it wasn't important."
+    },
+    "cn": {
+      "name": null,
+      "text": "当时只觉得，既然是跟日用品一起买来的，\n那就肯定用得上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "當時只覺得，既然是跟日用品一起買來的，\n那就肯定用得上。"
+    }
+  },
+  {
+    "id": "0016_00030",
+    "ja": {
+      "name": null,
+      "text": "正直なところ、\n俺には女性が生活する上で必要な物はわからない。"
+    },
+    "en": {
+      "name": null,
+      "text": "To be fair, I don't actually really know what women need in their day to day lives."
+    },
+    "cn": {
+      "name": null,
+      "text": "实话说，\n我根本不了解女性都需要哪些生活用品。"
+    },
+    "tw": {
+      "name": null,
+      "text": "實話說，\n我根本不了解女性都需要哪些生活用品。"
+    }
+  },
+  {
+    "id": "0016_00031",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「可能であれば、\nオーダーメイドで服を注文するのが一番なのです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"When possible, it's always better to get clothes made to order.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「如果可能的话，\n定制服装才是最轻松的。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「如果可能的話，\n定制服裝才是最輕鬆的。」"
+    }
+  },
+  {
+    "id": "0016_00032",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですが、貴族や豪商でもなければそのような買い方は\nできませんから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But you need to be a wealthy merchant or part of the aristocracy to afford such extravagance.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是，若非贵族或巨贾，\n是根本消费不起的。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是，若非貴族或巨賈，\n是根本消費不起的。」"
+    }
+  },
+  {
+    "id": "0016_00033",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「布から自分で仕立てることも可能ですが、\n布も安いものではなく……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It's possible to make your own clothes, but fabric doesn't come cheap...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「虽然也可以用布来自己缝制，\n但布料本身也并不便宜……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「雖然也可以用布來自己縫製，\n但布料本身也並不便宜……」"
+    }
+  },
+  {
+    "id": "0016_00034",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それで、糸から自分で編むってわけか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"So you're making it completely from scratch?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「所以，就选择用线做编织吗。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「所以，就選擇用線做編織嗎。」"
+    }
+  },
+  {
+    "id": "0016_00035",
+    "ja": {
+      "name": null,
+      "text": "ファルナが持っているのは毛糸だろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Is that wool she's holding?"
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜手里的，应该是毛线吧？"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜手裡的，應該是毛線吧？"
+    }
+  },
+  {
+    "id": "0016_00036",
+    "ja": {
+      "name": null,
+      "text": "普通の糸と比べて太めで、モコモコしているようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's thicker and fluffier than regular yarn."
+    },
+    "cn": {
+      "name": null,
+      "text": "比普通的线要粗一些，而且毛绒绒的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "比普通的線要粗一些，而且毛絨絨的。"
+    }
+  },
+  {
+    "id": "0016_00037",
+    "ja": {
+      "name": null,
+      "text": "この糸を使えば、\nちょっとした小物から服まで応用が利くらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "I've heard you can use this type of material to make anything, from smaller accessories to everyday clothing."
+    },
+    "cn": {
+      "name": null,
+      "text": "用这样的线，\n似乎就可以织出从小到大的各种衣物。"
+    },
+    "tw": {
+      "name": null,
+      "text": "用這樣的線，\n似乎就可以織出從小到大的各種衣物。"
+    }
+  },
+  {
+    "id": "0016_00038",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それで何を作るつもりなんだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What do you plan on knitting with that?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那么，你打算织什么呢？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那麼，妳打算織什麼呢？」"
+    }
+  },
+  {
+    "id": "0016_00039",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「もちろん、最初はご主人様の着る物ですよ」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"A sweater for you, of course, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「当然是先给主人织点东西穿了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「當然是先給主人織點東西穿了。」"
+    }
+  },
+  {
+    "id": "0016_00040",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「俺の？\n気持ちは嬉しいが、\n自分たちのを優先した方が良いんじゃないか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"For me? That makes me really happy to hear, but why don't you make something for yourself or Allie first?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「我？\n虽然很感谢这份心意，\n但还是先照顾一下你们自己比较好吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「我？\n雖然很感謝這份心意，\n但還是先照顧一下妳們自己比較好吧？」"
+    }
+  },
+  {
+    "id": "0016_00041",
+    "ja": {
+      "name": null,
+      "text": "母親以外に服を作ってもらった経験がないため、\n少し照れくさく感じてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I've never had anyone other than my mother make clothing for me, and the thought of her doing so is a little embarrassing."
+    },
+    "cn": {
+      "name": null,
+      "text": "除了母亲之外，从没有任何人为我做过衣服，\n所以觉得挺难为情的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "除了母親之外，從沒有任何人為我做過衣服，\n所以覺得挺難為情的。"
+    }
+  },
+  {
+    "id": "0016_00042",
+    "ja": {
+      "name": null,
+      "text": "俺は着る物にはこだわらないから、\n今ある物で十分なのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Since clothing doesn't mean that much to me, what I have now is fine."
+    },
+    "cn": {
+      "name": null,
+      "text": "我对服装并没有什么要求，\n现在穿的已经足够了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我對服裝並沒有什麼要求，\n現在穿的已經足夠了。"
+    }
+  },
+  {
+    "id": "0016_00043",
+    "ja": {
+      "name": null,
+      "text": "それならば、\nアリーやファルナの物を作った方が、\n良いと思うのだが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "In my opinion, it makes more sense for her to make something for herself or Allie first."
+    },
+    "cn": {
+      "name": null,
+      "text": "既然如此，我倒是觉得\n给艾丽或法尔娜做些东西会更好。\n但是……"
+    },
+    "tw": {
+      "name": null,
+      "text": "既然如此，我倒是覺得\n給艾麗或法爾娜做些東西會更好。\n但是……"
+    }
+  },
+  {
+    "id": "0016_00044",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「いけません。\n奴隷が主を差し置くなんて、ありえません」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Not a chance. No self-respecting slave would ever put themselves before their own master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「那可不行。\n身为奴隶，怎么可以凌驾于主人之上呢。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「那可不行。\n身為奴隸，怎麼可以凌駕於主人之上呢。」"
+    }
+  },
+  {
+    "id": "0016_00045",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや、でもな？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You don't have to do that.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呃，但是……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「呃，但是……」"
+    }
+  },
+  {
+    "id": "0016_00046",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……ご主人様は、\n私の作る物では不満なのでしょうか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Could it be that my clothing isn't good enough for you?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……主人，\n莫非您不愿意穿我织的东西？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……主人，\n莫非您不願意穿我織的東西？」"
+    }
+  },
+  {
+    "id": "0016_00047",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うっ……わ、わかった。\nファルナの好きにしてくれ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Ugh... F-Fine. Do whatever makes you happy, Farna.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜……明、明白了，\n那就随你的便吧……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚……明、明白了，\n那就隨妳的便吧……」"
+    }
+  },
+  {
+    "id": "0016_00048",
+    "ja": {
+      "name": null,
+      "text": "拗ねたように言われ、\n俺はあっさりと意見をひるがえした。"
+    },
+    "en": {
+      "name": null,
+      "text": "She sounds sulky, so I immediately change my mind."
+    },
+    "cn": {
+      "name": null,
+      "text": "被她这么一闹别扭，\n我立刻就收回了自己的意见。"
+    },
+    "tw": {
+      "name": null,
+      "text": "被她這麼一鬧彆扭，\n我立刻就收回了自己的意見。"
+    }
+  },
+  {
+    "id": "0016_00049",
+    "ja": {
+      "name": null,
+      "text": "嫌ではないし、ファルナ自身が楽しそうだからな……。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm not opposed to it, and it seems to make her happy, so..."
+    },
+    "cn": {
+      "name": null,
+      "text": "毕竟我并不反感，\n法尔娜看上去也挺乐在其中的……"
+    },
+    "tw": {
+      "name": null,
+      "text": "畢竟我並不反感，\n法爾娜看上去也挺樂在其中的……"
+    }
+  },
+  {
+    "id": "0016_00050",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それでは、ご主人様にお願いがあるのですが……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"In that case, I have a favor to ask you, Master...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「既然如此，我对主人有个请求……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「既然如此，我對主人有個請求……」"
+    }
+  },
+  {
+    "id": "0016_00051",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「体のサイズを測りたいので、\n協力していただけませんか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I need to take your measurements before I can get started.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「我想量一下身体的尺寸，\n可以请您配合一下吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「我想量一下身體的尺寸，\n可以請您配合一下嗎？」"
+    }
+  },
+  {
+    "id": "0016_00052",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……俺はどうすれば良いんだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What do you need me to do?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……我该怎么做呢？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……我該怎麼做呢？」"
+    }
+  },
+  {
+    "id": "0016_00053",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「お辛いかもしれませんが、\n立って貰ってもよろしいですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I know it's a little painful for you, but can you please just stand right there for me?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「说不定会有些辛苦，\n但可以请您站起来吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「說不定會有些辛苦，\n但可以請您站起來嗎？」"
+    }
+  },
+  {
+    "id": "0016_00054",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ。\n……これで良いか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Sure... Like this?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯。\n……这样可以吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯。\n……這樣可以嗎？」"
+    }
+  },
+  {
+    "id": "0016_00055",
+    "ja": {
+      "name": null,
+      "text": "言われるまま、\nベッドから降りてファルナの前で直立する。"
+    },
+    "en": {
+      "name": null,
+      "text": "Following her instructions, I get up from the bed and stand in front of Farna."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了法尔娜的话，\n我从床上起身，然后站在了她面前。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了法爾娜的話，\n我從床上起身，然後站在了她面前。"
+    }
+  },
+  {
+    "id": "0016_00056",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい。\nそのまま少しジッとしていてくださいね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yes. Stand just like that don't move... okay?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「可以。\n那么，请先这样站着别动哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「可以。\n那麼，請先這樣站著別動哦？」"
+    }
+  },
+  {
+    "id": "0016_00057",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「う……ぉっ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Sur—ack?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「唔……呃！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「唔……呃！？」"
+    }
+  },
+  {
+    "id": "0016_00058",
+    "ja": {
+      "name": null,
+      "text": "突然、腰に腕を回すように正面から抱きつかれて\nしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "She suddenly reaches forward and wraps her arms around my waist, hugging me tightly."
+    },
+    "cn": {
+      "name": null,
+      "text": "突然，她从正面伸出手臂，\n用环抱的姿势搂住了我的腰。"
+    },
+    "tw": {
+      "name": null,
+      "text": "突然，她從正面伸出手臂，\n用環抱的姿勢摟住了我的腰。"
+    }
+  },
+  {
+    "id": "0016_00059",
+    "ja": {
+      "name": null,
+      "text": "柔らかな感触が下腹部に押しつけられたことで、\n思わず声を上げてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "The sudden softness of her body against my lower abdomen causes me to yelp in surprise."
+    },
+    "cn": {
+      "name": null,
+      "text": "一阵柔软的感触压迫着下腹部，\n令我不禁叫出了声。"
+    },
+    "tw": {
+      "name": null,
+      "text": "一陣柔軟的感觸壓迫著下腹部，\n令我不禁叫出了聲。"
+    }
+  },
+  {
+    "id": "0016_00060",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……ご主人様も、やはり男性なのですね。\n感触が私やアリーとは全然違います」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You really are a man, after all. You feel completely different compared to Allie or me.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……主人不愧是男人啊，\n摸起来跟我或艾丽完全不同。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……主人不愧是男人啊，\n摸起來跟我或艾麗完全不同。」"
+    }
+  },
+  {
+    "id": "0016_00061",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「あ、ああ、それはそうだろうな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Well, y-yeah. That's true...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯、嗯，那是当然……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯、嗯，那是當然……」"
+    }
+  },
+  {
+    "id": "0016_00062",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「お次は……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Next...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「接下来……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「接下來……」"
+    }
+  },
+  {
+    "id": "0016_00063",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！！」"
+    }
+  },
+  {
+    "id": "0016_00064",
+    "ja": {
+      "name": null,
+      "text": "腰に回されていた手が、\nそのまま背中へと這い上がってきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "With her arms still wrapped around my waist, I feel her hands begin crawling up my back."
+    },
+    "cn": {
+      "name": null,
+      "text": "搂在腰上的手，\n就这样滑到了后背上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "摟在腰上的手，\n就這樣滑到了後背上。"
+    }
+  },
+  {
+    "id": "0016_00065",
+    "ja": {
+      "name": null,
+      "text": "今度は胸回りのサイズを調べているのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Is she measuring my chest size next?"
+    },
+    "cn": {
+      "name": null,
+      "text": "这一次，她是想测胸围吗？"
+    },
+    "tw": {
+      "name": null,
+      "text": "這一次，她是想測胸圍嗎？"
+    }
+  },
+  {
+    "id": "0016_00066",
+    "ja": {
+      "name": null,
+      "text": "胸に抱きつかれているため、\nファルナの綺麗な顔が至近距離にまで迫ってきている。"
+    },
+    "en": {
+      "name": null,
+      "text": "As she embraces my chest, I find her beautiful face within kissing distance."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为被抱住了胸膛，\n法尔娜漂亮的脸凑到了近在眼前的距离。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為被抱住了胸膛，\n法爾娜漂亮的臉湊到了近在眼前的距離。"
+    }
+  },
+  {
+    "id": "0016_00067",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「こちらも、\nすごくガッチリとしていてたくましいです……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You're just as solid and tough up here as you are down there...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「这个部位，\n也既结实又精壮……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「這個部位，\n也既結實又精壯……」"
+    }
+  },
+  {
+    "id": "0016_00068",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ちょ、ちょっと待ってくれファルナ、\nその状態でしゃべらないでくれ……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"H-Hold on a minute, Farna! You're seriously chit-chatting while in the middle of this?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「稍、稍等一下，法尔娜，\n不要在这个姿势下讲话……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「稍、稍等一下，法爾娜，\n不要在這個姿勢下講話……！」"
+    }
+  },
+  {
+    "id": "0016_00069",
+    "ja": {
+      "name": null,
+      "text": "吐息が、胸元や首筋を優しく撫でていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her breath caresses my chest and my neck."
+    },
+    "cn": {
+      "name": null,
+      "text": "她的气息，轻柔地拂过了我的胸口和脖子。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她的氣息，輕柔地拂過了我的胸口和脖子。"
+    }
+  },
+  {
+    "id": "0016_00070",
+    "ja": {
+      "name": null,
+      "text": "その感覚がどうしようもなくくすぐったくて、\n俺はつい体をよじっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "It creates an almost unbearable ticklish sensation, and I can't stop squirming in response."
+    },
+    "cn": {
+      "name": null,
+      "text": "那种感觉实在瘙痒难耐，\n我不禁扭了一下身子。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那種感覺實在瘙癢難耐，\n我不禁扭了一下身子。"
+    }
+  },
+  {
+    "id": "0016_00071",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ひゃっ……！？\nご主人様、そのように動かれては……っ」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Aah...?! Stop moving around like that, or else...!\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「咿呀……！？\n主人，您若是这样移动……！」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「咿呀……！？\n主人，您若是這樣移動……！」"
+    }
+  },
+  {
+    "id": "0016_00072",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「うわっ……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Ack!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呜哇……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗚哇……！」"
+    }
+  },
+  {
+    "id": "0016_00073",
+    "ja": {
+      "name": null,
+      "text": "俺に引っ張られ、\nまずはファルナがバランスを崩していた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I accidentally grab her, yanking her off balance."
+    },
+    "cn": {
+      "name": null,
+      "text": "被我这么一拉，\n法尔娜率先失去了平衡。"
+    },
+    "tw": {
+      "name": null,
+      "text": "被我這麼一拉，\n法爾娜率先失去了平衡。"
+    }
+  },
+  {
+    "id": "0016_00074",
+    "ja": {
+      "name": null,
+      "text": "こちらへ体重を預けてくることで、\n今度は俺がその重みに耐えられなくなってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "With her full weight suddenly on my body, I'm unable to keep us both upright."
+    },
+    "cn": {
+      "name": null,
+      "text": "于是，由于承受了她的体重，\n我也开始无法维持站姿。"
+    },
+    "tw": {
+      "name": null,
+      "text": "於是，由於承受了她的體重，\n我也開始無法維持站姿。"
+    }
+  },
+  {
+    "id": "0016_00075",
+    "ja": {
+      "name": null,
+      "text": "普段なら何でもない重みでも、\n足に踏ん張りが利かなければ支えられないのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Considering my inability to stand upright on my own, there's no way I can support her, despite being light as a feather."
+    },
+    "cn": {
+      "name": null,
+      "text": "若是在平时，这点重量算不了什么，\n但下盘不稳的情况下，就有些难以支撑了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "若是在平時，這點重量算不了什麼，\n但下盤不穩的情況下，就有些難以支撐了。"
+    }
+  },
+  {
+    "id": "0016_00076",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「きゃぁぁっ！？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Eeep?!\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呀啊啊啊！？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呀啊啊啊！？」"
+    }
+  },
+  {
+    "id": "0016_00077",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……ぐっ！！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Oomph!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……呜！！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……嗚！！」"
+    }
+  },
+  {
+    "id": "0016_00078",
+    "ja": {
+      "name": null,
+      "text": "結果。\n二人してバランスを崩し、\n俺達はもつれるように床へと倒れ込むのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "In the end, we both lose our balance and end up sprawled on the floor."
+    },
+    "cn": {
+      "name": null,
+      "text": "结果，两人都失去了平衡，\n相互拥抱着倒在了地上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "結果，兩人都失去了平衡，\n相互擁抱著倒在了地上。"
+    }
+  }
+]

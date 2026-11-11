@@ -1,0 +1,401 @@
+[
+  {
+    "id": "0022_00001",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0022_00002",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0022_00003",
+    "ja": {
+      "name": null,
+      "text": "行為が終わって一息吐くと、急激に照れ臭くなって来た。"
+    },
+    "en": {
+      "name": null,
+      "text": "When it's over and I finally catch my breath, an awkwardness descends on both of us."
+    },
+    "cn": {
+      "name": null,
+      "text": "事后，经过了短暂的歇息，\n随之而来的便是强烈的羞涩。"
+    },
+    "tw": {
+      "name": null,
+      "text": "事後，經過了短暫的歇息，\n隨之而來的便是強烈的羞澀。"
+    }
+  },
+  {
+    "id": "0022_00004",
+    "ja": {
+      "name": null,
+      "text": "アリーは俺と顔を合わせないようにしながら、\nモゾモゾと服装の乱れを直している。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie gets back into her clothes and smooths them out, pointedly refusing to make eye contact with me the whole time."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽一边躲避我的视线，一边打理着凌乱的衣着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗一邊躲避我的視線，一邊打理著凌亂的衣著。"
+    }
+  },
+  {
+    "id": "0022_00005",
+    "ja": {
+      "name": null,
+      "text": "だが、顔を合わせなくとも、\n心の距離は縮まっているような気がした。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, even though we can't look each other in the eye, I feel closer to her than ever before."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，即使不面对面，\n也可以感觉到，两人的心靠得更近了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，即使不面對面，\n也可以感覺到，兩人的心靠得更近了。"
+    }
+  },
+  {
+    "id": "0022_00006",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、その、主人。\n気持ち、良かった……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"U-Um... Sir... That felt really good...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「那、那个，主人，\n我很舒服……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「那、那個，主人，\n我很舒服……」"
+    }
+  },
+  {
+    "id": "0022_00007",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「また、別の時にお願いしても……良いだろうか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Maybe we can do this again... sometime?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「如果再有下次……还可以来找你吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「如果再有下次……還可以來找你嗎……？」"
+    }
+  },
+  {
+    "id": "0022_00008",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そうだな……。\nそのときは、また頼むよ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Sure... I'd love to.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是啊……\n到时候就拜托你了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是啊……\n到時候就拜託妳了。」"
+    }
+  },
+  {
+    "id": "0022_00009",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「うむっ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Okay.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯。」"
+    }
+  },
+  {
+    "id": "0022_00010",
+    "ja": {
+      "name": null,
+      "text": "俺の返答に、アリーが心から嬉しそうに頷いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing my immediate response, her face instantly lights up."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了我的回答，艾丽显得由衷欢喜地点了点头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了我的回答，艾麗顯得由衷歡喜地點了點頭。"
+    }
+  },
+  {
+    "id": "0022_00011",
+    "ja": {
+      "name": null,
+      "text": "だが、それが恥ずかしかったのだろう。\n真っ赤になって顔をそむけ、再びモジモジし始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "But it doesn't diminish her embarrassment, and with her cheeks bright red, she immediately averts her gaze again, fidgeting."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，此举似乎也令她很难为情，\n于是立刻又别过了羞红的脸，开始扭扭捏捏。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，此舉似乎也令她很難為情，\n於是立刻又別過了羞紅的臉，開始扭扭捏捏。"
+    }
+  },
+  {
+    "id": "0022_00012",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それで……なのだが、主人は大丈夫なのか……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"But also... Are you okay, sir?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「那、然后……主人你不要紧吗……？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「那、然後……主人你不要緊嗎……？」"
+    }
+  },
+  {
+    "id": "0022_00013",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「アレだけ激しく腰を動かしていたのだし、\n痛めたりは……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"That must have taken quite a lot of effort... Did you hurt yourself?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「腰摆得那么激烈，该不会伤到吧……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「腰擺得那麼激烈，該不會傷到吧……」"
+    }
+  },
+  {
+    "id": "0022_00014",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……実は、かなり痛い」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"To tell you the truth, I'm definitely feeling it.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「说实话，确实很疼。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「說實話，確實很痛。」"
+    }
+  },
+  {
+    "id": "0022_00015",
+    "ja": {
+      "name": null,
+      "text": "背中や腰だけじゃなく、\n長時間立っていたことで足も少しばかりマズい状態だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "And not just in my back and hips, either. After standing in that position for so long, my legs aren't doing great, either."
+    },
+    "cn": {
+      "name": null,
+      "text": "不仅是腰背，由于站的时间太久，\n连双腿的状态都相当不妙。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不僅是腰背，由於站的時間太久，\n連雙腿的狀態都相當不妙。"
+    }
+  },
+  {
+    "id": "0022_00016",
+    "ja": {
+      "name": null,
+      "text": "歩けないほどではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I should be able to walk, at least."
+    },
+    "cn": {
+      "name": null,
+      "text": "想走路的话，还是可以的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "想走路的話，還是可以的。"
+    }
+  },
+  {
+    "id": "0022_00017",
+    "ja": {
+      "name": null,
+      "text": "休めばそのうちに収まるとは思うが、\n森の中を進むのは少し遠慮したい。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm sure the pain will subside with time, but I'd prefer not venturing any further into the woods right now."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然只要休息一下，应该就能恢复，\n但还是尽量避免在森林里行动比较好。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然只要休息一下，應該就能恢復，\n但還是盡量避免在森林裡行動比較好。"
+    }
+  },
+  {
+    "id": "0022_00018",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ふふっ……主人は本当に仕方ないな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hehe... What am I going to do with you, Sir?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呵呵……真是拿主人没办法呀。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呵呵……真是拿主人沒辦法呀。」"
+    }
+  },
+  {
+    "id": "0022_00019",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わ、わたしが原因でもあるのだし、\n帰るまでしっかりと支えるとしよう」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"This is kind of my fault, though, so I'm happy to help get you back home.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「毕、毕竟一部分原因在我，\n所以会负起责任，扶你回到小屋的。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「畢、畢竟一部分原因在我，\n所以會負起責任，扶你回到小屋的。」"
+    }
+  },
+  {
+    "id": "0022_00020",
+    "ja": {
+      "name": null,
+      "text": "照れながらそう言うと、\nアリーは寄り添うように俺へと掴まって来た。"
+    },
+    "en": {
+      "name": null,
+      "text": "She says shyly, before sliding her arm through mine and snuggles up to me."
+    },
+    "cn": {
+      "name": null,
+      "text": "她有些难为情地这样说，\n然后就伸出手，让我依靠在了她身上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她有些難為情地這樣說，\n然後就伸出手，讓我依靠在了她身上。"
+    }
+  },
+  {
+    "id": "0022_00021",
+    "ja": {
+      "name": null,
+      "text": "そして俺たちは、\nゆっくりとした足取りで小屋への道を歩き始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "With that, the two of us very slowly make our way back home."
+    },
+    "cn": {
+      "name": null,
+      "text": "就这样，我们以缓慢的步伐，\n踏上了返回小屋的路。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就這樣，我們以緩慢的步伐，\n踏上了返回小屋的路。"
+    }
+  }
+]

@@ -1,0 +1,2111 @@
+[
+  {
+    "id": "0046_00001",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人、か……？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Sir...?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是主人……吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是主人……嗎？」"
+    }
+  },
+  {
+    "id": "0046_00002",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……は？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Huh...?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……哈？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……哈？」"
+    }
+  },
+  {
+    "id": "0046_00003",
+    "ja": {
+      "name": null,
+      "text": "突然、開いた扉から見覚えのある人影が出てきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "A familiar figure suddenly emerges from the open door."
+    },
+    "cn": {
+      "name": null,
+      "text": "突然，门对面出现了一个熟悉的身影。"
+    },
+    "tw": {
+      "name": null,
+      "text": "突然，門對面出現了一個熟悉的身影。"
+    }
+  },
+  {
+    "id": "0046_00004",
+    "ja": {
+      "name": null,
+      "text": "いや……人の気配は感じていたし、\n小屋の周りの様子から誰かがいるとは思っていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Well... I knew that someone had to be here, based on how well-kept everything appeared."
+    },
+    "cn": {
+      "name": null,
+      "text": "不……其实早就感觉到了人的气息，\n而且从小屋周围的状态，也可以推测出里面有人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不……其實早就感覺到了人的氣息，\n而且從小屋周圍的狀態，也可以推測出裡面有人。"
+    }
+  },
+  {
+    "id": "0046_00005",
+    "ja": {
+      "name": null,
+      "text": "だがそれは、森で遭難した人間かと思っていたのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I figured it was just some lost traveler who stumbled upon it."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，我本以为是在森林里遇难的人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，我本以為是在森林裡遇難的人。"
+    }
+  },
+  {
+    "id": "0046_00006",
+    "ja": {
+      "name": null,
+      "text": "まったく予想もしていなかった人物の姿を見て、\n俺は棒立ちになってしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I find myself frozen in place, faced with someone I never imagined would be here."
+    },
+    "cn": {
+      "name": null,
+      "text": "结果看到眼前那个完全出乎意料的人物，\n我不禁僵在了原地。"
+    },
+    "tw": {
+      "name": null,
+      "text": "結果看到眼前那個完全出乎意料的人物，\n我不禁僵在了原地。"
+    }
+  },
+  {
+    "id": "0046_00007",
+    "ja": {
+      "name": null,
+      "text": "逆に、小屋にいた人物──\nアリーは、俺の姿を見て、\nその端正な顔に涙を浮かべ始めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Meanwhile, the person who emerged from the cabin—Allie—immediately bursts into tears upon seeing me."
+    },
+    "cn": {
+      "name": null,
+      "text": "反之，小屋里的人──\n艾丽一见到我，\n俊美的脸上立刻泛起了泪意。"
+    },
+    "tw": {
+      "name": null,
+      "text": "反之，小屋裡的人──\n艾麗一見到我，\n俊美的臉上立刻泛起了淚意。"
+    }
+  },
+  {
+    "id": "0046_00008",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「会いたかった、主人！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I missed you so much, sir!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「好想你啊，主人！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「好想你啊，主人！」"
+    }
+  },
+  {
+    "id": "0046_00009",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「む、ぐぅっ……！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Oof?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「唔、咕呜……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「唔、咕嗚……！？」"
+    }
+  },
+  {
+    "id": "0046_00010",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ちゅ、んぅぅっ……ちゅ、はぁ、んっ、んぅぅ……\n主人……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"*kiss*... Mmm... *kiss*... Haah! Mm! Mmm... Sir...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啾、嗯呜呜……啾、哈啊、嗯、呃呜呜……\n主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「啾、嗯嗚嗚……啾、哈啊、嗯、呃嗚嗚……\n主人……」"
+    }
+  },
+  {
+    "id": "0046_00011",
+    "ja": {
+      "name": null,
+      "text": "突然、視界いっぱいにアリーの顔が迫ってきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie's face is suddenly all I can see."
+    },
+    "cn": {
+      "name": null,
+      "text": "眨眼之间，艾丽的脸就充满了我的视野。"
+    },
+    "tw": {
+      "name": null,
+      "text": "眨眼之間，艾麗的臉就充滿了我的視野。"
+    }
+  },
+  {
+    "id": "0046_00012",
+    "ja": {
+      "name": null,
+      "text": "抵抗をする間もなく、\n俺の唇へと口づけをしてくるアリー。"
+    },
+    "en": {
+      "name": null,
+      "text": "Before I have time to react, her lips are pressed against mine."
+    },
+    "cn": {
+      "name": null,
+      "text": "还没来得及抵抗，艾丽就堵住了我的嘴唇。"
+    },
+    "tw": {
+      "name": null,
+      "text": "還沒來得及抵抗，艾麗就堵住了我的嘴唇。"
+    }
+  },
+  {
+    "id": "0046_00013",
+    "ja": {
+      "name": null,
+      "text": "久しぶりのアリーの感触に、アリーの香り……。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's been so long since I felt her touch, smelled her scent..."
+    },
+    "cn": {
+      "name": null,
+      "text": "扑面而来的，是久违的芳香与感触……"
+    },
+    "tw": {
+      "name": null,
+      "text": "撲面而來的，是久違的芳香與感觸……"
+    }
+  },
+  {
+    "id": "0046_00014",
+    "ja": {
+      "name": null,
+      "text": "切なげな吐息さえも懐かしく感じてしまい、\n俺はただ全身でそれを受け止めていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even her sweet moans are like music to my ears as I wrap my arms around her, hugging her close."
+    },
+    "cn": {
+      "name": null,
+      "text": "连那焦切的呼吸，似乎都格外令人怀念，\n我不由得彻底委身其中。"
+    },
+    "tw": {
+      "name": null,
+      "text": "連那焦切的呼吸，似乎都格外令人懷念，\n我不由得徹底委身其中。"
+    }
+  },
+  {
+    "id": "0046_00015",
+    "ja": {
+      "name": null,
+      "text": "同時に、ようやく頭の中が現実を認識し始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "Meanwhile, my mind finally realizes what's going on."
+    },
+    "cn": {
+      "name": null,
+      "text": "同时，大脑也终于开始认清现实。"
+    },
+    "tw": {
+      "name": null,
+      "text": "同時，大腦也終於開始認清現實。"
+    }
+  },
+  {
+    "id": "0046_00016",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んぅぅ……ちゅ、んっ……んっ、\nはぁ、はぁ……主人、主人……っ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mmm... *kiss*... Mm! Mmm! Haah, haah... Sir! Sir...!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃呜呜……啾、嗯……呃、\n哈啊、哈啊……主人、主人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃嗚嗚……啾、嗯……呃、\n哈啊、哈啊……主人、主人……」"
+    }
+  },
+  {
+    "id": "0046_00017",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ん、くっ、んぅ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Mm! Mngh...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呃、咕、嗯呜……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「呃、咕、嗯嗚……」"
+    }
+  },
+  {
+    "id": "0046_00018",
+    "ja": {
+      "name": null,
+      "text": "会えなかった数ヶ月の時間を埋めるかのように、\n夢中になってアリーがキスをしてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie kisses me almost hungrily, like she's trying to make up for months of separation."
+    },
+    "cn": {
+      "name": null,
+      "text": "就像是要弥补未能见面的几个月一般，\n艾丽忘情地亲吻着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就像是要彌補未能見面的幾個月一般，\n艾麗忘情地親吻著我。"
+    }
+  },
+  {
+    "id": "0046_00019",
+    "ja": {
+      "name": null,
+      "text": "俺も、そんなアリーの細い身体を抱きしめていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I cradle her slender body in my arms."
+    },
+    "cn": {
+      "name": null,
+      "text": "我也一样，抱紧了她纤细的身体。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我也一樣，抱緊了她纖細的身體。"
+    }
+  },
+  {
+    "id": "0046_00020",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「んっ、んぅ……ふ、んっ……ちゅ、んぅぅ……ぷはっ、　はぁ、はぁ、はぁ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Mm! Mm... Haah! Mm... *kiss*... Mmm... Fwah! Haah, haah, haah...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呃、呃呜……呼、呃……啾、嗯呜呜……噗哈、\n哈啊、哈啊、哈啊……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呃、呃嗚……呼、呃……啾、嗯嗚嗚……噗哈、\n哈啊、哈啊、哈啊……」"
+    }
+  },
+  {
+    "id": "0046_00021",
+    "ja": {
+      "name": null,
+      "text": "そして、しばらく舌を絡めるキスを堪能し、\nアリーはゆっくりと顔を離していく。"
+    },
+    "en": {
+      "name": null,
+      "text": "It seems like forever that we remain locked in a passionate kiss before she slowly pulls back."
+    },
+    "cn": {
+      "name": null,
+      "text": "在互相纠缠舌头，享受了一段深吻之后，\n艾丽终于缓缓地缩回了头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在互相糾纏舌頭，享受了一段深吻之後，\n艾麗終於緩緩地縮回了頭。"
+    }
+  },
+  {
+    "id": "0046_00022",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ああ……本当に主人なのだな。\n会いたかった……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I can't believe it's really you... I missed you so much...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人……果真是你吗，\n我真的好想你啊……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人……果真是你嗎，\n我真的好想你啊……」"
+    }
+  },
+  {
+    "id": "0046_00023",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリー、俺も会いたかったよ。\nでも、どうしてここに？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I missed you, too, Allie... But what are you doing here?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「艾丽，我也很想你。\n但是，你怎么会在这里？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「艾麗，我也很想妳。\n但是，妳怎麼會在這裡？」"
+    }
+  },
+  {
+    "id": "0046_00024",
+    "ja": {
+      "name": null,
+      "text": "正直に言って、アリーと至近距離で見つめ合っていても、まだ混乱が収まっていない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Honestly speaking, even with Allie standing right in front of me, it's still hard for me to believe this is really happening."
+    },
+    "cn": {
+      "name": null,
+      "text": "实话说，就算近距离与艾丽正面相对，\n我仍有些难掩困惑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "實話說，就算近距離與艾麗正面相對，\n我仍有些難掩困惑。"
+    }
+  },
+  {
+    "id": "0046_00025",
+    "ja": {
+      "name": null,
+      "text": "この温もりや感触が本物なのはわかるが、\n本来ならここにアリーがいるはずはないのだから。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though I can feel how real she is, there's no possible way she could be here."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然明白怀中的温暖与感触都是真的，\n可按理说，艾丽根本就不该出现在这里。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然明白懷中的溫暖與感觸都是真的，\n可按理說，艾麗根本就不該出現在這裡。"
+    }
+  },
+  {
+    "id": "0046_00026",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「実は、父──陛下から、\n愛する人の下へ行って良いと許可をいただいてな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Actually, my father—the king—gave me permission to return to the man I love.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「其实，父亲──陛下\n允许我前往心爱之人的身边。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「其實，父親──陛下\n允許我前往心愛之人的身邊。」"
+    }
+  },
+  {
+    "id": "0046_00027",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「すぐさま、\nこうして主人のところへ駆けつけたというわけだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"And so I immediately returned here, to you.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「所以，我就立刻马不停蹄地赶到了这里。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「所以，我就立刻馬不停蹄地趕到了這裡。」"
+    }
+  },
+  {
+    "id": "0046_00028",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや、その説明だけじゃ、\n状況がわからないんだが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Okay, I still don't understand exactly what's going on...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不，光凭这几句，\n我还是有些搞不懂状况……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不，光憑這幾句，\n我還是有些搞不懂狀況……」"
+    }
+  },
+  {
+    "id": "0046_00029",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリーは姫騎士として、\n反乱軍で活躍してるって噂を聞いたぞ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I thought you were leading this rebellion I've been hearing about as a knight?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「根据传闻，艾丽不是正以骑士公主的身份，\n活跃在反叛军中才对么？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「根據傳聞，艾麗不是正以騎士公主的身份，\n活躍在反叛軍中才對嗎？」"
+    }
+  },
+  {
+    "id": "0046_00030",
+    "ja": {
+      "name": null,
+      "text": "国を取り戻すために、\n先頭に立って獅子奮迅の活躍をしていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She's the unstoppable force spearheading the fight to take back her kingdom."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了夺回祖国，\n她身先士卒地奋战在第一线。"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了奪回祖國，\n她身先士卒地奮戰在第一線。"
+    }
+  },
+  {
+    "id": "0046_00031",
+    "ja": {
+      "name": null,
+      "text": "噂ではそうなっていたはずだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Or at least, that's what the rumors are saying."
+    },
+    "cn": {
+      "name": null,
+      "text": "传闻当中，基本都是这样说的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "傳聞當中，基本都是這樣說的。"
+    }
+  },
+  {
+    "id": "0046_00032",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「美しく凛々しく、それでいて可憐な姫騎士は誰よりも\n勇敢に戦っていた……と」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"The beautiful, dignified, yet adorable female knight, who has displayed far more bravery than any man...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「人们声称，\n那位骑士公主美丽、威风、却又楚楚动人，\n比每一个人都要奋勇……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「人們聲稱，\n那位騎士公主美麗、威風、卻又楚楚動人，\n比每一個人都要奮勇……」"
+    }
+  },
+  {
+    "id": "0046_00033",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「うっ……面と向かって言われると、\nさすがに恥ずかしいのだが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Wow... Hearing you say that to my face is pretty embarrassing, honestly...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呜……当面听到这样的话，\n也太令人难为情了……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗚……當面聽到這樣的話，\n也太令人難為情了……」"
+    }
+  },
+  {
+    "id": "0046_00034",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ってことは、噂の姫騎士はアリーのことで\n良いんだよな？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"So the female knight in the rumors really is you, then?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「也就是说，\n艾丽确实就是传闻当中的骑士公主喽？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「也就是說，\n艾麗確實就是傳聞當中的騎士公主嘍？」"
+    }
+  },
+  {
+    "id": "0046_00035",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「う、うむ。\n確かに、わたしが先頭に立って兵を率いていたのは、\n事実だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Y-Yeah. I am, in fact, the one leading my troops into battle.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯、嗯，\n确实，我站在第一线领兵作战是真的。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯、嗯，\n確實，我站在第一線領兵作戰是真的。」"
+    }
+  },
+  {
+    "id": "0046_00036",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「解放軍は少数なため、\n主に奇襲で戦っていたのだが……\n主人に教わった森の知識や冒険者の技が役に立ってな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Our rag-tag army is still fairly small, so we've had to resort to guerilla tactics... and the skills I've learned from you have certainly come in handy.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「解放军人数较少，所以战斗基本以奇袭为主……\n主人教的森林求生技能，以及冒险者的技术，\n都发挥了很大的作用。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「解放軍人數較少，所以戰鬥基本以奇襲為主……\n主人教的森林求生技能，以及冒險者的技術，\n都發揮了很大的作用。」"
+    }
+  },
+  {
+    "id": "0046_00037",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「お陰で連戦連勝を続けていて、\n民からいろいろ讃えられてだな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Thanks to that, we've scored a succession of victories along with admiration from my subjects...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「因此我们连战连胜，\n获取了人民的各种称赞……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「因此我們連戰連勝，\n獲取了人民的各種稱讚……」"
+    }
+  },
+  {
+    "id": "0046_00038",
+    "ja": {
+      "name": null,
+      "text": "照れているかのように、アリーの頬に赤みが増していく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her cheeks redden, as if embarrassed by what she's saying."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，艾丽的脸也羞得越来越红。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，艾麗的臉也羞得越來越紅。"
+    }
+  },
+  {
+    "id": "0046_00039",
+    "ja": {
+      "name": null,
+      "text": "噂の姫騎士はアリーのことで間違いないらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's clear that she's the female knight from the rumors."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来传闻中的骑士公主，确实就是艾丽本人了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來傳聞中的騎士公主，確實就是艾麗本人了。"
+    }
+  },
+  {
+    "id": "0046_00040",
+    "ja": {
+      "name": null,
+      "text": "それだけに不可解でもある。"
+    },
+    "en": {
+      "name": null,
+      "text": "That just makes her presence here even more puzzling."
+    },
+    "cn": {
+      "name": null,
+      "text": "正因如此，我更是无法理解。"
+    },
+    "tw": {
+      "name": null,
+      "text": "正因如此，我更是無法理解。"
+    }
+  },
+  {
+    "id": "0046_00041",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そのアリーが、どうしてここにいるんだ？\n今は大事な時だろう？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"That still doesn't explain what you're doing here. Your people need you more than ever, right?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「既然如此，艾丽为何会在这里？\n如今不正是关键时刻吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「既然如此，艾麗為何會在這裡？\n如今不正是關鍵時刻嗎？」"
+    }
+  },
+  {
+    "id": "0046_00042",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そうなのだが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"That may be true...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「虽然确实是这样……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「雖然確實是這樣……」"
+    }
+  },
+  {
+    "id": "0046_00043",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ある日、陛下に問われたのだ。\n想い人がいるのか？と」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"The other day, my father asked me if there was someone I cared for.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「但某一天，陛下突然问我，\n是不是有了心上人。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「但某一天，陛下突然問我，\n是不是有了心上人。」"
+    }
+  },
+  {
+    "id": "0046_00044",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ときどき物思いに耽るわたしを見て、\nファルナに問い質したらしい」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I guess he caught me staring off into space a couple times and asked Farna about it.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「他似乎是见我有时会陷入忧思，\n所以去问了法尔娜。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「他似乎是見我有時會陷入憂思，\n所以去問了法爾娜。」"
+    }
+  },
+  {
+    "id": "0046_00045",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それで、ファルナが主人のことを話したそうでな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"And then she must've told him about you...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「然后，法尔娜就提到了主人的事……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「然後，法爾娜就提到了主人的事……」"
+    }
+  },
+  {
+    "id": "0046_00046",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わたしには、心に決めた想い人がいる。\n王女としての務めで離れたが、\n今でも想っているのだろう……と」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"He said it was clear I must really care about someone. That my duties as a princess have torn us apart, yet I still think about him fondly...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「她说，我心里已经认定了一个人。\n虽然为了履行公主的职责，不得不分开，\n但至今依然爱着那个人……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「她說，我心裡已經認定了一個人。\n雖然為了履行公主的職責，不得不分開，\n但至今依然愛著那個人……」"
+    }
+  },
+  {
+    "id": "0046_00047",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そう、か……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"He did, huh?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是、吗……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是、嗎……」"
+    }
+  },
+  {
+    "id": "0046_00048",
+    "ja": {
+      "name": null,
+      "text": "どうやら、ファルナはかなり具体的にアリーの父王へ\n説明したようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "I guess Farna didn't hold back in her explanation to the king."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来，法尔娜对艾丽的父王解释得相当具体。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來，法爾娜對艾麗的父王解釋得相當具體。"
+    }
+  },
+  {
+    "id": "0046_00049",
+    "ja": {
+      "name": null,
+      "text": "それで、父王はアリーに直接聞いてきた……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Which led to him asking Allie directly..."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，国王就直接去问了艾丽……"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，國王就直接去問了艾麗……"
+    }
+  },
+  {
+    "id": "0046_00050",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリーはそれになんと答えたんだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"What did you tell him?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「那么，艾丽又是如何回答的呢？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「那麼，艾麗又是如何回答的呢？」"
+    }
+  },
+  {
+    "id": "0046_00051",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「う、うむ。\n正直に、愛している男がいると答えた」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"W-Well... I answered truthfully. I told him that there was someone I loved.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「嗯、嗯。\n我承认了自己有一个心爱的男人。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「嗯、嗯。\n我有承認自己有一個心愛的男人。」"
+    }
+  },
+  {
+    "id": "0046_00052",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「否定すべきだったかもしれないが、\n主人との生活をなかったことにはしたくなくてな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I probably should have told him no, but I didn't want to act like we never shared a life together...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「或许按理来说应该否认，\n但我不想否定与主人一起生活的时光……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「或許按理來說應該否認，\n但我不想否定與主人一起生活的時光……」"
+    }
+  },
+  {
+    "id": "0046_00053",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「陛下は驚いていたが、\nすぐに笑って『お前は幸せになれ』と\n言ってくださったのだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"He was surprised at first, but then his face broke out into a smile and he told me he wanted me to be happy.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「陛下虽然吃了一惊，\n但很快就笑着对我说『去追求自己的幸福吧』。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「陛下雖然吃了一驚，\n但很快就笑著對我說『去追求自己的幸福吧』。」"
+    }
+  },
+  {
+    "id": "0046_00054",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それは、大丈夫……なのか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Are you sure this is the right choice?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「这……没问题……吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「這……沒問題……嗎？」"
+    }
+  },
+  {
+    "id": "0046_00055",
+    "ja": {
+      "name": null,
+      "text": "アリーは最前線で先頭に立って戦っていたのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Allie was at the head of the frontline forces."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽之前一直奋战在最前线。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗之前一直奮戰在最前線。"
+    }
+  },
+  {
+    "id": "0046_00056",
+    "ja": {
+      "name": null,
+      "text": "急にいなくなったりしたら、\n士気が落ち込んで軍が瓦解しかねない。"
+    },
+    "en": {
+      "name": null,
+      "text": "If she were to suddenly disappear, there's no doubt morale would crash and the army would fall apart."
+    },
+    "cn": {
+      "name": null,
+      "text": "突然失去她的话，\n反叛军很有可能因士气低落而瓦解。"
+    },
+    "tw": {
+      "name": null,
+      "text": "突然失去她的話，\n反叛軍很有可能因士氣低落而瓦解。"
+    }
+  },
+  {
+    "id": "0046_00057",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そのために、陛下はわたしに理由をくださった」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Well, that's why my father came up with an excuse.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「因此，陛下也为我准备了一个理由。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「因此，陛下也為我準備了一個理由。」"
+    }
+  },
+  {
+    "id": "0046_00058",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「どんなに頑張ろうとも、\n相手は大国で我々は小勢の反乱勢力だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"No matter how much we fight, at the end of the day, we're a small rebellion against a large army.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「不管再怎么努力，对手依然是泱泱大国，\n而我们只是小规模的反抗势力。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「不管再怎麼努力，對手依然是泱泱大國，\n而我們只是小規模的反抗勢力。」"
+    }
+  },
+  {
+    "id": "0046_00059",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「上手く行かない可能性も決して低くはないし、\n鎮圧されれば王族は全員が処刑されるだろう」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"There's a strong chance things won't go well, and if we were captured, everyone in the royal family would be executed.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「所以，以失败告终的可能性非常高。\n一旦遭到镇压，所有王室成员都会被处刑。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「所以，以失敗告終的可能性非常高。\n一旦遭到鎮壓，所有王室成員都會被處刑。」"
+    }
+  },
+  {
+    "id": "0046_00060",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それならば……と、\n保険のため外に王家の血を残すよう命じてくれたのだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"As such, I was ordered to hide myself somewhere safe, to ensure the survival of our bloodline.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「考虑到这一点……\n作为保险，陛下就命令我为王室留下血脉。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「考慮到這一點……\n作為保險，陛下就命令我為王室留下血脈。」"
+    }
+  },
+  {
+    "id": "0046_00061",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「幸い、わたしには弟がいる。\n王家の跡取りには困らないからな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Luckily, I have a younger brother, so there's no need to worry about a royal heir.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「幸好，我还有一个弟弟，\n不用为王位继承人而担忧。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「幸好，我還有一個弟弟，\n不用為王位繼承人而擔憂。」"
+    }
+  },
+  {
+    "id": "0046_00062",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そういうことか……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"So that's what happened...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「原来如此……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「原來如此……」"
+    }
+  },
+  {
+    "id": "0046_00063",
+    "ja": {
+      "name": null,
+      "text": "それは、ただの方便でしかない。"
+    },
+    "en": {
+      "name": null,
+      "text": "In the end, he's still thinking about preserving the royal family."
+    },
+    "cn": {
+      "name": null,
+      "text": "听起来，似乎只是个借口罢了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽起來，似乎只是個藉口罷了。"
+    }
+  },
+  {
+    "id": "0046_00064",
+    "ja": {
+      "name": null,
+      "text": "だがアリーの父王は、\n娘の為に、より良い方法を考えたのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "But, as her father, it's also the best solution while ensuring Allie's happiness."
+    },
+    "cn": {
+      "name": null,
+      "text": "但这应该是艾丽的父王\n为女儿想出的最佳方案了吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但這應該是艾麗的父王\n為女兒想出的最佳方案了吧。"
+    }
+  },
+  {
+    "id": "0046_00065",
+    "ja": {
+      "name": null,
+      "text": "何より、今の反乱が失敗に終わっても、\nいつかアリーの子が王家を復興するかもしれない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Besides, even if the current rebellion fails, Allie's children can someday pick up where they left off."
+    },
+    "cn": {
+      "name": null,
+      "text": "更何况，就算这次反叛以失败告终，\n依然可以将复兴王室的希望寄托在艾丽的孩子身上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "更何況，就算這次反叛以失敗告終，\n依然可以將復興王室的希望寄託在艾麗的孩子身上。"
+    }
+  },
+  {
+    "id": "0046_00066",
+    "ja": {
+      "name": null,
+      "text": "そのような理由があれば、\n士気が落ちるのも最低限で留められる。"
+    },
+    "en": {
+      "name": null,
+      "text": "That's a decent way to keep everyone's morale high enough to keep fighting."
+    },
+    "cn": {
+      "name": null,
+      "text": "若是存在这样一个理由，\n也可以最大限度避免士气的低落。"
+    },
+    "tw": {
+      "name": null,
+      "text": "若是存在這樣一個理由，\n也可以最大限度避免士氣的低落。"
+    }
+  },
+  {
+    "id": "0046_00067",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……そういえば、ファルナは一緒じゃなかったのか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Speaking of Farna, where is she?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……说起来，法尔娜没跟你一起来吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……說起來，法爾娜沒跟妳一起來嗎？」"
+    }
+  },
+  {
+    "id": "0046_00068",
+    "ja": {
+      "name": null,
+      "text": "先程の話で出ていたファルナの姿は、\n小屋の周囲を見渡しても見当たらない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I glance around, but Allie's handmaid is nowhere to be seen."
+    },
+    "cn": {
+      "name": null,
+      "text": "我在小屋里环视了一圈，\n但没找到刚刚出现在话题中的法尔娜本人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我在小屋裡環視了一圈，\n但沒找到剛剛出現在話題中的法爾娜本人。"
+    }
+  },
+  {
+    "id": "0046_00069",
+    "ja": {
+      "name": null,
+      "text": "ただ疑問に思って口にした言葉だが、\nアリーは少しだけ拗ねたように頬を膨らませる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The words are hardly out of my mouth before Allie puffs up her cheeks in annoyance, sulking."
+    },
+    "cn": {
+      "name": null,
+      "text": "可对我这句未经深思的疑问，\n艾丽却有些不开心地嘟起了嘴，"
+    },
+    "tw": {
+      "name": null,
+      "text": "可對我這句未經深思的疑問，\n艾麗卻有些不開心地嘟起了嘴，"
+    }
+  },
+  {
+    "id": "0046_00070",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わたしよりも、主人はファルナが心配なのか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"You're more worried about her than me?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「与我相比，主人更担心法尔娜吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「與我相比，主人更擔心法爾娜嗎？」"
+    }
+  },
+  {
+    "id": "0046_00071",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや、そういうわけではないが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"No, of course not. It's just...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不，我没这个意思啦……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不，我沒這個意思啦……」"
+    }
+  },
+  {
+    "id": "0046_00072",
+    "ja": {
+      "name": null,
+      "text": "心配といえば、どちらも心配だ。\nそこに大きな優劣はない。"
+    },
+    "en": {
+      "name": null,
+      "text": "To be fair, I care about both of them equally, and worry about them just as much."
+    },
+    "cn": {
+      "name": null,
+      "text": "要说担心，她们两个我都担心，\n其中并不存在什么差距。"
+    },
+    "tw": {
+      "name": null,
+      "text": "要說擔心，她們兩個我都擔心，\n其中並不存在什麼差距。"
+    }
+  },
+  {
+    "id": "0046_00073",
+    "ja": {
+      "name": null,
+      "text": "ただ、拗ねたようなアリーの口調に、\n言い訳がましい言葉が口をついて出てくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Still, I find myself tripping over excuses after hearing the annoyance in Allie's voice."
+    },
+    "cn": {
+      "name": null,
+      "text": "可被艾丽这样一闹别扭，\n我忍不住辩解了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可被艾麗這樣一鬧彆扭，\n我忍不住辯解了起來。"
+    }
+  },
+  {
+    "id": "0046_00074",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ふふっ、冗談だ。\nそんな顔をしないでくれ、主人」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hehe, I'm just joking. Don't look at me like that, Sir.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呵呵，开玩笑的，\n别摆出这样的表情嘛，主人。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呵呵，開玩笑的，\n別擺出這樣的表情嘛，主人。」"
+    }
+  },
+  {
+    "id": "0046_00075",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それにファルナも心配はいらない。\nじきに、こっちにやってくる予定だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"But you don't have to worry about her. She should be here soon.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「而且法尔娜也无需担心，\n她很快也会到这里来。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「而且法爾娜也無需擔心，\n她很快也會到這裡來。」"
+    }
+  },
+  {
+    "id": "0046_00076",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……一緒ではなかったのか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Why didn't you come together?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……你们没在一起吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……妳們沒有在一起嗎？」"
+    }
+  },
+  {
+    "id": "0046_00077",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「亡くなったご両親や兄君の代わりに、\nもう少し王家に奉公したいらしい」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"She wanted to serve the royal family a little longer in place of her deceased family members.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「她似乎是想代替去世的父母与兄长，\n为君主多尽一份心力。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「她似乎是想代替去世的父母與兄長，\n為君主多盡一份心力。」"
+    }
+  },
+  {
+    "id": "0046_00078",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「わたしが抜けたことで、\n少なからず混乱は起こるからな。その後始末だろう」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"With me out of the picture, there is sure to be a bit of chaos. She stayed behind to tidy things up.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「因为缺少了我，多少也会引起一些混乱，\n所以她才留下为我善后。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「因為缺少了我，多少也會引起一些混亂，\n所以她才留下為我善後。」"
+    }
+  },
+  {
+    "id": "0046_00079",
+    "ja": {
+      "name": null,
+      "text": "つまりは、ファルナは最初からアリーのフォローをする\nつもりだったに違いない。"
+    },
+    "en": {
+      "name": null,
+      "text": "In other words, Farna has clearly been supporting Allie from the very beginning."
+    },
+    "cn": {
+      "name": null,
+      "text": "这么说来，\n法尔娜肯定从一开始就为艾丽做足了打算。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這麼說來，\n法爾娜肯定從一開始就為艾麗做足了打算。"
+    }
+  },
+  {
+    "id": "0046_00080",
+    "ja": {
+      "name": null,
+      "text": "そうでもなければ、\nアリーの父王に俺のことを告げたりはしないはずだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Otherwise, she would have had no reason to tell Allie's father, the king, all about me."
+    },
+    "cn": {
+      "name": null,
+      "text": "若非如此，\n就不会把我的事透露给艾丽的父王了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "若非如此，\n就不會把我的事透露給艾麗的父王了。"
+    }
+  },
+  {
+    "id": "0046_00081",
+    "ja": {
+      "name": null,
+      "text": "そして、\nアリーは俺に会いたいばかりに、\n一人で先走ってきた……と。"
+    },
+    "en": {
+      "name": null,
+      "text": "And when all Allie wanted was to be with me, she did what she could to let Allie go on ahead..."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，艾丽因为太急于与我相见，\n就一个人先跑了出来……"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，艾麗因為太急於與我相見，\n就一個人先跑了出來……"
+    }
+  },
+  {
+    "id": "0046_00082",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「だが、俺に会いに来たなら街に来ても良かったんじゃ\nないか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"If you really wanted to see me, you could have come into town.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「但是，如果是为了见我，\n到城里去不是更好？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「但是，如果是為了見我，\n到城裡去不是更好？」"
+    }
+  },
+  {
+    "id": "0046_00083",
+    "ja": {
+      "name": null,
+      "text": "二人を見送った後、俺は冒険者に復帰すると伝えていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "After their departure, I left to return to work as an adventurer."
+    },
+    "cn": {
+      "name": null,
+      "text": "我之前说过，在送走她们后，\n自己打算继续做冒险者。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我之前說過，在送走她們後，\n自己打算繼續做冒險者。"
+    }
+  },
+  {
+    "id": "0046_00084",
+    "ja": {
+      "name": null,
+      "text": "いつ小屋に戻ってくるとも知れないため、\n最悪、まだまだ再会は叶わなかった可能性も高い。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having no way of knowing when I'd be back, there was always a chance we'd never see each other again."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为不知何时才会回到小屋，\n所以最坏的情况下，我们可能根本无法重逢。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為不知何時才會回到小屋，\n所以最壞的情況下，我們可能根本無法重逢。"
+    }
+  },
+  {
+    "id": "0046_00085",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それも考えたのだが、わたしは反乱中の勢力の旗頭だ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"The thought crossed my mind, but I'm the figurehead of a rebellion.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「这我也考虑过，\n但我毕竟是反叛势力的领军人物。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「這我也考慮過，\n但我畢竟是反叛勢力的領軍人物。」"
+    }
+  },
+  {
+    "id": "0046_00086",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「この時勢に街へ行くのは危険が多いと思ってな。\nだから、ここに来たわけだ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I'd be risking my life by venturing into town, which is why I came here instead.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「我认为在如今的情势下，去城里太危险，\n所以就到这里来了。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「我認為在如今的情勢下，去城裡太危險，\n所以就到這裡來了。」"
+    }
+  },
+  {
+    "id": "0046_00087",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「なにより、ここは思い出が多い。\nいつも主人と共にいるような気分になれるからな……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"This place holds so many memories, as well. It made me feel safe, like you were here with me...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「更何况，这里充满了各种回忆，\n让我有种随时陪伴在主人身边的感觉……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「更何況，這裡充滿了各種回憶，\n讓我有種隨時陪伴在主人身邊的感覺……」"
+    }
+  },
+  {
+    "id": "0046_00088",
+    "ja": {
+      "name": null,
+      "text": "この小屋であれば、いずれ俺も戻ってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "And she knew that I would have to return eventually..."
+    },
+    "cn": {
+      "name": null,
+      "text": "只要小屋还在，总有一天我会回来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只要小屋還在，總有一天我會回來。"
+    }
+  },
+  {
+    "id": "0046_00089",
+    "ja": {
+      "name": null,
+      "text": "保全のために時々顔を出すことは、\nここへ来た当初に二人へ話していたことだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "When we first met, I mentioned how I would occasionally return to make sure the cabin didn't fall into disrepair."
+    },
+    "cn": {
+      "name": null,
+      "text": "当初带她们来时，我也说过偶尔会回来修缮一下。"
+    },
+    "tw": {
+      "name": null,
+      "text": "當初帶她們來時，我也說過偶爾會回來修繕一下。"
+    }
+  },
+  {
+    "id": "0046_00090",
+    "ja": {
+      "name": null,
+      "text": "それに、アリーは森での生活にはすでに慣れていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "And now, Allie's an expert at living in the woods."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且，艾丽已经习惯了森林里的生活。"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且，艾麗已經習慣了森林裡的生活。"
+    }
+  },
+  {
+    "id": "0046_00091",
+    "ja": {
+      "name": null,
+      "text": "ここで俺を待つ分には、特に不都合はなかったようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "So it wasn't that rough for her to wait here for me."
+    },
+    "cn": {
+      "name": null,
+      "text": "就算住在这里等我，对她而言也没什么不方便。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就算住在這裡等我，對她而言也沒什麼不方便。"
+    }
+  },
+  {
+    "id": "0046_00092",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「それより、主人はどうしたのだ？\nずいぶんと早い帰りだが……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"More importantly, did something happen? You're back much sooner than I was expecting...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「比起这个，主人又是怎么了？\n没想到你会这么快回来……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「比起這個，主人又是怎麼了？\n沒想到你會這麼快回來……」"
+    }
+  },
+  {
+    "id": "0046_00093",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「何か森でこなすような依頼でも受けてきたのか？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Did you get a job that brings you here?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是接到了要在森林里完成的委托吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是有接到要在森林裡完成的委託嗎？」"
+    }
+  },
+  {
+    "id": "0046_00094",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや、冒険者は引退してきた。\nもう、街へ戻るつもりはない」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Nope. In fact, I'm officially retired. I have no intention of ever returning to the city.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不，我已经放弃了冒险者的营生，\n也不打算回城里了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不，我已經放棄了冒險者的身份，\n也不打算回城裡了。」"
+    }
+  },
+  {
+    "id": "0046_00095",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「……！？\nど、どういうことだ、それは？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"...?! Why? W-What happened?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「……！？\n那、那是为什么？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「……！？\n那、那是為什麼？」"
+    }
+  },
+  {
+    "id": "0046_00096",
+    "ja": {
+      "name": null,
+      "text": "どうして俺が冒険者になったか。\nその理由を知っているだけに、\nアリーは驚きを隠せないようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She knows what led to me wanting to become an adventurer, which is why she seems so startled by my announcement."
+    },
+    "cn": {
+      "name": null,
+      "text": "正因知道我为什么会成为冒险者，\n艾丽才感到格外惊讶。"
+    },
+    "tw": {
+      "name": null,
+      "text": "正因知道我為什麼會成為冒險者，\n艾麗才感到格外驚訝。"
+    }
+  },
+  {
+    "id": "0046_00097",
+    "ja": {
+      "name": null,
+      "text": "だから、俺は街であったことを簡単に説明する。"
+    },
+    "en": {
+      "name": null,
+      "text": "I briefly explain what happened in town."
+    },
+    "cn": {
+      "name": null,
+      "text": "所以，我简单解释了一下在城里发生的事。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以，我簡單解釋了一下在城裡發生的事。"
+    }
+  },
+  {
+    "id": "0046_00098",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そう、か。\nこの国の王は、そんなことを考えていたのか……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I see... So that's what the king's plan is...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「是吗……\n这里的国王竟有如此打算……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「是嗎……\n這裡的國王竟有如此打算……」"
+    }
+  },
+  {
+    "id": "0046_00099",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そして、\n主人はわたしたちを案じて断ってくれたのだな」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"And you turned down the job out of concern for our safety.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「然后，主人为了我们，拒绝了对方的命令吗？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「然後，主人為了我們，拒絕了對方的命令嗎？」"
+    }
+  },
+  {
+    "id": "0046_00100",
+    "ja": {
+      "name": null,
+      "text": "アリーが嬉しそうに表情をほころばせた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She immediately lights up, beaming happily."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了我的话，艾丽欢喜地露出了笑容。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了我的話，艾麗歡喜地露出了笑容。"
+    }
+  },
+  {
+    "id": "0046_00101",
+    "ja": {
+      "name": null,
+      "text": "そして、もう一度俺へと顔を寄せてくる……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And then brings her face close to mine once more."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，再一次将脸贴了过来……"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，再一次將臉貼了過來……"
+    }
+  },
+  {
+    "id": "0046_00102",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「主人、好きだ。\n愛してる……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"I love you, Sir. So much...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「主人，我喜欢你，\n我爱你……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「主人，我喜歡你，\n我愛你……」"
+    }
+  },
+  {
+    "id": "0046_00103",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ちゅ……ん、んぅ……ちゅ、んぅぅ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"*kiss*... Mm! Mmm... *kiss*... Mmm...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「啾……呃、呃唔……啾、嗯呜呜……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「啾……呃、呃唔……啾、嗯嗚嗚……」"
+    }
+  },
+  {
+    "id": "0046_00104",
+    "ja": {
+      "name": null,
+      "text": "愛を囁きながら、口づけを交わされる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She purrs her love for me between kisses."
+    },
+    "cn": {
+      "name": null,
+      "text": "她一边倾诉爱意，一边与我深情拥吻。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她一邊傾訴愛意，一邊與我深情擁吻。"
+    }
+  },
+  {
+    "id": "0046_00105",
+    "ja": {
+      "name": null,
+      "text": "俺はアリーを抱きしめながら、\n自分の本当に欲しかったもののことを考えていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Holding Allie in my arms, I think about what I really want."
+    },
+    "cn": {
+      "name": null,
+      "text": "我紧紧抱着艾丽，\n再次想到了自己真正渴望拥有的东西。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我緊緊抱著艾麗，\n再次想到了自己真正渴望擁有的東西。"
+    }
+  },
+  {
+    "id": "0046_00106",
+    "ja": {
+      "name": null,
+      "text": "俺が本当に欲しいのは、\n名誉でもお金でもなく、\n冒険でもなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "What I really want in life isn't to be a hero, or to be rich, or to go on adventures."
+    },
+    "cn": {
+      "name": null,
+      "text": "我真正想要的，\n既不是金钱与名望，也不是冒险。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我真正想要的，\n既不是金錢與名望，也不是冒險。"
+    }
+  },
+  {
+    "id": "0046_00107",
+    "ja": {
+      "name": null,
+      "text": "ただ、家族との……。\n愛しい人とのゆったりとした生活を\n大切にしたかったのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "All I want is to spend a quiet life with my family... with the person I love. To cherish them."
+    },
+    "cn": {
+      "name": null,
+      "text": "我只是想与家人……\n与心爱的人，尽情享受悠哉闲适的生活。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我只是想與家人……\n與心愛的人，盡情享受悠哉閒適的生活。"
+    }
+  },
+  {
+    "id": "0046_00108",
+    "ja": {
+      "name": null,
+      "text": "アリーの話では、\nファルナも追っ付けここへと戻ってくるだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "If what she says is true, Farna should be arriving shortly."
+    },
+    "cn": {
+      "name": null,
+      "text": "据艾丽所说，\n法尔娜不久之后也会回到这里。"
+    },
+    "tw": {
+      "name": null,
+      "text": "據艾麗所說，\n法爾娜不久之後也會回到這裡。"
+    }
+  },
+  {
+    "id": "0046_00109",
+    "ja": {
+      "name": null,
+      "text": "もう奴隷と主人という関係ではないが、\nそんなことは問題ではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Although we're no longer bound together by the curse of absolute obedience, that doesn't matter."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然我们已经不再是主人与奴隶，\n但那种事情根本无关紧要。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然我們已經不再是主人與奴隸，\n但那種事情根本無關緊要。"
+    }
+  },
+  {
+    "id": "0046_00110",
+    "ja": {
+      "name": null,
+      "text": "絶対服従の呪いではなく、\n別の……確かな繋がりがあれば、\n以前と変わりなく暮らせるだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "Even without the curse, there's still a bond that links the three of us, allowing us to continue the life we once shared."
+    },
+    "cn": {
+      "name": null,
+      "text": "就算没有绝对服从的诅咒，\n只要存在某种……不一样的联系，\n我们就可以像过去那样生活。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就算沒有絕對服從的詛咒，\n只要存在某種……不一樣的羈絆，\n我們就可以像過去那樣生活。"
+    }
+  },
+  {
+    "id": "0046_00111",
+    "ja": {
+      "name": null,
+      "text": "俺は三人で幸せに暮らす日々を想像しながら、\n強く、強く、アリーを抱きしめるのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Wrapping my arms around Allie in a tight embrace, I imagine the three of us living together, happily ever after."
+    },
+    "cn": {
+      "name": null,
+      "text": "我一边对三个人的幸福未来心驰神往，\n一边紧紧地，紧紧地拥抱着艾丽。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我一邊對三個人的幸福未來心馳神往，\n一邊緊緊地，緊緊地擁抱著艾麗。"
+    }
+  }
+]

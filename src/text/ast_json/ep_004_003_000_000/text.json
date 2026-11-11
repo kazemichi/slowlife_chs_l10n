@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "0047_00001",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「お帰りなさいませ、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Welcome home, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「欢迎回来，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「歡迎回來，主人。」"
+    }
+  },
+  {
+    "id": "0047_00002",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……え？\nファルナ……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Huh...? Farna?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……诶？\n法尔娜……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……欸？\n法爾娜……？」"
+    }
+  },
+  {
+    "id": "0047_00003",
+    "ja": {
+      "name": null,
+      "text": "小屋の中に一歩だけ踏み入り、\n俺はそのまま硬直してしまった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I take one step inside the cabin and immediately freeze."
+    },
+    "cn": {
+      "name": null,
+      "text": "刚刚踏入小屋一步，我立刻愣在了原地。"
+    },
+    "tw": {
+      "name": null,
+      "text": "剛剛踏入小屋一步，我立刻愣在了原地。"
+    }
+  },
+  {
+    "id": "0047_00004",
+    "ja": {
+      "name": null,
+      "text": "そこには見慣れた……されど、\nもう会うこともなかったはずの女性の姿。"
+    },
+    "en": {
+      "name": null,
+      "text": "I see someone who's familiar to me... but also, someone I thought I'd never see again."
+    },
+    "cn": {
+      "name": null,
+      "text": "眼前站着一位十分眼熟……\n却本应再也无法相见的女性。"
+    },
+    "tw": {
+      "name": null,
+      "text": "眼前站著一位十分眼熟……\n卻本應再也無法相見的女性。"
+    }
+  },
+  {
+    "id": "0047_00005",
+    "ja": {
+      "name": null,
+      "text": "思わず、懐かしさや嬉しさが胸に込み上げてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm overcome by a combination of nostalgia and joy."
+    },
+    "cn": {
+      "name": null,
+      "text": "感怀与欣喜，情不自禁地涌上了胸膛。"
+    },
+    "tw": {
+      "name": null,
+      "text": "感懷與欣喜，情不自禁地湧上了胸膛。"
+    }
+  },
+  {
+    "id": "0047_00006",
+    "ja": {
+      "name": null,
+      "text": "小屋の外にいるときから、\n中に誰かがいる気配は感じていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I had felt someone's presence as soon as I reached the clearing around the cabin."
+    },
+    "cn": {
+      "name": null,
+      "text": "还在小屋外面时，就已经发觉室内存在人迹。"
+    },
+    "tw": {
+      "name": null,
+      "text": "還在小屋外面時，就已經發覺室內存在人跡。"
+    }
+  },
+  {
+    "id": "0047_00007",
+    "ja": {
+      "name": null,
+      "text": "小屋の前が不自然なまでに整えられてたのだから、\nそれも当然だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "How could I not, considering how unnaturally tidy everything was?"
+    },
+    "cn": {
+      "name": null,
+      "text": "小屋周围整洁到了不正常的地步，\n所以会这样判断也是理所当然。"
+    },
+    "tw": {
+      "name": null,
+      "text": "小屋周圍整潔到了不正常的地步，\n所以會這樣判斷也是理所當然。"
+    }
+  },
+  {
+    "id": "0047_00008",
+    "ja": {
+      "name": null,
+      "text": "だが、それも森で遭難した人間が避難してきた……\nくらいの認識だったのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "There was a chance it was because someone lost in the woods took temporary refuge here..."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，我本以为是有人在森林里遇难，\n于是躲在里面避难而已。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，我本以為是有人在森林裡遇難，\n於是躲在裡面避難而已。"
+    }
+  },
+  {
+    "id": "0047_00009",
+    "ja": {
+      "name": null,
+      "text": "まったく予想もしていなかったファルナの姿に、\n俺はぽかんとして棒立ちになる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Yet I find myself frozen in place, never imagining that someone might be Farna."
+    },
+    "cn": {
+      "name": null,
+      "text": "结果看到出乎意料地出现在面前的法尔娜，\n我不禁僵在了原地。"
+    },
+    "tw": {
+      "name": null,
+      "text": "結果看到出乎意料地出現在面前的法爾娜，\n我不禁僵在了原地。"
+    }
+  },
+  {
+    "id": "0047_00010",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ふふっ、ご主人様ってば、\n変な顔をしてどうしたのですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hehe, come on, Master... Why are you looking at me like you saw a ghost?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呵呵，主人真是的，\n干嘛摆出这么一副奇怪的表情？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呵呵，主人真是的，\n怎麼擺出這樣一副奇怪的表情？」"
+    }
+  },
+  {
+    "id": "0047_00011",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「もっと喜んでくれると思っていたのですけれども……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I was hoping you'd be happier...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「还以为您见到我，会更开心一点呢……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「還以為您見到我，會更開心一點呢……」"
+    }
+  },
+  {
+    "id": "0047_00012",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「い、いや……ファルナ、だよな？\n別人が化けてるわけじゃないよな？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"W-Wait... Farna? You're not someone else disguised as you?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「不、不……是法尔娜，没错吧？\n该不会是别人假扮的吧？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「不、不……是法爾娜，沒錯吧？\n該不會是別人假扮的吧？」"
+    }
+  },
+  {
+    "id": "0047_00013",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「もちろんです。\n何でしたら、触って確かめてみますか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"It's really me. Do you want me to touch me and see for yourself?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「那当然了，\n不信的话，就亲手来确认一下吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「那當然了，\n不信的話，就親手來確認一下吧？」"
+    }
+  },
+  {
+    "id": "0047_00014",
+    "ja": {
+      "name": null,
+      "text": "にっこりと微笑みながら、ファルナは立ち尽くす俺の下へと近づいて来た。"
+    },
+    "en": {
+      "name": null,
+      "text": "With a mischievous grin, Farna approaches me as I stand there in shock."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，法尔娜一脸微笑地走到了我的身边。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，法爾娜一臉微笑地走到了我的身邊。"
+    }
+  },
+  {
+    "id": "0047_00015",
+    "ja": {
+      "name": null,
+      "text": "俺の手を取ると、それを自分へと触れさせてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "I take her hand in mine before placing it on my body."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后抓起我的手，挪到了自己的身上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後抓起我的手，挪到了自己的身上。"
+    }
+  },
+  {
+    "id": "0047_00016",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！」"
+    }
+  },
+  {
+    "id": "0047_00017",
+    "ja": {
+      "name": null,
+      "text": "懐かしさを感じるファルナの感触。"
+    },
+    "en": {
+      "name": null,
+      "text": "She feels exactly like I remember."
+    },
+    "cn": {
+      "name": null,
+      "text": "从掌心传来的，是令人怀念的感触。"
+    },
+    "tw": {
+      "name": null,
+      "text": "從掌心傳來的，是令人懷念的感觸。"
+    }
+  },
+  {
+    "id": "0047_00018",
+    "ja": {
+      "name": null,
+      "text": "触っただけで人物鑑定ができるわけではないし、\nただの錯覚かもしれない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though just touching someone isn't enough to prove their identity. It could still be an illusion."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然仅凭触摸根本无法鉴别真身，\n所以有可能只是错觉。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然僅憑觸摸根本無法鑑別真身，\n所以有可能只是錯覺。"
+    }
+  },
+  {
+    "id": "0047_00019",
+    "ja": {
+      "name": null,
+      "text": "だが確かに、\nそれはファルナ本人だと実感させるような、\n温もりがあった。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I know for a fact her warmth is the same that I remember sharing so many times before."
+    },
+    "cn": {
+      "name": null,
+      "text": "但这股温存，\n确实让我切实感受到，眼前正是法尔娜本人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但這股溫存，\n確實讓我切實感受到，眼前正是法爾娜本人。"
+    }
+  },
+  {
+    "id": "0047_00020",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「納得していただけましたか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Are you convinced yet?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「您可以接受了吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「您可以接受了嗎？」"
+    }
+  },
+  {
+    "id": "0047_00021",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ああ……本物のファルナだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Yes... It really is you.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「嗯……真的是法尔娜。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「嗯……真的是法爾娜。」"
+    }
+  },
+  {
+    "id": "0047_00022",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「きゃっ！？\nふふっ、もう……ご主人様ったら」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Eep?! Hehe! Sheesh... What will I do with you?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呀啊！？\n呵呵……主人您可真是的。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呀啊！？\n呵呵……主人您可真是的。」"
+    }
+  },
+  {
+    "id": "0047_00023",
+    "ja": {
+      "name": null,
+      "text": "伝わってくるファルナの肉感的な感触から、\nじわじわと実感が湧いてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "As my hands move over her body, the reality of the situation gradually begins to sink in."
+    },
+    "cn": {
+      "name": null,
+      "text": "那法尔娜特有的柔软感觉，\n令我逐渐接受了眼前的现实。"
+    },
+    "tw": {
+      "name": null,
+      "text": "那法爾娜特有的柔軟感覺，\n令我逐漸接受了眼前的現實。"
+    }
+  },
+  {
+    "id": "0047_00024",
+    "ja": {
+      "name": null,
+      "text": "俺は嬉しさのあまり、その腰に腕を回して抱き寄せる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Overjoyed, I wrap my arms around her waist, hugging her close."
+    },
+    "cn": {
+      "name": null,
+      "text": "于是，因为过于欢喜，\n我不禁立刻搂住了她的腰。"
+    },
+    "tw": {
+      "name": null,
+      "text": "於是，因為過於歡喜，\n我不禁立刻摟住了她的腰。"
+    }
+  },
+  {
+    "id": "0047_00025",
+    "ja": {
+      "name": null,
+      "text": "それだけで、\n懐かしい……ファルナの甘い香りが漂ってくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "And just like that, her sweet scent I've come to know so well tickles my nose pleasantly."
+    },
+    "cn": {
+      "name": null,
+      "text": "仅仅如此，周围就飘起了一股令人怀念的……\n法尔娜特有的芬芳。"
+    },
+    "tw": {
+      "name": null,
+      "text": "僅僅如此，周圍就飄起了一股令人懷念的……\n法爾娜特有的芬芳。"
+    }
+  },
+  {
+    "id": "0047_00026",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「だが……どうしてここに？\nなんで帰ってきたんだ……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"But... what are you doing here? Why did you return?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「但是……你怎么会在这里？\n为什么回来了……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「但是……妳怎麼會在這裡？\n為什麼回來了……？」"
+    }
+  },
+  {
+    "id": "0047_00027",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「実は……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Actually...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「其实……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「其實……」"
+    }
+  },
+  {
+    "id": "0047_00028",
+    "ja": {
+      "name": null,
+      "text": "俺の問いに、ファルナは幸せそうにはにかんだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her smile only grows brighter at my question."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了我的话，法尔娜露出了欣喜的微笑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了我的話，法爾娜露出了欣喜的微笑。"
+    }
+  },
+  {
+    "id": "0047_00029",
+    "ja": {
+      "name": null,
+      "text": "そして、そっと自分の下腹部へと手を添える。"
+    },
+    "en": {
+      "name": null,
+      "text": "And she places my hand gently against her belly."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，轻轻将手放在了自己的下腹部。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，輕輕將手放在了自己的下腹部。"
+    }
+  },
+  {
+    "id": "0047_00030",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「赤ちゃんを、授かりました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I'm pregnant.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为……我有了身孕。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為……我有了身孕。」"
+    }
+  },
+  {
+    "id": "0047_00031",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……っ！？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...?!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……！？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……！？」"
+    }
+  },
+  {
+    "id": "0047_00032",
+    "ja": {
+      "name": null,
+      "text": "赤ちゃんを、授かった……？"
+    },
+    "en": {
+      "name": null,
+      "text": "She's pregnant?"
+    },
+    "cn": {
+      "name": null,
+      "text": "有了、身孕……？"
+    },
+    "tw": {
+      "name": null,
+      "text": "有了、身孕……？"
+    }
+  },
+  {
+    "id": "0047_00033",
+    "ja": {
+      "name": null,
+      "text": "その衝撃的な言葉に、俺は息を飲んで硬直してしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm shocked speechless by her announcement, frozen in place."
+    },
+    "cn": {
+      "name": null,
+      "text": "这极具冲击性的话语，\n令我倒吸一口气，并僵住了全身。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這極具衝擊性的話語，\n令我倒吸一口氣，並僵住了全身。"
+    }
+  },
+  {
+    "id": "0047_00034",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「あの後、姫様や騎士たちと共に国王陛下が潜まれている　場所へ向かったのです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"After we said goodbye that day, the two knights led the princess and me to where her father was hiding.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「在那之后，公主殿下与骑士们一起\n去了国王陛下藏身的地方。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「在那之後，公主殿下與騎士們一起\n去了國王陛下藏身的地方。」"
+    }
+  },
+  {
+    "id": "0047_00035",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「場所がどこかは伏せますが、\nそこで反乱を起こしている勢力と合流いたしました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I can't say where that was exactly, but that's where we joined forces with the rest of the rebellion.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「虽然无法透露具体位置，\n总之，所有反叛势力都聚集在那里。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「雖然無法透露具體位置，\n總之，所有反叛勢力都聚集在那裡。」"
+    }
+  },
+  {
+    "id": "0047_00036",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私は戦うことはできませんから、\n後方支援に徹していたのですけど……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Since I couldn't fight, I was relegated to support duty...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「我无法直接参战，所以一直在从事后方支援……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「我無法直接參戰，所以一直在從事後方支援……」"
+    }
+  },
+  {
+    "id": "0047_00037",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「そこで、妊娠が判明したのです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"And that's when I discovered I was pregnant.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「就在那时，发现了怀孕的事实。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「就在那時，發現了懷孕的事實。」"
+    }
+  },
+  {
+    "id": "0047_00038",
+    "ja": {
+      "name": null,
+      "text": "いったん言葉を切り、\nファルナは上目遣いになって俺を見つめてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "At that, she suddenly stops talking, looking up into my face for a reaction."
+    },
+    "cn": {
+      "name": null,
+      "text": "说到这里，法尔娜暂停下来，\n并抬起目光注视着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說到這裡，法爾娜暫停下來，\n並抬起目光注視著我。"
+    }
+  },
+  {
+    "id": "0047_00039",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「妊娠、か……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You're pregnant?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「怀孕、么……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「懷孕、嗎……」"
+    }
+  },
+  {
+    "id": "0047_00040",
+    "ja": {
+      "name": null,
+      "text": "何故だろう？\nファルナの言葉が上手く頭に入ってこない。"
+    },
+    "en": {
+      "name": null,
+      "text": "How? I can't seem to make sense of the words coming from her mouth."
+    },
+    "cn": {
+      "name": null,
+      "text": "不知为何，法尔娜的话语令我有些难以消化。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不知為何，法爾娜的話語令我有些難以消化。"
+    }
+  },
+  {
+    "id": "0047_00041",
+    "ja": {
+      "name": null,
+      "text": "だが、じわじわと熱いものが込み上げてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "But I can feel a warmth gradually filling my body."
+    },
+    "cn": {
+      "name": null,
+      "text": "唯独某种炙热的感觉，正逐渐涌上心头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "唯獨某種炙熱的感覺，正逐漸湧上心頭。"
+    }
+  },
+  {
+    "id": "0047_00042",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「最初は、体調を崩しただけだと思っていたんです。\nですけど、この手のことに詳しい者がおりまして……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"At first, I thought I was just sick, but then I conferred with someone who is well versed in these matters...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「起初，还以为只是身体抱恙而已。\n但是，在请熟悉这方面知识的人检查之后……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「起初，還以為只是身體抱恙而已。\n但是，在請熟悉這方面知識的人檢查之後……」"
+    }
+  },
+  {
+    "id": "0047_00043",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ふふっ、アリーはすごい喜びようだったのですよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hehe, Allie was over the moon when she heard.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呵呵，当时可把艾丽高兴坏了哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呵呵，當時的艾麗可是很開心的哦？」"
+    }
+  },
+  {
+    "id": "0047_00044",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリーが？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"She was?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「艾丽吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「艾麗嗎？」"
+    }
+  },
+  {
+    "id": "0047_00045",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい。\n我がことのように、もう大げさなくらいでした」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yes. So much so that it almost seemed she herself was the pregnant one.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是啊，\n就好像自己的事情一样，开心到了夸张的地步。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是啊，\n就好像自己的事情一樣，開心到了誇張的地步。」"
+    }
+  },
+  {
+    "id": "0047_00046",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「一部からは、\n奴隷時代に無理強いされたと言う人もいましたけど…」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Some people were saying how it was forced pregnancy from while I was a slave...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「虽然也有一部分人\n说我是在做奴隶时遭到了折辱……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「雖然也有一部分人\n說我是在做奴隸時有遭到折辱……」"
+    }
+  },
+  {
+    "id": "0047_00047",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「アリーは、\n私がご主人様を愛していることを知っていますから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But Allie knew the truth. She knows how much I adore you, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「可艾丽明白，我是真心爱着主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「可艾麗明白，我是真心愛著主人。」"
+    }
+  },
+  {
+    "id": "0047_00048",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そう、か……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I see...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是、吗……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是、嗎……」"
+    }
+  },
+  {
+    "id": "0047_00049",
+    "ja": {
+      "name": null,
+      "text": "ダメだ、こういうときは何て言えば良いのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "Fuck. What should I say at a time like this?"
+    },
+    "cn": {
+      "name": null,
+      "text": "不行，这种时候究竟该说什么才好？"
+    },
+    "tw": {
+      "name": null,
+      "text": "不行，這種時候究竟該說什麼才好？"
+    }
+  },
+  {
+    "id": "0047_00050",
+    "ja": {
+      "name": null,
+      "text": "頭が回らないせいでファルナに簡単な言葉しか返せない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Unable to think straight, I can only give simple answers."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为大脑完全无法运转，\n所以只能冒出一些只言片语。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為大腦完全無法運轉，\n所以只能冒出一些只言片語。"
+    }
+  },
+  {
+    "id": "0047_00051",
+    "ja": {
+      "name": null,
+      "text": "ファルナが妊娠して、赤ん坊を身籠もった……？"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna's pregnant. She's carrying my baby inside her..."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜怀了孕，肚子里有了孩子……？"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜懷了孕，肚子裡有了孩子……？"
+    }
+  },
+  {
+    "id": "0047_00052",
+    "ja": {
+      "name": null,
+      "text": "俺が、親になる……？"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm going to be... a father?"
+    },
+    "cn": {
+      "name": null,
+      "text": "我要……做父亲了吗……？"
+    },
+    "tw": {
+      "name": null,
+      "text": "我要……做父親了嗎……？"
+    }
+  },
+  {
+    "id": "0047_00053",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですけど、私は迷っていたんです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Still., I had no idea what to do.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「可是，我心中仍存有疑虑。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「可是，我心中仍存有疑慮。」"
+    }
+  },
+  {
+    "id": "0047_00054",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「妊娠は嬉しいことですけれども、\n両親や兄に代わって王家の為に働こうと\n決意していましたから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I was thrilled about the pregnancy, but I'd already made up my mind to continue serving the royal family in place of my own...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「怀孕固然是件喜事，\n但我已经决定代替父母与兄长，为王室效力……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「懷孕固然是件喜事，\n但我已經決定代替父母與兄長，為王室效力……」"
+    }
+  },
+  {
+    "id": "0047_00055",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですけど、アリーに言われてしまいました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Allie's the one who told me I should return.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是，艾丽却这样对我说──」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是，艾麗卻這樣對我說──」"
+    }
+  },
+  {
+    "id": "0047_00056",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「お腹の子の為にも、父親の元へ帰りなさい……って」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"She told me to reunite with the father, for the sake of my child.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「即使是为了腹中的孩子，也该回到父亲身边……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「即使是為了腹中的孩子，也該回到父親身邊……」"
+    }
+  },
+  {
+    "id": "0047_00057",
+    "ja": {
+      "name": null,
+      "text": "俺に頬を寄せるようにして、\nファルナはそっと体をもたれかけてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "She gently leans her body against mine, nuzzling her cheek against me."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，法尔娜依偎过来，将脸颊贴在了我身上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，法爾娜依偎過來，將臉頰貼在了我身上。"
+    }
+  },
+  {
+    "id": "0047_00058",
+    "ja": {
+      "name": null,
+      "text": "一人分の命の重さを増したファルナが倒れないよう、\n俺はとっさに強めに抱き留める。"
+    },
+    "en": {
+      "name": null,
+      "text": "I immediately grab her in my arms, holding her tight so she won't fall."
+    },
+    "cn": {
+      "name": null,
+      "text": "我连忙稳稳地抱住她，\n以免腹中增加了一份重量的法尔娜跌倒在地上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我連忙穩穩地抱住她，\n以免腹中增加了一份重量的法爾娜跌倒在地上。"
+    }
+  },
+  {
+    "id": "0047_00059",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「国王陛下もおっしゃっていました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"The king himself agreed this was a wise plan.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「国王陛下也对我有所嘱咐。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「國王陛下也對我有所囑咐。」"
+    }
+  },
+  {
+    "id": "0047_00060",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「両親も兄も亡くなった以上、\n当家では私が唯一の生き残りです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"With my parents and elder brother dead, I am the sole survivor of my family's bloodline.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「他说，失去父母与兄长的我，\n如今乃是家中唯一的幸存者。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「他說，失去父母與兄長的我，\n如今乃是家中唯一的倖存者。」"
+    }
+  },
+  {
+    "id": "0047_00061",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「そこに、新たな跡取りが産まれるかもしれないのだから\n無理をしてはいけない……と」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"He told me it was imperative that I keep myself safe until the new heir can be born...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「既然新的继承人有可能即将诞生，\n就不要太勉强自己……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「既然新的繼承人有可能即將誕生，\n就不要太勉強自己……」"
+    }
+  },
+  {
+    "id": "0047_00062",
+    "ja": {
+      "name": null,
+      "text": "そうだ……ファルナは身内が誰もいない、\n天涯孤独の身になってしまっているのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "That's right... Without any immediate family left, Farna is alone in the world."
+    },
+    "cn": {
+      "name": null,
+      "text": "没错……如今的法尔娜\n已经失去了所有的家人，举目无亲。"
+    },
+    "tw": {
+      "name": null,
+      "text": "沒錯……如今的法爾娜\n已經失去了所有的家人，舉目無親。"
+    }
+  },
+  {
+    "id": "0047_00063",
+    "ja": {
+      "name": null,
+      "text": "お腹の子は、唯一の血縁者ということになる。"
+    },
+    "en": {
+      "name": null,
+      "text": "The child she carries is her only relative by blood."
+    },
+    "cn": {
+      "name": null,
+      "text": "腹中的孩子，将会是她唯一的血亲。"
+    },
+    "tw": {
+      "name": null,
+      "text": "腹中的孩子，將會是她唯一的血親。"
+    }
+  },
+  {
+    "id": "0047_00064",
+    "ja": {
+      "name": null,
+      "text": "貴族は何より血を重んじるため、\n身重のファルナを大事にするのも当然だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "As nobility values bloodline over anything else, it would make sense they would do anything to keep her baby safe."
+    },
+    "cn": {
+      "name": null,
+      "text": "贵族重视血统超过一切，\n所以当然会对怀孕的法尔娜格外关照。"
+    },
+    "tw": {
+      "name": null,
+      "text": "貴族重視血統超過一切，\n所以當然會對懷孕的法爾娜格外關照。"
+    }
+  },
+  {
+    "id": "0047_00065",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それでも、私はアリーや王家の方々の為に残ろうと\n思っていました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yet even after hearing all that, I still wanted to stay with Allie and the royal family.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「即使如此，为了艾丽与王室成员们，\n我原本还是打算留下。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「即使如此，為了艾麗與王室成員們，\n我原本還是打算留下。」"
+    }
+  },
+  {
+    "id": "0047_00066",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですけど……また、アリーが私に言ったのです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But then, Allie told me something else...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是……艾丽又继续对我说──」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是……艾麗又繼續對我說──」"
+    }
+  },
+  {
+    "id": "0047_00067",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「産まれてくる子のためにも、\n両親は揃っていた方が良い。\n自分の姉には、是非とも幸せになって欲しい……と」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"She said I should reunite with the father for the sake of my unborn child. And she said she wanted me, her sister, to be happy...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「孩子诞生时，\n父母都在身边才是最好的。\n而且，她也希望自己的姐姐能够幸福……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「孩子誕生時，\n父母都在身邊才是最好的。\n而且，她也希望自己的姐姐能夠幸福……」"
+    }
+  },
+  {
+    "id": "0047_00068",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「アリーがそんなことを言ったのか……？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"She really said that to you?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「艾丽说了那样的话……？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「艾麗說了那樣的話……？」"
+    }
+  },
+  {
+    "id": "0047_00069",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい。\n侍女でしかない私のことを、ご自身の姉だって……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yes. I'm nothing more than her handmaid, and yet she called me her sister...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是的。\n她将身为一介侍女的我，称为姐姐……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是的。\n她將身為一介侍女的我，稱為姐姐……」"
+    }
+  },
+  {
+    "id": "0047_00070",
+    "ja": {
+      "name": null,
+      "text": "嬉しそうな、幸せそうなファルナの笑顔だ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She smiles happily at me as she speaks."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，法尔娜露出了欢喜又幸福的笑容。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，法爾娜露出了歡喜又幸福的笑容。"
+    }
+  },
+  {
+    "id": "0047_00071",
+    "ja": {
+      "name": null,
+      "text": "だが、俺にはそれほど驚きはない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Although it's not that surprising to me."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，我对此并不感到惊讶。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，我對此並不感到驚訝。"
+    }
+  },
+  {
+    "id": "0047_00072",
+    "ja": {
+      "name": null,
+      "text": "二人と共に暮らしている時に、\n常々仲の良い姉妹のようだ……と思っていたのだから。"
+    },
+    "en": {
+      "name": null,
+      "text": "While the two lived here with me, they always acted so close... like sisters."
+    },
+    "cn": {
+      "name": null,
+      "text": "因为从与她们一起生活时，\n就经常觉得她们就像亲姐妹一样关系和睦。"
+    },
+    "tw": {
+      "name": null,
+      "text": "因為從與她們一起生活時，\n就經常覺得她們就像親姐妹一樣關係和睦。"
+    }
+  },
+  {
+    "id": "0047_00073",
+    "ja": {
+      "name": null,
+      "text": "しかし……そうか。\n妹にそのように言われて、ファルナは折れたのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "It makes sense, though. After being told something like that from her sister, she easily folded."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是……原来如此，\n因为妹妹那样说，法尔娜才被说服了吗。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是……原來如此，\n因為妹妹那樣說，法爾娜才有被說服嗎。"
+    }
+  },
+  {
+    "id": "0047_00074",
+    "ja": {
+      "name": null,
+      "text": "そしてアリーの下を離れ、\n俺のところへ一人でやって来た……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Then she left Allie's side and came here alone."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后就离开艾丽，\n独自来到了我身边……"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後就離開艾麗，\n獨自來到了我身邊……"
+    }
+  },
+  {
+    "id": "0047_00075",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そうだったのか……。\nアリーらしいと言えば、アリーらしいな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I see... It sounds very much like her to say something like that.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是这样啊……\n既然是艾丽，会这么说倒也不奇怪。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是這樣啊……\n既然是艾麗，會這麼說倒也不奇怪。」"
+    }
+  },
+  {
+    "id": "0047_00076",
+    "ja": {
+      "name": null,
+      "text": "王女と侍女という身分の差はあっても、\nアリーはとてもファルナを大事に思っていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Despite Allie being a princess and Farna being a handmaid, I know how much Allie cares for Farna."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然公主与侍女存在身份差异，\n但艾丽对法尔娜十分爱惜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然公主與侍女存在身份差異，\n但艾麗對法爾娜十分愛惜。"
+    }
+  },
+  {
+    "id": "0047_00077",
+    "ja": {
+      "name": null,
+      "text": "そして、ファルナもアリーを大事に思っていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "And how much Farna cares for her."
+    },
+    "cn": {
+      "name": null,
+      "text": "同时，法尔娜也一样珍视着艾丽。"
+    },
+    "tw": {
+      "name": null,
+      "text": "同時，法爾娜也一樣珍視著艾麗。"
+    }
+  },
+  {
+    "id": "0047_00078",
+    "ja": {
+      "name": null,
+      "text": "その二人の絆を垣間見えた気がして、\n俺はつい笑みを浮かべてしまう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can't help but smile, having witnessed the strength of their bond many times before."
+    },
+    "cn": {
+      "name": null,
+      "text": "此事令人得以窥见两人之间的深厚情谊，\n使我也不禁与她一同笑了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "此事令人得以窺見兩人之間的深厚情誼，\n使我也不禁與她一同笑了起來。"
+    }
+  },
+  {
+    "id": "0047_00079",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「それに、俺が父親になるのか……。\n不思議な気分だ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I guess this means I'm going to be a dad, huh? It feels weird, but incredible.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「还有，我要当爸爸了吗……\n感觉真是不可思议。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「還有，我要當爸爸了嗎……\n感覺真是不可思議。」"
+    }
+  },
+  {
+    "id": "0047_00080",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい、ご主人様。\nふふっ、本当に不思議な感じですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"That's right. Hehe, it really is both of those things, isn't it?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是啊，主人。\n呵呵……真是一种奇妙的感觉啊。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是啊，主人。\n呵呵……真是一種奇妙的感覺啊。」"
+    }
+  },
+  {
+    "id": "0047_00081",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「最初は、ただの奴隷と主人という関係でしかなかった\nのですけど……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"In the beginning, we were nothing more than master and slave...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「明明最初，我们仅仅是奴隶与主人的关系……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「明明最初，我們僅僅是奴隸與主人的關係……」"
+    }
+  },
+  {
+    "id": "0047_00082",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そうだな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Yeah...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是啊……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是啊……」"
+    }
+  },
+  {
+    "id": "0047_00083",
+    "ja": {
+      "name": null,
+      "text": "ファルナを奴隷として購入したときには、\nまさか自分が親になるとは思っていなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "When I originally bought Farna, I'd never have imagined I'd someday end up fathering a child with her."
+    },
+    "cn": {
+      "name": null,
+      "text": "在奴隶商店买下法尔娜的时候，\n根本没想到自己会因此成为父亲。"
+    },
+    "tw": {
+      "name": null,
+      "text": "在奴隸商店買下法爾娜的時候，\n根本沒想到自己會因此成為父親。"
+    }
+  },
+  {
+    "id": "0047_00084",
+    "ja": {
+      "name": null,
+      "text": "……ようやく、実感が湧いてきたような気がする。"
+    },
+    "en": {
+      "name": null,
+      "text": "The reality of the situation is starting to dawn on me..."
+    },
+    "cn": {
+      "name": null,
+      "text": "……直到现在，才终于产生了些许真实感。"
+    },
+    "tw": {
+      "name": null,
+      "text": "……直到現在，才終於產生了些許真實感。"
+    }
+  },
+  {
+    "id": "0047_00085",
+    "ja": {
+      "name": null,
+      "text": "故郷の村で両親を亡くしてから、\n俺には家族は誰もいなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Ever since I lost my parents, I'd had no family."
+    },
+    "cn": {
+      "name": null,
+      "text": "自从在故乡的村庄失去双亲，我就始终没有家人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "自從在故鄉的村莊失去雙親，我就始終沒有家人。"
+    }
+  },
+  {
+    "id": "0047_00086",
+    "ja": {
+      "name": null,
+      "text": "だが、ファルナが俺の子を身籠もっている……。"
+    },
+    "en": {
+      "name": null,
+      "text": "But now Farna is carrying my child..."
+    },
+    "cn": {
+      "name": null,
+      "text": "可如今，法尔娜正怀着我的孩子……"
+    },
+    "tw": {
+      "name": null,
+      "text": "可如今，法爾娜正懷著我的孩子……"
+    }
+  },
+  {
+    "id": "0047_00087",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……アリーは、\n今も祖国解放のために戦っているのか？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Is Allie still fighting for the liberation of her homeland?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……艾丽还在为解放祖国而战吗？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……艾麗還在為解放祖國而戰嗎？」"
+    }
+  },
+  {
+    "id": "0047_00088",
+    "ja": {
+      "name": null,
+      "text": "後はアリーもいてくれれば……。\nその思いから、俺はそう尋ねていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I ask, while thinking wistfully about how nice it would be if Allie was here, too."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果艾丽也在的话──\n想到这里，我不禁如此问道。"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果艾麗也在的話──\n想到這裡，我不禁如此問道。"
+    }
+  },
+  {
+    "id": "0047_00089",
+    "ja": {
+      "name": null,
+      "text": "そんな俺へ、ファルナは小さく頷き返してくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna gives a small nod in my direction."
+    },
+    "cn": {
+      "name": null,
+      "text": "对此，法尔娜微微点了点头。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對此，法爾娜微微點了點頭。"
+    }
+  },
+  {
+    "id": "0047_00090",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい……。\nアリーは反乱軍の旗印として先頭に立って戦って\nおられますから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"She is... Allie is the figurehead for the rebellion, and as such, is fighting on the front lines.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「是的……\n艾丽身为反叛军的领军人物，\n始终奋战在第一线……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「是的……\n艾麗身為反叛軍的領軍人物，\n始終奮戰在第一線……」"
+    }
+  },
+  {
+    "id": "0047_00091",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですけど、アリーはこうも言っていました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But she told me this...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是，艾丽之前也说过。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是，艾麗之前也說過。」"
+    }
+  },
+  {
+    "id": "0047_00092",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「王族としての役目さえ果たせば、\nいずれはあの森へ帰る……と」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Once she fulfills her duties as crown princess, she'll come back to the forest...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「只要完成了身为王室一员的职责，\n就会回到那座森林……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「只要完成了身為王室一員的職責，\n就會回到那座森林……」"
+    }
+  },
+  {
+    "id": "0047_00093",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですので、そう遠くないうちにアリーも、来てくれるの　ではないでしょうか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I'm sure she will be here in the not-too-distant future.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「所以，大概再过一阵子，\n艾丽也会来与我们汇合吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「所以，大概再過一陣子，\n艾麗也會來與我們匯合吧？」"
+    }
+  },
+  {
+    "id": "0047_00094",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私とご主人様の子のことも、\nとても気にしていましたから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"She's already grown quite fond of our baby.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「毕竟，她也很惦记我与主人的孩子嘛。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「畢竟，她也很惦記我與主人的孩子嘛。」"
+    }
+  },
+  {
+    "id": "0047_00095",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「そうだな。\n一日でも早く戻って来てくれると良いな……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I see. I hope she comes back as soon as possible...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「是啊，但愿她能早一天回到这里……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「是啊，但願她能早一天回到這裡……」"
+    }
+  },
+  {
+    "id": "0047_00096",
+    "ja": {
+      "name": null,
+      "text": "反乱は、そう簡単には成功しないだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I doubt the rebellion will succeed that easily..."
+    },
+    "cn": {
+      "name": null,
+      "text": "反叛不可能轻易获得成功。"
+    },
+    "tw": {
+      "name": null,
+      "text": "反叛不可能輕易獲得成功。"
+    }
+  },
+  {
+    "id": "0047_00097",
+    "ja": {
+      "name": null,
+      "text": "噂によると今はかなり勢いに乗って押しているようだが、それがいつまで続くかはわからない。"
+    },
+    "en": {
+      "name": null,
+      "text": "If the rumors are to be believed, they are making incredible headway, but I don't know how long that will last."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然根据传闻，他们目前占据着很大的优势，\n但不知这股势头能够持续多久。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然根據傳聞，他們目前佔據著很大的優勢，\n但不知這股勢頭能夠持續多久。"
+    }
+  },
+  {
+    "id": "0047_00098",
+    "ja": {
+      "name": null,
+      "text": "まぁ、この国も戦費が足りずに継戦できない可能性もあるが……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though the king might not be able to continue his assault for much longer without necessary funds..."
+    },
+    "cn": {
+      "name": null,
+      "text": "不过，这个国家也正缺军费，\n说不定过一阵子就打不下去了……"
+    },
+    "tw": {
+      "name": null,
+      "text": "不過，這個國家也正缺軍費，\n說不定過一陣子就打不下去了……"
+    }
+  },
+  {
+    "id": "0047_00099",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ところで、\nご主人様は冒険者としての依頼は良いのですか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"By the way, how is your job as an adventurer going?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「话说主人，\n冒险者的工作不要紧吗？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「話說主人，\n冒險者的工作不要緊嗎？」"
+    }
+  },
+  {
+    "id": "0047_00100",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ここへは、まだ戻って来ないと思っていたの\nですけれど……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I wasn't expecting you back here for quite some time yet...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「我还以为短期之内，您不会回到这里……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「我還以為短期之內，您不會回到這裡……」"
+    }
+  },
+  {
+    "id": "0047_00101",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私もここで数日休んでから、\n街へご主人様を捜しに行くつもりだったのです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I was planning on resting here for a few days before heading into town to try and find you.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「所以原本打算在这里休息几天，\n然后就去城里寻找主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「所以原本打算在這裡休息幾天，\n然後就去城裡尋找主人。」"
+    }
+  },
+  {
+    "id": "0047_00102",
+    "ja": {
+      "name": null,
+      "text": "どうやら、\n俺がこのタイミングで小屋へ戻ってきたことは、\nファルナにも予想外だったようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "It sounds like my sudden arrival at the cabin was a complete surprise to her."
+    },
+    "cn": {
+      "name": null,
+      "text": "看来，法尔娜也没料到我会在此时返回小屋。"
+    },
+    "tw": {
+      "name": null,
+      "text": "看來，法爾娜也沒料到我會在此時返回小屋。"
+    }
+  },
+  {
+    "id": "0047_00103",
+    "ja": {
+      "name": null,
+      "text": "実際に、俺もまだ戻ってくるつもりはなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "Honestly, I hadn't originally planned on returning yet."
+    },
+    "cn": {
+      "name": null,
+      "text": "事实上，我原本也没打算这么早回来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "事實上，我原本也沒打算這麼早回來。"
+    }
+  },
+  {
+    "id": "0047_00104",
+    "ja": {
+      "name": null,
+      "text": "やむにやまれぬ事情がなければ、\nまだ街に残って冒険者を続けていただろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "If unavoidable circumstances hadn't forced my hand, I'd still be working as an adventurer in town."
+    },
+    "cn": {
+      "name": null,
+      "text": "若不是发生了无可奈何的事，\n我应该会留在城里，继续当冒险者吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "若不是發生了無可奈何的事，\n我應該會留在城裡，繼續當冒險者吧。"
+    }
+  },
+  {
+    "id": "0047_00105",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「実は、冒険者は引退してきたんだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Actually, I retired.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「其实我已经引退，不再是冒险者了。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「其實我已經引退，不再是冒險者了。」"
+    }
+  },
+  {
+    "id": "0047_00106",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「引退、ですか？\nどうして急に……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You retired? That seems sudden...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「引退……？\n怎么如此突然……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「引退……？\n怎麼如此突然……」"
+    }
+  },
+  {
+    "id": "0047_00107",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「以前も話したと思うが、\n偉い人からの指名依頼が来てな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"I mentioned it before, but remember how someone important was looking for me?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「之前曾提到过，\n有权高位重之人对我提出了指名委托。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「之前曾提到過，\n有權高位重之人有對我提出指名委託。」"
+    }
+  },
+  {
+    "id": "0047_00108",
+    "ja": {
+      "name": null,
+      "text": "俺はファルナへと、冒険者ギルドであったことを\n掻い摘まんで説明する。"
+    },
+    "en": {
+      "name": null,
+      "text": "I briefly explain everything that took place at the guildhall."
+    },
+    "cn": {
+      "name": null,
+      "text": "我简明扼要地将发生在冒险者协会的事\n向法尔娜解释了一番。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我簡明扼要地將發生在冒險者協會的事\n向法爾娜解釋了一番。"
+    }
+  },
+  {
+    "id": "0047_00109",
+    "ja": {
+      "name": null,
+      "text": "その話を聞いて、ファルナは小さく息を吐いた。"
+    },
+    "en": {
+      "name": null,
+      "text": "After hearing my story, Farna heaves a sigh."
+    },
+    "cn": {
+      "name": null,
+      "text": "听完之后，法尔娜轻轻叹了一口气。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽完之後，法爾娜輕輕嘆了一口氣。"
+    }
+  },
+  {
+    "id": "0047_00110",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様は、\nアリーや私のことを想って断ってくださったのですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You turned the job down because you were thinking of Allie and me?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人是为了艾丽与我着想，才拒绝了对方吧。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人是為了艾麗與我著想，才拒絕了對方吧。」"
+    }
+  },
+  {
+    "id": "0047_00111",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ありがとうございます。\n少し……残してきた故国の皆への罪悪感が薄れました」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I appreciate it. It makes me feel slightly less guilty about leaving everyone behind to come here.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「谢谢您，这样一来……\n也减轻了我对故国同胞们的罪恶感。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「謝謝您，這樣一來……\n也減輕了我對故國同胞們的罪惡感。」"
+    }
+  },
+  {
+    "id": "0047_00112",
+    "ja": {
+      "name": null,
+      "text": "ドラゴンの巣の財宝を当てにするほど、\nこの国は金に困っているのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Without the vast treasures from the dragon's lair, the kingdom won't have enough money to keep fighting."
+    },
+    "cn": {
+      "name": null,
+      "text": "这个国家的财政，\n已经窘迫到不得不指望龙穴财宝的地步。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這個國家的財政，\n已經窘迫到不得不指望龍穴財寶的地步。"
+    }
+  },
+  {
+    "id": "0047_00113",
+    "ja": {
+      "name": null,
+      "text": "それは、反乱を起こしているアリーたちには朗報だろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "That's great news for Allie's rebellion forces."
+    },
+    "cn": {
+      "name": null,
+      "text": "对掀起反叛的艾丽一方来说，这是个好消息。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對掀起反叛的艾麗一方來說，這是個好消息。"
+    }
+  },
+  {
+    "id": "0047_00114",
+    "ja": {
+      "name": null,
+      "text": "戦費が賄えなければ、反乱を起こしたアリーたちを\n鎮圧する軍も出せないのだから。"
+    },
+    "en": {
+      "name": null,
+      "text": "Without the necessary funds, they won't be able to send an army out to crush the rebels fighting against them."
+    },
+    "cn": {
+      "name": null,
+      "text": "如果军费周转不顺，\n就无法出兵镇压艾丽一方的反叛军。"
+    },
+    "tw": {
+      "name": null,
+      "text": "如果軍費周轉不順，\n就無法出兵鎮壓艾麗一方的反叛軍。"
+    }
+  },
+  {
+    "id": "0047_00115",
+    "ja": {
+      "name": null,
+      "text": "それだけ、残してきた故国の人たちやアリーの安全が\n増すということだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "That alone guarantees the continued safety of Allie and the rest of her homeland's survivors."
+    },
+    "cn": {
+      "name": null,
+      "text": "如此一来，留下来的同胞与艾丽也会更加安全。"
+    },
+    "tw": {
+      "name": null,
+      "text": "如此一來，留下來的同胞與艾麗也會更加安全。"
+    }
+  },
+  {
+    "id": "0047_00116",
+    "ja": {
+      "name": null,
+      "text": "一人だけ故国の皆から離れたファルナにとって、\n重荷を下ろしたような気分に違いない。"
+    },
+    "en": {
+      "name": null,
+      "text": "For Farna, who'd lost her entire family and left Allie behind, hearing that must have felt like a great weight being lifted from her shoulders."
+    },
+    "cn": {
+      "name": null,
+      "text": "对独自离开故国的法尔娜而言，\n听到这个消息，一定有种如释重负的感觉吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對獨自離開故國的法爾娜而言，\n聽到這個消息，一定有種如釋重負的感覺吧。"
+    }
+  },
+  {
+    "id": "0047_00117",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ところで、ファルナ。\nいつまで俺をご主人様と呼ぶんだ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"By the way, Farna... How long do you plan on calling me 'Master'?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「话说回来，法尔娜，\n你打算称我主人到什么时候？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「話說回來，法爾娜，\n妳打算稱我主人到什麼時候？」"
+    }
+  },
+  {
+    "id": "0047_00118",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「もう俺の奴隷じゃないんだから、\nそう呼ぶ必要もないと思うんだが……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You're not a slave any longer. You don't need to call me that anymore...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「你已经不是我的奴隶了，\n没必要再这样叫了吧……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「妳已經不是我的奴隸了，\n沒必要再這樣叫了吧……」"
+    }
+  },
+  {
+    "id": "0047_00119",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「そうですね……。\nずっとこう呼んでいたので、\nクセになっているみたいです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I guess you're right... I've always called you that, so I guess I continue to do so out of habit.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「也是啊……\n因为一直这样称呼，所以都习惯了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「也是啊……\n因為一直這樣稱呼，所以都習慣了。」"
+    }
+  },
+  {
+    "id": "0047_00120",
+    "ja": {
+      "name": null,
+      "text": "だが、もう俺たちは奴隷と主人という間柄ではない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'm not her master anymore, and she's not my slave."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，我们已经不再是主仆关系。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，我們已經不再是主僕關係。"
+    }
+  },
+  {
+    "id": "0047_00121",
+    "ja": {
+      "name": null,
+      "text": "俺も呼ばれ慣れてしまったが、\n少し違和感があってくすぐったい。"
+    },
+    "en": {
+      "name": null,
+      "text": "Though I've also grown used to hearing her call me that, it does make me feel a little weird."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然我也已经听习惯了，\n但还是感觉不太对劲，心里痒痒的。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然我也已經聽習慣了，\n但還是感覺不太對勁，心裡癢癢的。"
+    }
+  },
+  {
+    "id": "0047_00122",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「では……これからは、\n旦那様と呼んでもかまいませんか……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"In that case... How about I start calling you my dear husband?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「那么……从今以后，就称您为夫君如何？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「那麼……從今以後，就稱您為丈夫如何？」"
+    }
+  },
+  {
+    "id": "0047_00123",
+    "ja": {
+      "name": null,
+      "text": "何かを期待するような眼差しを向け、\nファルナがそんなことを聞いてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "She asks me, looking up into my face hopefully."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，法尔娜如此问道，\n并向我投来了满怀期待的眼神。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，法爾娜如此問道，\n並向我投來了滿懷期待的眼神。"
+    }
+  },
+  {
+    "id": "0047_00124",
+    "ja": {
+      "name": null,
+      "text": "もちろん、俺の返答は決まっていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I already knew what I was going to say in response."
+    },
+    "cn": {
+      "name": null,
+      "text": "对此，我自然是回答得毫不迟疑。"
+    },
+    "tw": {
+      "name": null,
+      "text": "對此，我自然是回答得毫不遲疑。"
+    }
+  },
+  {
+    "id": "0047_00125",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「構わないとも。是非、そう呼んでくれ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"You can call me whatever you want, including that.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「当然可以，我求之不得。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「當然可以，我求之不得。」"
+    }
+  },
+  {
+    "id": "0047_00126",
+    "ja": {
+      "name": null,
+      "text": "俺が本当に欲しかったのは、名誉でもお金でもなく、\n冒険でもなかった。"
+    },
+    "en": {
+      "name": null,
+      "text": "What I really want in life isn't to be a hero, or to be rich, or to go on adventures."
+    },
+    "cn": {
+      "name": null,
+      "text": "我真正渴望得到的，\n既不是名誉与金钱，也不是冒险。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我真正渴望得到的，\n既不是名譽與金錢，也不是冒險。"
+    }
+  },
+  {
+    "id": "0047_00127",
+    "ja": {
+      "name": null,
+      "text": "ただ、家族との……。\n愛しい人との生活を大切にしたかったのだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "All I want is to spend a quiet life with my family... with the ones I love. To cherish them."
+    },
+    "cn": {
+      "name": null,
+      "text": "我只是想与家人……\n与心爱的人，尽情享受有彼此陪伴的生活。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我只是想與家人……\n與心愛的人，盡情享受有彼此陪伴的生活。"
+    }
+  },
+  {
+    "id": "0047_00128",
+    "ja": {
+      "name": null,
+      "text": "そして今、俺はファルナとお腹の子という二人の家族を\n手に入れた……。"
+    },
+    "en": {
+      "name": null,
+      "text": "Suddenly I have two members of my family—Farna, and the baby growing inside her..."
+    },
+    "cn": {
+      "name": null,
+      "text": "而且如今的我，已经得到了法尔娜，\n以及她腹中的孩子这两个家人……"
+    },
+    "tw": {
+      "name": null,
+      "text": "而且如今的我，已經得到了法爾娜，\n以及她腹中的孩子這兩個家人……"
+    }
+  },
+  {
+    "id": "0047_00129",
+    "ja": {
+      "name": null,
+      "text": "いつかアリーが、ここへ戻ってくるまで。"
+    },
+    "en": {
+      "name": null,
+      "text": "And someday, Allie will return to join us."
+    },
+    "cn": {
+      "name": null,
+      "text": "直到有一天，艾丽回到这里为止。"
+    },
+    "tw": {
+      "name": null,
+      "text": "直到有一天，艾麗回到這裡為止。"
+    }
+  },
+  {
+    "id": "0047_00130",
+    "ja": {
+      "name": null,
+      "text": "思い出の詰まったこの小屋で、\nファルナと産まれてくる子供と一緒に待つのだった。"
+    },
+    "en": {
+      "name": null,
+      "text": "I'll be waiting here for her with Farna and our unborn baby, in this cabin full of precious memories."
+    },
+    "cn": {
+      "name": null,
+      "text": "就在这间满载着回忆的小屋里，\n与法尔娜，以及即将诞生的孩子一起，静静等待吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "就在這間滿載著回憶的小屋裡，\n與法爾娜，以及即將誕生的孩子一起，靜靜等待吧。"
+    }
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "0041_00001",
+    "ja": {
+      "name": null,
+      "text": "ファルナは、探すまでもなく小屋の中にいた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I know Farna will be inside the cabin without needing to look for her."
+    },
+    "cn": {
+      "name": null,
+      "text": "无需寻找，就在屋里看到了法尔娜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "無需尋找，就在屋裡看到了法爾娜。"
+    }
+  },
+  {
+    "id": "0041_00002",
+    "ja": {
+      "name": null,
+      "text": "今まで世話になったお返しとばかりに、\n小屋の隅から隅までの掃除をしている。"
+    },
+    "en": {
+      "name": null,
+      "text": "She's busy cleaning the entirety of the small house as her form of repayment for taking care of her."
+    },
+    "cn": {
+      "name": null,
+      "text": "她像是打算回报至今为止的关照一样，\n细细打扫着屋里的每一个角落。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她像是打算回報至今為止的關照一樣，\n細細打掃著屋裡的每一個角落。"
+    }
+  },
+  {
+    "id": "0041_00003",
+    "ja": {
+      "name": null,
+      "text": "それはありがたいのだが、\n適当なところで切り上げなければ明日に差し障るだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "And, while I'm grateful for the kind gesture, there is something I need to do before we say goodbye or I'll regret it forever."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然其心可嘉，但若不适可而止，\n搞不好会对明天的安排造成影响。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然其心可嘉，但若不適可而止，\n搞不好會對明天的安排造成影響。"
+    }
+  },
+  {
+    "id": "0041_00004",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナ、もう結構遅い時間だぞ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna, it's already pretty late.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜，天已经很晚了哦？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜，天已經很晚了哦？」"
+    }
+  },
+  {
+    "id": "0041_00005",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様……申し訳ありません。\n止め時がわからなくて、つい」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I'm sorry, Master. I guess I never know when to stop.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人……很抱歉，\n因为不知该何时收手，就不由得……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人……很抱歉，\n因為不知該何時收手，就不由得……」"
+    }
+  },
+  {
+    "id": "0041_00006",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「こだわり出すと、\nキリがないのは承知しているんですけれども……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I know if I'm too particular about everything then I'll never finish cleaning, but I can't help myself.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「虽然知道一旦纠结起来，\n事情就永远都办不完……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「雖然知道一旦糾結起來，\n事情就永遠都辦不完……」"
+    }
+  },
+  {
+    "id": "0041_00007",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……ここにも、それなりに滞在していたしな」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"We've spent so much time together in this cabin.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……毕竟，你们已经在这里住很久了嘛。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……畢竟，妳們已經在這裡住很久了嘛。」"
+    }
+  },
+  {
+    "id": "0041_00008",
+    "ja": {
+      "name": null,
+      "text": "それだけの思い入れがあるということなので、\nその気持ちはわからないでもない。"
+    },
+    "en": {
+      "name": null,
+      "text": "During that time, I've grown attached to her, and I've come to know her mannerisms very well."
+    },
+    "cn": {
+      "name": null,
+      "text": "会纠结，就证明她对这里有了感情。\n这样的心情，我也并非不能理解。"
+    },
+    "tw": {
+      "name": null,
+      "text": "會糾結，就證明她對這裡有了感情。\n這樣的心情，我也並非不能理解。"
+    }
+  },
+  {
+    "id": "0041_00009",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「だが、\n二人を解放したら俺も冒険者に復帰するつもりだ」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"But after I release you two, I'll be returning to my job as an adventurer.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「但是，在释放你们之后，\n我也打算继续去做冒险者。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「但是，在釋放妳們之後，\n我也打算繼續去做冒險者。」"
+    }
+  },
+  {
+    "id": "0041_00010",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「街の方に拠点を移すから、\nどれだけ綺麗にしても無駄になるかもしれないぞ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Which also means I'll have to move back to the city, so however clean you make this place, it won't matter.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「到时候需要将据点移动到城里，\n所以不管打扫得再干净，或许都没有意义哦？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「到時候需要將據點移動到城裡，\n所以不管打掃得再乾淨，或許都沒有意義哦？」"
+    }
+  },
+  {
+    "id": "0041_00011",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それでもです。\nこれは私の中で区切りをつけるためのものですから…」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I guess you're right. But doing this gives me a sense of closure...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「即使如此，\n我也需要借此给自己心中的感情一个交代……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「即使如此，\n我也需要藉此給自己心中的感情一個交代……」"
+    }
+  },
+  {
+    "id": "0041_00012",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ここの壁の傷。\nこの調理に使った道具。\nその全てに思い出があるんです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"The scratches on the wall here... The pots and pans I cooked with... All of them hold memories.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「这面墙上的裂痕，做菜时用过的厨具……\n都凝聚了我的回忆。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「這面牆上的裂痕，做菜時用過的廚具……\n都凝聚了我的回憶。」"
+    }
+  },
+  {
+    "id": "0041_00013",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私の奴隷としての生活は、\nここでの生活がほとんどでした」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I've spent most of my time in servitude here, in this cabin.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「成为奴隶之后，\n几乎所有时间都是在这里度过的。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「成為奴隸之後，\n幾乎所有時間都是在這裡度過的。」"
+    }
+  },
+  {
+    "id": "0041_00014",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「そのどれもが感慨深くて、\n愛おしくて……離れがたい気持ちなんです……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"This place has come to mean so much to me, and I love it so much that it's hard for me to come to grips with leaving it behind.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「所以一切都令人感怀，令人怜惜……\n让我十分舍不得……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「所以一切都令人感懷，令人憐惜……\n讓我十分捨不得……」"
+    }
+  },
+  {
+    "id": "0041_00015",
+    "ja": {
+      "name": null,
+      "text": "だからこそ、\n何かをして区切りをつけないと先に進めないのだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "That's also why I need to find my own closure, or else I'll never be able to move on."
+    },
+    "cn": {
+      "name": null,
+      "text": "所以，她需要通过某种形式做个了结，\n才能够继续前进吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以，她需要通過某種形式做個了結，\n才能夠繼續前進吧。"
+    }
+  },
+  {
+    "id": "0041_00016",
+    "ja": {
+      "name": null,
+      "text": "本来、奴隷だったことはすぐにでも忘れたい汚点になる\nはずである。"
+    },
+    "en": {
+      "name": null,
+      "text": "I assumed she would want to wipe clean the stain on her memory that was her period of servitude."
+    },
+    "cn": {
+      "name": null,
+      "text": "沦为奴隶，本应是无法轻易忘怀的人生污点。"
+    },
+    "tw": {
+      "name": null,
+      "text": "淪為奴隸，本應是無法輕易忘懷的人生污點。"
+    }
+  },
+  {
+    "id": "0041_00017",
+    "ja": {
+      "name": null,
+      "text": "それでもそう言ってくれるなら、\nファルナにとって良い時間だったに違いない。"
+    },
+    "en": {
+      "name": null,
+      "text": "But hearing her say that makes me realize our time spent together wasn't all bad in her mind."
+    },
+    "cn": {
+      "name": null,
+      "text": "可她却说出了这番话，\n就证明对她而言，这里的生活还算不错吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可她卻說出了這番話，\n就證明對她而言，這裡的生活還算不錯吧。"
+    }
+  },
+  {
+    "id": "0041_00018",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナ……」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜……」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜……」"
+    }
+  },
+  {
+    "id": "0041_00019",
+    "ja": {
+      "name": null,
+      "text": "奴隷から解放しても、出て行かずにここにいたらどうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "What if after I released you, we all stayed here, together?"
+    },
+    "cn": {
+      "name": null,
+      "text": "摆脱奴隶之身后，\n是否也愿意继续留在这里，不要离开？"
+    },
+    "tw": {
+      "name": null,
+      "text": "擺脫奴隸之身後，\n是否也願意繼續留在這裡，不要離開？"
+    }
+  },
+  {
+    "id": "0041_00020",
+    "ja": {
+      "name": null,
+      "text": "そう口に出そうとする俺の唇に、\nファルナはそっと指を押し当ててきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Before I can speak those words, Farna presses her finger softly against my lips."
+    },
+    "cn": {
+      "name": null,
+      "text": "我几乎就要说出这句话，\n法尔娜却伸出手指，按住了我的嘴唇。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我幾乎就要說出這句話，\n法爾娜卻伸出手指，按住了我的嘴唇。"
+    }
+  },
+  {
+    "id": "0041_00021",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様。\n何もおっしゃらないでください」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Don't speak the words I know you're about to say, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，请您什么都不要说。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，請您什麼都不要說。」"
+    }
+  },
+  {
+    "id": "0041_00022",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様からその言葉を聞いてしまいますと、\n心が揺らぎそうですから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Because if you do, I know my heart will break...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「如果听到您说出那种话，我也会产生动摇的……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「如果聽到您說出那種話，我也會產生動搖的……」"
+    }
+  },
+  {
+    "id": "0041_00023",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「…………」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「…………」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「…………」"
+    }
+  },
+  {
+    "id": "0041_00024",
+    "ja": {
+      "name": null,
+      "text": "上目遣いで見つめてくるファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "She looks up into my face."
+    },
+    "cn": {
+      "name": null,
+      "text": "法尔娜抬起目光，注视着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "法爾娜抬起目光，注視著我。"
+    }
+  },
+  {
+    "id": "0041_00025",
+    "ja": {
+      "name": null,
+      "text": "俺が言葉を飲み込んだのを見て、\nゆっくりと唇に押し当てた指を頬の方へと滑らせていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "Seeing me swallow my words, she slowly slides her hand toward my cheek, caressing it."
+    },
+    "cn": {
+      "name": null,
+      "text": "见我咽下了那句话，\n她又将手指缓缓地滑向了我的面颊。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見我嚥下了那句話，\n她又將手指緩緩地滑向了我的面頰。"
+    }
+  },
+  {
+    "id": "0041_00026",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様、お慕い申し上げています。\nできることなら、あなたと一緒になって、\nずっとここで暮らしたい……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I adore you so much, Master. And if it was up to me, I'd stay here with you, forever...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，我深深爱慕着您。\n如果可能，我真的好想与您一起，\n永远生活在这里……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，我深深愛慕著您。\n如果可能，我真的好想與您一起，\n永遠生活在這裡……」"
+    }
+  },
+  {
+    "id": "0041_00027",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「でも、そういうわけにはいかないのです。\n私は貴族の娘ですから」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But unfortunately, that's not possible. After all, I'm the daughter of an aristocratic family.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但我不可以那样做，\n因为，我是贵族家的女儿。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但我不可以那樣做，\n因為，我是貴族家的女兒。」"
+    }
+  },
+  {
+    "id": "0041_00028",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「……私の父も、母も、兄も……国王陛下を逃がすために\n命を散らしたそうです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"And my dad, my mom, and my brother all gave their lives in order to help the king escape.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「……为了掩护国王陛下逃脱，\n我的父亲、母亲、兄长……都失去了生命。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「……為了掩護國王陛下逃脫，\n我的父親、母親、兄長……都失去了生命。」"
+    }
+  },
+  {
+    "id": "0041_00029",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「家は領地を持っているわけではありません。\n数いる下級の貴族の中の一つです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Despite my noble lineage, we're low enough that I have no land to my name.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「我家其实并没有领地，\n只是许许多多下级贵族当中的一员。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「我家其實並沒有領地，\n只是許許多多下級貴族當中的一員。」"
+    }
+  },
+  {
+    "id": "0041_00030",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですが、血族で唯一残った私は爵位を受け継ぎ、\n王家を──姫様を支えなければなりません……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But as the sole remaining member of my bloodline, I must do whatever I can to support the royal family—the princess.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是，身为家族当中唯一的幸存者，\n我必须继承爵位，辅佐在王室──\n也就是公主殿下身边……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是，身為家族當中唯一的倖存者，\n我必須繼承爵位，輔佐在王室──\n也就是公主殿下身邊……」"
+    }
+  },
+  {
+    "id": "0041_00031",
+    "ja": {
+      "name": null,
+      "text": "家族の死を口にしたためか、\nファルナの瞳が悲しげに揺れた。"
+    },
+    "en": {
+      "name": null,
+      "text": "There's a sadness in her eyes when she speaks about the death of her family."
+    },
+    "cn": {
+      "name": null,
+      "text": "谈及家人的死，法尔娜的双眸哀伤地摇曳着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "談及家人的死，法爾娜的雙眸哀傷地搖曳著。"
+    }
+  },
+  {
+    "id": "0041_00032",
+    "ja": {
+      "name": null,
+      "text": "だけど、すでに覚悟はできているらしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "But she's clearly come to grips with the reality of the situation."
+    },
+    "cn": {
+      "name": null,
+      "text": "但是，她似乎已经做好了觉悟。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但是，她似乎已經做好了覺悟。"
+    }
+  },
+  {
+    "id": "0041_00033",
+    "ja": {
+      "name": null,
+      "text": "悲しみを飲み込むと、\n柔らかな微笑みを浮かべて俺を見つめてくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Swallowing her grief, a gentle smile surfaces on her lips as she looks at me."
+    },
+    "cn": {
+      "name": null,
+      "text": "只见她强忍悲痛，\n用柔和的微笑面对着我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "只見她強忍悲痛，\n用柔和的微笑面對著我。"
+    }
+  },
+  {
+    "id": "0041_00034",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「何より、私は姫様の専属の侍女です」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"More than anything, I am the princess's personal handmaid.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「更何况，我是属于公主殿下的侍女。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「更何況，我是屬於公主殿下的侍女。」"
+    }
+  },
+  {
+    "id": "0041_00035",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「妹のような姫様……\nアリーを、自らの手で支えたいと思っています」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"And I'm ready to support Allie, who is like a sister to me, however I can...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「亲手扶持公主殿下──亲如姐妹的艾丽，\n是我由衷的心愿。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「親手扶持公主殿下──親如姐妹的艾麗，\n是我由衷的心願。」"
+    }
+  },
+  {
+    "id": "0041_00036",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「この気持ちも、ご主人様の言葉で揺らいでしまうかも\nしれませんけども」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yet despite all that, I know my resolve could easily swayed by a simple word from your lips.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「如果主人说出那句话，\n或许连这样的心情，都会遭到动摇。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「如果主人說出那句話，\n或許連這樣的心情，都會遭到動搖。」"
+    }
+  },
+  {
+    "id": "0041_00037",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……そんなことを言われたら、\n何も言えないじゃないか」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"If that's the truth, then you've left me with little choice.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……被你说到这个份上，\n我岂不是完全无话可说了吗。」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……被妳說到這個份上，\n我豈不是完全無話可說了嗎。」"
+    }
+  },
+  {
+    "id": "0041_00038",
+    "ja": {
+      "name": null,
+      "text": "ファルナのことは大事だが、\n同じようにアリーのことも大事に思っている。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna means a lot to me, but so does Allie."
+    },
+    "cn": {
+      "name": null,
+      "text": "我虽然爱着法尔娜，\n但对艾丽也同样十分怜惜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我雖然愛著法爾娜，\n但對艾麗也同樣十分憐惜。"
+    }
+  },
+  {
+    "id": "0041_00039",
+    "ja": {
+      "name": null,
+      "text": "覚悟を決めている二人の邪魔になるようなことを、\n俺が言えるわけがない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Their respective paths in life moving forward are clear, and I would be remiss to mess with them in any way."
+    },
+    "cn": {
+      "name": null,
+      "text": "所以，绝不可以让自己说出的话，\n阻碍早已下定决心的她们二人。"
+    },
+    "tw": {
+      "name": null,
+      "text": "所以，絕不可以讓自己說出的話，\n阻礙早已下定決心的她們二人。"
+    }
+  },
+  {
+    "id": "0041_00040",
+    "ja": {
+      "name": null,
+      "text": "そもそも、\n俺はただの平民であり一介の冒険者でしかない。"
+    },
+    "en": {
+      "name": null,
+      "text": "Besides, at the end of the day, I'm nothing more than a former commoner turned adventurer."
+    },
+    "cn": {
+      "name": null,
+      "text": "说到底，我只是身为冒险者的一介平民而已。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說到底，我只是身為冒險者的一介平民而已。"
+    }
+  },
+  {
+    "id": "0041_00041",
+    "ja": {
+      "name": null,
+      "text": "王族や貴族のような視点で物事を見ることはできないし、責任を取ることもできない。"
+    },
+    "en": {
+      "name": null,
+      "text": "It's impossible for me to view the world in the same way as royalty or nobility does, nor take on their associated responsibilities."
+    },
+    "cn": {
+      "name": null,
+      "text": "既不懂得用王室或贵族的眼光看待问题，\n也负不起任何的责任。"
+    },
+    "tw": {
+      "name": null,
+      "text": "既不懂得用王室或貴族的眼光看待問題，\n也負不起任何的責任。"
+    }
+  },
+  {
+    "id": "0041_00042",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私だけ気持ちを伝えるのは卑怯だと思います。\nけれども……どうか、何も言わずにいてください、\nご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I know how unfair it is for me to confide my feelings in you without letting you do the same, but... I hope you understand, Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「只有我自己表明心意，确实很不公平。\n但是……还是请您什么都不要说，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「只有我自己表明心意，確實很不公平。\n但是……還是請您什麼都不要說，主人。」"
+    }
+  },
+  {
+    "id": "0041_00043",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「私だけが家族や主家を裏切って、\n幸せを選ぶことはできませんから……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"By putting my own happiness first, I would betray my family and the Princess's as well.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「因为我无法背叛家庭与君主，\n独自一人去追求幸福……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「因為我無法背叛家庭與君主，\n獨自一人去追求幸福……」"
+    }
+  },
+  {
+    "id": "0041_00044",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「それでも私のわがままを許していただけるなら……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I hope you can forgive me for acting so selfishly...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「如果即使如此，您也愿意包容我的任性……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「如果即使如此，您也願意包容我的任性……」"
+    }
+  },
+  {
+    "id": "0041_00045",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「どうか、最後に、\nあなたと愛し合ったという証をください、ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"But all I ask is for one final memory of our time together... Will you make love to me, Master?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「那么就请在最后，\n证明我们对彼此的爱吧，主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「那麼就請在最後，\n證明我們對彼此的愛吧，主人。」"
+    }
+  },
+  {
+    "id": "0041_00046",
+    "ja": {
+      "name": null,
+      "text": "言葉と同時に、ファルナは背伸びをして顔を寄せてきた。"
+    },
+    "en": {
+      "name": null,
+      "text": "As she speaks, she stretches up, bringing her face closer to mine."
+    },
+    "cn": {
+      "name": null,
+      "text": "说着，法尔娜踮起脚，将脸凑了过来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "說著，法爾娜踮起腳，將臉湊了過來。"
+    }
+  },
+  {
+    "id": "0041_00047",
+    "ja": {
+      "name": null,
+      "text": "許可を求めるかのような口づけを、\n俺は黙って受け止める……。"
+    },
+    "en": {
+      "name": null,
+      "text": "My silent acceptance of her lips pressed against mine is all the answer she needs."
+    },
+    "cn": {
+      "name": null,
+      "text": "而我则是坦然接受了这个吻，借以表示允诺……"
+    },
+    "tw": {
+      "name": null,
+      "text": "而我則是坦然接受了這個吻，藉以表示允諾……"
+    }
+  },
+  {
+    "id": "0041_00048",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ちゅ……ん、んぅ……ちゅ、んぅ……\nご主人、様……っ」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"*kiss*... Mm! Mm... *kiss*... Mmm... Master...!\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「啾……呃、呃唔……啾、呃呜……\n主、人……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「啾……呃、呃唔……啾、呃嗚……\n主、人……」"
+    }
+  },
+  {
+    "id": "0041_00049",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「ファルナ……！」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna...!\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「法尔娜……！」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「法爾娜……！」"
+    }
+  },
+  {
+    "id": "0041_00050",
+    "ja": {
+      "name": null,
+      "text": "俺はそんな華奢なファルナの体を抱き寄せると、\nベッドへと押し倒した。"
+    },
+    "en": {
+      "name": null,
+      "text": "I take her slender body in my arms before shoving her down onto the bed."
+    },
+    "cn": {
+      "name": null,
+      "text": "我一把搂住法尔娜娇柔的身躯，\n并将其推倒在了床上。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我一把摟住法爾娜嬌柔的身軀，\n並將其推倒在了床上。"
+    }
+  }
+]

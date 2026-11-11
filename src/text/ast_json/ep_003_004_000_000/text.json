@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "0035_00001",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「さあ、主人。\nあーんしてくれ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Okay, Sir. Open up and say 'Aaah'!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「来，主人，\n把嘴张开，啊～」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「來，主人，\n把嘴張開，啊～」"
+    }
+  },
+  {
+    "id": "0035_00002",
+    "ja": {
+      "name": null,
+      "text": "手ずからほぐした魚の身を木の匙ですくい取り、\nアリーは笑顔で差し出してくる。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having scooped up some chopped-up fish meat on a spoon, Allie holds it in front of my mouth with a smile."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽用木勺舀起她亲手解剖的鱼肉，\n笑眯眯地向我递了过来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗用木勺舀起她親手解剖的魚肉，\n笑咪咪地向我遞了過來。"
+    }
+  },
+  {
+    "id": "0035_00003",
+    "ja": {
+      "name": null,
+      "text": "街へ行った日から数日が経過している。"
+    },
+    "en": {
+      "name": null,
+      "text": "Several days have passed since our last journey into town."
+    },
+    "cn": {
+      "name": null,
+      "text": "上次去城里后，又经过了几天。"
+    },
+    "tw": {
+      "name": null,
+      "text": "上次去城裡後，又經過了幾天。"
+    }
+  },
+  {
+    "id": "0035_00004",
+    "ja": {
+      "name": null,
+      "text": "あれから、アリーは妙に俺を甘やかしてきているような\n気がする……。"
+    },
+    "en": {
+      "name": null,
+      "text": "And Allie's been extra sweet to me ever since we got back..."
+    },
+    "cn": {
+      "name": null,
+      "text": "这段时间里，艾丽似乎对我格外宠溺……"
+    },
+    "tw": {
+      "name": null,
+      "text": "這段時間裡，艾麗似乎對我格外寵溺……"
+    }
+  },
+  {
+    "id": "0035_00005",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「どうしたんだ、主人？\nわたしが獲ってきた魚なんだ、美味しいぞ？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"What's wrong, sir? Isn't the fish I caught super tasty?\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「怎么了，主人？\n这是我亲手抓的鱼，很好吃哦？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「怎麼了，主人？\n這是我親手抓的魚，很好吃哦？」"
+    }
+  },
+  {
+    "id": "0035_00006",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「いや……気持ちは嬉しいが、\n魚くらい自分で食べられるぞ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Look... I appreciate the thought, but I can eat fish by myself, you know.\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「呃……很感谢你的好意啦，\n但吃个鱼而已，我自己也能行哦？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「呃……很感謝妳的好意啦，\n但吃個魚而已，我自己也能行哦？」"
+    }
+  },
+  {
+    "id": "0035_00007",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「何を言う。\nまだ骨を取るような細かい作業は辛いだろう？\nだから遠慮しないでくれ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"What are you talking about? You still have problems with stuff like getting the bones out, right? So stop being silly and let me help.\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「说什么傻话，\n像剔除鱼骨这种细活，肯定还有点困难吧？」\n所以你就不要客气了。"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「說什麼傻話，\n像剔除魚骨這種精密作業，肯定還有點困難吧？」\n所以你就不要客氣了。"
+    }
+  },
+  {
+    "id": "0035_00008",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ほら、あーん」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Come on, say 'Aaah'!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「来，啊～」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「來，啊～」"
+    }
+  },
+  {
+    "id": "0035_00009",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……あーん」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"...Aaah...\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……啊～」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……啊～」"
+    }
+  },
+  {
+    "id": "0035_00010",
+    "ja": {
+      "name": null,
+      "text": "アリーの押しに負け、大人しく口を開ける。"
+    },
+    "en": {
+      "name": null,
+      "text": "Realizing I'm fighting a losing battle, I obediently open my mouth."
+    },
+    "cn": {
+      "name": null,
+      "text": "我拗不过她，只好乖乖张开了嘴。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我拗不過她，只好乖乖張開了嘴。"
+    }
+  },
+  {
+    "id": "0035_00011",
+    "ja": {
+      "name": null,
+      "text": "何というか……非常に気恥ずかしい。"
+    },
+    "en": {
+      "name": null,
+      "text": "This is incredibly humiliating... in a way."
+    },
+    "cn": {
+      "name": null,
+      "text": "这未免……太难为情了。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這未免……太難為情了。"
+    }
+  },
+  {
+    "id": "0035_00012",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ふふっ、美味しいだろう？\nさあ、次は何を食べる？　何でも言ってくれ」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Hehe, it's really yummy, right? What do you want next? Nothing's off limits!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「呵呵，好吃吧？\n好，接下来要吃什么？你尽管说吧。」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「呵呵，好吃吧？\n好，接下來要吃什麼？你儘管說吧。」"
+    }
+  },
+  {
+    "id": "0035_00013",
+    "ja": {
+      "name": null,
+      "text": "どうすれば良いんだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "What should I do here?"
+    },
+    "cn": {
+      "name": null,
+      "text": "我到底该如何是好？"
+    },
+    "tw": {
+      "name": null,
+      "text": "我到底該如何是好？"
+    }
+  },
+  {
+    "id": "0035_00014",
+    "ja": {
+      "name": null,
+      "text": "本当に自分で食べられるのだが、\nこの様子ではアリーが許してくれるとは思えない。"
+    },
+    "en": {
+      "name": null,
+      "text": "I really am able to feed myself, but by the way Allie's acting, I know she'll never let me."
+    },
+    "cn": {
+      "name": null,
+      "text": "虽然完全可以自己解决，\n但看这情况，艾丽肯定不会允许。"
+    },
+    "tw": {
+      "name": null,
+      "text": "雖然完全可以自己解決，\n但看這情況，艾麗肯定不會允許。"
+    }
+  },
+  {
+    "id": "0035_00015",
+    "ja": {
+      "name": null,
+      "text": "俺は助けを求め、ちらりとファルナへと視線を向ける。"
+    },
+    "en": {
+      "name": null,
+      "text": "I shoot Farna a pleading glance for help."
+    },
+    "cn": {
+      "name": null,
+      "text": "于是，我只好将求助的眼神投向了法尔娜。"
+    },
+    "tw": {
+      "name": null,
+      "text": "於是，我只好將求助的眼神投向了法爾娜。"
+    }
+  },
+  {
+    "id": "0035_00016",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「もう……。\nアリーは本当にご主人様のことが好きなんですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Seriously? You really love him a lot, don't you, Allie.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「真是的……\n艾丽真的好喜欢主人啊。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「真是的……\n艾麗真的好喜歡主人呢。」"
+    }
+  },
+  {
+    "id": "0035_00017",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「なっ……！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Whah?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「诶……！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「欸……！？」"
+    }
+  },
+  {
+    "id": "0035_00018",
+    "ja": {
+      "name": null,
+      "text": "その一言で、\nアリーは硬直してしまったかのように動きを止めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "That's all it takes for Allie to freeze up, as stiff as a board."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了这话，艾丽顿时僵住了身体。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了這話，艾麗頓時僵住了身體。"
+    }
+  },
+  {
+    "id": "0035_00019",
+    "ja": {
+      "name": null,
+      "text": "みるみるうちに顔が真っ赤に染まっていく。"
+    },
+    "en": {
+      "name": null,
+      "text": "The more I look at her, the redder her cheeks get."
+    },
+    "cn": {
+      "name": null,
+      "text": "然后，转眼之间就羞得满脸通红。"
+    },
+    "tw": {
+      "name": null,
+      "text": "然後，轉眼之間就羞得滿臉通紅。"
+    }
+  },
+  {
+    "id": "0035_00020",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「な、何を言ってるんだ、ファルナ！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"W-What did you just say, Farna?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「你、你瞎说什么啊，法尔娜！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「妳、妳瞎說什麼啦，法爾娜！？」"
+    }
+  },
+  {
+    "id": "0035_00021",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「何って……見たままのことですよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"What do you mean? It's pretty obvious.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「瞎说？明明就很明显吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「瞎說？明明就很明顯吧？」"
+    }
+  },
+  {
+    "id": "0035_00022",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「今のご主人様の回復具合でしたら、\nご自分で魚の骨くらい取り除けます」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I think he's recovered well enough that he can at least take the bones out of his own fish.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「凭主人现在的恢复情况，\n剔除鱼骨早已经不在话下了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「憑主人現在的恢復情況，\n剔除魚骨早已經不在話下了。」"
+    }
+  },
+  {
+    "id": "0035_00023",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ですけど、\nアリーがそこまでお世話をすると言うことは……」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"And yet there you sit, doing everything for him and treating him like he's a helpless baby.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但艾丽还是坚持要照顾到底，就说明……」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但艾麗還是堅持要照顧到底，就說明……」"
+    }
+  },
+  {
+    "id": "0035_00024",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ち、違うぞ？\nわたしは、いつまでも主人に回復して欲しくないと\n思っているわけじゃないからな！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Y-You're wrong! Are you trying to imply that I never want him to get better?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「不、不是哦？\n我可绝对不是希望主人永远不要康复哦！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「不、不是哦？\n我可絕對不是希望主人永遠不要康復哦！？」"
+    }
+  },
+  {
+    "id": "0035_00025",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ふふっ、そこまでは言っていません。\nでも、内心は……思っていたみたいですね」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hehe, I never said that. But I think a part of you secretly hopes for that.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「呵呵，我也没说到那个地步啦。\n但是，内心深处……似乎真的有这个想法啊。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「呵呵，我也沒說到那個地步啦。\n但是，內心深處……似乎真的有這個想法啊。」"
+    }
+  },
+  {
+    "id": "0035_00026",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様が回復してしまうと、\n今の関係も終わりになってしまいますし」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Because when he gets better, this special relationship you share will come to an end.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「毕竟一旦主人康复，\n如今这样的关系也就要结束了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「畢竟一旦主人康復，\n如今這樣的關係也就要結束了。」"
+    }
+  },
+  {
+    "id": "0035_00027",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「アリーが、ご主人様のお世話をする名目が、\nなくなってしまいますものね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"And since he will no longer need assistance, you'll no longer be his caretaker.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「那样一来，艾丽也就失去照顾主人的理由了，\n对不对啊？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「那樣一來，艾麗也就失去照顧主人的理由了，\n對不對啊？」"
+    }
+  },
+  {
+    "id": "0035_00028",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「うっ……ハ、ハメたな！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Ugh... Y-You set me up!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「唔……你、你算计我！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「唔……妳、妳算計我！？」"
+    }
+  },
+  {
+    "id": "0035_00029",
+    "ja": {
+      "name": null,
+      "text": "誘導尋問のように言わされ、\nアリーはむくれたように頬を膨らませた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Having been nicely played, Allie sits there, her cheeks puffed out in annoyance."
+    },
+    "cn": {
+      "name": null,
+      "text": "发现自己不经意间被套了话，\n艾丽不服气地嘟起了嘴。"
+    },
+    "tw": {
+      "name": null,
+      "text": "發現自己不經意間被套了話，\n艾麗不服氣地嘟起了嘴。"
+    }
+  },
+  {
+    "id": "0035_00030",
+    "ja": {
+      "name": null,
+      "text": "そんなアリーの頬を、ファルナは指先で突っつき始める。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna responds by prodding her cheek with one finger."
+    },
+    "cn": {
+      "name": null,
+      "text": "见状，法尔娜伸出手指戳了戳艾丽的脸颊。"
+    },
+    "tw": {
+      "name": null,
+      "text": "見狀，法爾娜伸出手指戳了戳艾麗的臉頰。"
+    }
+  },
+  {
+    "id": "0035_00031",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「アリー。\n図星を突かれたからと、むくれてはいけませんよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"You're sulking because I hit the nail on the head, didn't I?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「艾丽，\n就算被戳穿了心事，也不可以耍小脾气哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「艾麗，\n就算被戳穿了心事，也不可以耍小脾氣哦？」"
+    }
+  },
+  {
+    "id": "0035_00032",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「でも、素直になれないながらもご主人様を\n甘やかすアリーは可愛いです」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Although the way you're lying to yourself while doting on him is pretty adorable.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「但是，明明一点都不坦率，\n却还是对主人百般宠溺的艾丽，真是可爱极了。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「但是，明明一點都不坦率，\n卻還是對主人百般寵溺的艾麗，真是可愛極了。」"
+    }
+  },
+  {
+    "id": "0035_00033",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ファ、ファルナぁぁぁ！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"F-Farnaaa!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「法、法尔娜──！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「法、法爾娜──！」"
+    }
+  },
+  {
+    "id": "0035_00034",
+    "ja": {
+      "name": null,
+      "text": "さらに真っ赤になったアリーは、俺に食事をさせるのも\n忘れてファルナとじゃれ合い始めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Her cheeks blazing, I seem to be forgotten as she begins squabbling with Farna."
+    },
+    "cn": {
+      "name": null,
+      "text": "艾丽的脸变得越来越红，\n也忘了喂我吃饭，跟法尔娜打闹了起来。"
+    },
+    "tw": {
+      "name": null,
+      "text": "艾麗的臉變得越來越紅，\n也忘了餵我吃飯，跟法爾娜打鬧了起來。"
+    }
+  },
+  {
+    "id": "0035_00035",
+    "ja": {
+      "name": null,
+      "text": "俺は「あーん」"
+    },
+    "en": {
+      "name": null,
+      "text": "I heave a sigh of relief."
+    },
+    "cn": {
+      "name": null,
+      "text": "这样一来，我也逃离了被喂食的窘境。"
+    },
+    "tw": {
+      "name": null,
+      "text": "這樣一來，我也逃離了被餵食的窘境。"
+    }
+  },
+  {
+    "id": "0035_00036",
+    "ja": {
+      "name": null,
+      "text": "から解放されてホッとしつつ、\nそんな二人のことを眺める。"
+    },
+    "en": {
+      "name": null,
+      "text": "No longer on dinner-eating duty, I settle back and watch the two women argue."
+    },
+    "cn": {
+      "name": null,
+      "text": "于是，我先是松了一口气，\n然后静静地看着她们。"
+    },
+    "tw": {
+      "name": null,
+      "text": "於是，我先是鬆了一口氣，\n然後靜靜地看著她們。"
+    }
+  },
+  {
+    "id": "0035_00037",
+    "ja": {
+      "name": null,
+      "text": "元は王女とそのお付きの侍女だった二人だ。\nだけど今は元の身分差も感じられず、\nまるで姉妹のように仲が良い。"
+    },
+    "en": {
+      "name": null,
+      "text": "The two had started off as a princess and her handmaiden, but they no longer interact like they come from different social strata, behaving more like sisters."
+    },
+    "cn": {
+      "name": null,
+      "text": "她们原本是公主与其专属侍女，\n可如今却看上去亲如姐妹，\n丝毫感觉不到地位的差距。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她們原本是公主與其專屬侍女，\n可如今卻看上去親如姐妹，\n絲毫感覺不到地位的差距。"
+    }
+  },
+  {
+    "id": "0035_00038",
+    "ja": {
+      "name": null,
+      "text": "以前から歳も近かったこともあって仲は良かっただろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "They'd probably always been close, considering their similar ages."
+    },
+    "cn": {
+      "name": null,
+      "text": "可能也是因为年龄相仿，所以原本就很亲密吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "可能也是因為年齡相仿，所以原本就很親密吧。"
+    }
+  },
+  {
+    "id": "0035_00039",
+    "ja": {
+      "name": null,
+      "text": "しかし、身分の壁を取り払い、\n共通した意識や体験があるからだろうか？\nずいぶんと絆が深まっているようだ。"
+    },
+    "en": {
+      "name": null,
+      "text": "However, without the barrier of this so-called societal rank, I get the feeling their bond has deepened, probably thanks to their shared viewpoints and experiences."
+    },
+    "cn": {
+      "name": null,
+      "text": "但究竟有着怎样的共同意识以及经历，\n才令她们得以逾越身份的屏障，\n建立起如此深厚的联系呢？"
+    },
+    "tw": {
+      "name": null,
+      "text": "但究竟有著怎樣的共同意識以及經歷，\n才令她們得以逾越身份的屏障，\n建立起如此深厚的聯繫呢？"
+    }
+  },
+  {
+    "id": "0035_00040",
+    "ja": {
+      "name": null,
+      "text": "そういえば……二人とも、実の兄弟がいたはずだよな？"
+    },
+    "en": {
+      "name": null,
+      "text": "Speaking of which, they both had siblings, didn't they?"
+    },
+    "cn": {
+      "name": null,
+      "text": "这么说来……她们应该都有真正的兄弟姐妹吧？"
+    },
+    "tw": {
+      "name": null,
+      "text": "這麼說來……她們應該都有真正的兄弟姊妹吧？"
+    }
+  },
+  {
+    "id": "0035_00041",
+    "ja": {
+      "name": null,
+      "text": "話を聞いたときは生死不明だったはずだが、\nやはり家族とは会いたいだろう。"
+    },
+    "en": {
+      "name": null,
+      "text": "I remember them mentioning uncertainty over their safety, and I'm sure they miss them dearly."
+    },
+    "cn": {
+      "name": null,
+      "text": "据她们所说，目前仍处于生死未卜的状态……\n她们一定也很想与家人团聚吧。"
+    },
+    "tw": {
+      "name": null,
+      "text": "據她們所說，目前仍處於生死未卜的狀態……\n她們一定也很想與家人團聚吧。"
+    }
+  },
+  {
+    "id": "0035_00042",
+    "ja": {
+      "name": null,
+      "text": "いつ、二人を奴隷から解放しようか……。"
+    },
+    "en": {
+      "name": null,
+      "text": "When am I going to release them from their servitude?"
+    },
+    "cn": {
+      "name": null,
+      "text": "究竟要何时，恢复她们的自由之身呢……"
+    },
+    "tw": {
+      "name": null,
+      "text": "究竟要何時，恢復她們的自由之身呢……"
+    }
+  },
+  {
+    "id": "0035_00043",
+    "ja": {
+      "name": null,
+      "text": "俺は遠い目をしながら、そんなことを考える。"
+    },
+    "en": {
+      "name": null,
+      "text": "I gaze off into the distance as I lose myself in thought."
+    },
+    "cn": {
+      "name": null,
+      "text": "我将目光投向远方，如此思忖着。"
+    },
+    "tw": {
+      "name": null,
+      "text": "我將目光投向遠方，如此思忖著。"
+    }
+  },
+  {
+    "id": "0035_00044",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Master.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人。」"
+    }
+  },
+  {
+    "id": "0035_00045",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「……ファルナ？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Farna?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「……法尔娜？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「……法爾娜？」"
+    }
+  },
+  {
+    "id": "0035_00046",
+    "ja": {
+      "name": null,
+      "text": "気が付けば、\n俺は後ろからファルナに抱きすくめられていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Seemingly out of nowhere, Farna wraps her arms around me from behind."
+    },
+    "cn": {
+      "name": null,
+      "text": "不知不觉间，\n法尔娜已经从身后抱住了我。"
+    },
+    "tw": {
+      "name": null,
+      "text": "不知不覺間，\n法爾娜已經從身後抱住了我。"
+    }
+  },
+  {
+    "id": "0035_00047",
+    "ja": {
+      "name": null,
+      "text": "さっきまでアリーとじゃれ合っていたはずなんだが、\nどうかしたのだろうか？"
+    },
+    "en": {
+      "name": null,
+      "text": "The last thing I remember was them fighting, so I'm slightly startled by her touch."
+    },
+    "cn": {
+      "name": null,
+      "text": "明明刚才还在跟艾丽一起嬉闹，\n怎么突然跑到我这边了？"
+    },
+    "tw": {
+      "name": null,
+      "text": "明明剛才還在跟艾麗一起嬉鬧，\n怎麼突然跑到我這邊了？"
+    }
+  },
+  {
+    "id": "0035_00048",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様、二人でアリーをいじめませんか？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"How about we tease Allie a little bit, Master?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，咱们一起欺负艾丽如何？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，我們一起欺負艾麗如何？」"
+    }
+  },
+  {
+    "id": "0035_00049",
+    "ja": {
+      "name": "ガーラント",
+      "text": "「は？　いじめる？」"
+    },
+    "en": {
+      "name": "Garland",
+      "text": "\"Huh? Tease her?\""
+    },
+    "cn": {
+      "name": "加兰德",
+      "text": "「啊？欺负？」"
+    },
+    "tw": {
+      "name": "加蘭德",
+      "text": "「啊？欺負？」"
+    }
+  },
+  {
+    "id": "0035_00050",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「はい。\nもちろん、エッチな意味でですよ？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Yes. In a dirty way, of course.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「对。\n当然，是指色色的事情哦？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「對。\n當然，是指色色的事情哦？」"
+    }
+  },
+  {
+    "id": "0035_00051",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「なっ……な、ななな、何を言っている、ファルナ！？」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Huh? Wait! W-W-What are you talking about, Farna?!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「你……你、你你你、你在说什么啊，法尔娜！？」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「妳……妳、妳妳妳、妳在說什麼啊，法爾娜！？」"
+    }
+  },
+  {
+    "id": "0035_00052",
+    "ja": {
+      "name": null,
+      "text": "ファルナの言葉に、アリーはジリジリと後退っていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "Hearing her words, Allie begins backing up."
+    },
+    "cn": {
+      "name": null,
+      "text": "听了这句话，艾丽吓得频频后退。"
+    },
+    "tw": {
+      "name": null,
+      "text": "聽了這句話，艾麗嚇得頻頻後退。"
+    }
+  },
+  {
+    "id": "0035_00053",
+    "ja": {
+      "name": null,
+      "text": "だが、その顔が少し期待するかのように赤らんでいるようにも見える。"
+    },
+    "en": {
+      "name": null,
+      "text": "And yet, the faint blush across her cheeks suggests a certain amount of excitement at the thought."
+    },
+    "cn": {
+      "name": null,
+      "text": "但从脸上的红晕来看，她心里似乎也略有期待。"
+    },
+    "tw": {
+      "name": null,
+      "text": "但從臉上的紅暈來看，她心裡似乎也略有期待。"
+    }
+  },
+  {
+    "id": "0035_00054",
+    "ja": {
+      "name": null,
+      "text": "その証拠に、\nアリーは何度も俺をチラチラと盗み見ていた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I can tell she's not opposed to it by the way she keeps sneaking glances at me."
+    },
+    "cn": {
+      "name": null,
+      "text": "她不断窥视着我的目光，就是最好的证据。"
+    },
+    "tw": {
+      "name": null,
+      "text": "她不斷窺視著我的目光，就是最好的證據。"
+    }
+  },
+  {
+    "id": "0035_00055",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ご主人様。アリーは期待しているようですよ……？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"I think she wants us to do it, Master...\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人，艾丽似乎也满怀期待哦……？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人，艾麗似乎也滿懷期待哦……？」"
+    }
+  },
+  {
+    "id": "0035_00056",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、そんなことはないぞ、主人！？\nべ、別に、わたしは……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"T-That's not true at all, Sir! I don't want you to do anything of the sort...\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「才、才没有这回事哦，主人！？\n我、我怎么会……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「才、才沒有這回事哦，主人！？\n我、我怎麼會……」"
+    }
+  },
+  {
+    "id": "0035_00057",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「ふふっ、ご主人様はこちらへどうぞ。\nアリーも……ね？」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"Hehe, come with me, Master. You, too, Allie... okay?\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「主人请到这边来。\n还有艾丽……快过来吧？」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「主人請到這邊來。\n還有艾麗……快過來吧？」"
+    }
+  },
+  {
+    "id": "0035_00058",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「ひゃぁぁっ！？\nちょ、ま、待て、ファルナっ、やめ……」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Yeep?! H-Hang on! Stop! Farna!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「咿呀啊啊啊！？\n这、慢、慢着，法尔娜，别……」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「咿呀啊啊啊！？\n這、慢、慢著，法爾娜，別……」"
+    }
+  },
+  {
+    "id": "0035_00059",
+    "ja": {
+      "name": "ファルナ",
+      "text": "「今日は問答無用です」"
+    },
+    "en": {
+      "name": "Farna",
+      "text": "\"There's no point in fighting it.\""
+    },
+    "cn": {
+      "name": "法尔娜",
+      "text": "「今天没有商量的余地。」"
+    },
+    "tw": {
+      "name": "法爾娜",
+      "text": "「今天沒有商量的餘地。」"
+    }
+  },
+  {
+    "id": "0035_00060",
+    "ja": {
+      "name": "アリエノール",
+      "text": "「そ、そんなぁぁぁっ！」"
+    },
+    "en": {
+      "name": "Alienor",
+      "text": "\"Y-You can't be serious!\""
+    },
+    "cn": {
+      "name": "艾丽耶诺尔",
+      "text": "「不、不要啊啊啊啊啊！」"
+    },
+    "tw": {
+      "name": "艾麗耶諾爾",
+      "text": "「不、不要啊啊啊啊啊！」"
+    }
+  },
+  {
+    "id": "0035_00061",
+    "ja": {
+      "name": null,
+      "text": "アリーの腕を、逃がすまいとしっかりと掴むファルナ。"
+    },
+    "en": {
+      "name": null,
+      "text": "Farna has a firm grip on Allie's arm, preventing her escape."
+    },
+    "cn": {
+      "name": null,
+      "text": "为了不让艾丽逃脱，\n法尔娜牢牢抓住了她的胳膊。"
+    },
+    "tw": {
+      "name": null,
+      "text": "為了不讓艾麗逃脫，\n法爾娜牢牢抓住了她的胳膊。"
+    }
+  },
+  {
+    "id": "0035_00062",
+    "ja": {
+      "name": null,
+      "text": "どこからそんな力が……と\n思えるほど強引にベッドに連れ込み下着を脱がし始めた。"
+    },
+    "en": {
+      "name": null,
+      "text": "I wonder where this sudden strength came from as I watch Farna drag her over to the bed and rip her clothes off."
+    },
+    "cn": {
+      "name": null,
+      "text": "也不知她哪来的这番蛮力,\n只见法尔娜硬是把艾丽拖到床上，\n然后就将手伸向了她的内衣……"
+    },
+    "tw": {
+      "name": null,
+      "text": "也不知她哪來的這番蠻力，\n只見法爾娜硬是把艾麗拖到床上，\n然後就將手伸向了她的內衣……"
+    }
+  }
+]
